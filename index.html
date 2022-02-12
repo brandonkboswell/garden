@@ -39,7 +39,7 @@
                 </button>`;else{results.innerHTML=b.map(a=>resultToHTML({...a,term})).join("\n");const a=document.getElementsByClassName("result-card");[...a].forEach(a=>{a.onclick=()=>redir(a.id,term)})}})});const searchContainer=document.getElementById("search-container");function openSearch(){searchContainer.style.display==="none"||searchContainer.style.display===""?(source.value="",results.innerHTML="",searchContainer.style.display="block",source.focus()):searchContainer.style.display="none"}function closeSearch(){searchContainer.style.display="none"}document.addEventListener('keydown',a=>{a.key==="/"&&(a.preventDefault(),openSearch()),a.key==="Escape"&&(a.preventDefault(),closeSearch())}),window.addEventListener('DOMContentLoaded',()=>{const a=document.getElementById("search-icon");a.addEventListener('click',a=>{openSearch()}),a.addEventListener('keydown',a=>{openSearch()}),searchContainer.addEventListener('click',a=>{closeSearch()}),document.getElementById("search-space").addEventListener('click',a=>{a.stopPropagation()})})</script>
 <div class=singlePage>
 <header>
-<h1>Brandon K Boswell</h1><svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
+<h1>Untitled</h1><svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
 <div class=spacer></div>
 <div class=darkmode>
 <input class=toggle id=darkmode-toggle type=checkbox tabindex=-1>
@@ -50,23 +50,6 @@
 </div>
 </header>
 <article>
-<h2 id=about>About</h2>
-<p>A designer turned full-stack developer, one of those detail oriented people who is a bit OCD about pixels, fonts, and alignment. I&rsquo;m passionate about clean, expressive code and solving real problems, not building unnecessary technology. If you&rsquo;re still interested, you can read: <a href=./My-Design-Journey/>My Design Journey</a>.</p>
-<h2 id=interests>Interests</h2>
-<ul>
-<li><a href=./Design/>Design</a></li>
-<li><a href=./Digital-Workflow/>Digital Workflow</a></li>
-<li><a href=./Dorsata/>Dorsata</a> / <a href=./Healthcare-UX/>Healthcare UX</a></li>
-</ul>
-<h2 id=annual-reviews>Annual Reviews</h2>
-<ul>
-<li><a href=./2021-In-Review/>2021 In Review</a></li>
-</ul>
-<h2 id=other-entry-points>Other Entry Points</h2>
-<ul>
-<li><a href=./Why-I-Produce-Content/>Why I Produce Content</a></li>
-<li><a href=./About-Me/>About Me</a></li>
-</ul>
 </article>
 <hr>
 <div class=page-end>
