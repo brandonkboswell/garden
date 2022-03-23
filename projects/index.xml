@@ -1,4 +1,279 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/projects/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Feb 2022 08:37:56 +0000</lastBuildDate><atom:link href="https://brandonkboswell.com/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>How I Use Obsidian</title><link>https://brandonkboswell.com/projects/How-I-Use-Obsidian/</link><pubDate>Wed, 09 Feb 2022 08:37:56 +0000</pubDate><guid>https://brandonkboswell.com/projects/How-I-Use-Obsidian/</guid><description>Setting up your Obsidian Vault for Personal Knowledge Management can be daunting. You start from scratch, there are 1000&amp;rsquo;s of plugins to chose from, and honestly it all becomes one big distraction from actually generating thoughts and ideas.</description><content:encoded><![CDATA[<p>Setting up your Obsidian Vault for Personal Knowledge Management can be daunting. You start from scratch, there are 1000&rsquo;s of plugins to chose from, and honestly it all becomes one big distraction from actually generating thoughts and ideas. In this video, I will share my approach to managing an Obisidian vault in hopes it will save you a few headaches when starting from scratch.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/projects/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://brandonkboswell.com/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Publishing your Obsidian Vault Online with Quartz</title><link>https://brandonkboswell.com/projects/Publishing-your-Obsidian-Vault-Online-with-Quartz/</link><pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate><guid>https://brandonkboswell.com/projects/Publishing-your-Obsidian-Vault-Online-with-Quartz/</guid><description>So you&amp;rsquo;re thinking about publishing your Obsidian Vault online, but you&amp;rsquo;re not sure if you want to pay for Obsidian Publish or not. I&amp;rsquo;ve been there, that was the exact same situation I was in when I considered publishing my vault. Call me cheap, but I wasn&amp;rsquo;t sure if I was ready to pay $20 a month for the rest of time. Would I keep writing meaningful content, would people actually ready it? So instead, I decided I was going to figure out a way to publish my vault without the monthly fee. I now publish my vault online, and I don&amp;rsquo;t pay anything for hosting.</description><content:encoded><![CDATA[<blockquote>
+<p>NOTE: The easiest way to publish your vault online is by using 
+
+<a href="https://obsidian.md/publish" rel="noopener">Obsidian Publish</a>. I put a bunch of time into figuring out how all of this would work together, and I probably could have saved a bunch of time by just using Obsidian Publish. Either way, I&rsquo;ve learned a ton in setting this up. I also have more control on what does and doesn&rsquo;t get published. I have a ton of private content in my vault and I do not want that being published, which is why I went to all this trouble you&rsquo;re about to see. Yes, I could use multiple vaults, but that seems annoying when you want to link to something that resides in another vault.</p>
+</blockquote>
+<p>So you&rsquo;re thinking about publishing your 
+
+
+
+
+<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a> Vault online, but you&rsquo;re not sure if you want to pay for <em>Obsidian Publish</em> or not. I&rsquo;ve been there, that was the exact same situation I was in when I considered publishing my vault. Call me cheap, but I wasn&rsquo;t sure if I was ready to pay $20 a month for the rest of time. Would I keep writing meaningful content, would people actually ready it? So instead, I decided I was going to figure out a way to publish my vault without the monthly fee. I now publish my vault online, and I don&rsquo;t pay anything for hosting. <strong>(You are currently reading this article from the digital vault that I publish through this method)</strong></p>
+<ul>
+<li>For me, I cobbled together a combination of:
+<ul>
+<li>
+
+<a href="https://github.com/jackyzha0/quartz" rel="noopener"><strong>Quartz</strong></a>
+<ul>
+<li>A nice, clean-looking template for your digital garden that sits on top of <em>Hugo</em>. Once you get your bearings with it, you will find that it is just a <em>Hugo</em> site and you can customize it a ton if you would like.</li>
+</ul>
+</li>
+<li><strong>
+
+<a href="https://github.com/brandonkboswell/obsidian-export/tree/title_frontmatter" rel="noopener">Obsidian Export</a></strong> (Slightly Modified)
+<ul>
+<li>A Rust based library for converting your Obsidian Vault to standards compliant <em>Markdown</em> that supports translating Obsidian style links to standard links that are compatible with Hugo.</li>
+<li>Quartz and Hugo both assume that all of your files have a title attribute in their frontmatter. Unfortunately, most of my files do not have this title front matter. I have a branch of obsidian-export (linked above) that uses the file&rsquo;s name to generate titles when that frontmatter is not present.</li>
+</ul>
+</li>
+<li><strong>
+
+<a href="https://github.com/jackyzha0/hugo-obsidian" rel="noopener">obsidian-hugo</a></strong>
+<ul>
+<li><em>Quartz</em> has an easy setup that allows you to commit all of your content to <em>Github</em> and it will compile everything via <em>Github Actions</em>. This is fantastic and super helpful. The issue is I have private content that I don&rsquo;t want on Github.</li>
+<li>So instead I use the <em>obsidian-hugo</em> library that Quartz&rsquo;s Github Action uses just I use it on my local machine and precompile the filtered content before uploading to Github. This enables me to host my Digital Garden on Github (for free) without risking private content accidentally leaking out onto the internet.</li>
+</ul>
+</li>
+<li>
+
+<a href="https://docs.github.com/en/pages/quickstart" rel="noopener"><strong>Github Pages</strong></a>
+<ul>
+<li>This is where I publish the content that gets output. It&rsquo;s all static html and is being served by Github. There is no amount of traffic I could ever manage to generate that Github couldn&rsquo;t handle.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="why-do-i-use-obsidian-export-when-obsidian-hugo-is-required-by-quartz-and-does-most-of-the-same-things">Why do I use Obsidian Export when Obsidian Hugo is required by Quartz and does most of the same things?</h3>
+<ul>
+<li><strong>obsidian-export</strong> does a very good job of filtering out files and folders you don&rsquo;t want exported</li>
+<li>it makes me confident that there is no chance that private data gets uploaded by not even allowing that data to be in the folder that gets parsed</li>
+<li>It handles bad or no frontmatter so that the downstream pipeline doesn&rsquo;t have any issues</li>
+<li>You can avoid a bunch of hacks to Quartz (and your layout files) by ensuring that your files have title attributes in their frontmatter. I have hacked together a fork of obsidian-export that does this automatically based on the file name when exporting. 
+
+<a href="https://github.com/brandonkboswell/obsidian-export/tree/title_frontmatter" rel="noopener">https://github.com/brandonkboswell/obsidian-export/tree/title_frontmatter</a></li>
+</ul>
+<h1 id="high-level-steps-these-are-from-memory-as-i-set-this-up-a-few-months-ago">High Level Steps (these are from memory as I set this up a few months ago)</h1>
+<ol>
+<li>Clone 
+
+<a href="https://github.com/jackyzha0/quartz" rel="noopener">Quartz</a> into a local directory</li>
+<li>Create a Repo on Github to host your public garden
+<ol>
+<li>
+
+<a href="https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7" rel="noopener">Getting started with Github Pages</a></li>
+<li>
+
+<a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site" rel="noopener">Configuring a Custom Domain for your Github Pages Site</a></li>
+</ol>
+</li>
+<li>Make the public folder of your Quartz repo a submodule of that repo
+<ol>
+<li><code>git submodule add &lt;your_github_project_url&gt; ./public</code></li>
+</ol>
+</li>
+<li>Install Hugo for minifying and running a local server
+<ol>
+<li><code>brew install hugo</code></li>
+</ol>
+</li>
+<li>Clone obsidian-export wherever you keep libraries
+<ol>
+<li>Obsidian Export runs in <em>Rust</em>, so make sure you have Rust enabled on your machine</li>
+<li>If I remember correctly, I ran <code>cargo build</code> from the obsidian-export directory to build a local binary that can be called in the compile script</li>
+</ol>
+</li>
+<li>Clone obsidian-hugo wherever you keep libraries
+<ol>
+<li>Obsidian-hugo runs in <em>Go</em>, so make sure you have Go enabled on your machine and in your PATH;</li>
+<li>The watch/compile script will run <code>go run ~/Sites/hugo-obsidian -input=/Users/brandonkboswell/Sites/quartz/content -output=/Users/brandonkboswell/Sites/quartz/assets/indices -index -root=/Users/brandonkboswell/Sites/quartz;</code> when it compiles.</li>
+</ol>
+</li>
+<li>Update the compile and watch scripts for the paths of your folders
+<ol>
+<li>My quartz directory is at: ~/Sites/quartz</li>
+<li>My Obsidian Vault is at (My <em>iCloud</em> Folder): ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/bkb</li>
+<li>My hugo-obsidian directory is at: ~/Sites/hugo-obsidian</li>
+</ol>
+</li>
+<li>Configure your configuration files
+<ol>
+<li><strong>Hugo Config</strong> — quartz/config.toml file</li>
+<li><strong>Quartz Config</strong> — data/config.yaml</li>
+<li><strong>Quartz Graph Config</strong> — data/graphConfig.yaml</li>
+</ol>
+</li>
+<li>Add a file name <strong>.export-ignore</strong> to your Obsidian Vault
+<ol>
+<li>Obsidian Export will skip any files / folders you mention here and make sure they don&rsquo;t get handed to Quartz</li>
+<li>You can&rsquo;t create this file in Obsidian (you likely want to use the finder or a Code Editor).</li>
+<li>A sample of my .export-ignore file is further down in this article</li>
+</ol>
+</li>
+<li>Run the watch script (which will do an initial compile and then watch for changes to your Obsidian Vault)
+<ol>
+<li>Note that the compile script empties out your quartz/content directory so that files that may have been moved or deleted from your Obsidian Vault do not end up being pushed to the public internet. <strong>Make sure that this path is set correctly before running the watch or compile script.</strong></li>
+</ol>
+</li>
+<li>Start a hugo server from your quartz directory
+<ol>
+<li><code>./serve.sh</code></li>
+</ol>
+</li>
+<li>Assuming everything worked, you should be able to preview your vault at: localhost:1313</li>
+<li>Tinker / tweak for way too long</li>
+<li>When you&rsquo;re ready you can commit your quartz/public directory to Github pages
+<ol>
+<li><strong>Verify <em>(especially for the first commit)</em> that there is nothing private that you don&rsquo;t want uploaded to the internet.</strong></li>
+<li><code>cd ~/Sites/quartz/public; git add .; git commit -m &quot;Update&quot;; git push origin</code></li>
+</ol>
+</li>
+</ol>
+<hr>
+<h2 id="configure-your-export-ignore-file-at-the-root-of-your-obsidian-vault-heres-mine">Configure your .export-ignore file at the root of your Obsidian Vault. Here&rsquo;s mine:</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">templates/*
+private/*
+1-1/*
+business/*
+collections/*
+people/*
+to_publish/*
+files/*
+temporal/*
+personal/*
+screenshots/*
+ideas/*
+.trash/*
+.obsidian/*
+_content_calendar.md
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="to-compile-your-notes-once">To compile your notes once</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="cp">#!/bin/bash
+</span><span class="cp"></span>
+<span class="nb">cd</span> ~/Sites/quartz<span class="p">;</span> ./compile.sh
+
+--- compile.sh ---
+
+<span class="c1">#!/bin/bash</span>
+
+<span class="nb">cd</span> ~/Sites/hugo-obsidian<span class="p">;</span> rm -fr ~/Sites/quartz/content/*<span class="p">;</span> rm -rf ~/Sites/quartz/public/*<span class="p">;</span> ~/Sites/obsidian-export/target/debug/obsidian-export --add-titles --frontmatter<span class="o">=</span>always ~/Library/Mobile<span class="se">\ </span>Documents/iCloud~md~obsidian/Documents/bkb ~/Sites/quartz/content<span class="p">;</span> go run ~/Sites/hugo-obsidian -input<span class="o">=</span>/Users/brandonkboswell/Sites/quartz/content -output<span class="o">=</span>/Users/brandonkboswell/Sites/quartz/assets/indices -index -root<span class="o">=</span>/Users/brandonkboswell/Sites/quartz<span class="p">;</span> <span class="o">(</span><span class="nb">cd</span> ~/Sites/quartz <span class="o">&amp;&amp;</span> hugo --minify<span class="o">)</span>
+
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="to-recompile-your-notes-on-change">To recompile your notes on change</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">cd</span> ~/Sites/quartz<span class="p">;</span> ./watch.sh
+
+--- watch.sh ---
+
+<span class="c1">#!/bin/bash</span>
+
+<span class="nb">export</span> <span class="nv">GOPATH</span><span class="o">=</span>/Users/<span class="nv">$USER</span>/go<span class="p">;</span> <span class="nb">export</span> <span class="nv">GOROOT</span><span class="o">=</span><span class="s2">&#34;</span><span class="k">$(</span>/usr/local/bin/brew --prefix golang<span class="k">)</span><span class="s2">/libexec&#34;</span><span class="p">;</span> <span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$PATH</span><span class="s2">:</span><span class="si">${</span><span class="nv">GOPATH</span><span class="si">}</span><span class="s2">/bin:</span><span class="si">${</span><span class="nv">GOROOT</span><span class="si">}</span><span class="s2">/bin&#34;</span><span class="p">;</span> <span class="nb">cd</span> ~/Sites/quartz<span class="p">;</span> nodemon -w ~/Library/Mobile<span class="se">\ </span>Documents/iCloud~md~obsidian/Documents/bkb -w ~/Sites/quartz/assets/js -w ~/Sites/quartz/assets/styles -w ~/Sites/quartz/layouts -w ~/Sites/quartz/config.toml -w ~/Sites/quartz/data/config.yaml -x <span class="s2">&#34;~/Sites/quartz/compile.sh&#34;</span> -e md,html,js,scss,xml
+
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="to-preview-your-changes-before-pushing-to-github-you-can-run-a-local-hugo-server">To preview your changes before pushing to Github, you can run a local hugo server:</h2>
+<p>Sometimes the server will crash while the compile script is rebuilding everything. If you wrap the hugo server code in a while loop then it will restart itself if this happens. For this I will have two terminal panes open on for the watch script and one for the hugo server. As I make changes to my Obsidian Vault or the Quartz files it will recompile the content and then hugo will recompile, at which point you can refresh your browser to see the change. Usually that will be at localhost:1313.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="o">(</span><span class="k">while</span> true<span class="p">;</span> <span class="k">do</span> 
+	hugo server --disableFastRender
+<span class="k">done</span><span class="o">)</span> <span class="p">&amp;</span>
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="when-im-ready-to-publish-an-update-to-github">When I&rsquo;m ready to publish an update to Github:</h2>
+<p>Go to the garden folder and commit those changes:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">cd</span> ~/sites/quartz/public<span class="p">;</span> git add .<span class="p">;</span> git commit -m <span class="s2">&#34;Update&#34;</span><span class="p">;</span> git push origin
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="additional-notes">Additional Notes</h2>
+<ul>
+<li>You probably want to do your ignoring of personal files at the obsidian-export level because if a file is referenced in another file, but that file is flagged as a draft in the frontmatter then hugo-obsidian will have trouble with that and make hugo error on compile with the backlinks. Doing your ignoring of specific files in obsidian-export takes care of this.</li>
+<li>If you&rsquo;ve never used <em>Hugo</em> before (like I hadn&rsquo;t prior to this project), you may not know that Hugo has a static folder that generates assets you want to be in any subsequent rebuilds. When I first started this project I added a bunch of lines to the compile script to create files and moving files around when all I really needed to do was add those files to my static folder.</li>
+<li>You are going to want to update your Hugo layout files to take advantage of the backlink rendering provided by Obsidian Export. The changes you&rsquo;ll want to make, plus an explanation are available here: 
+
+<a href="https://github.com/zoni/obsidian-export/issues/8#issuecomment-774521792" rel="noopener">https://github.com/zoni/obsidian-export/issues/8#issuecomment-774521792</a></li>
+</ul>
+<h2 id="previous-attempts">Previous Attempts</h2>
+<ul>
+<li>Originally I modified hugo-obsidian to get around the no titles issue, since I now do this in obsidian-export I no longer need to maintain a fork of that code. If it&rsquo;s useful to you, here is the change I made:
+<ul>
+<li>I had to make a minor modification to obsidian-hugo because it assumes that all of your files have a title attribute in their frontmatter. Unfortunately, most of my files do not have this title front matter. I have a branch of obsidian-hugo that uses the file&rsquo;s name to generate titles if that frontmatter is not present. 
+
+<a href="https://github.com/brandonkboswell/hugo-obsidian/tree/without_titles" rel="noopener">https://github.com/brandonkboswell/hugo-obsidian/tree/without_titles</a>.
+<em>As the time of this writing, that branch has not been merged into the main repo, but it may have by the time you&rsquo;re reading this.</em></li>
+</ul>
+</li>
+</ul>
+<p>
+
+
+
+
+<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a> 
+
+
+
+
+<a href="/sources/Blog" rel="noopener" class="internal-link" data-src="/sources/Blog">Blog</a></p>
+]]></content:encoded></item><item><title>How I Use Obsidian</title><link>https://brandonkboswell.com/projects/How-I-Use-Obsidian/</link><pubDate>Wed, 09 Feb 2022 08:37:56 +0000</pubDate><guid>https://brandonkboswell.com/projects/How-I-Use-Obsidian/</guid><description>Setting up your Obsidian Vault for Personal Knowledge Management can be daunting. You start from scratch, there are 1000&amp;rsquo;s of plugins to chose from, and honestly it all becomes one big distraction from actually generating thoughts and ideas.</description><content:encoded><![CDATA[<p>Setting up your Obsidian Vault for Personal Knowledge Management can be daunting. You start from scratch, there are 1000&rsquo;s of plugins to chose from, and honestly it all becomes one big distraction from actually generating thoughts and ideas. In this video, I will share my approach to managing an Obisidian vault in hopes it will save you a few headaches when starting from scratch.</p>
 <p><strong>Note:</strong> I publish my Obsidian Vault using Github Pages and because of this I use more folders than most vaults you will see. Having folders that I can hide away makes making sure I only share what I intend to share with the Internet. If you haven&rsquo;t already go check out my vault at brandonkboswell.com. I will put a link in the description.</p>
 <h2 id="folders--major-areas">Folders / Major Areas</h2>
 <ul>
@@ -125,190 +400,7 @@
 
 
 <a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a></p>
-]]></content:encoded></item><item><title>My process for keeping in touch with people using TickTick</title><link>https://brandonkboswell.com/projects/My-process-for-keeping-in-touch-with-people-using-TickTick/</link><pubDate>Mon, 31 Jan 2022 22:53:25 +0000</pubDate><guid>https://brandonkboswell.com/projects/My-process-for-keeping-in-touch-with-people-using-TickTick/</guid><description/><content:encoded></content:encoded></item><item><title>How I keep my Chrome Tabs under control with "Merge All Windows" Chrome Extension</title><link>https://brandonkboswell.com/projects/How-I-keep-my-Chrome-Tabs-under-control-with-Merge-All-Windows-Chrome-Extension/</link><pubDate>Mon, 31 Jan 2022 22:47:25 +0000</pubDate><guid>https://brandonkboswell.com/projects/How-I-keep-my-Chrome-Tabs-under-control-with-Merge-All-Windows-Chrome-Extension/</guid><description/><content:encoded></content:encoded></item><item><title>Publishing your Obsidian Vault Online</title><link>https://brandonkboswell.com/projects/Publishing-your-Obsidian-Vault-Online/</link><pubDate>Fri, 21 Jan 2022 00:58:36 +0000</pubDate><guid>https://brandonkboswell.com/projects/Publishing-your-Obsidian-Vault-Online/</guid><description>Obsidian Blog
-So you&amp;rsquo;re thinking about publishing your Obsidian Vault online, but you&amp;rsquo;re not sure if you want to pay for Obsidian Publish or not. I&amp;rsquo;ve been there, that was the exact same situation I was in when I considered publishing my vault.</description><content:encoded><![CDATA[<p>
-
-
-
-
-<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a> 
-
-
-
-
-<a href="/sources/Blog" rel="noopener" class="internal-link" data-src="/sources/Blog">Blog</a></p>
-<p>So you&rsquo;re thinking about publishing your 
-
-
-
-
-<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a> Vault online, but you&rsquo;re not sure if you want to pay for <em>Obsidian Publish</em> or not. I&rsquo;ve been there, that was the exact same situation I was in when I considered publishing my vault. Call me cheap, but I wasn&rsquo;t sure if I was ready to pay $20 a month for the rest of time. Would I keep writing meaningful content, would people actually ready it? So instead, I decided I was going to figure out a way to publish my vault without the monthly fee. I now publish my vault online and I don&rsquo;t pay anything for hosting.</p>
-<blockquote>
-<p>NOTE: The easiest way to publish your vault online is by using 
-
-<a href="https://obsidian.md/publish" rel="noopener">Obsidian Publish</a>. I put a bunch of time into figuring out how all of this would work together, and I probably could have saved a bunch of time by using Obsidian Publish. Either way, I&rsquo;ve learned a ton in setting this up. I also have more control on what does and doesn&rsquo;t get published. I have a ton of private content in my vault and I do not want that being published, which is why I went to all the trouble you&rsquo;re about to see. Yes, I could use multiple vaults, but that seems annoying when you want to link to something that resides in another vault.</p>
-</blockquote>
-<ul>
-<li>For me, I cobbled together a combination of:
-<ul>
-<li>
-
-<a href="https://github.com/jackyzha0/quartz" rel="noopener"><strong>Quartz</strong></a>
-<ul>
-<li>A nice, clean-looking template for your digital garden that sits on top of <em>Hugo</em>. Once you get your bearings with it, you will find that it is just a <em>Hugo</em> site and you can customize it a ton if necessary.</li>
-</ul>
-</li>
-<li><strong>
-
-<a href="https://github.com/zoni/obsidian-export" rel="noopener">Obsidian Export</a></strong>
-<ul>
-<li>A Rust based library for converting your Obsidian Vault to <em>Markdown</em> that supports translating Obsidian style links to standard links that are compatible with Hugo.</li>
-</ul>
-</li>
-<li><strong>
-
-<a href="https://github.com/jackyzha0/hugo-obsidian" rel="noopener">obsidian-hugo</a></strong> <em>(slightly modified)</em>
-<ul>
-<li><em>Quartz</em> has an easy setup that allows you to commit all of your content to <em>Github</em> and it will compile everything via <em>Github Actions</em>. This is fantastic and super helpful. The issue is I have private content that I don&rsquo;t want on Github.</li>
-<li>So instead I use the <em>obsidian-hugo</em> library that Quartz&rsquo;s Github Action uses just I use it on my local machine and precompile the filtered content before uploading to Github. This enables me to host my Digital Garden on Github (for free) without risking private content accidentally leaking out onto the internet.</li>
-<li>I had to make a minor modification to obsidian-hugo because it assumes that all of your files have a title attribute in their frontmatter. Unfortunately, most of my files do not have this title front matter. I have a branch of obsidian-hugo that uses the file&rsquo;s name to generate titles if that frontmatter is not present. 
-
-<a href="https://github.com/brandonkboswell/hugo-obsidian/tree/without_titles" rel="noopener">https://github.com/brandonkboswell/hugo-obsidian/tree/without_titles</a>.
-<em>As the time of this writing, that branch has not been merged into the main repo, but it may have by the time you&rsquo;re reading this.</em></li>
-</ul>
-</li>
-<li>
-
-<a href="https://docs.github.com/en/pages/quickstart" rel="noopener"><strong>Github Pages</strong></a>
-<ul>
-<li>This is where I publish the content that gets output. It&rsquo;s all static html and is being served by Github. There is no amount of traffic I could ever manage to generate that Github couldn&rsquo;t handle.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h3 id="why-do-i-use-obsidian-export-when-obsidian-hugo-is-required-by-quartz-and-does-most-of-the-same-things">Why do I use Obsidian Export when Obsidian Hugo is required by Quartz and does most of the same things?</h3>
-<ul>
-<li><strong>obsidian-export</strong> does a very good job of filtering out files and folders you don&rsquo;t want exported</li>
-<li>it makes me confident that there is no chance that private data gets uploaded by not even allowing that data to be in the folder that gets parsed</li>
-<li>It handles bad or no frontmatter so that the downstream pipeline doesn&rsquo;t have any issues</li>
-</ul>
-<h2 id="configure-your-export-ignore-file-at-the-root-of-your-obsidian-vault">Configure your .export-ignore file at the root of your Obsidian Vault</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span><span class="lnt">17
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">templates/*
-private/*
-1-1/*
-business/*
-collections/*
-people/*
-to_publish/*
-files/*
-temporal/*
-personal/*
-screenshots/*
-ideas/*
-.trash/*
-.obsidian/*
-_content_calendar.md
-_seedling_inbox.md
-
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="custom-shell-scripts">Custom Shell Scripts</h2>
-<h2 id="to-compile-your-notes">To Compile your notes</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span><span class="lnt">8
-</span><span class="lnt">9
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="cp">#!/bin/bash
-</span><span class="cp"></span>
-<span class="nb">cd</span> ~/Sites/hugo-obsidian<span class="p">;</span> setopt localoptions rmstarsilent<span class="p">;</span> 
-rm -fr ~/Sites/quartz/content/*<span class="p">;</span> rm -rf ~/Sites/quartz/public/*<span class="p">;</span> 
-touch ~/Sites/quartz/public/.nojekyll<span class="p">;</span> 
-obsidian-export --frontmatter<span class="o">=</span>always ~/Library/Mobile<span class="se">\ </span>Documents/iCloud~md~obsidian/Documents/bkb ~/Sites/quartz/content<span class="p">;</span> 
-go run ~/Sites/hugo-obsidian -input<span class="o">=</span>/Users/brandonkboswell/Sites/quartz/content -output<span class="o">=</span>/Users/brandonkboswell/Sites/quartz/data -index -root<span class="o">=</span>/Users/brandonkboswell/Sites/quartz<span class="p">;</span> 
-<span class="o">(</span><span class="nb">cd</span> ~/Sites/quartz <span class="o">&amp;&amp;</span> hugo --minify<span class="o">)</span>
-
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="to-recompile-your-notes-on-change-you-can-use-something-like-nodemon">To Recompile your notes on change you can use something like Nodemon</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">nodemon -w ~/Library/Mobile<span class="se">\ </span>Documents/iCloud~md~obsidian/Documents/bkb -x <span class="s2">&#34;~/Sites/quartz/compile.sh&#34;</span> -e <span class="s2">&#34;.md&#34;</span>
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="when-im-ready-to-commit-use">When I&rsquo;m ready to commit use:</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">git add .<span class="p">;</span> git commit -m <span class="s2">&#34;Update&#34;</span><span class="p">;</span> git push origin
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="if-you-want-to-run-a-local-hugo-server-you-can-use-i-dont-do-this-i-just-use-the-compile-script">If you want to run a local hugo server, you can use: (I don&rsquo;t do this, I just use the compile script)</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="o">(</span><span class="k">while</span> true<span class="p">;</span> <span class="k">do</span> 
-	hugo server --disableFastRender
-<span class="k">done</span><span class="o">)</span> <span class="p">&amp;</span>
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="alternative-server">Alternative Server</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">Look up the python simple web server
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="additional-notes">Additional Notes</h2>
-<ul>
-<li>You probably want to do your ignoring of personal files at the obsidian-export level because if a file is referenced in another file, but flagged as a draft in the frontmatter then hugo-obsidian will have trouble with that and sometimes make hugo error on compile with the backlinks. I ran into this with my backlogs as some of those are drafts, but some of their content are no longer drafts.</li>
-<li>If you&rsquo;ve never used <em>Hugo</em> before (like I hadn&rsquo;t prior to this project), you may not know that Hugo has a static folder that generates assets you want to be in any subsequent rebuilds. When I first started this project I added a bunch of lines to the compile script to create files and moving files around when all I really needed to do was add those files to my static folder.</li>
-<li>You are going to want to update your Hugo layout files to take advantage of the backlink rendering provided by Obsidian Export. The changes you&rsquo;ll want to make, plus an explanation are available here: 
-
-<a href="https://github.com/zoni/obsidian-export/issues/8#issuecomment-774521792" rel="noopener">https://github.com/zoni/obsidian-export/issues/8#issuecomment-774521792</a></li>
-</ul>
-]]></content:encoded></item><item><title>Vimium is not just for Developers</title><link>https://brandonkboswell.com/projects/Vimium-is-not-just-for-Developers/</link><pubDate>Sun, 28 Nov 2021 21:53:02 +0000</pubDate><guid>https://brandonkboswell.com/projects/Vimium-is-not-just-for-Developers/</guid><description>Chrome Extensions
+]]></content:encoded></item><item><title>My process for keeping in touch with people using TickTick</title><link>https://brandonkboswell.com/projects/My-process-for-keeping-in-touch-with-people-using-TickTick/</link><pubDate>Mon, 31 Jan 2022 22:53:25 +0000</pubDate><guid>https://brandonkboswell.com/projects/My-process-for-keeping-in-touch-with-people-using-TickTick/</guid><description/><content:encoded></content:encoded></item><item><title>How I keep my Chrome Tabs under control with "Merge All Windows" Chrome Extension</title><link>https://brandonkboswell.com/projects/How-I-keep-my-Chrome-Tabs-under-control-with-Merge-All-Windows-Chrome-Extension/</link><pubDate>Mon, 31 Jan 2022 22:47:25 +0000</pubDate><guid>https://brandonkboswell.com/projects/How-I-keep-my-Chrome-Tabs-under-control-with-Merge-All-Windows-Chrome-Extension/</guid><description/><content:encoded></content:encoded></item><item><title>Vimium is not just for Developers</title><link>https://brandonkboswell.com/projects/Vimium-is-not-just-for-Developers/</link><pubDate>Sun, 28 Nov 2021 21:53:02 +0000</pubDate><guid>https://brandonkboswell.com/projects/Vimium-is-not-just-for-Developers/</guid><description>Chrome Extensions
 This video is by no means an exhaustive list of everything Vimium can do, but I can walk you through the features I use everyday that I think are a good starting point and then you can decide if you want to mix in anything else.</description><content:encoded><![CDATA[<p>
 
 

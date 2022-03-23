@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/review/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Mar 2022 13:13:17 +0000</lastBuildDate><atom:link href="https://brandonkboswell.com/tags/review/index.xml" rel="self" type="application/rss+xml"/><item><title>Touchbar Macbook Pro</title><link>https://brandonkboswell.com/Touchbar-Macbook-Pro/</link><pubDate>Thu, 17 Mar 2022 13:13:17 +0000</pubDate><guid>https://brandonkboswell.com/Touchbar-Macbook-Pro/</guid><description>Apple / Macbook Pro / MacOS
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/review/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 21 Mar 2022 08:44:57 +0000</lastBuildDate><atom:link href="https://brandonkboswell.com/tags/review/index.xml" rel="self" type="application/rss+xml"/><item><title>Obsidian Statuses</title><link>https://brandonkboswell.com/Obsidian-Statuses/</link><pubDate>Mon, 21 Mar 2022 08:44:57 +0000</pubDate><guid>https://brandonkboswell.com/Obsidian-Statuses/</guid><description>Statuses new — I am trying out differentiating slightly between review and new by having new be used for writing content within Obsidian and review being for reviewing content by others</description><content:encoded><![CDATA[<h2 id="statuses">Statuses</h2>
+<ul>
+<li>
+<p><strong>new</strong> — I am trying out differentiating slightly between review and new by having new be used for writing content within Obsidian and review being for reviewing content by others</p>
+</li>
+<li>
+<p><strong>review</strong> — Initial status upon coming into the vault from an outside source such as Readwise. The intention here is to review it at least once after the initial writing to see if my opinions have changed after time away from the idea.</p>
+</li>
+<li>
+<p><strong>draft</strong> — A start for an idea, but is not likely ready to publish yet</p>
+</li>
+<li>
+<p><strong>priority</strong> — A topic that should receive focus before starting any additional explorations. The goal here is to get better at finding a starting point with which to work in the garden</p>
+</li>
+<li>
+<p><strong>stub</strong> — A idea with some initial content, but could benefit from additional exploration and documentation. This is similar to a <em>Wikipedia</em> stub.</p>
+</li>
+<li>
+<p><strong>shrub</strong> — An idea that has good bones, but is not definitive on the topic. I think this is the further status I have gotten on any of my MOCs.</p>
+</li>
+</ul>
+<hr>
+<h3 id="references">References</h3>
+<p>Influenced by 
+
+
+
+
+<a href="sources/Craft%20Is%20My%20Workspace%20%E2%80%94%20The%20Refined%20Mind" rel="noopener" class="internal-link" data-src="sources/Craft%20Is%20My%20Workspace%20%E2%80%94%20The%20Refined%20Mind">Craft Is My Workspace — The Refined Mind</a></p>
+]]></content:encoded></item><item><title>Touchbar Macbook Pro</title><link>https://brandonkboswell.com/Touchbar-Macbook-Pro/</link><pubDate>Thu, 17 Mar 2022 13:13:17 +0000</pubDate><guid>https://brandonkboswell.com/Touchbar-Macbook-Pro/</guid><description>Apple / Macbook Pro / MacOS
 I think this machine got a bad rap when it came out for only having USB-C ports. I actually think that aspect of the computer is fine and that criticism is a bit harsh.</description><content:encoded><![CDATA[<p><em>Apple</em> / <em>Macbook Pro</em> / 
 
 
@@ -327,73 +356,4 @@ The key thing here is the Left Join and how to generate a synthetic table of dat
 </div>
 </div><hr>
 <h3 id="references">References</h3>
-]]></content:encoded></item><item><title>Postgres JSON Querying</title><link>https://brandonkboswell.com/Postgres-JSON-Querying/</link><pubDate>Wed, 23 Feb 2022 08:37:22 +0000</pubDate><guid>https://brandonkboswell.com/Postgres-JSON-Querying/</guid><description>Relates to Postgres JSONB
-I always manage to forget how to do JSONB array querying, so I&amp;rsquo;m finally going to write down this example so that I will have it the next time without having to re-search for it.</description><content:encoded><![CDATA[<p>Relates to 
-
-
-
-
-<a href="/Postgres" rel="noopener" class="internal-link" data-src="/Postgres">Postgres</a> <em>JSONB</em></p>
-<p>I always manage to forget how to do JSONB array querying, so I&rsquo;m finally going to write down this example so that I will have it the next time without having to re-search for it.</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span><span class="lnt">17
-</span><span class="lnt">18
-</span><span class="lnt">19
-</span><span class="lnt">20
-</span><span class="lnt">21
-</span><span class="lnt">22
-</span><span class="lnt">23
-</span><span class="lnt">24
-</span><span class="lnt">25
-</span><span class="lnt">26
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-sql" data-lang="sql"><span class="w">
-</span><span class="w"></span><span class="k">with</span><span class="w"> </span><span class="n">problems_with_mapping</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="p">(</span><span class="w"> 
-</span><span class="w">    </span><span class="k">SELECT</span><span class="w"> 
-</span><span class="w">		</span><span class="n">pregnancies</span><span class="p">.</span><span class="n">id</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="n">pregnancy_id</span><span class="p">,</span><span class="w"> 
-</span><span class="w">		</span><span class="n">pregnancies</span><span class="p">.</span><span class="n">patient_id</span><span class="p">,</span><span class="w"> 
-</span><span class="w">		</span><span class="n">arr</span><span class="p">.</span><span class="k">position</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="k">index</span><span class="p">,</span><span class="w"> 
-</span><span class="w">		</span><span class="n">arr</span><span class="p">.</span><span class="n">item_object</span><span class="o">-&gt;&gt;</span><span class="s1">&#39;snomed_icd10_mapping_id&#39;</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="n">mapping_id</span><span class="p">,</span><span class="w"> 
-</span><span class="w">		</span><span class="n">arr</span><span class="p">.</span><span class="n">item_object</span><span class="o">-&gt;</span><span class="s1">&#39;ehr_data&#39;</span><span class="o">-&gt;&gt;</span><span class="s1">&#39;problem&#39;</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="n">problem</span><span class="p">,</span><span class="w">
-</span><span class="w">		</span><span class="n">arr</span><span class="p">.</span><span class="n">item_object</span><span class="o">-&gt;</span><span class="s1">&#39;ehr_data&#39;</span><span class="o">-&gt;&gt;</span><span class="s1">&#39;isActive&#39;</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="n">isActive</span><span class="p">,</span><span class="w"> 
-</span><span class="w">		</span><span class="n">arr</span><span class="p">.</span><span class="n">item_object</span><span class="o">-&gt;</span><span class="s1">&#39;ehr_data&#39;</span><span class="o">-&gt;&gt;</span><span class="s1">&#39;isDeleted&#39;</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="n">isDeleted</span><span class="p">,</span><span class="w"> 
-</span><span class="w">		</span><span class="n">arr</span><span class="p">.</span><span class="n">item_object</span><span class="o">-&gt;&gt;</span><span class="s1">&#39;snomed_code&#39;</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="n">snomed_code</span><span class="p">,</span><span class="w"> 
-</span><span class="w">		</span><span class="n">arr</span><span class="p">.</span><span class="n">item_object</span><span class="o">-&gt;&gt;</span><span class="s1">&#39;name&#39;</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="n">name</span><span class="w">
-</span><span class="w">    </span><span class="k">from</span><span class="w"> </span><span class="n">pregnancies</span><span class="p">,</span><span class="w"> </span><span class="n">jsonb_array_elements</span><span class="p">(</span><span class="n">document</span><span class="o">-&gt;</span><span class="s1">&#39;problems&#39;</span><span class="p">)</span><span class="w"> </span><span class="k">with</span><span class="w"> </span><span class="k">ordinality</span><span class="w"> </span><span class="n">arr</span><span class="p">(</span><span class="n">item_object</span><span class="p">,</span><span class="w"> </span><span class="k">position</span><span class="p">)</span><span class="w">
-</span><span class="w">    </span><span class="k">where</span><span class="w"> </span><span class="n">arr</span><span class="p">.</span><span class="n">item_object</span><span class="o">-&gt;&gt;</span><span class="s1">&#39;snomed_icd10_mapping_id&#39;</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="k">not</span><span class="w"> </span><span class="k">null</span><span class="w">
-</span><span class="w"></span><span class="p">)</span><span class="w">
-</span><span class="w">
-</span><span class="w"></span><span class="k">SELECT</span><span class="w"> 
-</span><span class="w">	</span><span class="n">patients</span><span class="p">.</span><span class="n">first_name</span><span class="p">,</span><span class="w"> 
-</span><span class="w">	</span><span class="n">patients</span><span class="p">.</span><span class="n">last_name</span><span class="p">,</span><span class="w"> 
-</span><span class="w">	</span><span class="n">problems_with_mapping</span><span class="p">.</span><span class="o">*</span><span class="p">,</span><span class="w"> 
-</span><span class="w">	</span><span class="n">snomed_icd10_mappings</span><span class="p">.</span><span class="o">*</span><span class="w"> 
-</span><span class="w"></span><span class="k">from</span><span class="w"> </span><span class="n">problems_with_mapping</span><span class="w">
-</span><span class="w"></span><span class="k">left</span><span class="w"> </span><span class="k">join</span><span class="w"> </span><span class="n">snomed_icd10_mappings</span><span class="w"> </span><span class="k">on</span><span class="w"> </span><span class="n">snomed_icd10_mappings</span><span class="p">.</span><span class="n">id</span><span class="p">::</span><span class="nb">varchar</span><span class="p">(</span><span class="mi">255</span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">problems_with_mapping</span><span class="p">.</span><span class="n">mapping_id</span><span class="p">::</span><span class="nb">varchar</span><span class="p">(</span><span class="mi">255</span><span class="p">)</span><span class="w">
-</span><span class="w"></span><span class="k">left</span><span class="w"> </span><span class="k">join</span><span class="w"> </span><span class="n">patients</span><span class="w"> </span><span class="k">on</span><span class="w"> </span><span class="n">patients</span><span class="p">.</span><span class="n">id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">problems_with_mapping</span><span class="p">.</span><span class="n">patient_id</span><span class="w">
-</span><span class="w"></span><span class="k">where</span><span class="w"> </span><span class="n">snomed_icd10_mappings</span><span class="p">.</span><span class="n">id</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="k">null</span><span class="w">
-</span><span class="w">
-</span></code></pre></td></tr></table>
-</div>
-</div><hr>
-<h3 id="references">References</h3>
-<p>/question/2328-pregnancy-problems-without-snomed-mappings</p>
 ]]></content:encoded></item></channel></rss>
