@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Publishing your Obsidian Vault Online with Quartz</title><link>https://brandonkboswell.com/projects/Publishing-your-Obsidian-Vault-Online-with-Quartz/</link><pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate><guid>https://brandonkboswell.com/projects/Publishing-your-Obsidian-Vault-Online-with-Quartz/</guid><description>So you&amp;rsquo;re thinking about publishing your Obsidian Vault online, but you&amp;rsquo;re not sure if you want to pay for Obsidian Publish or not. I&amp;rsquo;ve been there, that was the exact same situation I was in when I considered publishing my vault. Call me cheap, but I wasn&amp;rsquo;t sure if I was ready to pay $20 a month for the rest of time. Would I keep writing meaningful content, would people actually ready it? So instead, I decided I was going to figure out a way to publish my vault without the monthly fee. I now publish my vault online, and I don&amp;rsquo;t pay anything for hosting.</description><content:encoded><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Digital Garden</title><link>https://brandonkboswell.com/Digital-Garden/</link><pubDate>Wed, 23 Mar 2022 18:28:59 +0000</pubDate><guid>https://brandonkboswell.com/Digital-Garden/</guid><description>I probably should be actually gardening so that I get more Vitamin D, but I really enjoy Digital Gardening</description><content:encoded>&lt;p>I probably should be actually gardening so that I get more Vitamin D, but I really enjoy Digital Gardening&lt;/p></content:encoded></item><item><title>Publishing your Obsidian Vault Online with Quartz</title><link>https://brandonkboswell.com/projects/Publishing-your-Obsidian-Vault-Online-with-Quartz/</link><pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate><guid>https://brandonkboswell.com/projects/Publishing-your-Obsidian-Vault-Online-with-Quartz/</guid><description>So you&amp;rsquo;re thinking about publishing your Obsidian Vault online, but you&amp;rsquo;re not sure if you want to pay for Obsidian Publish or not. I&amp;rsquo;ve been there, that was the exact same situation I was in when I considered publishing my vault. Call me cheap, but I wasn&amp;rsquo;t sure if I was ready to pay $20 a month for the rest of time. Would I keep writing meaningful content, would people actually ready it? So instead, I decided I was going to figure out a way to publish my vault without the monthly fee. I now publish my vault online, and I don&amp;rsquo;t pay anything for hosting.</description><content:encoded><![CDATA[<blockquote>
 <p>NOTE: The easiest way to publish your vault online is by using 
 
 <a href="https://obsidian.md/publish" rel="noopener">Obsidian Publish</a>. I put a bunch of time into figuring out how all of this would work together, and I probably could have saved a bunch of time by just using Obsidian Publish. Either way, I&rsquo;ve learned a ton in setting this up. I also have more control on what does and doesn&rsquo;t get published. I have a ton of private content in my vault and I do not want that being published, which is why I went to all this trouble you&rsquo;re about to see. Yes, I could use multiple vaults, but that seems annoying when you want to link to something that resides in another vault.</p>
@@ -273,6 +273,69 @@ _content_calendar.md
 
 
 <a href="/sources/Blog" rel="noopener" class="internal-link" data-src="/sources/Blog">Blog</a></p>
+]]></content:encoded></item><item><title>Daily Reflection</title><link>https://brandonkboswell.com/Daily-Reflection/</link><pubDate>Tue, 22 Mar 2022 22:29:55 +0000</pubDate><guid>https://brandonkboswell.com/Daily-Reflection/</guid><description>On each daily note I have a slot for reflection. The template I&amp;rsquo;ve used for a while now is:
+Reflection What did I learn / accomplish? *
+What did I do for exercise?</description><content:encoded><![CDATA[<p>On each daily note I have a slot for reflection. The template I&rsquo;ve used for a while now is:</p>
+<h2 id="reflection">Reflection</h2>
+<ul>
+<li>
+<p><strong>What did I learn / accomplish?</strong>
+*</p>
+</li>
+<li>
+<h2 id="what-did-i-do-for-exercise"><strong>What did I do for exercise?</strong></h2>
+</li>
+<li>
+<p><strong>Any special thoughts?</strong>
+*</p>
+</li>
+<li>
+<p><strong>How could I have made today better?</strong>
+*</p>
+</li>
+</ul>
+<h2 id="it-is-nice-and-thorough-but-ive-found-myself-more-and-more-not-doing-daily-reflection-because-it-pulls-away-from-other-things-that-need-my-attention-so-today-im-trying-swapping-it-to-just-a-single-line-today-was-a-good-day-because">It is nice and thorough, but I&rsquo;ve found myself more and more not doing daily reflection because it pulls away from other things that need my attention, so today I&rsquo;m trying swapping it to just a single line: &ldquo;Today was a good day because:&rdquo;</h2>
+<h3 id="references">References</h3>
+]]></content:encoded></item><item><title>Knowing when to put down a book</title><link>https://brandonkboswell.com/Knowing-when-to-put-down-a-book/</link><pubDate>Tue, 22 Mar 2022 22:23:36 +0000</pubDate><guid>https://brandonkboswell.com/Knowing-when-to-put-down-a-book/</guid><description>Writer Doris Lessing on how to choose what to read: &amp;ldquo;There is only one way to read, which is to browse in libraries and bookshops, picking up books that attract you, reading only those, dropping them when they bore you, skipping the parts that drag – and never, never reading anything because you feel you ought, or because it is part of a trend or a movement.</description><content:encoded><![CDATA[<p>Writer <em>Doris Lessing</em> on how to choose what to read: &ldquo;There is only one way to read, which is to browse in libraries and bookshops, picking up books that attract you, reading only those, dropping them when they bore you, skipping the parts that drag – and never, never reading anything because you feel you ought, or because it is part of a trend or a movement. Remember that the book which bores you when you are twenty or thirty will open doors for you when you are forty or fifty-and vise versa. Don’t read a book out of its right time for you.&rdquo;</p>
+]]></content:encoded></item><item><title>Four Thousand Weeks</title><link>https://brandonkboswell.com/Four-Thousand-Weeks/</link><pubDate>Tue, 22 Mar 2022 22:11:50 +0000</pubDate><guid>https://brandonkboswell.com/Four-Thousand-Weeks/</guid><description>Book by Oliver Burkeman
+References</description><content:encoded><![CDATA[<p>Book by <em>Oliver Burkeman</em></p>
+<hr>
+<h3 id="references">References</h3>
+]]></content:encoded></item><item><title>If you expect there to be time and energy at the end of the day for your daily highlight you are setting yourself up for failure</title><link>https://brandonkboswell.com/seedlings/If-you-expect-there-to-be-time-and-energy-at-the-end-of-the-day-for-your-daily-highlight-you-are-setting-yourself-up-for-failure/</link><pubDate>Tue, 22 Mar 2022 22:10:43 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/If-you-expect-there-to-be-time-and-energy-at-the-end-of-the-day-for-your-daily-highlight-you-are-setting-yourself-up-for-failure/</guid><description>References Four Thousand Weeks</description><content:encoded><![CDATA[<hr>
+<h3 id="references">References</h3>
+<p>
+
+
+
+
+<a href="/Four-Thousand-Weeks" rel="noopener" class="internal-link" data-src="/Four-Thousand-Weeks">Four Thousand Weeks</a></p>
+]]></content:encoded></item><item><title>it is easier to give advice than to take it yourself</title><link>https://brandonkboswell.com/seedlings/it-is-easier-to-give-advice-than-to-take-it-yourself/</link><pubDate>Tue, 22 Mar 2022 22:08:04 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/it-is-easier-to-give-advice-than-to-take-it-yourself/</guid><description> References</description><content:encoded>&lt;hr>
+&lt;h3 id="references">References&lt;/h3></content:encoded></item><item><title>How to Remember More of What You Read</title><link>https://brandonkboswell.com/How-to-Remember-More-of-What-You-Read/</link><pubDate>Tue, 22 Mar 2022 21:53:15 +0000</pubDate><guid>https://brandonkboswell.com/How-to-Remember-More-of-What-You-Read/</guid><description>Author: Thomas Frank URL: https://youtu.be/Xw8KuGD1fJ4 Pre-read Skim the table of contents, the summaries at the end of each chapter. Doing this before reading helps prime your brain and you will retain more of what you read as you go through the text.</description><content:encoded><![CDATA[<ul>
+<li>Author: <em>Thomas Frank</em></li>
+<li>URL:  
+
+<a href="https://youtu.be/Xw8KuGD1fJ4" rel="noopener">https://youtu.be/Xw8KuGD1fJ4</a></li>
+</ul>
+<ol>
+<li><em>Pre-read</em>
+<ol>
+<li>Skim the table of contents, the summaries at the end of each chapter. Doing this before reading helps prime your brain and you will retain more of what you read as you go through the text.</li>
+</ol>
+</li>
+<li><em>Highlighting</em>
+<ol>
+<li>Read the text before you mark it. This also helps you to not highlight too much.</li>
+</ol>
+</li>
+<li>Take Notes after you read
+<ol>
+<li>Capture the most important details after you read.</li>
+</ol>
+</li>
+<li>Summarize what you read</li>
+<li>Mix reading with doing (for practical skills)</li>
+<li>After taking in a bunch of new information <em>take a break</em> and do something else. That information needs time to marinate.</li>
+</ol>
 ]]></content:encoded></item><item><title>Obsidian Statuses</title><link>https://brandonkboswell.com/Obsidian-Statuses/</link><pubDate>Mon, 21 Mar 2022 08:44:57 +0000</pubDate><guid>https://brandonkboswell.com/Obsidian-Statuses/</guid><description>Statuses new — I am trying out differentiating slightly between review and new by having new be used for writing content within Obsidian and review being for reviewing content by others</description><content:encoded><![CDATA[<h2 id="statuses">Statuses</h2>
 <ul>
 <li>
@@ -451,82 +514,4 @@ URL:
 <li>Don&rsquo;t check your phone on the toilet</li>
 <li>Don&rsquo;t check your phone the hour before bed</li>
 </ul>
-]]></content:encoded></item><item><title>Recommendations</title><link>https://brandonkboswell.com/moc/Recommendations/</link><pubDate>Tue, 08 Mar 2022 13:07:01 +0000</pubDate><guid>https://brandonkboswell.com/moc/Recommendations/</guid><description> Favorite Things Favorite Apps Game Recommendations</description><content:encoded><![CDATA[<ul>
-<li>Favorite Things</li>
-<li>Favorite Apps</li>
-<li>
-
-
-
-
-<a href="/Game-Recommendations" rel="noopener" class="internal-link" data-src="/Game-Recommendations">Game Recommendations</a></li>
-</ul>
-]]></content:encoded></item><item><title>Shell</title><link>https://brandonkboswell.com/Shell/</link><pubDate>Tue, 08 Mar 2022 12:59:01 +0000</pubDate><guid>https://brandonkboswell.com/Shell/</guid><description> References</description><content:encoded>&lt;hr>
-&lt;h3 id="references">References&lt;/h3></content:encoded></item><item><title>Reward yourself for setting goals and meeting them</title><link>https://brandonkboswell.com/seedlings/Reward-yourself-for-setting-goals-and-meeting-them/</link><pubDate>Tue, 08 Mar 2022 12:56:55 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/Reward-yourself-for-setting-goals-and-meeting-them/</guid><description>Accountability
-Ice Cream / Pizza Party
-Reward yourself for setting goals and meeting them Set Goals Share them</description><content:encoded><![CDATA[<p><em>Accountability</em></p>
-<p>Ice Cream / Pizza Party</p>
-<ul>
-<li>Reward yourself for setting goals and meeting them</li>
-<li>Set Goals</li>
-<li>Share them</li>
-</ul>
-]]></content:encoded></item><item><title>Retain more of what you read</title><link>https://brandonkboswell.com/Retain-more-of-what-you-read/</link><pubDate>Tue, 08 Mar 2022 12:47:25 +0000</pubDate><guid>https://brandonkboswell.com/Retain-more-of-what-you-read/</guid><description>Relates to: Reading Spaced Repetition Readwise Book Reviews
-References</description><content:encoded><![CDATA[<p>Relates to: <em>Reading</em>
-<em>Spaced Repetition</em>
-
-
-
-
-
-<a href="/Readwise" rel="noopener" class="internal-link" data-src="/Readwise">Readwise</a>
-
-
-
-
-
-<a href="sources/How%20to%20review%20a%20book%3F" rel="noopener" class="internal-link" data-src="sources/How%20to%20review%20a%20book%3F">Book Reviews</a></p>
-<hr>
-<h3 id="references">References</h3>
-]]></content:encoded></item><item><title>The Building a Second Brain Podcast</title><link>https://brandonkboswell.com/The-Building-a-Second-Brain-Podcast/</link><pubDate>Tue, 08 Mar 2022 12:38:07 +0000</pubDate><guid>https://brandonkboswell.com/The-Building-a-Second-Brain-Podcast/</guid><description>Relates to Personal Knowledge Management
-References</description><content:encoded><![CDATA[<p>Relates to 
-
-
-
-
-<a href="/Personal-Knowledge-Management" rel="noopener" class="internal-link" data-src="/Personal-Knowledge-Management">Personal Knowledge Management</a></p>
-<hr>
-<h3 id="references">References</h3>
-]]></content:encoded></item><item><title>Time Sinks</title><link>https://brandonkboswell.com/Time-Sinks/</link><pubDate>Tue, 08 Mar 2022 08:42:35 +0000</pubDate><guid>https://brandonkboswell.com/Time-Sinks/</guid><description>Time Traps I have to watch out for:
-Twitter - Truly infinite, very dangerous Feedly - This one at least has an end, but this one can still be 15-20 minute trap YouTube Wordle - At least only one a day and usually is less than 5 minutes Reddit - Another truly infinite trap You especially need to watch out for these during My Morning Routine as they will eat up your Most productive time of the day</description><content:encoded><![CDATA[<p>Time Traps I have to watch out for:</p>
-<ul>
-<li><em>Twitter</em> - Truly infinite, very dangerous</li>
-<li><em>Feedly</em> - This one at least has an end, but this one can still be 15-20 minute trap</li>
-<li><em>YouTube</em></li>
-<li><em>Wordle</em> - At least only one a day and usually is less than 5 minutes</li>
-<li><em>Reddit</em> - Another truly infinite trap</li>
-</ul>
-<p>You especially need to watch out for these during 
-
-
-
-
-<a href="/My-Morning-Routine" rel="noopener" class="internal-link" data-src="/My-Morning-Routine">My Morning Routine</a> as they will eat up your 
-
-
-
-
-<a href="seedlings/There%20is%20a%20two%20hour%20window%20in%20each%20day%20where%20you%20are%20most%20productive." rel="noopener" class="internal-link" data-src="seedlings/There%20is%20a%20two%20hour%20window%20in%20each%20day%20where%20you%20are%20most%20productive.">Most productive time of the day</a></p>
-<hr>
-<h3 id="references">References</h3>
-]]></content:encoded></item><item><title>In writing, what the author mean't is irrelevant</title><link>https://brandonkboswell.com/seedlings/In-writing-what-the-author-meant-is-irrelevant/</link><pubDate>Fri, 04 Mar 2022 08:49:45 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/In-writing-what-the-author-meant-is-irrelevant/</guid><description>This is an especially challenging trap for me as someone who doesn&amp;rsquo;t find writing easy. I often find myself in a scenario where someone reads (usually my wife) something I wrote and we discuss it, only for me to find out what I meant and what I wrote were not the same.</description><content:encoded><![CDATA[<p>This is an especially challenging trap for me as someone who doesn&rsquo;t find writing easy. I often find myself in a scenario where someone reads (usually my wife) something I wrote and we discuss it, only for me to find out what I meant and what I wrote were not the same.</p>
-<hr>
-<h3 id="references">References</h3>
-<p>It is public because in the discussion, it does not matter anymore what the author meant, only what is there in writing.
-
-
-
-
-
-<a href="/sources/How-to-Take-Smart-Notes" rel="noopener" class="internal-link" data-src="/sources/How-to-Take-Smart-Notes">How to Take Smart Notes</a></p>
 ]]></content:encoded></item></channel></rss>
