@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Digital Garden</title><link>https://brandonkboswell.com/Digital-Garden/</link><pubDate>Wed, 23 Mar 2022 18:28:59 +0000</pubDate><guid>https://brandonkboswell.com/Digital-Garden/</guid><description>I probably should be actually gardening so that I get more Vitamin D, but I really enjoy Digital Gardening</description><content:encoded>&lt;p>I probably should be actually gardening so that I get more Vitamin D, but I really enjoy Digital Gardening&lt;/p></content:encoded></item><item><title>Publishing your Obsidian Vault Online with Quartz</title><link>https://brandonkboswell.com/projects/Publishing-your-Obsidian-Vault-Online-with-Quartz/</link><pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate><guid>https://brandonkboswell.com/projects/Publishing-your-Obsidian-Vault-Online-with-Quartz/</guid><description>So you&amp;rsquo;re thinking about publishing your Obsidian Vault online, but you&amp;rsquo;re not sure if you want to pay for Obsidian Publish or not. I&amp;rsquo;ve been there, that was the exact same situation I was in when I considered publishing my vault. Call me cheap, but I wasn&amp;rsquo;t sure if I was ready to pay $20 a month for the rest of time. Would I keep writing meaningful content, would people actually ready it? So instead, I decided I was going to figure out a way to publish my vault without the monthly fee. I now publish my vault online, and I don&amp;rsquo;t pay anything for hosting.</description><content:encoded><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Publishing your Obsidian Vault Online with Quartz</title><link>https://brandonkboswell.com/blog/Publishing-your-Obsidian-Vault-Online-with-Quartz/</link><pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate><guid>https://brandonkboswell.com/blog/Publishing-your-Obsidian-Vault-Online-with-Quartz/</guid><description>So you&amp;rsquo;re thinking about publishing your Obsidian Vault online, but you&amp;rsquo;re not sure if you want to pay for Obsidian Publish or not. I&amp;rsquo;ve been there, that was the exact same situation I was in when I considered publishing my vault. Call me cheap, but I wasn&amp;rsquo;t sure if I was ready to pay $20 a month for the rest of time. Would I keep writing meaningful content, would people actually ready it? So instead, I decided I was going to figure out a way to publish my vault without the monthly fee. I now publish my vault online, and I don&amp;rsquo;t pay anything for hosting.</description><content:encoded><![CDATA[<blockquote>
 <p>NOTE: The easiest way to publish your vault online is by using 
 
 <a href="https://obsidian.md/publish" rel="noopener">Obsidian Publish</a>. I put a bunch of time into figuring out how all of this would work together, and I probably could have saved a bunch of time by just using Obsidian Publish. Either way, I&rsquo;ve learned a ton in setting this up. I also have more control on what does and doesn&rsquo;t get published. I have a ton of private content in my vault and I do not want that being published, which is why I went to all this trouble you&rsquo;re about to see. Yes, I could use multiple vaults, but that seems annoying when you want to link to something that resides in another vault.</p>
@@ -273,245 +273,606 @@ _content_calendar.md
 
 
 <a href="/sources/Blog" rel="noopener" class="internal-link" data-src="/sources/Blog">Blog</a></p>
-]]></content:encoded></item><item><title>Daily Reflection</title><link>https://brandonkboswell.com/Daily-Reflection/</link><pubDate>Tue, 22 Mar 2022 22:29:55 +0000</pubDate><guid>https://brandonkboswell.com/Daily-Reflection/</guid><description>On each daily note I have a slot for reflection. The template I&amp;rsquo;ve used for a while now is:
-Reflection What did I learn / accomplish? *
-What did I do for exercise?</description><content:encoded><![CDATA[<p>On each daily note I have a slot for reflection. The template I&rsquo;ve used for a while now is:</p>
-<h2 id="reflection">Reflection</h2>
+]]></content:encoded></item><item><title>How I Use Obsidian</title><link>https://brandonkboswell.com/blog/How-I-Use-Obsidian/</link><pubDate>Wed, 09 Feb 2022 08:37:56 +0000</pubDate><guid>https://brandonkboswell.com/blog/How-I-Use-Obsidian/</guid><description>Setting up your Obsidian Vault for Personal Knowledge Management can be daunting. You start from scratch, there are 1000&amp;rsquo;s of plugins to chose from, and honestly it all becomes one big distraction from actually generating thoughts and ideas.</description><content:encoded><![CDATA[<p>Setting up your Obsidian Vault for Personal Knowledge Management can be daunting. You start from scratch, there are 1000&rsquo;s of plugins to chose from, and honestly it all becomes one big distraction from actually generating thoughts and ideas. In this video, I will share my approach to managing an Obisidian vault in hopes it will save you a few headaches when starting from scratch.</p>
+<p><strong>Note:</strong> I publish my Obsidian Vault using Github Pages and because of this I use more folders than most vaults you will see. Having folders that I can hide away makes making sure I only share what I intend to share with the Internet. If you haven&rsquo;t already go check out my vault at brandonkboswell.com. I will put a link in the description.</p>
+<h2 id="folders--major-areas">Folders / Major Areas</h2>
 <ul>
-<li>
-<p><strong>What did I learn / accomplish?</strong>
-*</p>
+<li>1-1
+<ul>
+<li><em>I thoroughly enjoy writing in Obsidian, so I put my 1-1 notes with people I chat with on a regular basis instead of putting them in another app</em></li>
+<li>It&rsquo;s just a running log with a date and the todos associated with that session</li>
+</ul>
 </li>
-<li>
-<h2 id="what-did-i-do-for-exercise"><strong>What did I do for exercise?</strong></h2>
+<li>Business
+<ul>
+<li>A random assortment of notes that I want to keep and link to, but I don&rsquo;t want shared with the world.</li>
+</ul>
 </li>
-<li>
-<p><strong>Any special thoughts?</strong>
-*</p>
+<li>Collections
+<ul>
+<li>Where I collect items I thought were interesting that I want to be able to refer back to, but I might not actually have significant commentary on. Please let me know how you do this in the comments, that way I do this is not ideal. Basically I screenshot or get the URL for whatever it is and then Quick Add to TickTick and then when I clean out my 
+
+
+
+
+<a href="/TickTick" rel="noopener" class="internal-link" data-src="/TickTick">TickTick</a> Inbox I put it into 
+
+
+
+
+<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a> for storage.</li>
+</ul>
 </li>
-<li>
-<p><strong>How could I have made today better?</strong>
-*</p>
+<li>Cooking
+<ul>
+<li>My wife is a far better cook then I, but I do cook a few meals each week. The issue I always found was I would do a meal and then by the time I cook that meal the next time I couldn&rsquo;t remember what I had tried, so I end up making the same mistakes and not progressing at perfecting the dish. So I started creating cooking notes for these and after each time I cook a dish I put another entry into that note. When I go to start cooking that dish again I refer back to what I had written the last time on what to try next.</li>
+</ul>
+</li>
+<li>Ideas
+<ul>
+<li>A random assortment of ideas. These are mostly a folder just to make them private when publishing</li>
+</ul>
+</li>
+<li>People
+<ul>
+<li>My notes on people. This one is also private as it has a bunch of people who didn&rsquo;t ask to be published online.</li>
+</ul>
+</li>
+<li>Personal
+<ul>
+<li>Pictures of cards, notes people have sent me or deeply personal writing prompts that don&rsquo;t need to be public</li>
+</ul>
+</li>
+<li>Projects
+<ul>
+<li>A folder where all of the Youtube Videos or Articles start while I&rsquo;m figuring them out. Currently this folder is not published, but I might make it public soon and then just apply a draft tag to things that shouldn&rsquo;t be published. For instance the script for this video is in there</li>
+</ul>
+</li>
+<li>Seedlings
+<ul>
+<li>This is where all of my <em>Atomic Notes</em> / <em>Evergreen Notes</em> go.</li>
+</ul>
+</li>
+<li>Sources
+<ul>
+<li>This is where all of my Readwise Highlights &amp; Literary Notes go.</li>
+</ul>
+</li>
+<li>Temporal
+<ul>
+<li>Daily Notes
+<ul>
+<li>Ex: 2022-02-25</li>
+</ul>
+</li>
+<li>Weekly Notes
+<ul>
+<li>Ex: 2022-W07</li>
+</ul>
+</li>
+<li>Annual Notes
+<ul>
+<li>Ex: 
+
+
+
+
+<a href="/2021-In-Review" rel="noopener" class="internal-link" data-src="/2021-In-Review">2021 In Review</a></li>
+</ul>
 </li>
 </ul>
-<h2 id="it-is-nice-and-thorough-but-ive-found-myself-more-and-more-not-doing-daily-reflection-because-it-pulls-away-from-other-things-that-need-my-attention-so-today-im-trying-swapping-it-to-just-a-single-line-today-was-a-good-day-because">It is nice and thorough, but I&rsquo;ve found myself more and more not doing daily reflection because it pulls away from other things that need my attention, so today I&rsquo;m trying swapping it to just a single line: &ldquo;Today was a good day because:&rdquo;</h2>
-<h3 id="references">References</h3>
-]]></content:encoded></item><item><title>Knowing when to put down a book</title><link>https://brandonkboswell.com/Knowing-when-to-put-down-a-book/</link><pubDate>Tue, 22 Mar 2022 22:23:36 +0000</pubDate><guid>https://brandonkboswell.com/Knowing-when-to-put-down-a-book/</guid><description>Writer Doris Lessing on how to choose what to read: &amp;ldquo;There is only one way to read, which is to browse in libraries and bookshops, picking up books that attract you, reading only those, dropping them when they bore you, skipping the parts that drag – and never, never reading anything because you feel you ought, or because it is part of a trend or a movement.</description><content:encoded><![CDATA[<p>Writer <em>Doris Lessing</em> on how to choose what to read: &ldquo;There is only one way to read, which is to browse in libraries and bookshops, picking up books that attract you, reading only those, dropping them when they bore you, skipping the parts that drag – and never, never reading anything because you feel you ought, or because it is part of a trend or a movement. Remember that the book which bores you when you are twenty or thirty will open doors for you when you are forty or fifty-and vise versa. Don’t read a book out of its right time for you.&rdquo;</p>
-]]></content:encoded></item><item><title>Four Thousand Weeks</title><link>https://brandonkboswell.com/Four-Thousand-Weeks/</link><pubDate>Tue, 22 Mar 2022 22:11:50 +0000</pubDate><guid>https://brandonkboswell.com/Four-Thousand-Weeks/</guid><description>Book by Oliver Burkeman
-References</description><content:encoded><![CDATA[<p>Book by <em>Oliver Burkeman</em></p>
-<hr>
-<h3 id="references">References</h3>
-]]></content:encoded></item><item><title>If you expect there to be time and energy at the end of the day for your daily highlight you are setting yourself up for failure</title><link>https://brandonkboswell.com/seedlings/If-you-expect-there-to-be-time-and-energy-at-the-end-of-the-day-for-your-daily-highlight-you-are-setting-yourself-up-for-failure/</link><pubDate>Tue, 22 Mar 2022 22:10:43 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/If-you-expect-there-to-be-time-and-energy-at-the-end-of-the-day-for-your-daily-highlight-you-are-setting-yourself-up-for-failure/</guid><description>References Four Thousand Weeks</description><content:encoded><![CDATA[<hr>
-<h3 id="references">References</h3>
+</li>
+<li>To Publish
+<ul>
+<li>Articles / Documents that would be useful to the public, but need cleanup / refinement before they can be shared</li>
+</ul>
+</li>
+<li>Underscore Gang — I need to find a way to describe this
+<ul>
+<li>Index</li>
+<li>Content Calendar</li>
+<li>Backlogs
+<ul>
+<li>Gaming Backlog</li>
+<li>Idea Backlog</li>
+<li>Book Backlog</li>
+<li>Music Backlog</li>
+<li>TV Backlog</li>
+</ul>
+</li>
+<li>Seedings</li>
+<li>Writing Prompts</li>
+</ul>
+</li>
+</ul>
+<h2 id="plugins-i-use">Plugins I use</h2>
+<ul>
+<li>See Video where I run through this.</li>
+</ul>
+<h2 id="themes">Themes</h2>
+<ul>
+<li>I use the Minimal Theme</li>
+<li>I&rsquo;ve tried the Notational one and the California Coast and they are both good as well, I just happen to like the Minimal Theme slightly more.</li>
+</ul>
 <p>
 
 
 
 
-<a href="/Four-Thousand-Weeks" rel="noopener" class="internal-link" data-src="/Four-Thousand-Weeks">Four Thousand Weeks</a></p>
-]]></content:encoded></item><item><title>it is easier to give advice than to take it yourself</title><link>https://brandonkboswell.com/seedlings/it-is-easier-to-give-advice-than-to-take-it-yourself/</link><pubDate>Tue, 22 Mar 2022 22:08:04 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/it-is-easier-to-give-advice-than-to-take-it-yourself/</guid><description> References</description><content:encoded>&lt;hr>
-&lt;h3 id="references">References&lt;/h3></content:encoded></item><item><title>How to Remember More of What You Read</title><link>https://brandonkboswell.com/How-to-Remember-More-of-What-You-Read/</link><pubDate>Tue, 22 Mar 2022 21:53:15 +0000</pubDate><guid>https://brandonkboswell.com/How-to-Remember-More-of-What-You-Read/</guid><description>Author: Thomas Frank URL: https://youtu.be/Xw8KuGD1fJ4 Pre-read Skim the table of contents, the summaries at the end of each chapter. Doing this before reading helps prime your brain and you will retain more of what you read as you go through the text.</description><content:encoded><![CDATA[<ul>
-<li>Author: <em>Thomas Frank</em></li>
-<li>URL:  
+<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a></p>
+]]></content:encoded></item><item><title>My App Essentials</title><link>https://brandonkboswell.com/blog/My-App-Essentials/</link><pubDate>Tue, 01 Feb 2022 11:04:05 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-App-Essentials/</guid><description> Obsidian TickTick Skitch HandMirror Amethyst OneThing 1Password Loom GoodNotes Readwise Command Honorable Mentions Drafts Spotify / Tidal iTerm2 Parcel Fantastical</description><content:encoded><![CDATA[<ul>
+<li>
 
-<a href="https://youtu.be/Xw8KuGD1fJ4" rel="noopener">https://youtu.be/Xw8KuGD1fJ4</a></li>
+
+
+
+<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a></li>
+<li>
+
+
+
+
+<a href="/TickTick" rel="noopener" class="internal-link" data-src="/TickTick">TickTick</a></li>
+<li><em>Skitch</em></li>
+<li><em>HandMirror</em></li>
+<li><em>Amethyst</em></li>
+<li><em>OneThing</em></li>
+<li><em>1Password</em></li>
+<li>
+
+
+
+
+<a href="/Loom" rel="noopener" class="internal-link" data-src="/Loom">Loom</a></li>
+<li><em>GoodNotes</em></li>
+<li>
+
+
+
+
+<a href="/Readwise" rel="noopener" class="internal-link" data-src="/Readwise">Readwise</a></li>
+<li><em>Command</em></li>
 </ul>
-<ol>
-<li><em>Pre-read</em>
-<ol>
-<li>Skim the table of contents, the summaries at the end of each chapter. Doing this before reading helps prime your brain and you will retain more of what you read as you go through the text.</li>
-</ol>
-</li>
-<li><em>Highlighting</em>
-<ol>
-<li>Read the text before you mark it. This also helps you to not highlight too much.</li>
-</ol>
-</li>
-<li>Take Notes after you read
-<ol>
-<li>Capture the most important details after you read.</li>
-</ol>
-</li>
-<li>Summarize what you read</li>
-<li>Mix reading with doing (for practical skills)</li>
-<li>After taking in a bunch of new information <em>take a break</em> and do something else. That information needs time to marinate.</li>
-</ol>
-]]></content:encoded></item><item><title>Obsidian Statuses</title><link>https://brandonkboswell.com/Obsidian-Statuses/</link><pubDate>Mon, 21 Mar 2022 08:44:57 +0000</pubDate><guid>https://brandonkboswell.com/Obsidian-Statuses/</guid><description>Statuses new — I am trying out differentiating slightly between review and new by having new be used for writing content within Obsidian and review being for reviewing content by others</description><content:encoded><![CDATA[<h2 id="statuses">Statuses</h2>
+<h3 id="honorable-mentions">Honorable Mentions</h3>
 <ul>
-<li>
-<p><strong>new</strong> — I am trying out differentiating slightly between review and new by having new be used for writing content within Obsidian and review being for reviewing content by others</p>
-</li>
-<li>
-<p><strong>review</strong> — Initial status upon coming into the vault from an outside source such as Readwise. The intention here is to review it at least once after the initial writing to see if my opinions have changed after time away from the idea.</p>
-</li>
-<li>
-<p><strong>draft</strong> — A start for an idea, but is not likely ready to publish yet</p>
-</li>
-<li>
-<p><strong>priority</strong> — A topic that should receive focus before starting any additional explorations. The goal here is to get better at finding a starting point with which to work in the garden</p>
-</li>
-<li>
-<p><strong>stub</strong> — A idea with some initial content, but could benefit from additional exploration and documentation. This is similar to a <em>Wikipedia</em> stub.</p>
-</li>
-<li>
-<p><strong>shrub</strong> — An idea that has good bones, but is not definitive on the topic. I think this is the further status I have gotten on any of my MOCs.</p>
-</li>
+<li><em>Drafts</em></li>
+<li><em>Spotify</em> / <em>Tidal</em></li>
+<li><em>iTerm2</em></li>
+<li><em>Parcel</em></li>
+<li><em>Fantastical</em></li>
 </ul>
-<hr>
-<h3 id="references">References</h3>
-<p>Influenced by 
-
-
-
-
-<a href="sources/Craft%20Is%20My%20Workspace%20%E2%80%94%20The%20Refined%20Mind" rel="noopener" class="internal-link" data-src="sources/Craft%20Is%20My%20Workspace%20%E2%80%94%20The%20Refined%20Mind">Craft Is My Workspace — The Refined Mind</a></p>
-]]></content:encoded></item><item><title>RSS</title><link>https://brandonkboswell.com/RSS/</link><pubDate>Mon, 21 Mar 2022 00:00:13 +0000</pubDate><guid>https://brandonkboswell.com/RSS/</guid><description>For consuming RSS for this site you have two options: Projects Only — This is the high quality content you are probably looking for. Everything — This will include everything including Work in Progress notes that may just be stubs.</description><content:encoded><![CDATA[<h3 id="for-consuming-rss-for-this-site-you-have-two-options">For consuming RSS for this site you have two options:</h3>
-<ul>
-<li>
-
-<a href="https://brandonkboswell.com/projects/index.xml" rel="noopener">Projects Only</a> — This is the high quality content you are probably looking for.</li>
-<li>
-
-<a href="https://brandonkboswell.com/index.xml" rel="noopener">Everything</a> — This will include everything including Work in Progress notes that may just be stubs.</li>
-</ul>
-]]></content:encoded></item><item><title>Smoked Spatchcock Chicken</title><link>https://brandonkboswell.com/cooking/Smoked-Spatchcock-Chicken/</link><pubDate>Sun, 20 Mar 2022 21:30:36 +0000</pubDate><guid>https://brandonkboswell.com/cooking/Smoked-Spatchcock-Chicken/</guid><description>2022-03-20 This was my first time using the Char-Griller Akorn. I set an initial fire in the Akorn to get it to 400 degrees to season the grill grate. This worked well, and I had no issues getting the grill to high temperature, even getting it past 500 degrees.</description><content:encoded><![CDATA[<p><em>2022-03-20</em>
-This was my first time using the <em>Char-Griller Akorn</em>. I set an initial fire in the Akorn to get it to 400 degrees to season the grill grate. This worked well, and I had no issues getting the grill to high temperature, even getting it past 500 degrees. I had a minor challenge where I put the fire out while trying to reduce the temperature significantly to get back to a smoking temperature after running it at high heat. After relighting the fire I cooked the chicken between 225 and 275 for an hour and half until the chicken got to an internal temperature of 145 degrees. At the point, I raised the heat to 325 to crisp up the skin and make it easier to get the chicken to temperature. For this chicken we used a KC BBQ rub along with mayonnaise and olive oil on the underside. Initially I didn&rsquo;t put enough seasoning on the chicken, but we later added a bit more. The fire was likely 8 to 2 lump to hickory. The chicken was cooked very nicely, but I found the rub to be too sweet for chicken (its probably better suited for pork). I may try something simpler like just salt and pepper next time to see how that compares. For this cook, we were lacking the smoking stone, but were able to substitute in a baking sheet instead for today. The smoking stone will be here tomorrow along with a thermometer that will talk to my phone so that I can monitor the fire from afar.</p>
-<hr>
-<h3 id="references">References</h3>
-<p>
-
-<a href="https://www.youtube.com/watch?v=-JJx4eZNmz4" rel="noopener">https://www.youtube.com/watch?v=-JJx4eZNmz4</a>
-
-
-<a href="https://www.youtube.com/watch?v=0de3Q9hQSTA" rel="noopener">https://www.youtube.com/watch?v=0de3Q9hQSTA</a>
-
-
-<a href="https://www.youtube.com/watch?v=0Y7gM1deyvw&amp;t=1s" rel="noopener">https://www.youtube.com/watch?v=0Y7gM1deyvw&t=1s</a></p>
-]]></content:encoded></item><item><title>Tabox</title><link>https://brandonkboswell.com/Tabox/</link><pubDate>Thu, 17 Mar 2022 21:43:47 +0000</pubDate><guid>https://brandonkboswell.com/Tabox/</guid><description>Relates to: Chrome Extensions Save Chrome Tab Groups with Tabox</description><content:encoded><![CDATA[<h3 id="relates-to">Relates to:</h3>
-<ul>
-<li>
-
-
-
-
-<a href="/Chrome-Extensions" rel="noopener" class="internal-link" data-src="/Chrome-Extensions">Chrome Extensions</a></li>
-<li>
-
-
-
-
-<a href="/projects/Save-Chrome-Tab-Groups-with-Tabox" rel="noopener" class="internal-link" data-src="/projects/Save-Chrome-Tab-Groups-with-Tabox">Save Chrome Tab Groups with Tabox</a></li>
-</ul>
-]]></content:encoded></item><item><title>Loom</title><link>https://brandonkboswell.com/Loom/</link><pubDate>Thu, 17 Mar 2022 21:40:09 +0000</pubDate><guid>https://brandonkboswell.com/Loom/</guid><description>https://www.loom.com/
-One of the best ways to communicate and do Show and Tells in Design and Engineering. This allows us to do high-quality communication of complex ideas to many people within our team asynchronously.</description><content:encoded><![CDATA[<p>
-
-<a href="https://www.loom.com/" rel="noopener">https://www.loom.com/</a></p>
-<p>One of the best ways to communicate and do Show and Tells in 
-
-
-
-
-<a href="/moc/Design" rel="noopener" class="internal-link" data-src="/moc/Design">Design</a> and <em>Engineering</em>. This allows us to do high-quality  communication of complex ideas to many people within our team asynchronously. It&rsquo;s also one of the best ways I&rsquo;ve found to <em>request feedback</em> and also to prepare folks for meetings and discussion sessions.</p>
-]]></content:encoded></item><item><title>Vimium</title><link>https://brandonkboswell.com/Vimium/</link><pubDate>Thu, 17 Mar 2022 21:39:19 +0000</pubDate><guid>https://brandonkboswell.com/Vimium/</guid><description>Chrome Extensions
-Vimium is not just for Developers</description><content:encoded><![CDATA[<p>
+]]></content:encoded></item><item><title>My process for keeping in touch with people using TickTick</title><link>https://brandonkboswell.com/blog/My-process-for-keeping-in-touch-with-people-using-TickTick/</link><pubDate>Mon, 31 Jan 2022 22:53:25 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-process-for-keeping-in-touch-with-people-using-TickTick/</guid><description/><content:encoded></content:encoded></item><item><title>How I keep my Chrome Tabs under control with "Merge All Windows" Chrome Extension</title><link>https://brandonkboswell.com/blog/How-I-keep-my-Chrome-Tabs-under-control-with-Merge-All-Windows-Chrome-Extension/</link><pubDate>Mon, 31 Jan 2022 22:47:25 +0000</pubDate><guid>https://brandonkboswell.com/blog/How-I-keep-my-Chrome-Tabs-under-control-with-Merge-All-Windows-Chrome-Extension/</guid><description/><content:encoded></content:encoded></item><item><title>Vimium is not just for Developers</title><link>https://brandonkboswell.com/blog/Vimium-is-not-just-for-Developers/</link><pubDate>Sun, 28 Nov 2021 21:53:02 +0000</pubDate><guid>https://brandonkboswell.com/blog/Vimium-is-not-just-for-Developers/</guid><description>Chrome Extensions
+This video is by no means an exhaustive list of everything Vimium can do, but I can walk you through the features I use everyday that I think are a good starting point and then you can decide if you want to mix in anything else.</description><content:encoded><![CDATA[<p>
 
 
 
 
 <a href="/Chrome-Extensions" rel="noopener" class="internal-link" data-src="/Chrome-Extensions">Chrome Extensions</a></p>
-<p>
+<p>This video is by no means an exhaustive list of everything 
 
 
 
 
-<a href="/projects/Vimium-is-not-just-for-Developers" rel="noopener" class="internal-link" data-src="/projects/Vimium-is-not-just-for-Developers">Vimium is not just for Developers</a></p>
-]]></content:encoded></item><item><title>Chrome Extensions</title><link>https://brandonkboswell.com/Chrome-Extensions/</link><pubDate>Thu, 17 Mar 2022 21:12:15 +0000</pubDate><guid>https://brandonkboswell.com/Chrome-Extensions/</guid><description>Google Chrome</description><content:encoded>&lt;p>&lt;em>Google Chrome&lt;/em>&lt;/p></content:encoded></item><item><title>Touchbar Macbook Pro</title><link>https://brandonkboswell.com/Touchbar-Macbook-Pro/</link><pubDate>Thu, 17 Mar 2022 13:13:17 +0000</pubDate><guid>https://brandonkboswell.com/Touchbar-Macbook-Pro/</guid><description>Apple / Macbook Pro / MacOS
-I think this machine got a bad rap when it came out for only having USB-C ports. I actually think that aspect of the computer is fine and that criticism is a bit harsh.</description><content:encoded><![CDATA[<p><em>Apple</em> / <em>Macbook Pro</em> / 
+<a href="/Vimium" rel="noopener" class="internal-link" data-src="/Vimium">Vimium</a> can do, but I can walk you through the features I use everyday that I think are a good starting point and then you can decide if you want to mix in anything else.</p>
+<h3 id="features-i-actually-use">Features I actually use:</h3>
+<ul>
+<li>J/K Arrow Keys</li>
+<li>F to tap on any button</li>
+<li>/ to search for any word on the page and then double tap enter to click on that link
+<ul>
+<li>If there are multiple instances of the word on the page you can tap enter once to commit the search and then use n to jump to the next instance of it.</li>
+<li>Shift N to go back</li>
+</ul>
+</li>
+</ul>
+<p>Be sure to check out the available commands in the settings. There are bunch of good commands in here that I don&rsquo;t use, either one because I didn&rsquo;t know about them and should be using them or because I already have existing muscle memory that I don&rsquo;t feel like overwriting (from years of using other apps).</p>
+<h3 id="things-i-should-use">Things I should use</h3>
+<ul>
+<li>Open current clipboard url in the current tab p
+<ul>
+<li>New Tab is Shift + P</li>
+</ul>
+</li>
+<li>Tab Left, Shift + J</li>
+<li>Tab Right, Shift + K</li>
+<li>Back
+<ul>
+<li>Command + [</li>
+<li>Shift + H</li>
+</ul>
+</li>
+<li>Forward
+<ul>
+<li>Command + ]</li>
+<li>Shift + L</li>
+</ul>
+</li>
+<li>Open a new tab
+<ul>
+<li>Command + L, or Command + T</li>
+<li>o or Shift + O</li>
+</ul>
+</li>
+</ul>
+<h3 id="things-i-have-muscle-memory-for-but-are-a-good-idea-to-learn-if-you-dont-already-have-keyboard-shortcuts-memorized">Things I have muscle memory for, but are a good idea to learn if you don&rsquo;t already have keyboard shortcuts memorized</h3>
+<ul>
+<li>Or gi, I&rsquo;m used to just hitting tab.
+Close Tabs</li>
+<li>Command + W
+<ul>
+<li>or with Vimium you can use x</li>
+</ul>
+</li>
+<li>Reopen the last tab
+<ul>
+<li>Command + Shift + T</li>
+<li>or Shift + X</li>
+</ul>
+</li>
+<li>yy to copy the current url to the clipboard
+<ul>
+<li>I do cmd+l, cmd+c but this I should embrace this one</li>
+</ul>
+</li>
+</ul>
+<h3 id="excludes">Excludes</h3>
+<p>Exclude R &amp; Escape from all pages (especially my own as they are useful)</p>
+<ul>
+<li>
+<p>Figma</p>
+</li>
+<li>
+<p><input checked="" disabled="" type="checkbox"> Look up what my excludes are currently</p>
+</li>
+</ul>
+]]></content:encoded></item><item><title>5 Tips for using your mouse less on MacOS</title><link>https://brandonkboswell.com/blog/5-Tips-for-using-your-mouse-less-on-MacOS/</link><pubDate>Sun, 14 Nov 2021 22:33:00 +0000</pubDate><guid>https://brandonkboswell.com/blog/5-Tips-for-using-your-mouse-less-on-MacOS/</guid><description>#1. Use a Window Manager I use Amethyst to give specific Monitors and windows focus which was a common thing I would have to pick up my mouse for Hyper + ZXCV for moving Windows Around Hyper + ASDF to move focus #2.</description><content:encoded><![CDATA[<h2 id="1-use-a-window-manager">#1. Use a Window Manager</h2>
+<ul>
+<li>I use Amethyst to give specific Monitors and windows focus which was a common thing I would have to pick up my mouse for</li>
+<li><strong>Hyper + ZXCV</strong> for moving Windows Around</li>
+<li><strong>Hyper + ASDF</strong> to move focus</li>
+</ul>
+<hr>
+<h2 id="2-learn-text-cursor-movement">#2. Learn Text Cursor movement</h2>
+<ul>
+<li><strong>Command + Right or Left</strong> to jump to the end of the line</li>
+<li><strong>Alt + Right or Left</strong> to move a word at a time
+<ul>
+<li><strong>Add shift</strong> to select the word while you&rsquo;re at it</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="3-scroll-with-your-arrow-keys">#3. Scroll with your arrow keys</h2>
+<ul>
+<li>Most websites let you use up &amp; down arrow keys</li>
+<li>I use <strong>Hyper + HJKL</strong> as my arrow keys so that I don&rsquo;t have to leave the home row <em>(optional)</em>
+<ul>
+<li>You can also use the Vimium Chrome Extension to do this and much more.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="4-learn-your-keyboard-shortcuts">#4. Learn your keyboard shortcuts</h2>
+<ul>
+<li>MacOS Keyboard Shortcuts</li>
+<li>App-Specific Keyboard Shortcuts</li>
+</ul>
+<hr>
+<h2 id="macos-keyboard-shortcuts">MacOS Keyboard Shortcuts</h2>
+<ul>
+<li>Change active application with <strong>Alt + Tab</strong></li>
+<li><strong>Ctrl + Cmd + F</strong> for Full Screen</li>
+<li>Changing Spaces with <strong>Ctrl + Left or Right</strong></li>
+<li>Make sure you know how to play/pause your music &amp; change volume with keyboard shortcuts</li>
+<li><strong>Function + Backspace</strong> functions as a forward delete key</li>
+<li><strong>Cmd + Shift + 3 or 4</strong> for Screenshots</li>
+<li>Close current window with <strong>Cmd + W</strong></li>
+<li>Close current app with <strong>Cmd + Q</strong></li>
+</ul>
+<hr>
+<h2 id="app-specific-shortcuts">App-Specific Shortcuts</h2>
+<ul>
+<li><strong>Slack</strong>
+<ul>
+<li><strong>Command+K</strong> to find conversations</li>
+</ul>
+</li>
+<li><strong>Chrome</strong>
+<ul>
+<li><strong>Cmd + L</strong> to highlight to URL bar</li>
+<li><strong>Ctrl + Tab</strong> to switch tabs</li>
+<li><strong>Cmd + R</strong> to refresh the current tab</li>
+<li><strong>Cmd + [ to go back and CMD + ]</strong> to go forward a page</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="5-figure-out-how-to-jump-to-your-commonly-used-apps">#5. Figure out how to jump to your commonly used apps</h2>
+<ul>
+<li>Use Karabiner Elements and add Launchkeys</li>
+<li>Use Alfred/Spotlight to help with launch random applications</li>
+</ul>
+<hr>
+<h2 id="exercise">Exercise</h2>
+<p><em>If you want to get serious about this write down or keep a mental note of every time you stop &amp; pick up your mouse today.</em></p>
+<p><em>Capture what you were trying to do.</em></p>
+]]></content:encoded></item><item><title>How I use TickTick 2021</title><link>https://brandonkboswell.com/blog/How-I-use-TickTick-2021/</link><pubDate>Sun, 31 Oct 2021 11:55:44 +0000</pubDate><guid>https://brandonkboswell.com/blog/How-I-use-TickTick-2021/</guid><description>Don’t play “catch and release” with your thoughts. Your ideas have value, but tend to arrive when you least expect them. By making it a habit to “capture” and save them, you can allow them to live forever in a trusted system that reflects your goals and interests.</description><content:encoded><![CDATA[<blockquote>
+<p>Don’t play “catch and release” with your thoughts. Your ideas have value, but tend to arrive when you least expect them. By making it a habit to “capture” and save them, you can allow them to live forever in a trusted system that reflects your goals and interests. This also leaves your mind free and clear to come up with even more ideas.</p>
+</blockquote>
+<h2 id="-thiago-forte">— Thiago Forte</h2>
+<hr>
+<h3 id="quick-capture">Quick Capture</h3>
+<p>I get ideas &amp; inspiration often while working on others and TickTick&rsquo;s quick capture allows me to quickly jot that down and get back to what I was doing without missing a beat.
+* From iOS
+* From MacOS
+* From Chrome</p>
+<h3 id="the-inbox">The Inbox</h3>
+<p>My digital note list. This is where I cull through all the things &amp; set follow up timing and lists for.</p>
+<p>Reference Seth Godin&rsquo;s work around a system over outcomes. You have control over showing up, you have less control over the outcome, but if you create a system where you produce consistently and are constantly working on improving, you will be doing what you can.</p>
+<h3 id="my-lists">My Lists</h3>
+<ul>
+<li>What are they:
+<ul>
+<li>Strategic Work vs Junk Work</li>
+<li>Routines</li>
+<li>Home</li>
+<li>Evening</li>
+<li>Personal Development</li>
+<li>Youtube
+<ul>
+<li>Youtube Channel</li>
+<li>Youtube Video Ideas</li>
+</ul>
+</li>
+<li>Productivity Blog</li>
+<li>Reviews</li>
+<li>Family</li>
+<li>Store</li>
+<li>Content Backlog</li>
+<li>Ideas</li>
+</ul>
+</li>
+</ul>
+<h3 id="routines">Routines</h3>
+<p>Prior to embracing a digital todo list, I was a very reactionary person. Things didn&rsquo;t get done until I noticed they were needed. For example in my twenties I wouldn&rsquo;t go and get a haircut until I realized that my hair was way too long. In my mid twenties I finally realized the value of pre-scheduling haircuts and how I didn&rsquo;t have to look like a bum between haircuts.
+Once I figured this out I could apply this same pattern to other things in life. Cutting the dog&rsquo;s nails, changing air filters in the house, getting the car inspected, etc.
+Setting up repeats when creating routines.</p>
+<h3 id="calendar-view--time-blocking">Calendar View / Time Blocking</h3>
+<ul>
+<li>How I do my timeblocking and make sure that my plan for the day makes sense. In a perfect world I would review this each night in preparation for the next day, but I typically review this with my morning cup of coffee before work.</li>
+<li>Time blocking, including thinking time. Articles. Anything I want to get done. There is a much greater chance that you will follow through on your thinking time if you put it on a calendar. I used to do this in Fantastical, but I found that if I had to move that time for whatever reason (it happened a lot) that I would get phantom notifications and it quickly got the point that I was hating <em>Fantastical</em>. I worked with their support team, but ultimately it sounds like a limitation in how their push notification implementation with iOS and it wasn&rsquo;t fixable. So I solved this by moving my <em>Timeblocking</em> to TickTick as it could represent my Google Calendars similarly to Fantastical. (It does have a less than desirable quirk where declined meetings will continue to show). TickTick I&rsquo;ve reported this (please fix it).</li>
+</ul>
+<hr>
+<h3 id="pros">Pros</h3>
+<ul>
+<li>Has Calendar Support that Things 3 was (intentionally) missing which made timeboxing and aligning with meeting schedules challenging</li>
+<li>Really good support for attachments
+(this was legitimately the thing that made me leave Things 3)</li>
+<li>Syncing between multiple devices
+<ul>
+<li>Native + Web</li>
+</ul>
+</li>
+<li>Excellent Quick Capture</li>
+<li>Foldered Lists are pretty useful</li>
+<li>Free Tier will likely work for many people</li>
+</ul>
+<hr>
+<h3 id="cons">Cons</h3>
+<ul>
+<li>Template support exists, but is a bit clunky</li>
+<li>Invites you decline still show up in TickTick. This is especially painful for weekly recurring meetings. (Fix this TickTick)</li>
+<li>You can&rsquo;t move calendar events the way you can tasks, so you still need to use another calendar app such as Fantastical or Google Cal</li>
+<li>Calendar view is more readable in the Browser than on the Mac App
+<ul>
+<li>The difference used to be huge, now it&rsquo;s just minor.</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded></item><item><title>Save Chrome Tab Groups with Tabox</title><link>https://brandonkboswell.com/blog/Save-Chrome-Tab-Groups-with-Tabox/</link><pubDate>Tue, 19 Oct 2021 08:07:57 +0000</pubDate><guid>https://brandonkboswell.com/blog/Save-Chrome-Tab-Groups-with-Tabox/</guid><description>Tabox
+What is it Tabox is a better version of Tab Groups for Chrome I think they support Edge as well (but I don&amp;rsquo;t use Edge) It solves for me the problem of needing to keep a set of tabs around forever because I&amp;rsquo;m not done with it yet Perhaps I was configuring a new Care Plan at Work, but then I had to run to a meeting.</description><content:encoded><![CDATA[<p>
+
+
+
+
+<a href="/Tabox" rel="noopener" class="internal-link" data-src="/Tabox">Tabox</a></p>
+<h2 id="what-is-it">What is it</h2>
+<ul>
+<li>Tabox is a better version of Tab Groups for Chrome
+<ul>
+<li>I think they support Edge as well (but I don&rsquo;t use Edge)</li>
+</ul>
+</li>
+<li>It solves for me the problem of needing to keep a set of tabs around forever because I&rsquo;m not done with it yet
+<ul>
+<li>Perhaps I was configuring a new Care Plan at Work, but then I had to run to a meeting. Before I had to leave all of those tabs open. Or worse if I didn&rsquo;t finish something at the end of the day I would have to decide if I wanted to leave that open overnight or not. At Dorsata users (especially admins) are logged out after inactivity so those tabs aren&rsquo;t going to work in the morning anyway.</li>
+</ul>
+</li>
+<li>So how do you use it?
+<ul>
+<li>Install the Chrome Extension:</li>
+<li>Find a set of Tab&rsquo;s you will need to retrieve in the future</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded></item><item><title>Faster Quick Capture &amp; Dictation for TickTick (iOS)</title><link>https://brandonkboswell.com/blog/Faster-Quick-Capture-Dictation-for-TickTick-iOS/</link><pubDate>Mon, 20 Sep 2021 21:24:08 +0000</pubDate><guid>https://brandonkboswell.com/blog/Faster-Quick-Capture-Dictation-for-TickTick-iOS/</guid><description>I started using TickTick in march of this year after finding that time blocking in Things 3 + Fantastical to have a number of issues (perhaps I will do more on that in a future video).</description><content:encoded><![CDATA[<p>I started using TickTick in march of this year after finding that time blocking in Things 3 + Fantastical to have a number of issues (perhaps I will do more on that in a future video).</p>
+<p>Once I migrated over to TickTick, I found myself using it for everything. It basically became my inbox for everything: Tasks, Ideas, Funny things that people said that I didn&rsquo;t want to instantly forget. I came to the realization that as long as I could get the item into TickTick I would act on it.</p>
+<p>The issue I found was although TickTick has good quick capture and dictation built in, there was no way they could do it fast enough for what I wanted. Mostly because of limitations in iOS. At least on my iPhone XS it can only boot so fast and it only can be ready for input so fast.</p>
+<p>So I set out to see if I could create a quick capture that was instantly ready for input and that I could easily dictate to while in the shower or driving in the car.</p>
+<p>Here&rsquo;s where I landed:</p>
+<ul>
+<li>Tap Quick Capture: to type in a quick task</li>
+<li>I could tap the same for Dictate</li>
+<li>If I&rsquo;m in another app and realize there&rsquo;s something I need to do late I can double tap the back of my phone to open the quick capture.</li>
+<li>Lastly if I&rsquo;m in driving in the car or get an idea while in the shower I can say Hey Siri, Jot</li>
+</ul>
+<p>Alright so let me show you how to set this up:
+Quick Capture</p>
+<p>The Dictation Workflow</p>
+<ul>
+<li>New Shortcut</li>
+<li>Choose a New: In this case Jot this Down</li>
+<li>Choose Add Action
+<ul>
+<li>Search for Dictate Text</li>
+</ul>
+</li>
+<li>Search for TickTick
+<ul>
+<li>Choose Add Single Task and Choose Dictated Text</li>
+<li>Spin open the Options Arrow and be sure to Enable Edit in App. An interesting issue with Shortcut workflows is they don&rsquo;t open the app and the apps don&rsquo;t get a chance to send your newly created item to the cloud which means your newly created item only exists on your device which is exactly what we don&rsquo;t want. If you choose Edit in App then TickTick will open and your item will be available anywhere you access TickTick.</li>
+<li>From here you can hit the share button at the bottom and choose Add to Home Screen
+<ul>
+<li>You can change the icon by tapping here on the left and you can change the App name here on the right. Choose add and you&rsquo;ve got a Quick Capture App you can launch from the Home Screen</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Alright on to the Quick Capture Workflow:</p>
+<ul>
+<li>
+<p>Same initial steps as before</p>
+<ul>
+<li>New Shortcut</li>
+<li>Name it</li>
+<li>Choose Add Action
+<ul>
+<li>Search for TickTick</li>
+<li>Add a Single Task
+<ul>
+<li>Tap where it says task and choose Ask Each Time. Press Done on your keyboard</li>
+<li>Spin open the arrow and enable edit in App</li>
+</ul>
+</li>
+<li>Lets give it a spin.</li>
+<li>If it asks would you like to Allow Your shortcut to share data with TickTick then choose Allow</li>
+<li>To make it launch on Double tapping the back of your phone:
+<ul>
+<li>Go to settings -&gt; Accessibility -&gt; Touch -&gt; Back Tap -&gt;. Double Tap  and choose your Shortcut from the bottom of the list.</li>
+<li>Now Double tapping the back of your iPhone will launch your quick capture shortcut.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>There you have it. That&rsquo;s how I quick capture and dictate with TickTick for iOS. If this was helpful to you please leave a like and comment. Also I have a video on how I use Alfred to Quick launch anything. You can check it out right here.</p>
+</li>
+</ul>
+]]></content:encoded></item><item><title>Setting up a new Mac</title><link>https://brandonkboswell.com/blog/Setting-up-a-new-Mac/</link><pubDate>Sun, 01 Aug 2021 15:38:57 +0000</pubDate><guid>https://brandonkboswell.com/blog/Setting-up-a-new-Mac/</guid><description>MacOS
+When Possible Start from a fresh install
+Log in to iCloud
+Install
+Chrome Alfred Obsidian ShiftIt (Amethyst) aText Skitch Rocket 1Password HandMirror Karabiner Elements Set Karabiner Elements Profile TickTick / Things 3 Fantastical For Development</description><content:encoded><![CDATA[<p>
 
 
 
 
 <a href="/MacOS" rel="noopener" class="internal-link" data-src="/MacOS">MacOS</a></p>
-<p>I think this machine got a bad rap when it came out for only having USB-C ports. I actually think that aspect of the computer is fine and that criticism is a bit harsh. What I can&rsquo;t look past and I feel make it a dreadful device are:</p>
-<ul>
-<li>the constant fan noise</li>
-<li>clunky handling of external displays</li>
-<li>awful key travel</li>
-<li>horrible arrow key shape that no longer allows your fingers to find them reliably without looking</li>
-</ul>
-<hr>
-<h3 id="references">References</h3>
-]]></content:encoded></item><item><title>Achieving Flow State</title><link>https://brandonkboswell.com/Achieving-Flow-State/</link><pubDate>Thu, 17 Mar 2022 13:01:45 +0000</pubDate><guid>https://brandonkboswell.com/Achieving-Flow-State/</guid><description>For me the easiest, most likely way to achieve flow state is to throw in the AirPod Pro headphones and set them to Noise Cancellation and turn on one of the following:</description><content:encoded><![CDATA[<p>For me the easiest, most likely way to achieve <em>flow state</em> is to throw in the <em>AirPod Pro</em> headphones and set them to <em>Noise Cancellation</em> and turn on one of the following:</p>
 <ul>
 <li>
-
-<a href="https://open.spotify.com/playlist/3Vy94FDF0S5A4FTvKnTWtL?si=279657fa9f034359" rel="noopener">Journaling (No Lyrics) on Spotify</a></li>
+<p><input checked="" disabled="" type="checkbox"> When Possible Start from a fresh install</p>
+</li>
 <li>
-
-<a href="https://open.spotify.com/playlist/37i9dQZF1DX1s9knjP51Oa?si=bdbae497376f4858" rel="noopener">Calm Vibes on Spotify</a></li>
+<p><input checked="" disabled="" type="checkbox"> Log in to <em>iCloud</em></p>
+</li>
 <li>
-
-<a href="https://www.youtube.com/watch?v=V2VmcuOEqEg" rel="noopener">SKRILLEX LIVE @ ULTRA MUSIC FESTIVAL 2015</a></li>
-</ul>
-<p>I have much higher quality headphones than the Airpods, but some combination of the noise cancellation, weightlessness, and the lack of a cable makes a huge difference in helping me focus on what I need to get done. I do find it odd that I can either listen to calm, quiet music or aggressive dubstep and they both enable the same thing, but they do. I find listening to unfamiliar music with forward lyrics difficult for <em>concentration</em>. The noise cancellation is also helpful because I find the constant fan noise of the 
-
-
-
-
-<a href="/Touchbar-Macbook-Pro" rel="noopener" class="internal-link" data-src="/Touchbar-Macbook-Pro">Touchbar Macbook Pro</a> especially annoying.</p>
-<p>For listening to music for enjoyment I prefer the <em>Hifiman Sundara</em> headphones.
-<em>Use music without lyrics to help achieve flow state</em></p>
-]]></content:encoded></item><item><title>4 loops that cause creative struggle</title><link>https://brandonkboswell.com/sources/4-loops-that-cause-creative-struggle/</link><pubDate>Fri, 11 Mar 2022 09:22:55 +0000</pubDate><guid>https://brandonkboswell.com/sources/4-loops-that-cause-creative-struggle/</guid><description> Author: Janis Ozolins URL: https://twitter.com/ozolinsjanis/status/1420344259367030784?s=12</description><content:encoded><![CDATA[<ul>
-<li>Author: <em>Janis Ozolins</em></li>
-<li>URL: 
-
-<a href="https://twitter.com/ozolinsjanis/status/1420344259367030784?s=12" rel="noopener">https://twitter.com/ozolinsjanis/status/1420344259367030784?s=12</a></li>
-</ul>
-]]></content:encoded></item><item><title>Productivity</title><link>https://brandonkboswell.com/Productivity/</link><pubDate>Wed, 09 Mar 2022 08:01:35 +0000</pubDate><guid>https://brandonkboswell.com/Productivity/</guid><description> References</description><content:encoded>&lt;hr>
-&lt;h3 id="references">References&lt;/h3></content:encoded></item><item><title>I currently prefer two smaller monitors to one ultrawide monitor</title><link>https://brandonkboswell.com/seedlings/I-currently-prefer-two-smaller-monitors-to-one-ultrawide-monitor/</link><pubDate>Wed, 09 Mar 2022 07:59:43 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/I-currently-prefer-two-smaller-monitors-to-one-ultrawide-monitor/</guid><description> Productivity
-To be completely clear, I have not personally tried an ultrawide monitor, but I would think screensharing and moving windows around would be annoying on one.
-References</description><content:encoded><![CDATA[<p>
-
-
-
-
-<a href="/Productivity" rel="noopener" class="internal-link" data-src="/Productivity">Productivity</a></p>
-<p>To be completely clear, I have not personally tried an ultrawide monitor, but I would think screensharing and moving windows around would be annoying on one.</p>
-<hr>
-<h3 id="references">References</h3>
-]]></content:encoded></item><item><title>You can't beat the grab and go utility of a laptop</title><link>https://brandonkboswell.com/seedlings/You-cant-beat-the-grab-and-go-utility-of-a-laptop/</link><pubDate>Wed, 09 Mar 2022 07:54:14 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/You-cant-beat-the-grab-and-go-utility-of-a-laptop/</guid><description> Productivity / Digital Workflow
-References</description><content:encoded><![CDATA[<p>
-
-
-
-
-<a href="/Productivity" rel="noopener" class="internal-link" data-src="/Productivity">Productivity</a> / 
-
-
-
-
-<a href="/moc/Digital-Workflow" rel="noopener" class="internal-link" data-src="/moc/Digital-Workflow">Digital Workflow</a></p>
-<hr>
-<h3 id="references">References</h3>
-]]></content:encoded></item><item><title>Balancing consuming new content vs reviewing past content</title><link>https://brandonkboswell.com/seedlings/Balancing-consuming-new-content-vs-reviewing-past-content/</link><pubDate>Tue, 08 Mar 2022 22:01:26 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/Balancing-consuming-new-content-vs-reviewing-past-content/</guid><description> References</description><content:encoded>&lt;hr>
-&lt;h3 id="references">References&lt;/h3></content:encoded></item><item><title>Before we begin creating something new we start by mimicking</title><link>https://brandonkboswell.com/seedlings/Before-we-begin-creating-something-new-we-start-by-mimicking/</link><pubDate>Tue, 08 Mar 2022 21:56:09 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/Before-we-begin-creating-something-new-we-start-by-mimicking/</guid><description> References</description><content:encoded>&lt;hr>
-&lt;h3 id="references">References&lt;/h3></content:encoded></item><item><title>Forgetting is a Feature</title><link>https://brandonkboswell.com/seedlings/Forgetting-is-a-Feature/</link><pubDate>Tue, 08 Mar 2022 21:53:16 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/Forgetting-is-a-Feature/</guid><description>If our brains could remember everything then nothing would be important. Our brains would be an even more calamitous place than it already is. The fact that we forget things we don&amp;rsquo;t use regularly is actually a feature to make room for the new things you will learn.</description><content:encoded><![CDATA[<p>If our brains could remember everything then nothing would be important. Our brains would be an even more calamitous place than it already is. The fact that we forget things we don&rsquo;t use regularly is actually a feature to make room for the new things you will learn. It is like optimizing for <em>Signal to Noise Ratio</em></p>
-<hr>
-<h3 id="references">References</h3>
-]]></content:encoded></item><item><title>My Phone is Ruining My Creativity</title><link>https://brandonkboswell.com/My-Phone-is-Ruining-My-Creativity/</link><pubDate>Tue, 08 Mar 2022 21:17:39 +0000</pubDate><guid>https://brandonkboswell.com/My-Phone-is-Ruining-My-Creativity/</guid><description>Author: Eric Floberg URL: https://www.youtube.com/watch?v=ecx8u4inJHM
-Boredom breeds creativity
-Therefore, avoiding being bored is the death of creativity.
-Basic steps you can try: Don&amp;rsquo;t check your phone for the first hour you wake Don&amp;rsquo;t check your phone while moving Don&amp;rsquo;t check your phone on the toilet Don&amp;rsquo;t check your phone the hour before bed</description><content:encoded><![CDATA[<p>Author: <em>Eric Floberg</em>
-URL: 
-
-<a href="https://www.youtube.com/watch?v=ecx8u4inJHM" rel="noopener">https://www.youtube.com/watch?v=ecx8u4inJHM</a></p>
-<p><em>Boredom breeds creativity</em></p>
-<p>Therefore, avoiding being bored is the death of creativity.</p>
-<h2 id="basic-steps-you-can-try">Basic steps you can try:</h2>
+<p><input checked="" disabled="" type="checkbox"> Install</p>
 <ul>
-<li>Don&rsquo;t check your phone for the first hour you wake</li>
-<li>Don&rsquo;t check your phone while moving</li>
-<li>Don&rsquo;t check your phone on the toilet</li>
-<li>Don&rsquo;t check your phone the hour before bed</li>
+<li><input checked="" disabled="" type="checkbox"> <em>Chrome</em></li>
+<li><input checked="" disabled="" type="checkbox"> 
+
+
+
+
+<a href="/Alfred" rel="noopener" class="internal-link" data-src="/Alfred">Alfred</a></li>
+<li><input checked="" disabled="" type="checkbox"> 
+
+
+
+
+<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a></li>
+<li><input checked="" disabled="" type="checkbox"> <del><em>ShiftIt</em></del> (<em>Amethyst</em>)</li>
+<li><input checked="" disabled="" type="checkbox"> <em>aText</em></li>
+<li><input checked="" disabled="" type="checkbox"> <em>Skitch</em></li>
+<li><input checked="" disabled="" type="checkbox"> 
+
+
+
+
+<a href="/Rocket" rel="noopener" class="internal-link" data-src="/Rocket">Rocket</a></li>
+<li><input checked="" disabled="" type="checkbox"> <em>1Password</em></li>
+<li><input checked="" disabled="" type="checkbox"> <em>HandMirror</em></li>
+<li><input checked="" disabled="" type="checkbox"> <em>Karabiner Elements</em>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Set <em>Karabiner Elements</em> Profile</li>
 </ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 
+
+
+
+
+<a href="/TickTick" rel="noopener" class="internal-link" data-src="/TickTick">TickTick</a> / <em>Things 3</em></li>
+<li><input checked="" disabled="" type="checkbox"> <em>Fantastical</em></li>
+</ul>
+</li>
+<li>
+<p><input checked="" disabled="" type="checkbox"> For Development</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> <em>Postico</em></li>
+<li><input checked="" disabled="" type="checkbox"> <em>Sublime Text</em></li>
+<li><input checked="" disabled="" type="checkbox"> <em>iTerm</em></li>
+</ul>
+</li>
+<li>
+<p><input checked="" disabled="" type="checkbox"> Configure</p>
+<ul>
+<li>
+<p><input checked="" disabled="" type="checkbox"> Mouse/Trackpad</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Turn off natural direction</li>
+<li><input checked="" disabled="" type="checkbox"> Turn off Force touch</li>
+</ul>
+</li>
+<li>
+<p><input checked="" disabled="" type="checkbox"> Setup Key Repeat (Maybe just run the dotfiles)</p>
+<blockquote>
+<p>defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)
+defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)</p>
+</blockquote>
+</li>
+<li>
+<p><input checked="" disabled="" type="checkbox"> Or Just use 
+
+
+
+
+<a href="/TinkerTool" rel="noopener" class="internal-link" data-src="/TinkerTool">TinkerTool</a></p>
+</li>
+<li>
+<p><input checked="" disabled="" type="checkbox"> Show Battery</p>
+</li>
+<li>
+<p><input checked="" disabled="" type="checkbox"> Hide Siri</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Setting Up Dev Environment</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> <em>iTerm2</em></li>
+<li><input checked="" disabled="" type="checkbox"> <em>Sublime Text</em>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Get Preferences</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>My <em>dotfiles</em> are available at 
+
+<a href="https://github.com/brandonkboswell/dotfiles" rel="noopener">https://github.com/brandonkboswell/dotfiles</a></p>
 ]]></content:encoded></item></channel></rss>
