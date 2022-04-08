@@ -8,7 +8,11 @@
 
 
 
-<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a> Vault online, but you&rsquo;re not sure if you want to pay for <em>Obsidian Publish</em> or not. I&rsquo;ve been there, that was the exact same situation I was in when I considered publishing my vault. Call me cheap, but I wasn&rsquo;t sure if I was ready to pay $20 a month for the rest of time. Would I keep writing meaningful content, would people actually ready it? So instead, I decided I was going to figure out a way to publish my vault without the monthly fee. I now publish my vault online, and I don&rsquo;t pay anything for hosting. <strong>(You are currently reading this article from the digital vault that I publish through this method)</strong></p>
+
+<a
+  href="/Obsidian"
+  rel="noopener" class="internal-link"
+  data-src="/Obsidian">Obsidian</a> Vault online, but you&rsquo;re not sure if you want to pay for <em>Obsidian Publish</em> or not. I&rsquo;ve been there, that was the exact same situation I was in when I considered publishing my vault. Call me cheap, but I wasn&rsquo;t sure if I was ready to pay $20 a month for the rest of time. Would I keep writing meaningful content, would people actually ready it? So instead, I decided I was going to figure out a way to publish my vault without the monthly fee. I now publish my vault online, and I don&rsquo;t pay anything for hosting. <strong>(You are currently reading this article from the digital vault that I publish through this method)</strong></p>
 <ul>
 <li>For me, I cobbled together a combination of:
 <ul>
@@ -267,12 +271,20 @@ _content_calendar.md
 
 
 
-<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a> 
+
+<a
+  href="/Obsidian"
+  rel="noopener" class="internal-link"
+  data-src="/Obsidian">Obsidian</a> 
 
 
 
 
-<a href="/sources/Blog" rel="noopener" class="internal-link" data-src="/sources/Blog">Blog</a></p>
+
+<a
+  href="/sources/Blog"
+  rel="noopener" class="internal-link"
+  data-src="/sources/Blog">Blog</a></p>
 ]]></content:encoded></item><item><title>How I Use Obsidian</title><link>https://brandonkboswell.com/blog/How-I-Use-Obsidian/</link><pubDate>Wed, 09 Feb 2022 08:37:56 +0000</pubDate><guid>https://brandonkboswell.com/blog/How-I-Use-Obsidian/</guid><description>Setting up your Obsidian Vault for Personal Knowledge Management can be daunting. You start from scratch, there are 1000&amp;rsquo;s of plugins to chose from, and honestly it all becomes one big distraction from actually generating thoughts and ideas.</description><content:encoded><![CDATA[<p>Setting up your Obsidian Vault for Personal Knowledge Management can be daunting. You start from scratch, there are 1000&rsquo;s of plugins to chose from, and honestly it all becomes one big distraction from actually generating thoughts and ideas. In this video, I will share my approach to managing an Obisidian vault in hopes it will save you a few headaches when starting from scratch.</p>
 <p><strong>Note:</strong> I publish my Obsidian Vault using Github Pages and because of this I use more folders than most vaults you will see. Having folders that I can hide away makes making sure I only share what I intend to share with the Internet. If you haven&rsquo;t already go check out my vault at brandonkboswell.com. I will put a link in the description.</p>
 <h2 id="folders--major-areas">Folders / Major Areas</h2>
@@ -295,12 +307,20 @@ _content_calendar.md
 
 
 
-<a href="/TickTick" rel="noopener" class="internal-link" data-src="/TickTick">TickTick</a> Inbox I put it into 
+
+<a
+  href="/TickTick"
+  rel="noopener" class="internal-link"
+  data-src="/TickTick">TickTick</a> Inbox I put it into 
 
 
 
 
-<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a> for storage.</li>
+
+<a
+  href="/Obsidian"
+  rel="noopener" class="internal-link"
+  data-src="/Obsidian">Obsidian</a> for storage.</li>
 </ul>
 </li>
 <li>Cooking
@@ -357,7 +377,11 @@ _content_calendar.md
 
 
 
-<a href="/2021-In-Review" rel="noopener" class="internal-link" data-src="/2021-In-Review">2021 In Review</a></li>
+
+<a
+  href="/2021-In-Review"
+  rel="noopener" class="internal-link"
+  data-src="/2021-In-Review">2021 In Review</a></li>
 </ul>
 </li>
 </ul>
@@ -399,20 +423,32 @@ _content_calendar.md
 
 
 
-<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a></p>
+
+<a
+  href="/Obsidian"
+  rel="noopener" class="internal-link"
+  data-src="/Obsidian">Obsidian</a></p>
 ]]></content:encoded></item><item><title>My App Essentials</title><link>https://brandonkboswell.com/blog/My-App-Essentials/</link><pubDate>Tue, 01 Feb 2022 11:04:05 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-App-Essentials/</guid><description> Obsidian TickTick Skitch HandMirror Amethyst OneThing 1Password Loom GoodNotes Readwise Command Honorable Mentions Drafts Spotify / Tidal iTerm2 Parcel Fantastical</description><content:encoded><![CDATA[<ul>
 <li>
 
 
 
 
-<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a></li>
+
+<a
+  href="/Obsidian"
+  rel="noopener" class="internal-link"
+  data-src="/Obsidian">Obsidian</a></li>
 <li>
 
 
 
 
-<a href="/TickTick" rel="noopener" class="internal-link" data-src="/TickTick">TickTick</a></li>
+
+<a
+  href="/TickTick"
+  rel="noopener" class="internal-link"
+  data-src="/TickTick">TickTick</a></li>
 <li><em>Skitch</em></li>
 <li><em>HandMirror</em></li>
 <li><em>Amethyst</em></li>
@@ -423,14 +459,22 @@ _content_calendar.md
 
 
 
-<a href="/Loom" rel="noopener" class="internal-link" data-src="/Loom">Loom</a></li>
+
+<a
+  href="/Loom"
+  rel="noopener" class="internal-link"
+  data-src="/Loom">Loom</a></li>
 <li><em>GoodNotes</em></li>
 <li>
 
 
 
 
-<a href="/Readwise" rel="noopener" class="internal-link" data-src="/Readwise">Readwise</a></li>
+
+<a
+  href="/Readwise"
+  rel="noopener" class="internal-link"
+  data-src="/Readwise">Readwise</a></li>
 <li><em>Command</em></li>
 </ul>
 <h3 id="honorable-mentions">Honorable Mentions</h3>
@@ -447,13 +491,21 @@ This video is by no means an exhaustive list of everything Vimium can do, but I 
 
 
 
-<a href="/Chrome-Extensions" rel="noopener" class="internal-link" data-src="/Chrome-Extensions">Chrome Extensions</a></p>
+
+<a
+  href="/Chrome-Extensions"
+  rel="noopener" class="internal-link"
+  data-src="/Chrome-Extensions">Chrome Extensions</a></p>
 <p>This video is by no means an exhaustive list of everything 
 
 
 
 
-<a href="/Vimium" rel="noopener" class="internal-link" data-src="/Vimium">Vimium</a> can do, but I can walk you through the features I use everyday that I think are a good starting point and then you can decide if you want to mix in anything else.</p>
+
+<a
+  href="/Vimium"
+  rel="noopener" class="internal-link"
+  data-src="/Vimium">Vimium</a> can do, but I can walk you through the features I use everyday that I think are a good starting point and then you can decide if you want to mix in anything else.</p>
 <h3 id="features-i-actually-use">Features I actually use:</h3>
 <ul>
 <li>J/K Arrow Keys</li>
@@ -675,7 +727,11 @@ What is it Tabox is a better version of Tab Groups for Chrome I think they suppo
 
 
 
-<a href="/Tabox" rel="noopener" class="internal-link" data-src="/Tabox">Tabox</a></p>
+
+<a
+  href="/Tabox"
+  rel="noopener" class="internal-link"
+  data-src="/Tabox">Tabox</a></p>
 <h2 id="what-is-it">What is it</h2>
 <ul>
 <li>Tabox is a better version of Tab Groups for Chrome
@@ -770,7 +826,11 @@ Chrome Alfred Obsidian ShiftIt (Amethyst) aText Skitch Rocket 1Password HandMirr
 
 
 
-<a href="/MacOS" rel="noopener" class="internal-link" data-src="/MacOS">MacOS</a></p>
+
+<a
+  href="/MacOS"
+  rel="noopener" class="internal-link"
+  data-src="/MacOS">MacOS</a></p>
 <ul>
 <li>
 <p><input checked="" disabled="" type="checkbox"> When Possible Start from a fresh install</p>
@@ -787,13 +847,21 @@ Chrome Alfred Obsidian ShiftIt (Amethyst) aText Skitch Rocket 1Password HandMirr
 
 
 
-<a href="/Alfred" rel="noopener" class="internal-link" data-src="/Alfred">Alfred</a></li>
+
+<a
+  href="/Alfred"
+  rel="noopener" class="internal-link"
+  data-src="/Alfred">Alfred</a></li>
 <li><input checked="" disabled="" type="checkbox"> 
 
 
 
 
-<a href="/Obsidian" rel="noopener" class="internal-link" data-src="/Obsidian">Obsidian</a></li>
+
+<a
+  href="/Obsidian"
+  rel="noopener" class="internal-link"
+  data-src="/Obsidian">Obsidian</a></li>
 <li><input checked="" disabled="" type="checkbox"> <del><em>ShiftIt</em></del> (<em>Amethyst</em>)</li>
 <li><input checked="" disabled="" type="checkbox"> <em>aText</em></li>
 <li><input checked="" disabled="" type="checkbox"> <em>Skitch</em></li>
@@ -802,7 +870,11 @@ Chrome Alfred Obsidian ShiftIt (Amethyst) aText Skitch Rocket 1Password HandMirr
 
 
 
-<a href="/Rocket" rel="noopener" class="internal-link" data-src="/Rocket">Rocket</a></li>
+
+<a
+  href="/Rocket"
+  rel="noopener" class="internal-link"
+  data-src="/Rocket">Rocket</a></li>
 <li><input checked="" disabled="" type="checkbox"> <em>1Password</em></li>
 <li><input checked="" disabled="" type="checkbox"> <em>HandMirror</em></li>
 <li><input checked="" disabled="" type="checkbox"> <em>Karabiner Elements</em>
@@ -815,7 +887,11 @@ Chrome Alfred Obsidian ShiftIt (Amethyst) aText Skitch Rocket 1Password HandMirr
 
 
 
-<a href="/TickTick" rel="noopener" class="internal-link" data-src="/TickTick">TickTick</a> / <em>Things 3</em></li>
+
+<a
+  href="/TickTick"
+  rel="noopener" class="internal-link"
+  data-src="/TickTick">TickTick</a> / <em>Things 3</em></li>
 <li><input checked="" disabled="" type="checkbox"> <em>Fantastical</em></li>
 </ul>
 </li>
@@ -850,7 +926,11 @@ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)</p>
 
 
 
-<a href="/TinkerTool" rel="noopener" class="internal-link" data-src="/TinkerTool">TinkerTool</a></p>
+
+<a
+  href="/TinkerTool"
+  rel="noopener" class="internal-link"
+  data-src="/TinkerTool">TinkerTool</a></p>
 </li>
 <li>
 <p><input checked="" disabled="" type="checkbox"> Show Battery</p>
