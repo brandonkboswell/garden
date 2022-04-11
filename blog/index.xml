@@ -404,6 +404,49 @@ _content_calendar.md
   href="/sources/Blog"
   rel="noopener" class="internal-link"
   data-src="/sources/Blog">Blog</a></p>
+]]></content:encoded></item><item><title>Quicklaunch your commonly used applications with Karabiner Elements</title><link>https://brandonkboswell.com/blog/Quicklaunch-your-commonly-used-applications-with-Karabiner-Elements/</link><pubDate>Wed, 09 Feb 2022 12:25:01 +0000</pubDate><guid>https://brandonkboswell.com/blog/Quicklaunch-your-commonly-used-applications-with-Karabiner-Elements/</guid><description>What shortcuts do I use? O Launching Originally found it watching a YouTube Video by Jesse Skelton which you can find here https://www.youtube.com/watch?v=uaJSjgVEhMQ M -&amp;gt; Music -&amp;gt; Spotify I -&amp;gt; IM -&amp;gt; Messages F -&amp;gt; Files -&amp;gt; Open Downloads Folder G -&amp;gt; Google Chrome -&amp;gt; Chrome C -&amp;gt; Calendar -&amp;gt; Fantastical T -&amp;gt; TickTick -&amp;gt; TickTick Z -&amp;gt; Zoom -&amp;gt; Zoom D -&amp;gt; Obsidian -&amp;gt; Obsidian E -&amp;gt; Editor -&amp;gt; Sublime Text S -&amp;gt; Slack -&amp;gt; Slack Hyper Key This gives me an extra set of Keyboard Shortcut triggers without having to develop Carpel Tunnel or having to leave my home row.</description><content:encoded><![CDATA[<h2 id="what-shortcuts-do-i-use">What shortcuts do I use?</h2>
+<ul>
+<li><strong>O Launching</strong>
+<ul>
+<li>Originally found it watching a YouTube Video by <em>Jesse Skelton</em> which you can find here 
+
+<a href="https://www.youtube.com/watch?v=uaJSjgVEhMQ" rel="noopener">https://www.youtube.com/watch?v=uaJSjgVEhMQ</a>
+<ul>
+<li>M -&gt; Music -&gt; Spotify</li>
+<li>I -&gt; IM -&gt; Messages</li>
+<li>F -&gt; Files -&gt; Open Downloads Folder</li>
+<li>G -&gt; Google Chrome -&gt; Chrome</li>
+<li>C -&gt; Calendar -&gt; Fantastical</li>
+<li>T -&gt; TickTick -&gt; TickTick</li>
+<li>Z -&gt; Zoom -&gt; Zoom</li>
+<li>D -&gt; Obsi<strong>d</strong>ian -&gt; Obsidian</li>
+<li>E -&gt; Editor -&gt; Sublime Text</li>
+<li>S -&gt; Slack -&gt; Slack</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Hyper Key</strong>
+<ul>
+<li>This gives me an extra set of Keyboard Shortcut triggers without having to develop Carpel Tunnel or having to leave my home row. I used to bind many keyboard shortcuts to CTRL+ALT+COMMAND, but then I would have to leave the home row with the right hand which just leads to typing mistakes when trying to migrate back afterwards. Having the hyper key allows me to do those same shortcuts with my pinky finger on my left hand.
+<ul>
+<li>CAPS_LOCK to HYPER (SHIFT+COMMAND+OPTION+CONTROL) or ESCAPE (If Alone)</li>
+<li>Hyper + i/j/k/l == vim directional Keys</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>HJKL Arrow Keys</strong>
+<ul>
+<li>Similar to the one above. I used to have one of the old Macbook Pros with the inverted T Arrow keys, and then with the unibody Macbooks with no ports they decided to screw that up. I had a ton of muscle memory for getting to those keys and never could get that back since they changed this. So last year I decided that I was going to move my arrow keys to the home row so I wouldn&rsquo;t have to leave it. This configuration also has Hyper + G for beginning of line and Hyper + ; for end of line, but I honestly never use those.  I just use Hyper+Command+H or L, there&rsquo;s too much muscle memory there that I can&rsquo;t seem to give up.</li>
+</ul>
+</li>
+<li><strong>Shift+Escape to Tilde</strong>
+<ul>
+<li>This is largely just a symptom of having a 65% keyboard and needing to type a tilde where there&rsquo;s no key for it. This is what I chose. I have more 65% keyboard hacks in my Keyboard itself that I should probably do a video on. Let me know in the comments if you have any interest in that.</li>
+</ul>
+</li>
+</ul>
 ]]></content:encoded></item><item><title>How I Use Obsidian</title><link>https://brandonkboswell.com/blog/How-I-Use-Obsidian/</link><pubDate>Wed, 09 Feb 2022 08:37:56 +0000</pubDate><guid>https://brandonkboswell.com/blog/How-I-Use-Obsidian/</guid><description>Setting up your Obsidian Vault for Personal Knowledge Management can be daunting. You start from scratch, there are 1000&amp;rsquo;s of plugins to chose from, and honestly it all becomes one big distraction from actually generating thoughts and ideas.</description><content:encoded><![CDATA[<p>Setting up your Obsidian Vault for Personal Knowledge Management can be daunting. You start from scratch, there are 1000&rsquo;s of plugins to chose from, and honestly it all becomes one big distraction from actually generating thoughts and ideas. In this video, I will share my approach to managing an Obisidian vault in hopes it will save you a few headaches when starting from scratch.</p>
 <p><strong>Note:</strong> I publish my Obsidian Vault using Github Pages and because of this I use more folders than most vaults you will see. Having folders that I can hide away makes making sure I only share what I intend to share with the Internet. If you haven&rsquo;t already go check out my vault at brandonkboswell.com. I will put a link in the description.</p>
 <h2 id="folders--major-areas">Folders / Major Areas</h2>
@@ -870,7 +913,77 @@ What is it Tabox is a better version of Tab Groups for Chrome I think they suppo
 </ul>
 </li>
 </ul>
-]]></content:encoded></item><item><title>Faster Quick Capture &amp; Dictation for TickTick (iOS)</title><link>https://brandonkboswell.com/blog/Faster-Quick-Capture-Dictation-for-TickTick-iOS/</link><pubDate>Mon, 20 Sep 2021 21:24:08 +0000</pubDate><guid>https://brandonkboswell.com/blog/Faster-Quick-Capture-Dictation-for-TickTick-iOS/</guid><description>I started using TickTick in march of this year after finding that time blocking in Things 3 + Fantastical to have a number of issues (perhaps I will do more on that in a future video).</description><content:encoded><![CDATA[<p>I started using TickTick in march of this year after finding that time blocking in Things 3 + Fantastical to have a number of issues (perhaps I will do more on that in a future video).</p>
+]]></content:encoded></item><item><title>Mouseless MacOS Window Management - Yabai vs Amethyst</title><link>https://brandonkboswell.com/blog/Mouseless-MacOS-Window-Management-Yabai-vs-Amethyst/</link><pubDate>Sun, 10 Oct 2021 21:13:23 +0000</pubDate><guid>https://brandonkboswell.com/blog/Mouseless-MacOS-Window-Management-Yabai-vs-Amethyst/</guid><description>Why do you need a window manager at all? too much time moving windows around and wanted an easier way to snap two windows side by side or have a window be full screen without having to us MacOS spaces.</description><content:encoded><![CDATA[<h3 id="why-do-you-need-a-window-manager-at-all">Why do you need a window manager at all?</h3>
+<ul>
+<li>too much time moving windows around and wanted an easier way to snap two windows side by side or have a window be full screen without having to us MacOS spaces.</li>
+</ul>
+<h3 id="what-have-i-tried">What have I tried?</h3>
+<ul>
+<li>I used ShiftIt for a number of years</li>
+<li>I had 4 basic shortcuts that I would use all the time
+<ul>
+<li>Left</li>
+<li>Right</li>
+<li>Full-Screen</li>
+<li>Next Monitor</li>
+</ul>
+</li>
+<li>Worked well, but I found that to do most interactions I was doing I ended up needing the mouse to complete them. For example, putting two windows side-by-side would require a mouse to switch focus reliably to the other monitor.</li>
+<li>I found out that <em>ShiftIt</em> was looking for a new maintainer and they were recommending Hammerspoon.</li>
+<li>Eventually I heard about Yabai and gave it a try. It was very different to what I was using with ShiftIt, but gave a different perspective of window management. Instead of me managing my windows manually, what if they could management themselves.</li>
+<li>I liked the idea of this, but found it to be a bit unreliable in the MacOS Monterrey Beta which I was running, and started trying to troubleshoot it. I found that BetterTouchTool and it were have weird interactions and once I stopped using BetterTouchTool it worked better.</li>
+<li>While trying to troubleshoot Yabai I came across Christopher Kapic&rsquo;s Video on Yabai and he mentioned Amethyst. I dug into it and gave it a shot and it seemed to match my needs pretty well.</li>
+<li>Here are the shortcuts I use (Note I use a hyper key caps locks that is bound to Escape on tap and changes my HJKL keys into arrow keys). This works well for me not needing to leave the home row, but your mileage may vary.
+<ul>
+<li>Two Layouts: Tall + Fullscreen
+<ul>
+<li>This lets me toggle between tiled and fullscreen which is a habit I have from my Shiftit days</li>
+<li>Hyper + Return: Toggle Layout</li>
+<li>Shrink &amp; Expand The Layout with Hyper Plus &amp; Minus</li>
+<li>Move window focus with Hyper ASDF
+<ul>
+<li>S &amp; D move the focus forward and back on the active window</li>
+<li>A &amp; F move focus to the previous and next monitors accordingly</li>
+</ul>
+</li>
+<li>Move Windows with Hyper + ZXCV
+<ul>
+<li>X &amp; C move windows around on the current screen</li>
+<li>Z &amp; V move windows to previous and next monitor</li>
+</ul>
+</li>
+<li>Lastly in order to minimize having to grab my mouse, I set up <em>O Launching</em> with Karabiner Elements for my most common apps
+<ul>
+<li>Slack</li>
+<li>TickTick</li>
+<li>Sublime</li>
+<li>Chrome</li>
+<li>Fantastical</li>
+<li>Finder</li>
+<li>Spotify</li>
+<li>Zoom</li>
+</ul>
+</li>
+<li>Recently turned off my Dock with 
+
+
+
+
+
+<a
+  href="/TinkerTool"
+  rel="noopener" class="internal-link"
+  data-src="/TinkerTool">TinkerTool</a>
+<ul>
+<li>The dock being visible was required for me up until about a month ago when I tried TinkerTool and was able to make it so that it would quickly show on demand.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded></item><item><title>Quickly Mark Up Mac Screenshots on iPad (Skitch vs Markup)</title><link>https://brandonkboswell.com/blog/Quickly-Mark-Up-Mac-Screenshots-on-iPad-Skitch-vs-Markup/</link><pubDate>Mon, 27 Sep 2021 21:57:05 +0000</pubDate><guid>https://brandonkboswell.com/blog/Quickly-Mark-Up-Mac-Screenshots-on-iPad-Skitch-vs-Markup/</guid><description/><content:encoded></content:encoded></item><item><title>Faster Quick Capture &amp; Dictation for TickTick (iOS)</title><link>https://brandonkboswell.com/blog/Faster-Quick-Capture-Dictation-for-TickTick-iOS/</link><pubDate>Mon, 20 Sep 2021 21:24:08 +0000</pubDate><guid>https://brandonkboswell.com/blog/Faster-Quick-Capture-Dictation-for-TickTick-iOS/</guid><description>I started using TickTick in march of this year after finding that time blocking in Things 3 + Fantastical to have a number of issues (perhaps I will do more on that in a future video).</description><content:encoded><![CDATA[<p>I started using TickTick in march of this year after finding that time blocking in Things 3 + Fantastical to have a number of issues (perhaps I will do more on that in a future video).</p>
 <p>Once I migrated over to TickTick, I found myself using it for everything. It basically became my inbox for everything: Tasks, Ideas, Funny things that people said that I didn&rsquo;t want to instantly forget. I came to the realization that as long as I could get the item into TickTick I would act on it.</p>
 <p>The issue I found was although TickTick has good quick capture and dictation built in, there was no way they could do it fast enough for what I wanted. Mostly because of limitations in iOS. At least on my iPhone XS it can only boot so fast and it only can be ready for input so fast.</p>
 <p>So I set out to see if I could create a quick capture that was instantly ready for input and that I could easily dictate to while in the shower or driving in the car.</p>
@@ -936,6 +1049,31 @@ Quick Capture</p>
 <p>There you have it. That&rsquo;s how I quick capture and dictate with TickTick for iOS. If this was helpful to you please leave a like and comment. Also I have a video on how I use Alfred to Quick launch anything. You can check it out right here.</p>
 </li>
 </ul>
+]]></content:encoded></item><item><title>Launch anything on your Mac with Alfred</title><link>https://brandonkboswell.com/blog/Launch-anything-on-your-Mac-with-Alfred/</link><pubDate>Thu, 02 Sep 2021 22:34:03 +0000</pubDate><guid>https://brandonkboswell.com/blog/Launch-anything-on-your-Mac-with-Alfred/</guid><description>I started using Alfred back in 2014 and It&amp;rsquo;s been a critical part of my Mac OS workflow ever since. I&amp;rsquo;m not going to get into everything that&amp;rsquo;s magical about Alfred because I could ramble way too long about that.</description><content:encoded><![CDATA[<p>I started using Alfred back in 2014 and It&rsquo;s been a critical part of my Mac OS workflow ever since. I&rsquo;m not going to get into everything that&rsquo;s magical about Alfred because I could ramble way too long about that. Today let&rsquo;s focus on one particular trick for Alfred which is Bookmarks.</p>
+<p>I use 
+
+
+
+
+
+<a
+  href="/Alfred"
+  rel="noopener" class="internal-link"
+  data-src="/Alfred">Alfred</a> to open Applications all of the time by tapping Option + Space and typing the application I am looking for, but more and more often the applications I use each day are in my web browser, especially the ones that I work on and have to administer.
+Often times there are unique URLs for pages I use, but maybe only once or twice a month.</p>
+<p>Wherever possible I want to remove looking from things from my workflow and instead I want to be able to find and launch those things as quickly as I can think of them. What I&rsquo;ve found recently is I can organize my bookmarks by my logical name for them. Basically what I would call them.</p>
+<p>If I wanted to get to:</p>
+<ul>
+<li>the active sprint view in Jira can just type Active</li>
+<li>Calendar for <em>Google Calendar</em></li>
+<li>Any commonly used page for work
+I can put all of those things in a <em>Bookmark</em> folder and call upon them in Alfred.</li>
+</ul>
+<p>To set it up, just open your Alfred Preferences and then choosing Web Bookmarks
+Mark sure your preferred browser is checked and mark sure it&rsquo;s set to in Default Results.
+This last option is just personal preference.</p>
+<p>From here, Alfred can access your browser&rsquo;s bookmarks and keeps them in sync. If you add a new bookmark just hit Option + Space to open Alfred and then press escape and by the time you open it the next time your newly added bookmark will be there.</p>
+<p>Ever since I learned this trick, I feel like I can now get to all the places on my Mac that I want as soon as I think of them. Previously, this was only possible for applications.</p>
 ]]></content:encoded></item><item><title>Setting up a new Mac</title><link>https://brandonkboswell.com/blog/Setting-up-a-new-Mac/</link><pubDate>Sun, 01 Aug 2021 15:38:57 +0000</pubDate><guid>https://brandonkboswell.com/blog/Setting-up-a-new-Mac/</guid><description>MacOS
 When Possible Start from a fresh install
 Log in to iCloud
