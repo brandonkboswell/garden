@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>Raycast</title><link>https://brandonkboswell.com/Raycast/</link><pubDate>Sun, 10 Apr 2022 23:27:19 +0000</pubDate><guid>https://brandonkboswell.com/Raycast/</guid><description>It seems like Alfred with a better UI. The fact that it has good Figma and Github support makes it interesting to me, but I haven&amp;rsquo;t found a good way to support Launch anything on your Mac with Alfred without having to think about is it a bookmark or not.</description><content:encoded><![CDATA[<p>It seems like 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>Homework for Life</title><link>https://brandonkboswell.com/sources/Homework-for-Life/</link><pubDate>Mon, 11 Apr 2022 21:45:15 +0000</pubDate><guid>https://brandonkboswell.com/sources/Homework-for-Life/</guid><description>Author: Matthew Dicks URL: https://www.youtube.com/watch?v=x7p329Z8MD0 Storytelling is about connecting with people.
+&amp;ldquo;If I had to tell a 5-minute story from something that happened today, What would it be?&amp;rdquo; What was the most story-like moment?</description><content:encoded><![CDATA[<ul>
+<li>Author: <em>Matthew Dicks</em></li>
+<li>URL: 
+
+<a href="https://www.youtube.com/watch?v=x7p329Z8MD0" rel="noopener">https://www.youtube.com/watch?v=x7p329Z8MD0</a></li>
+</ul>
+<p>Storytelling is about connecting with people.</p>
+<h3 id="if-i-had-to-tell-a-5-minute-story-from-something-that-happened-today-what-would-it-be">&ldquo;If I had to tell a 5-minute story from something that happened today, What would it be?&rdquo;</h3>
+<p><em>What was the most story-like moment? What makes today different from the last day?</em></p>
+<p>Just writing a few sentences from that moment can bring you right back to that moment on a future date.</p>
+<p>
+
+
+
+
+
+<a
+  href="/Daily-Reflection"
+  rel="noopener" class="internal-link"
+  data-src="/Daily-Reflection">Daily Reflection</a></p>
+]]></content:encoded></item><item><title>Raycast</title><link>https://brandonkboswell.com/Raycast/</link><pubDate>Sun, 10 Apr 2022 23:27:19 +0000</pubDate><guid>https://brandonkboswell.com/Raycast/</guid><description>It seems like Alfred with a better UI. The fact that it has good Figma and Github support makes it interesting to me, but I haven&amp;rsquo;t found a good way to support Launch anything on your Mac with Alfred without having to think about is it a bookmark or not.</description><content:encoded><![CDATA[<p>It seems like 
 
 
 
@@ -243,9 +264,4 @@ References Atomic Habits My Week Without Email and Slack RadReads</description><
   href="/sources/My-Week-Without-Email-and-Slack-RadReads"
   rel="noopener" class="internal-link"
   data-src="/sources/My-Week-Without-Email-and-Slack-RadReads">My Week Without Email and Slack  RadReads</a></p>
-]]></content:encoded></item><item><title>MeetingBar</title><link>https://brandonkboswell.com/MeetingBar/</link><pubDate>Wed, 23 Mar 2022 20:31:20 +0000</pubDate><guid>https://brandonkboswell.com/MeetingBar/</guid><description>https://meetingbar.onrender.com/
-Gives the one missing feature I miss from Flexibits Premium: The ability to launch my next meeting&amp;rsquo;s Zoom link with one click or keystroke.</description><content:encoded><![CDATA[<p>
-
-<a href="https://meetingbar.onrender.com/" rel="noopener">https://meetingbar.onrender.com/</a></p>
-<p>Gives the one missing feature I miss from <em>Flexibits Premium</em>: The ability to launch my next meeting&rsquo;s Zoom link with one click or keystroke.</p>
 ]]></content:encoded></item></channel></rss>
