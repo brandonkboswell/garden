@@ -36,4 +36,28 @@ I recorded a video of how I use Obsidian at: How I Use Obsidian</description><co
 <ul>
 <li>Open the Link under your cursor with CMD+OPT+ENTER</li>
 </ul>
+]]></content:encoded></item><item><title>Vim</title><link>https://brandonkboswell.com/Vim/</link><pubDate>Wed, 21 Jul 2021 14:13:12 +0000</pubDate><guid>https://brandonkboswell.com/Vim/</guid><description>Getting started: https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started
+Watching the Thoughtbot training for VIM this dug into f and t for finding a specific character. F will land on it. T will land just prior to it Capital F and Capital T do the same, but in reverse Semicolon repeats Use / for searching.</description><content:encoded><![CDATA[<p>Getting started: 
+
+<a href="https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started" rel="noopener">https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started</a></p>
+<p>Watching the Thoughtbot training for VIM this dug into
+f and t for finding a specific character. F will land on it. T will land just prior to it
+Capital F and Capital T do the same, but in reverse
+Semicolon repeats
+Use / for searching. Use n to go to the next result and shift N to go to the previous
+
+
+<a href="https://thoughtbot.com/upcase/videos/onramp-to-vim-motions-and-moving" rel="noopener">https://thoughtbot.com/upcase/videos/onramp-to-vim-motions-and-moving</a></p>
+<p>D,A,W to delete the current word including the (delete a word)
+If you don&rsquo;t want to lose the space use D,I,W for (delete inner word)</p>
+<p>You can do this same thing with paragraphs (contiguous lines) by using the P operator. Ex: &gt;,I,P to indent an entire paragraph</p>
+<p>Use CC to empty the current line and begin to replace the contents of that line
+Use DD to remove the entire line</p>
+<p>CIW to swapping out this word with a completely new one
+From this course I learned that I need to use shift on my right hand more. I apparently predominantly manage shift with my right hand, but that makes pressing characters like &quot; difficult as I have to completely leave the home row. They give you a shift on both sides for a reason.</p>
+<p>The period key lets you repeat the last command.</p>
+<p>The Great Vim Cheat Sheet
+
+
+<a href="https://vimsheet.com/" rel="noopener">https://vimsheet.com/</a></p>
 ]]></content:encoded></item></channel></rss>
