@@ -200,7 +200,7 @@ The importance of Primary Actions</description><content:encoded><![CDATA[<p>Pare
 <li><input disabled="" type="checkbox"> Bear Fence Trail</li>
 <li><input disabled="" type="checkbox"> The Black Rocks Trail</li>
 </ul>
-]]></content:encoded></item><item><title>Design</title><link>https://brandonkboswell.com/moc/Design/</link><pubDate>Thu, 06 Jan 2022 22:11:46 +0000</pubDate><guid>https://brandonkboswell.com/moc/Design/</guid><description>Topics UX Understanding Discoverability Color User Behavior Root Cause Analysis Tools Figma New Design Template References The Uncomfortable</description><content:encoded><![CDATA[<h2 id="topics">Topics</h2>
+]]></content:encoded></item><item><title>Design</title><link>https://brandonkboswell.com/moc/Design/</link><pubDate>Thu, 06 Jan 2022 22:11:46 +0000</pubDate><guid>https://brandonkboswell.com/moc/Design/</guid><description>Topics UX Understanding Discoverability Color Root Cause Analysis Constraints Tools Figma New Design Template References The Uncomfortable</description><content:encoded><![CDATA[<h2 id="topics">Topics</h2>
 <ul>
 <li>
 
@@ -242,7 +242,6 @@ The importance of Primary Actions</description><content:encoded><![CDATA[<p>Pare
   href="/Color"
   rel="noopener" class="internal-link"
   data-src="/Color">Color</a></li>
-<li><em>User Behavior</em></li>
 <li>
 
 
@@ -253,6 +252,16 @@ The importance of Primary Actions</description><content:encoded><![CDATA[<p>Pare
   href="/Root-Cause-Analysis"
   rel="noopener" class="internal-link"
   data-src="/Root-Cause-Analysis">Root Cause Analysis</a></li>
+<li>
+
+
+
+
+
+<a
+  href="/Constraints"
+  rel="noopener" class="internal-link"
+  data-src="/Constraints">Constraints</a></li>
 </ul>
 <h2 id="tools">Tools</h2>
 <ul>

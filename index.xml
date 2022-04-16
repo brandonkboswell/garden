@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/index.xml" rel="self" type="application/rss+xml"/><item><title>My Favorite Gear</title><link>https://brandonkboswell.com/blog/My-Favorite-Gear/</link><pubDate>Sat, 09 Apr 2022 10:59:26 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-Favorite-Gear/</guid><description>Desk Kindle Oasis — If you&amp;rsquo;re buying today, buy the Paperwhite instead. My thoughts on Kindle. Endgame Gear XM1 — I have a wireless XM2w on order, but this mouse fits me better than all others, and I have tried a ton.</description><content:encoded><![CDATA[<h2 id="desk">Desk</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Why I don't use VIM</title><link>https://brandonkboswell.com/blog/Why-I-dont-use-VIM/</link><pubDate>Fri, 15 Apr 2022 22:43:49 +0000</pubDate><guid>https://brandonkboswell.com/blog/Why-I-dont-use-VIM/</guid><description>I&amp;rsquo;m fairly confident that I&amp;rsquo;m going to get a bunch of hateful comments from this article, but please hear me out. I really like the idea of VIM. The ability to move around the page completely with your keyboard is right up my alley.</description><content:encoded><![CDATA[<p>I&rsquo;m fairly confident that I&rsquo;m going to get a bunch of hateful comments from this article, but please hear me out. I really like the idea of VIM. The ability to move around the page completely with your keyboard is right up my alley. So much so that I use 
+
+
+
+
+
+<a
+  href="/Vimium"
+  rel="noopener" class="internal-link"
+  data-src="/Vimium">Vimium</a> within Chrome. The ability to find and jump to any element on the page or click on any button with a few keystrokes is amazing. If you&rsquo;re interested in that, I have a video all about 
+
+
+
+
+
+<a
+  href="/Vimium"
+  rel="noopener" class="internal-link"
+  data-src="/Vimium">Vimium</a>. The issue is that every app you use has to support VIM movements to make the payoff worthwhile. There are tools like <em>kindaVim</em> that try to bring a VIM experience to MacOS, but it still doesn&rsquo;t feel fully baked. We&rsquo;re most of the way there, but you can&rsquo;t use VIM commands in URL fields or to navigate within Electron apps and it&rsquo;s just too painful to have these superpowers and to only be able to use them 80% of the time. Not to mention, I worry a bit about betting my entire ability to work my computer on one app that intends to be paid. It seems like a great way to get held ransom in the future.</p>
+<p>I&rsquo;m sure at this point you&rsquo;re like &ldquo;Brandon, if you&rsquo;re so against VIM what are you going to use instead?&rdquo; I&rsquo;m going to use my keyboard, just remapped a bit. The key thing I find myself hating about my current keyboard setup that I have tried to fix with VIM is rapid navigation and selection. I feel like I&rsquo;ve gotten most of the way there by borrowing a handful of navigation commands from <em>Jason Rudolph</em>&rsquo;s 
+
+<a href="https://github.com/jasonrudolph/keyboard" rel="noopener">Keyboard</a>
+which I call 
+
+
+
+
+
+<a
+  href="/Super-Duper-Keyboard"
+  rel="noopener" class="internal-link"
+  data-src="/Super-Duper-Keyboard">Super Duper Keyboard</a>. It allows me to get Command, Option, Shift and all the arrow keys without having to leave the home row. Yes, this isn&rsquo;t all the power of VIM, but it gets me the parts that I feel I use constantly and I&rsquo;m confident that they work everywhere because it just uses native MacOS cursor navigation just with the convenience of being on the home row.</p>
+<p>Full disclosure, as of the time of this writing: I have only been using this for about two weeks, so it&rsquo;s not fully in muscle memory yet, but it feels surprisingly natural.</p>
+<h2 id="key-features">Key Features:</h2>
+<ul>
+<li>Cursor Movement without leaving the home row</li>
+<li>Move a Word forward and back</li>
+<li>Move to end of line, beginning of line</li>
+<li>Selection with each of them</li>
+<li>Lastly, delete a word forward or back (I currently have it on the default of alt+h and alt+l, but I&rsquo;m considering moving those to hyper+h and hyper+l)</li>
+</ul>
+<h2 id="if-you-are-a-vim-user-i-would-love-to-know-what-is-the-feature-that-makes-it-worth-it-feel-free-to-use-the-link-below-to-email-me">If you are a VIM user, I would love to know what is the feature that makes it worth it, feel free to use the link below to email me.</h2>
+<p><strong>Mentioned in this article:</strong>
+
+
+
+
+
+
+<a
+  href="/Vim"
+  rel="noopener" class="internal-link"
+  data-src="/Vim">Vim</a>
+
+
+
+
+
+
+<a
+  href="/Vimium"
+  rel="noopener" class="internal-link"
+  data-src="/Vimium">Vimium</a>
+<em>kindaVim</em> — 
+
+<a href="https://kindavim.app/" rel="noopener">Link</a>
+Jason Rudolph&rsquo;s 
+
+
+
+
+
+<a
+  href="/Super-Duper-Keyboard"
+  rel="noopener" class="internal-link"
+  data-src="/Super-Duper-Keyboard">Super Duper Keyboard</a>
+
+
+
+
+
+
+<a
+  href="/Karabiner"
+  rel="noopener" class="internal-link"
+  data-src="/Karabiner">Karabiner</a>
+
+
+
+
+
+
+<a
+  href="/Hammerspoon"
+  rel="noopener" class="internal-link"
+  data-src="/Hammerspoon">Hammerspoon</a></p>
+]]></content:encoded></item><item><title>My Favorite Gear</title><link>https://brandonkboswell.com/blog/My-Favorite-Gear/</link><pubDate>Sat, 09 Apr 2022 10:59:26 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-Favorite-Gear/</guid><description>Desk Kindle Oasis — If you&amp;rsquo;re buying today, buy the Paperwhite instead. My thoughts on Kindle. Endgame Gear XM1 — I have a wireless XM2w on order, but this mouse fits me better than all others, and I have tried a ton.</description><content:encoded><![CDATA[<h2 id="desk">Desk</h2>
 <ul>
 <li>
 

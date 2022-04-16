@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>Bibliographic Notes</title><link>https://brandonkboswell.com/Bibliographic-Notes/</link><pubDate>Wed, 13 Apr 2022 11:56:36 +0000</pubDate><guid>https://brandonkboswell.com/Bibliographic-Notes/</guid><description/><content:encoded></content:encoded></item><item><title>Fleeting Notes</title><link>https://brandonkboswell.com/Fleeting-Notes/</link><pubDate>Wed, 13 Apr 2022 11:54:29 +0000</pubDate><guid>https://brandonkboswell.com/Fleeting-Notes/</guid><description>Fleeting notes, which are only reminders of information, can be written in any kind of way and will end up in the trash within a day or two. — from How to Take Smart Notes</description><content:encoded><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>iOS Widget Development</title><link>https://brandonkboswell.com/iOS-Widget-Development/</link><pubDate>Sat, 16 Apr 2022 14:17:05 +0000</pubDate><guid>https://brandonkboswell.com/iOS-Widget-Development/</guid><description> https://developer.apple.com/videos/play/wwdc2020/10103/ https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui https://developer.apple.com/tutorials/swiftui https://developer.apple.com/documentation/WidgetKit/Making-a-Configurable-Widget</description><content:encoded><![CDATA[<ul>
+<li><input checked="" disabled="" type="checkbox"> 
+
+<a href="https://developer.apple.com/videos/play/wwdc2020/10103/" rel="noopener">https://developer.apple.com/videos/play/wwdc2020/10103/</a></li>
+<li><input disabled="" type="checkbox"> 
+
+<a href="https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui" rel="noopener">https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui</a></li>
+<li><input disabled="" type="checkbox"> 
+
+<a href="https://developer.apple.com/tutorials/swiftui" rel="noopener">https://developer.apple.com/tutorials/swiftui</a></li>
+<li><input disabled="" type="checkbox"> 
+
+<a href="https://developer.apple.com/documentation/WidgetKit/Making-a-Configurable-Widget" rel="noopener">https://developer.apple.com/documentation/WidgetKit/Making-a-Configurable-Widget</a></li>
+</ul>
+]]></content:encoded></item><item><title>Time is a conveyor belt</title><link>https://brandonkboswell.com/Time-is-a-conveyor-belt/</link><pubDate>Fri, 15 Apr 2022 12:30:17 +0000</pubDate><guid>https://brandonkboswell.com/Time-is-a-conveyor-belt/</guid><description>We have no control over the speed with which time passes, only what activities we choose to do with it. It cannot be saved, stored or slowed down.
+We often use the phase &amp;ldquo;spend our time&amp;rdquo;, I think we can also look at this from an alternative phrasing of &amp;ldquo;live our life&amp;rdquo;.</description><content:encoded><![CDATA[<p>We have no control over the speed with which time passes, only what activities we choose to do with it. It cannot be saved, stored or slowed down.</p>
+<p>We often use the phase &ldquo;spend our time&rdquo;, I think we can also look at this from an alternative phrasing of &ldquo;live our life&rdquo;.</p>
+]]></content:encoded></item><item><title>Constraints</title><link>https://brandonkboswell.com/Constraints/</link><pubDate>Fri, 15 Apr 2022 08:43:41 +0000</pubDate><guid>https://brandonkboswell.com/Constraints/</guid><description>&amp;ldquo;Use constraints so that the user feels as if there is only one possible thing to do — the right thing, of course.”
+Constraints work by reducing alternatives for users. A well-constructed system will present users as few alternatives as possible at each step.</description><content:encoded><![CDATA[<p>&ldquo;Use constraints so that the user feels as if there is only one possible thing to do — the right thing, of course.”</p>
+<p>Constraints work by reducing alternatives for users. <em>A well-constructed system will present users as few alternatives as possible at each step.</em></p>
+]]></content:encoded></item><item><title>Bibliographic Notes</title><link>https://brandonkboswell.com/Bibliographic-Notes/</link><pubDate>Wed, 13 Apr 2022 11:56:36 +0000</pubDate><guid>https://brandonkboswell.com/Bibliographic-Notes/</guid><description/><content:encoded></content:encoded></item><item><title>Fleeting Notes</title><link>https://brandonkboswell.com/Fleeting-Notes/</link><pubDate>Wed, 13 Apr 2022 11:54:29 +0000</pubDate><guid>https://brandonkboswell.com/Fleeting-Notes/</guid><description>Fleeting notes, which are only reminders of information, can be written in any kind of way and will end up in the trash within a day or two. — from How to Take Smart Notes</description><content:encoded><![CDATA[<blockquote>
 <p>Fleeting notes, which are only reminders of information, can be written in any kind of way and will end up in the trash within a day or two.  — from 
 
 
@@ -287,16 +307,4 @@ I don&amp;rsquo;t use this directly as parts of it I don&amp;rsquo;t need, but t
   href="/Five-Whys"
   rel="noopener" class="internal-link"
   data-src="/Five-Whys">Five Whys</a></p>
-]]></content:encoded></item><item><title>You can choose to be satisfied</title><link>https://brandonkboswell.com/You-can-choose-to-be-satisfied/</link><pubDate>Tue, 29 Mar 2022 09:19:35 +0000</pubDate><guid>https://brandonkboswell.com/You-can-choose-to-be-satisfied/</guid><description>Forget To-Do Lists. You Really Need a &amp;lsquo;Got Done&amp;rsquo; List WIRED</description><content:encoded><![CDATA[<p>
-
-
-
-
-
-<a
-  
-  rel="noopener" class="internal-link broken"
-  data-src="sources/Forget%20To-Do%20Lists.%20You%20Really%20Need%20a%20%27Got%20Done%27%20List%20%20WIRED">Forget To-Do Lists. You Really Need a &lsquo;Got Done&rsquo; List  WIRED</a></p>
-]]></content:encoded></item><item><title>Your Brain is a Terrible Office</title><link>https://brandonkboswell.com/Your-Brain-is-a-Terrible-Office/</link><pubDate>Tue, 29 Mar 2022 09:16:19 +0000</pubDate><guid>https://brandonkboswell.com/Your-Brain-is-a-Terrible-Office/</guid><description>https://twitter.com/gtdtimes/status/1272659089169035267</description><content:encoded>&lt;p>
-&lt;a href="https://twitter.com/gtdtimes/status/1272659089169035267" rel="noopener">https://twitter.com/gtdtimes/status/1272659089169035267&lt;/a>&lt;/p></content:encoded></item><item><title>Amateur</title><link>https://brandonkboswell.com/Amateur/</link><pubDate>Mon, 28 Mar 2022 23:17:54 +0000</pubDate><guid>https://brandonkboswell.com/Amateur/</guid><description>&amp;ldquo;Someone who adores an endeavor.&amp;rdquo;</description><content:encoded><![CDATA[<p>&ldquo;Someone who adores an endeavor.&rdquo;</p>
 ]]></content:encoded></item></channel></rss>
