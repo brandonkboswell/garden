@@ -37,8 +37,12 @@
 
 <a href="https://twitter.com/ozolinsjanis/status/1420344259367030784?s=12" rel="noopener">https://twitter.com/ozolinsjanis/status/1420344259367030784?s=12</a></li>
 </ul>
-]]></content:encoded></item><item><title>Productivity</title><link>https://brandonkboswell.com/Productivity/</link><pubDate>Wed, 09 Mar 2022 08:01:35 +0000</pubDate><guid>https://brandonkboswell.com/Productivity/</guid><description> References</description><content:encoded>&lt;hr>
-&lt;h3 id="references">References&lt;/h3></content:encoded></item><item><title>Technical Requirements</title><link>https://brandonkboswell.com/Technical-Requirements/</link><pubDate>Tue, 01 Mar 2022 23:48:27 +0000</pubDate><guid>https://brandonkboswell.com/Technical-Requirements/</guid><description>I think my issue with technical requirements is they distract from the engineer thinking about the user and what they are trying to do. This can be helpful in a scenario where the developer has no concept of the user&amp;rsquo;s needs, but if your engineer has empathy or experience with these people you are coaxing the developer to stop thinking about the user&amp;rsquo;s needs and to focus on checking these checkboxes.</description><content:encoded><![CDATA[<p>I think my issue with technical requirements is they distract from the engineer thinking about the user and what they are trying to do. This can be helpful in a scenario where the developer has no concept of the user&rsquo;s needs, but if your engineer has empathy or experience with these people you are coaxing the developer to stop thinking about the user&rsquo;s needs and to focus on checking these checkboxes. If you&rsquo;re going to lean heavily on technical requirements remember to enable your engineers to use their empathy.</p>
+]]></content:encoded></item><item><title>Productivity</title><link>https://brandonkboswell.com/Productivity/</link><pubDate>Wed, 09 Mar 2022 08:01:35 +0000</pubDate><guid>https://brandonkboswell.com/Productivity/</guid><description>Productivity at its best is about removing friction, unnecessary decisions and cognitive load.
+— Brandon Boswell</description><content:encoded><![CDATA[<blockquote>
+<p>Productivity at its best is about removing friction, unnecessary decisions and cognitive load.</p>
+</blockquote>
+<p>— Brandon Boswell</p>
+]]></content:encoded></item><item><title>Technical Requirements</title><link>https://brandonkboswell.com/Technical-Requirements/</link><pubDate>Tue, 01 Mar 2022 23:48:27 +0000</pubDate><guid>https://brandonkboswell.com/Technical-Requirements/</guid><description>I think my issue with technical requirements is they distract from the engineer thinking about the user and what they are trying to do. This can be helpful in a scenario where the developer has no concept of the user&amp;rsquo;s needs, but if your engineer has empathy or experience with these people you are coaxing the developer to stop thinking about the user&amp;rsquo;s needs and to focus on checking these checkboxes.</description><content:encoded><![CDATA[<p>I think my issue with technical requirements is they distract from the engineer thinking about the user and what they are trying to do. This can be helpful in a scenario where the developer has no concept of the user&rsquo;s needs, but if your engineer has empathy or experience with these people you are coaxing the developer to stop thinking about the user&rsquo;s needs and to focus on checking these checkboxes. If you&rsquo;re going to lean heavily on technical requirements remember to enable your engineers to use their empathy.</p>
 <hr>
 <h3 id="references">References</h3>
 <p>
@@ -69,7 +73,7 @@ The Navy Seals think of people in a Performance vs Trust matrix. Ideally you wan
   rel="noopener" class="internal-link broken"
   data-src="sources/2x2%20Improve%20Your%20Life%20Without%20Trying%20-%20brandonkboswell@gmail.com%20-%20Gmail">2x2 Improve Your Life Without Trying - brandonkboswell@gmail.com - Gmail</a></p>
 ]]></content:encoded></item><item><title>UX</title><link>https://brandonkboswell.com/moc/UX/</link><pubDate>Sun, 27 Feb 2022 11:34:09 +0000</pubDate><guid>https://brandonkboswell.com/moc/UX/</guid><description>Parent: Design
-The importance of Primary Actions</description><content:encoded><![CDATA[<p>Parent: 
+Topics The importance of Primary Actions Heirarchy of User Needs</description><content:encoded><![CDATA[<p>Parent: 
 
 
 
@@ -79,7 +83,9 @@ The importance of Primary Actions</description><content:encoded><![CDATA[<p>Pare
   href="/moc/Design"
   rel="noopener" class="internal-link"
   data-src="/moc/Design">Design</a></p>
-<p>
+<h2 id="topics">Topics</h2>
+<ul>
+<li>
 
 
 
@@ -88,7 +94,18 @@ The importance of Primary Actions</description><content:encoded><![CDATA[<p>Pare
 <a
   href="/seedlings/The-importance-of-Primary-Actions"
   rel="noopener" class="internal-link"
-  data-src="/seedlings/The-importance-of-Primary-Actions">The importance of Primary Actions</a></p>
+  data-src="/seedlings/The-importance-of-Primary-Actions">The importance of Primary Actions</a></li>
+<li>
+
+
+
+
+
+<a
+  href="/Heirarchy-of-User-Needs"
+  rel="noopener" class="internal-link"
+  data-src="/Heirarchy-of-User-Needs">Heirarchy of User Needs</a></li>
+</ul>
 ]]></content:encoded></item><item><title>My Morning Routine</title><link>https://brandonkboswell.com/My-Morning-Routine/</link><pubDate>Sun, 27 Feb 2022 11:08:51 +0000</pubDate><guid>https://brandonkboswell.com/My-Morning-Routine/</guid><description>At the start of the day we grab coffee and do Morning Pages It doesn&amp;rsquo;t have to be at the desk if we don&amp;rsquo;t want to. We will avoid: Twitter Feedly Reddit Wordle Those are reserved for later on the day when our brain needs a break from the non-stop work.</description><content:encoded><![CDATA[<ul>
 <li>At the start of the day we grab <em>coffee</em> and do 
 

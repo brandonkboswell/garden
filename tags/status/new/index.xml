@@ -1,65 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>iOS Widget Development</title><link>https://brandonkboswell.com/iOS-Widget-Development/</link><pubDate>Sat, 16 Apr 2022 14:17:05 +0000</pubDate><guid>https://brandonkboswell.com/iOS-Widget-Development/</guid><description> https://developer.apple.com/videos/play/wwdc2020/10103/ https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui https://developer.apple.com/tutorials/swiftui https://developer.apple.com/documentation/WidgetKit/Making-a-Configurable-Widget</description><content:encoded><![CDATA[<ul>
-<li><input checked="" disabled="" type="checkbox"> 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>AirPods Pro</title><link>https://brandonkboswell.com/AirPods-Pro/</link><pubDate>Tue, 10 May 2022 08:57:48 +0000</pubDate><guid>https://brandonkboswell.com/AirPods-Pro/</guid><description>Not my favorite headphones, but the ones I would own if I could only have one. For music listening: Hifiman Sundara For on the go or Achieving Flow State: AirPods Pro</description><content:encoded><![CDATA[<p>Not my favorite headphones, but the ones I would own if I could only have one.
+For music listening: <em>Hifiman Sundara</em>
+For on the go or 
 
-<a href="https://developer.apple.com/videos/play/wwdc2020/10103/" rel="noopener">https://developer.apple.com/videos/play/wwdc2020/10103/</a></li>
-<li><input disabled="" type="checkbox"> 
 
-<a href="https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui" rel="noopener">https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui</a></li>
-<li><input disabled="" type="checkbox"> 
 
-<a href="https://developer.apple.com/tutorials/swiftui" rel="noopener">https://developer.apple.com/tutorials/swiftui</a></li>
-<li><input disabled="" type="checkbox"> 
 
-<a href="https://developer.apple.com/documentation/WidgetKit/Making-a-Configurable-Widget" rel="noopener">https://developer.apple.com/documentation/WidgetKit/Making-a-Configurable-Widget</a></li>
+
+<a
+  href="/Achieving-Flow-State"
+  rel="noopener" class="internal-link"
+  data-src="/Achieving-Flow-State">Achieving Flow State</a>: 
+
+
+
+
+
+<a
+  href="/AirPods-Pro"
+  rel="noopener" class="internal-link"
+  data-src="/AirPods-Pro">AirPods Pro</a></p>
+]]></content:encoded></item><item><title>Smoked Salmon</title><link>https://brandonkboswell.com/cooking/Smoked-Salmon/</link><pubDate>Mon, 09 May 2022 10:18:51 +0000</pubDate><guid>https://brandonkboswell.com/cooking/Smoked-Salmon/</guid><description>2022-05-08
+Find the Meat Church Link Find the Dill Rub Recipe</description><content:encoded><![CDATA[<p><em>2022-05-08</em></p>
+<ul>
+<li><input disabled="" type="checkbox"> Find the Meat Church Link</li>
+<li><input disabled="" type="checkbox"> Find the Dill Rub Recipe</li>
 </ul>
-]]></content:encoded></item><item><title>Time is a conveyor belt</title><link>https://brandonkboswell.com/Time-is-a-conveyor-belt/</link><pubDate>Fri, 15 Apr 2022 12:30:17 +0000</pubDate><guid>https://brandonkboswell.com/Time-is-a-conveyor-belt/</guid><description>We have no control over the speed with which time passes, only what activities we choose to do with it. It cannot be saved, stored or slowed down.
-We often use the phase &amp;ldquo;spend our time&amp;rdquo;, I think we can also look at this from an alternative phrasing of &amp;ldquo;live our life&amp;rdquo;.</description><content:encoded><![CDATA[<p>We have no control over the speed with which time passes, only what activities we choose to do with it. It cannot be saved, stored or slowed down.</p>
-<p>We often use the phase &ldquo;spend our time&rdquo;, I think we can also look at this from an alternative phrasing of &ldquo;live our life&rdquo;.</p>
-]]></content:encoded></item><item><title>Constraints</title><link>https://brandonkboswell.com/Constraints/</link><pubDate>Fri, 15 Apr 2022 08:43:41 +0000</pubDate><guid>https://brandonkboswell.com/Constraints/</guid><description>&amp;ldquo;Use constraints so that the user feels as if there is only one possible thing to do — the right thing, of course.”
-Constraints work by reducing alternatives for users. A well-constructed system will present users as few alternatives as possible at each step.</description><content:encoded><![CDATA[<p>&ldquo;Use constraints so that the user feels as if there is only one possible thing to do — the right thing, of course.”</p>
-<p>Constraints work by reducing alternatives for users. <em>A well-constructed system will present users as few alternatives as possible at each step.</em></p>
-]]></content:encoded></item><item><title>Bibliographic Notes</title><link>https://brandonkboswell.com/Bibliographic-Notes/</link><pubDate>Wed, 13 Apr 2022 11:56:36 +0000</pubDate><guid>https://brandonkboswell.com/Bibliographic-Notes/</guid><description/><content:encoded></content:encoded></item><item><title>Fleeting Notes</title><link>https://brandonkboswell.com/Fleeting-Notes/</link><pubDate>Wed, 13 Apr 2022 11:54:29 +0000</pubDate><guid>https://brandonkboswell.com/Fleeting-Notes/</guid><description>Fleeting notes, which are only reminders of information, can be written in any kind of way and will end up in the trash within a day or two. — from How to Take Smart Notes</description><content:encoded><![CDATA[<blockquote>
-<p>Fleeting notes, which are only reminders of information, can be written in any kind of way and will end up in the trash within a day or two.  — from 
+]]></content:encoded></item><item><title>Rule of Fifty</title><link>https://brandonkboswell.com/Rule-of-Fifty/</link><pubDate>Sun, 08 May 2022 12:10:48 +0000</pubDate><guid>https://brandonkboswell.com/Rule-of-Fifty/</guid><description>From Nancy Pearl: &amp;gt;If you’re feeling lukewarm about a book, read 50 pages before deciding whether to continue or drop it. Doing this will allow you to try the books you want to read without you feeling obligated to complete them.</description><content:encoded><![CDATA[<p>From <em>Nancy Pearl</em>:
+&gt;If you’re feeling lukewarm about a book, read 50 pages before deciding whether to continue or drop it. Doing this will allow you to try the books you want to read without you feeling obligated to complete them.</p>
+]]></content:encoded></item><item><title>Heirarchy of User Needs</title><link>https://brandonkboswell.com/Heirarchy-of-User-Needs/</link><pubDate>Sun, 08 May 2022 12:06:12 +0000</pubDate><guid>https://brandonkboswell.com/Heirarchy-of-User-Needs/</guid><description>Aaron Walter UX</description><content:encoded><![CDATA[<p><em>Aaron Walter</em>
+
 
 
 
 
 
 <a
-  href="/sources/How-to-Take-Smart-Notes"
+  href="/moc/UX"
   rel="noopener" class="internal-link"
-  data-src="/sources/How-to-Take-Smart-Notes">How to Take Smart Notes</a></p>
+  data-src="/moc/UX">UX</a></p>
+]]></content:encoded></item><item><title>Great stories agree with our world view</title><link>https://brandonkboswell.com/Great-stories-agree-with-our-world-view/</link><pubDate>Sat, 07 May 2022 10:54:32 +0000</pubDate><guid>https://brandonkboswell.com/Great-stories-agree-with-our-world-view/</guid><description>Storytelling</description><content:encoded>&lt;p>&lt;em>Storytelling&lt;/em>&lt;/p></content:encoded></item><item><title>allowing people to draw their own conclusions is far more effective than announcing the punch line</title><link>https://brandonkboswell.com/allowing-people-to-draw-their-own-conclusions-is-far-more-effective-than-announcing-the-punch-line/</link><pubDate>Sat, 07 May 2022 10:54:04 +0000</pubDate><guid>https://brandonkboswell.com/allowing-people-to-draw-their-own-conclusions-is-far-more-effective-than-announcing-the-punch-line/</guid><description>Marketing Storytelling</description><content:encoded><![CDATA[<p><em>Marketing</em>
+<em>Storytelling</em></p>
+]]></content:encoded></item><item><title>Without the right tools, our minds are hopelessly leaky</title><link>https://brandonkboswell.com/Without-the-right-tools-our-minds-are-hopelessly-leaky/</link><pubDate>Sat, 07 May 2022 10:50:32 +0000</pubDate><guid>https://brandonkboswell.com/Without-the-right-tools-our-minds-are-hopelessly-leaky/</guid><description/><content:encoded></content:encoded></item><item><title>Time is essential to how we remember, and should be a first-class concept in a good note-taking system</title><link>https://brandonkboswell.com/Time-is-essential-to-how-we-remember-and-should-be-a-first-class-concept-in-a-good-note-taking-system/</link><pubDate>Sat, 07 May 2022 10:49:53 +0000</pubDate><guid>https://brandonkboswell.com/Time-is-essential-to-how-we-remember-and-should-be-a-first-class-concept-in-a-good-note-taking-system/</guid><description>Time is essential to how we remember, and should be a first-class concept in a good note-taking system.</description><content:encoded>&lt;p>Time is essential to how we remember, and should be a first-class concept in a good note-taking system.&lt;/p></content:encoded></item><item><title>Ideas should not be lost because it took too long to capture them</title><link>https://brandonkboswell.com/Ideas-should-not-be-lost-because-it-took-too-long-to-capture-them/</link><pubDate>Sat, 07 May 2022 10:48:45 +0000</pubDate><guid>https://brandonkboswell.com/Ideas-should-not-be-lost-because-it-took-too-long-to-capture-them/</guid><description/><content:encoded></content:encoded></item><item><title>Don't erase past thoughts that are now outdated, they capture your journey</title><link>https://brandonkboswell.com/Dont-erase-past-thoughts-that-are-now-outdated-they-capture-your-journey/</link><pubDate>Sat, 07 May 2022 10:48:43 +0000</pubDate><guid>https://brandonkboswell.com/Dont-erase-past-thoughts-that-are-now-outdated-they-capture-your-journey/</guid><description/><content:encoded></content:encoded></item><item><title>a good collection of notes is like a powerful extended memory</title><link>https://brandonkboswell.com/a-good-collection-of-notes-is-like-a-powerful-extended-memory/</link><pubDate>Sat, 07 May 2022 10:47:42 +0000</pubDate><guid>https://brandonkboswell.com/a-good-collection-of-notes-is-like-a-powerful-extended-memory/</guid><description/><content:encoded></content:encoded></item><item><title>Most of us need an external stimulus to do our best work</title><link>https://brandonkboswell.com/Most-of-us-need-an-external-stimulus-to-do-our-best-work/</link><pubDate>Sat, 07 May 2022 10:46:32 +0000</pubDate><guid>https://brandonkboswell.com/Most-of-us-need-an-external-stimulus-to-do-our-best-work/</guid><description/><content:encoded></content:encoded></item><item><title>The value of a list is that it frees you up to think creatively</title><link>https://brandonkboswell.com/The-value-of-a-list-is-that-it-frees-you-up-to-think-creatively/</link><pubDate>Sat, 07 May 2022 10:40:08 +0000</pubDate><guid>https://brandonkboswell.com/The-value-of-a-list-is-that-it-frees-you-up-to-think-creatively/</guid><description>From Adam Savage
+The value of a list is that it frees you up to think more creatively, by defining a project’s scope and scale for you on the page, so your brain doesn’t have to hold on to so much information</description><content:encoded><![CDATA[<p>From <em>Adam Savage</em></p>
+<blockquote>
+<p>The value of a list is that it frees you up to think more creatively, by defining a project’s scope and scale for you on the page, so your brain doesn’t have to hold on to so much information</p>
 </blockquote>
-<p>Interestingly, I don&rsquo;t currently differentiate between fleeting notes and other topics. Perhaps this is an oversight on my part, but I currently only differentiate between 
-
-
-
-
-
-<a
-  href="/Bibliographic-Notes"
-  rel="noopener" class="internal-link"
-  data-src="/Bibliographic-Notes">Source Notes</a> (
-
-
-
-
-
-<a
-  href="/Bibliographic-Notes"
-  rel="noopener" class="internal-link"
-  data-src="/Bibliographic-Notes">Bibliographic Notes</a>) and general notes. I also separate out my blog posts, but that is largely to support posting online and curating the complete content from the work in progress content.</p>
-]]></content:encoded></item><item><title>might-do list</title><link>https://brandonkboswell.com/might-do-list/</link><pubDate>Wed, 13 Apr 2022 11:50:19 +0000</pubDate><guid>https://brandonkboswell.com/might-do-list/</guid><description>Unlike a list of stuff I have to do, it’s a brain dump of tasks I might do if I feel like it. I try to capture 100% of the possible tasks for that day.</description><content:encoded><![CDATA[<p>Unlike a list of stuff I have to do, it’s a brain dump of tasks I might do if I feel like it. I try to capture 100% of the possible tasks for that day. This clears my brain of internal clutter and helps The Pilot confirm that the <em>Daily Highlight</em> is the highest-priority thing for the day.</p>
-<p>In my case, I try to put my internal clutter in 
-
-
-
-
-
-<a
-  href="/TickTick"
-  rel="noopener" class="internal-link"
-  data-src="/TickTick">TickTick</a> and keep it away from my <em>Daily Highlight</em> for fear that too many intentions for the day may distract from my real focus for today (the <em>Daily Highlight</em>).</p>
 <p>
 
 
@@ -70,96 +55,6 @@ Constraints work by reducing alternatives for users. A well-constructed system w
   href="/Your-Brain-is-a-Terrible-Office"
   rel="noopener" class="internal-link"
   data-src="/Your-Brain-is-a-Terrible-Office">Your Brain is a Terrible Office</a></p>
-]]></content:encoded></item><item><title>Timeblocking</title><link>https://brandonkboswell.com/Timeblocking/</link><pubDate>Wed, 13 Apr 2022 11:48:20 +0000</pubDate><guid>https://brandonkboswell.com/Timeblocking/</guid><description/><content:encoded></content:encoded></item><item><title>Root Cause Analysis</title><link>https://brandonkboswell.com/Root-Cause-Analysis/</link><pubDate>Tue, 12 Apr 2022 14:29:06 +0000</pubDate><guid>https://brandonkboswell.com/Root-Cause-Analysis/</guid><description>“Why is that the goal?” Why was I reading? I was trying to prepare a meal using a new recipe, so I needed to reread it before I started. Reading was thus a subgoal.</description><content:encoded><![CDATA[<p>“Why is that the goal?” Why was I reading? I was trying to prepare a meal using a new recipe, so I needed to reread it before I started. Reading was thus a subgoal. But cooking was itself a subgoal. I was cooking in order to eat, which had the goal of satisfying my hunger. So the hierarchy of goals is roughly: satisfy hunger; eat; cook; read cookbook; get more light.</p>
-<p><strong>Asking “Why?” until the ultimate, fundamental cause of the activity is reached</strong></p>
-]]></content:encoded></item><item><title>Stoic</title><link>https://brandonkboswell.com/Stoic/</link><pubDate>Tue, 12 Apr 2022 08:09:43 +0000</pubDate><guid>https://brandonkboswell.com/Stoic/</guid><description>Reflection app for iOS and MacOS. How I got started in Journaling.
-I am a lifetime member, but no longer use the app itself. The concepts it introduced me to were well worth the $94, but it made me commit to journaling for the long haul.</description><content:encoded><![CDATA[<p>
-
-
-
-
-
-<a
-  
-  rel="noopener" class="internal-link broken"
-  data-src="Reflection">Reflection</a> app for <em>iOS</em> and 
-
-
-
-
-
-<a
-  href="/MacOS"
-  rel="noopener" class="internal-link"
-  data-src="/MacOS">MacOS</a>. How I got started in <em>Journaling</em>.</p>
-<p>I am a lifetime member, but no longer use the app itself. The concepts it introduced me to were well worth the $94, but it made me commit to journaling for the long haul.</p>
-<p>I no longer use it because I figured out what prompts I wanted, but it was an excellent way to get started in <em>intention setting</em> and reflection when I had no idea where to start.</p>
-<p>
-
-<a href="https://www.stoicroutine.com/" rel="noopener">https://www.stoicroutine.com/</a></p>
-]]></content:encoded></item><item><title>Homework for Life</title><link>https://brandonkboswell.com/sources/Homework-for-Life/</link><pubDate>Mon, 11 Apr 2022 21:45:15 +0000</pubDate><guid>https://brandonkboswell.com/sources/Homework-for-Life/</guid><description>Author: Matthew Dicks URL: https://www.youtube.com/watch?v=x7p329Z8MD0 Storytelling is about connecting with people.
-&amp;ldquo;If I had to tell a 5-minute story from something that happened today, What would it be?&amp;rdquo; What was the most story-like moment?</description><content:encoded><![CDATA[<ul>
-<li>Author: <em>Matthew Dicks</em></li>
-<li>URL: 
-
-<a href="https://www.youtube.com/watch?v=x7p329Z8MD0" rel="noopener">https://www.youtube.com/watch?v=x7p329Z8MD0</a></li>
-</ul>
-<p>Storytelling is about connecting with people.</p>
-<h3 id="if-i-had-to-tell-a-5-minute-story-from-something-that-happened-today-what-would-it-be">&ldquo;If I had to tell a 5-minute story from something that happened today, What would it be?&rdquo;</h3>
-<p><em>What was the most story-like moment? What makes today different from the last day?</em></p>
-<p>Just writing a few sentences from that moment can bring you right back to that moment on a future date.</p>
-<p>
-
-
-
-
-
-<a
-  href="/Daily-Reflection"
-  rel="noopener" class="internal-link"
-  data-src="/Daily-Reflection">Daily Reflection</a></p>
-]]></content:encoded></item><item><title>Raycast</title><link>https://brandonkboswell.com/Raycast/</link><pubDate>Sun, 10 Apr 2022 23:27:19 +0000</pubDate><guid>https://brandonkboswell.com/Raycast/</guid><description>It seems like Alfred with a better UI. The fact that it has good Figma and Github support makes it interesting to me, but I haven&amp;rsquo;t found a good way to support Launch anything on your Mac with Alfred without having to think about is it a bookmark or not.</description><content:encoded><![CDATA[<p>It seems like 
-
-
-
-
-
-<a
-  href="/Alfred"
-  rel="noopener" class="internal-link"
-  data-src="/Alfred">Alfred</a> with a better UI. The fact that it has good Figma and Github support makes it interesting to me, but I haven&rsquo;t found a good way to support 
-
-
-
-
-
-<a
-  href="/blog/Launch-anything-on-your-Mac-with-Alfred"
-  rel="noopener" class="internal-link"
-  data-src="/blog/Launch-anything-on-your-Mac-with-Alfred">Launch anything on your Mac with Alfred</a> without having to think about is it a bookmark or not.</p>
-]]></content:encoded></item><item><title>Meta Work</title><link>https://brandonkboswell.com/Meta-Work/</link><pubDate>Sun, 10 Apr 2022 23:24:26 +0000</pubDate><guid>https://brandonkboswell.com/Meta-Work/</guid><description>Meta work is the work that happens before and after the work itself</description><content:encoded>&lt;p>Meta work is the work that happens before and after the work itself&lt;/p></content:encoded></item><item><title>Find time away from screens</title><link>https://brandonkboswell.com/Find-time-away-from-screens/</link><pubDate>Sun, 10 Apr 2022 23:03:30 +0000</pubDate><guid>https://brandonkboswell.com/Find-time-away-from-screens/</guid><description>This is something I need to do a better job with. I do a very good job of this when we go camping with Marshie&amp;rsquo;s family each summer, and I don&amp;rsquo;t use my phone or computer whatsoever.</description><content:encoded><![CDATA[<p>This is something I need to do a better job with. I do a very good job of this when we go camping with Marshie&rsquo;s family each summer, and I don&rsquo;t use my phone or computer whatsoever. I should find specific daily and weekly routines where I am not in front of any screens.</p>
-]]></content:encoded></item><item><title>Handwritten notes are a form of short-term memory</title><link>https://brandonkboswell.com/Handwritten-notes-are-a-form-of-short-term-memory/</link><pubDate>Sun, 10 Apr 2022 23:01:15 +0000</pubDate><guid>https://brandonkboswell.com/Handwritten-notes-are-a-form-of-short-term-memory/</guid><description>Analog</description><content:encoded>&lt;p>&lt;em>Analog&lt;/em>&lt;/p></content:encoded></item><item><title>Review your past work</title><link>https://brandonkboswell.com/Review-your-past-work/</link><pubDate>Sun, 10 Apr 2022 22:07:22 +0000</pubDate><guid>https://brandonkboswell.com/Review-your-past-work/</guid><description>This is something I have historically been bad at. I am typically in consume, consume, consume mode, but rarely take the time to review what I&amp;rsquo;ve consumed or created. I&amp;rsquo;ve tried to become more conscious of this recently by doing weekly and annual reflection.</description><content:encoded><![CDATA[<p>This is something I have historically been bad at. I am typically in consume, consume, consume mode, but rarely take the time to review what I&rsquo;ve consumed or created. I&rsquo;ve tried to become more conscious of this recently by doing weekly and annual reflection.</p>
-<p><em>Weekly Reflection</em>
-<em>Annual Review</em></p>
-]]></content:encoded></item><item><title>We are poor judges of ourselves in realtime</title><link>https://brandonkboswell.com/We-are-poor-judges-of-ourselves-in-realtime/</link><pubDate>Sun, 10 Apr 2022 22:03:51 +0000</pubDate><guid>https://brandonkboswell.com/We-are-poor-judges-of-ourselves-in-realtime/</guid><description>It is important that we take time to review our past work for many reasons. Firstly to see how far we&amp;rsquo;ve come, but secondly because we may realize something about our performance that we were blind to at that moment and the moments shortly thereafter.</description><content:encoded><![CDATA[<p>It is important that we take time to review our past work for many reasons. Firstly to see how far we&rsquo;ve come, but secondly because we may realize something about our performance that we were blind to at that moment and the moments shortly thereafter. If we never review our past thoughts, we may miss out on having this introspection and the opportunity to grow from it.</p>
-<p>
-
-
-
-
-
-<a
-  href="/Review-your-past-work"
-  rel="noopener" class="internal-link"
-  data-src="/Review-your-past-work">Review your past work</a></p>
-]]></content:encoded></item><item><title>Focus</title><link>https://brandonkboswell.com/moc/Focus/</link><pubDate>Sat, 09 Apr 2022 11:39:48 +0000</pubDate><guid>https://brandonkboswell.com/moc/Focus/</guid><description>My Notes &amp;amp; Thoughts Concepts Resources 4 Focus Areas for a Purposeful Life – Curtis McHale</description><content:encoded><![CDATA[<h2 id="my-notes--thoughts">My Notes &amp; Thoughts</h2>
-<ul>
-<li></li>
-</ul>
-<h2 id="concepts">Concepts</h2>
-<ul>
-<li></li>
-</ul>
 <h2 id="resources">Resources</h2>
 <ul>
 <li>
@@ -169,37 +64,13 @@ I am a lifetime member, but no longer use the app itself. The concepts it introd
 
 
 <a
-  
-  rel="noopener" class="internal-link broken"
-  data-src="../sources/4%20Focus%20Areas%20for%20a%20Purposeful%20Life%20%E2%80%93%20Curtis%20McHale">4 Focus Areas for a Purposeful Life – Curtis McHale</a></li>
-</ul>
-]]></content:encoded></item><item><title>Creativity</title><link>https://brandonkboswell.com/moc/Creativity/</link><pubDate>Sat, 09 Apr 2022 11:36:43 +0000</pubDate><guid>https://brandonkboswell.com/moc/Creativity/</guid><description>My Notes &amp;amp; Thoughts Concepts Borrowed Creativity Boredom breeds creativity Resources My Phone is Ruining My Creativity</description><content:encoded><![CDATA[<h2 id="my-notes--thoughts">My Notes &amp; Thoughts</h2>
-<ul>
-<li></li>
-</ul>
-<h2 id="concepts">Concepts</h2>
-<ul>
-<li>
-
-
-
-
-
-<a
-  href="/sources/Borrowed-Creativity"
+  href="/sources/Adam-Savage-on-Lists-More-Lists-and-the-Power-of-Checkboxes-WIRED"
   rel="noopener" class="internal-link"
-  data-src="/sources/Borrowed-Creativity">Borrowed Creativity</a></li>
-<li>
-
-
-
-
-
-<a
-  href="/Boredom-breeds-creativity"
-  rel="noopener" class="internal-link"
-  data-src="/Boredom-breeds-creativity">Boredom breeds creativity</a></li>
+  data-src="/sources/Adam-Savage-on-Lists-More-Lists-and-the-Power-of-Checkboxes-WIRED">Adam Savage on Lists, More Lists, and the Power of Checkboxes  WIRED</a></li>
 </ul>
+]]></content:encoded></item><item><title>Invest in your life's goals</title><link>https://brandonkboswell.com/Invest-in-your-lifes-goals/</link><pubDate>Sat, 07 May 2022 10:38:13 +0000</pubDate><guid>https://brandonkboswell.com/Invest-in-your-lifes-goals/</guid><description>I have a bunch of “businesses” that compete for these resources: I’m trying to have a rewarding relationship with my wife, raise great kids, contribute to my community, succeed in my career, contribute to my church, and so on.</description><content:encoded><![CDATA[<blockquote>
+<p>I have a bunch of “businesses” that compete for these resources: I’m trying to have a rewarding relationship with my wife, raise great kids, contribute to my community, succeed in my career, contribute to my church, and so on. And I have exactly the same problem that a corporation does. I have a limited amount of time and energy and talent.</p>
+</blockquote>
 <h2 id="resources">Resources</h2>
 <ul>
 <li>
@@ -209,94 +80,72 @@ I am a lifetime member, but no longer use the app itself. The concepts it introd
 
 
 <a
-  href="/My-Phone-is-Ruining-My-Creativity"
+  href="/sources/How-Will-You-Measure-Your-Life"
   rel="noopener" class="internal-link"
-  data-src="/My-Phone-is-Ruining-My-Creativity">My Phone is Ruining My Creativity</a></li>
+  data-src="/sources/How-Will-You-Measure-Your-Life">How Will You Measure Your Life</a></li>
 </ul>
-]]></content:encoded></item><item><title>We are poor judges of how innovative our ideas are</title><link>https://brandonkboswell.com/seedlings/We-are-poor-judges-of-how-innovative-our-ideas-are/</link><pubDate>Thu, 07 Apr 2022 13:12:57 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/We-are-poor-judges-of-how-innovative-our-ideas-are/</guid><description>Early into a specific field we feel we are doing innovative things that are not novel or new. As we spend more time with a field we feel like we are being less innovative, but are actually being more innovative.</description><content:encoded><![CDATA[<p>Early into a specific field we feel we are doing innovative things that are not novel or new. As we spend more time with a field we feel like we are being less innovative, but are actually being more innovative. 
+]]></content:encoded></item><item><title>Curse of Knowledge</title><link>https://brandonkboswell.com/Curse-of-Knowledge/</link><pubDate>Sat, 07 May 2022 10:30:02 +0000</pubDate><guid>https://brandonkboswell.com/Curse-of-Knowledge/</guid><description>We often talk about the Curse of knowledge as a bad thing, but it&amp;rsquo;s not always bad. When thinking about this I think about this quote from Mark Cuban:
+Billionaire entrepreneur Mark Cuban took this a step further.</description><content:encoded><![CDATA[<p>We often talk about the Curse of knowledge as a bad thing, but it&rsquo;s not always bad. When thinking about this I think about this quote from <em>Mark Cuban</em>:</p>
+<blockquote>
+<p>Billionaire entrepreneur Mark Cuban took this a step further. He described growing up and loving to walk through bookstores, picking up anything that caught his eye. As he says, “30 dollars to get one idea that could propel me…it was a bargain.”</p>
+</blockquote>
+]]></content:encoded></item><item><title>You need 10 true fans</title><link>https://brandonkboswell.com/You-need-10-true-fans/</link><pubDate>Sat, 07 May 2022 10:27:13 +0000</pubDate><guid>https://brandonkboswell.com/You-need-10-true-fans/</guid><description>Find ten people. Ten people who trust you/respect you/need you/listen to you… Those ten people need what you have to sell, or want it. And if they love it, you win.</description><content:encoded><![CDATA[<blockquote>
+<p>Find ten people. Ten people who trust you/respect you/need you/listen to you… Those ten people need what you have to sell, or want it. And if they love it, you win. If they love it, they’ll each find you ten more people (or a hundred or a thousand or, perhaps, just three). Repeat. If they don’t love it, you need a new product. Start over.</p>
+</blockquote>
+<p>From 
 
 
 
 
 
 <a
-  href="/seedlings/We-are-poor-judges-of-how-innovative-our-ideas-are"
+  href="/sources/First-Ten-Seths-Blog"
   rel="noopener" class="internal-link"
-  data-src="/seedlings/We-are-poor-judges-of-how-innovative-our-ideas-are">We are poor judges of how innovative our ideas are</a>. This is another form of the <em>Curse of Knowledge</em>.</p>
-<hr>
-<h3 id="references">References</h3>
-<p>Being intimately familiar with something enables us to be playful with it, to modify it, to spot new and different ideas without running the risk of merely repeating old ideas believing they are new.
-— 
+  data-src="/sources/First-Ten-Seths-Blog">First, Ten  Seth&rsquo;s Blog</a> by <em>Seth Godin</em></p>
+]]></content:encoded></item><item><title>Loftie</title><link>https://brandonkboswell.com/Loftie/</link><pubDate>Sat, 07 May 2022 09:33:30 +0000</pubDate><guid>https://brandonkboswell.com/Loftie/</guid><description>2022-05-09 There has been a weird phenomenon since I got the Loftie. Each night I have gone to bed before 11 and each morning I have gotten up with or before the Loftie has gone off.</description><content:encoded><![CDATA[<p><em>2022-05-09</em>
+There has been a weird phenomenon since I got the Loftie. Each night I have gone to bed before 11 and each morning I have gotten up with or before the Loftie has gone off. I think this has more to do with me getting good sleep than the Loftie itself, but it has been an odd experience. We also had Mother&rsquo;s Day over the weekend which makes for a different dynamic than usual. I should get more representative data this week.</p>
+<p><em>2022-05-07</em>
+This was my first real day with the Loftie. I got up on time, but this might not be purely due to the alarm clock. I had two drinks last night during the movie and fell asleep fairly early. More testing necessary. 😃</p>
+<p><em>2022-05-06</em>
+This was my first morning with the alarm clock, but I had a unique schedule this morning with having to drop the truck off for an inspection</p>
+]]></content:encoded></item><item><title>Analog Tools</title><link>https://brandonkboswell.com/Analog-Tools/</link><pubDate>Tue, 03 May 2022 08:32:49 +0000</pubDate><guid>https://brandonkboswell.com/Analog-Tools/</guid><description>Parent: Analog vs Digital Tools
+Paper is cheap. Paper is universal. Paper doesn’t run out of battery. Paper doesn’t vanish into the shadow realm when I close the window. Paper can do anything I can do with a pencil.</description><content:encoded><![CDATA[<p>Parent: 
 
 
 
 
 
 <a
-  href="/sources/How-to-Take-Smart-Notes"
+  href="/moc/Analog-vs-Digital-Tools"
   rel="noopener" class="internal-link"
-  data-src="/sources/How-to-Take-Smart-Notes">How to Take Smart Notes</a></p>
-]]></content:encoded></item><item><title>Super Duper Keyboard</title><link>https://brandonkboswell.com/Super-Duper-Keyboard/</link><pubDate>Wed, 06 Apr 2022 20:44:34 +0000</pubDate><guid>https://brandonkboswell.com/Super-Duper-Keyboard/</guid><description>https://github.com/jasonrudolph/keyboard
-Written by Jason Rudolph
-I don&amp;rsquo;t use this directly as parts of it I don&amp;rsquo;t need, but this was a huge inspiration for what I run as my Karabiner and Hammerspoon configs.</description><content:encoded><![CDATA[<p>
-
-<a href="https://github.com/jasonrudolph/keyboard" rel="noopener">https://github.com/jasonrudolph/keyboard</a></p>
-<p>Written by <em>Jason Rudolph</em></p>
-<p>I don&rsquo;t use this directly as parts of it I don&rsquo;t need, but this was a huge inspiration for what I run as my Karabiner and Hammerspoon configs.</p>
-<h2 id="key-aspects-for-me">Key aspects for me:</h2>
+  data-src="/moc/Analog-vs-Digital-Tools">Analog vs Digital Tools</a></p>
+<blockquote>
+<p>Paper is cheap. Paper is universal. Paper doesn’t run out of battery. Paper doesn’t vanish into the shadow realm when I close the window. Paper can do anything I can do with a pencil. Paper lets me turn back pages in the notebook and scan over for things that have yet to be done.</p>
+</blockquote>
+<h2 id="topics">Topics</h2>
 <ul>
-<li>Super Duper Mode
-<ul>
-<li>HJKL arrows
-<ul>
-<li>with good support for jumping back and forward a word by holding A, as well as selection support by holding space bar.</li>
-</ul>
-</li>
-<li>Easy Tab Switching in Chrome and Obsidian with YUIO</li>
-<li>Alt + H to delete previous word</li>
-<li>Alt + L to delete next word</li>
-</ul>
-</li>
-</ul>
-]]></content:encoded></item><item><title>Fully Jarvis Desk</title><link>https://brandonkboswell.com/Fully-Jarvis-Desk/</link><pubDate>Mon, 04 Apr 2022 22:06:25 +0000</pubDate><guid>https://brandonkboswell.com/Fully-Jarvis-Desk/</guid><description>https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html</description><content:encoded>&lt;p>
-&lt;a href="https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html" rel="noopener">https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html&lt;/a>&lt;/p></content:encoded></item><item><title>Whoever best describes the problem is the one most likely to solve it</title><link>https://brandonkboswell.com/Whoever-best-describes-the-problem-is-the-one-most-likely-to-solve-it/</link><pubDate>Mon, 04 Apr 2022 21:24:05 +0000</pubDate><guid>https://brandonkboswell.com/Whoever-best-describes-the-problem-is-the-one-most-likely-to-solve-it/</guid><description>Whoever best describes the problem is the one most likely to solve it. From The Personal MBA by Josh Kaufman Whoever best describes the problem is the one most likely to solve it</description><content:encoded><![CDATA[<p>Whoever best describes the problem is the one most likely to solve it. From <em>The Personal MBA</em> by <em>Josh Kaufman</em>
-
+<li>
 
 
 
 
 
 <a
-  href="/Whoever-best-describes-the-problem-is-the-one-most-likely-to-solve-it"
+  href="/Sacrificial-List"
   rel="noopener" class="internal-link"
-  data-src="/Whoever-best-describes-the-problem-is-the-one-most-likely-to-solve-it">Whoever best describes the problem is the one most likely to solve it</a></p>
-<hr>
-<p>It is difficult to solve a problem you can&rsquo;t describe. Take the time to write out the problem you&rsquo;re trying to solve to validate that you truly understand what you&rsquo;re trying to solve. This is especially helpful when <em>scoping</em> a problem.
-
+  data-src="/Sacrificial-List">Sacrificial List</a></li>
+</ul>
+]]></content:encoded></item><item><title>Sacrificial List</title><link>https://brandonkboswell.com/Sacrificial-List/</link><pubDate>Tue, 03 May 2022 08:29:48 +0000</pubDate><guid>https://brandonkboswell.com/Sacrificial-List/</guid><description>A quick and dirty list to get you started where you don&amp;rsquo;t stress the details. The goal is to get the thoughts and ideas out of your head so that you can better evaluate them.</description><content:encoded><![CDATA[<p>A quick and dirty list to get you started where you don&rsquo;t stress the details. The goal is to get the thoughts and ideas out of your head so that you can better evaluate them. Resist the urge to critique at this stage, the whole goal is to get these out of your head.</p>
+<p>This is a great place for 
 
 
 
 
 
 <a
-  href="/Define-the-problem"
+  href="/Analog-Tools"
   rel="noopener" class="internal-link"
-  data-src="/Define-the-problem">Define the problem</a></p>
-]]></content:encoded></item><item><title>60-30-10 Color Rule</title><link>https://brandonkboswell.com/sources/60-30-10-Color-Rule/</link><pubDate>Thu, 31 Mar 2022 10:43:52 +0000</pubDate><guid>https://brandonkboswell.com/sources/60-30-10-Color-Rule/</guid><description>Proposes that your color usage should break down to 60% of Viewport is in your neutral color 30% is in your brand or primary color 10% is in your accent/call-to-action color</description><content:encoded><![CDATA[<p>Proposes that your color usage should break down to
-60% of Viewport is in your neutral color
-30% is in your brand or primary color
-10% is in your accent/call-to-action color</p>
-<p>For Dorsata our neutral is the grey background
-30% is our white area&rsquo;s we&rsquo;re asking folks to focus their attention on
-10% is our deep green for actionable areas.</p>
-<h3 id="references">References</h3>
-<ul>
-<li>Author: <em>Jesse Showalter</em></li>
-<li>URL: 
-
-<a href="https://youtu.be/UWwNIMHFdW4" rel="noopener">https://youtu.be/UWwNIMHFdW4</a></li>
-</ul>
-]]></content:encoded></item><item><title>Five Whys</title><link>https://brandonkboswell.com/Five-Whys/</link><pubDate>Tue, 29 Mar 2022 09:30:09 +0000</pubDate><guid>https://brandonkboswell.com/Five-Whys/</guid><description/><content:encoded></content:encoded></item><item><title>Define the problem</title><link>https://brandonkboswell.com/Define-the-problem/</link><pubDate>Tue, 29 Mar 2022 09:27:51 +0000</pubDate><guid>https://brandonkboswell.com/Define-the-problem/</guid><description>&amp;ldquo;The more precisely you define the problem, the more easily you can find a solution. &amp;ldquo;I feel bad&amp;rdquo; can have a million causes. &amp;ldquo;I didn&amp;rsquo;t sleep much last night and I haven&amp;rsquo;t exercised in a week&amp;rdquo; has a very straightforward answer.</description><content:encoded><![CDATA[<p>&ldquo;The more precisely you define the problem, the more easily you can find a solution. &ldquo;I feel bad&rdquo; can have a million causes. &ldquo;I didn&rsquo;t sleep much last night and I haven&rsquo;t exercised in a week&rdquo; has a very straightforward answer.&rdquo;</p>
+  data-src="/Analog-Tools">Analog Tools</a>.</p>
 <p>
 
 
@@ -304,7 +153,80 @@ I don&amp;rsquo;t use this directly as parts of it I don&amp;rsquo;t need, but t
 
 
 <a
-  href="/Five-Whys"
+  href="/sources/Adam-Savage-on-Lists-More-Lists-and-the-Power-of-Checkboxes-WIRED"
   rel="noopener" class="internal-link"
-  data-src="/Five-Whys">Five Whys</a></p>
+  data-src="/sources/Adam-Savage-on-Lists-More-Lists-and-the-Power-of-Checkboxes-WIRED">Adam Savage on Lists, More Lists, and the Power of Checkboxes  WIRED</a></p>
+]]></content:encoded></item><item><title>Use Lists to carry the knowledge and moment from this session into the next one.</title><link>https://brandonkboswell.com/seedlings/Use-Lists-to-carry-the-knowledge-and-moment-from-this-session-into-the-next-one./</link><pubDate>Tue, 03 May 2022 08:24:20 +0000</pubDate><guid>https://brandonkboswell.com/seedlings/Use-Lists-to-carry-the-knowledge-and-moment-from-this-session-into-the-next-one./</guid><description>Getting spun up on a topic can be challenging and time-consuming. Do your future self a favor, and catalog the next steps for your next session. This allows you to pick back up from that point instead of having to spin up all the context into memory just to piece together where you were.</description><content:encoded><![CDATA[<p>Getting spun up on a topic can be challenging and time-consuming. Do your future self a favor, and catalog the next steps for your next session. This allows you to pick back up from that point instead of having to spin up all the context into memory just to piece together where you were.</p>
+<p>
+
+
+
+
+
+<a
+  href="/seedlings/Dont-Start-from-Scratch"
+  rel="noopener" class="internal-link"
+  data-src="/seedlings/Dont-Start-from-Scratch">Don&rsquo;t Start from Scratch</a></p>
+<hr>
+<h3 id="references">References</h3>
+]]></content:encoded></item><item><title>Amethyst</title><link>https://brandonkboswell.com/Amethyst/</link><pubDate>Sun, 01 May 2022 14:11:43 +0000</pubDate><guid>https://brandonkboswell.com/Amethyst/</guid><description>Tips When using an app and you want some of it&amp;rsquo;s windows to be floated (aka, not managed by Amethyst) you can specify the window&amp;rsquo;s title. Often times the types of windows you would like to be floated don&amp;rsquo;t have a visible title and it can be a chore to detemine it&amp;rsquo;s title.</description><content:encoded><![CDATA[<h1 id="tips">Tips</h1>
+<ul>
+<li>When using an app and you want some of it&rsquo;s windows to be floated (aka, not managed by Amethyst) you can specify the window&rsquo;s title. Often times the types of windows you would like to be floated don&rsquo;t have a visible title and it can be a chore to detemine it&rsquo;s title. This <em>Applescript</em> will give you all the titles of active windows:</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">tell application &#34;System Events&#34;
+
+set allWindows to name of window of processes whose visible is true
+
+end tell
+</code></pre></td></tr></table>
+</div>
+</div>]]></content:encoded></item><item><title>Cool Work Tools I would like to try</title><link>https://brandonkboswell.com/Cool-Work-Tools-I-would-like-to-try/</link><pubDate>Sun, 01 May 2022 12:00:14 +0000</pubDate><guid>https://brandonkboswell.com/Cool-Work-Tools-I-would-like-to-try/</guid><description> Around Linear</description><content:encoded><![CDATA[<ul>
+<li>
+
+<a href="https://www.around.co/" rel="noopener">Around</a></li>
+<li>
+
+<a href="https://linear.app/" rel="noopener">Linear</a></li>
+</ul>
+]]></content:encoded></item><item><title>You need a zero friction capture for your reading list</title><link>https://brandonkboswell.com/You-need-a-zero-friction-capture-for-your-reading-list/</link><pubDate>Sat, 30 Apr 2022 09:52:09 +0000</pubDate><guid>https://brandonkboswell.com/You-need-a-zero-friction-capture-for-your-reading-list/</guid><description>For me, I use whatever task inbox I am using ( Inboxes only work if you trust how they&amp;rsquo;re drained). Yes, it would be nice to have a dedicated app that handles the nuances of reading lists, but the more important thing for me is that these things are visible alongside the other tasks I&amp;rsquo;m prioritizing and taking on as everything you do ultimately pulls from the same time bucket.</description><content:encoded><![CDATA[<p>For me, I use whatever task inbox I am using (
+
+
+
+
+
+<a
+  href="/seedlings/Inboxes-only-work-if-you-trust-how-theyre-drained"
+  rel="noopener" class="internal-link"
+  data-src="/seedlings/Inboxes-only-work-if-you-trust-how-theyre-drained">Inboxes only work if you trust how they&rsquo;re drained</a>). Yes, it would be nice to have a dedicated app that handles the nuances of reading lists, but the more important thing for me is that these things are visible alongside the other tasks I&rsquo;m prioritizing and taking on as <em>everything you do ultimately pulls from the same time bucket</em>.</p>
+]]></content:encoded></item><item><title>Ignorance can be a benefit</title><link>https://brandonkboswell.com/Ignorance-can-be-a-benefit/</link><pubDate>Sat, 30 Apr 2022 08:53:27 +0000</pubDate><guid>https://brandonkboswell.com/Ignorance-can-be-a-benefit/</guid><description>Biologist and Nobel Prize winner Sydney Brenner on innovative thinking: &amp;gt;&amp;ldquo;I strongly believe that the only way to encourage innovation is to give it to the young. The young have a great advantage in that they are ignorant.</description><content:encoded><![CDATA[<p>Biologist and Nobel Prize winner <em>Sydney Brenner</em> on innovative thinking:
+&gt;&ldquo;I strongly believe that the only way to encourage innovation is to give it to the young. The young have a great advantage in that they are ignorant. Because I think ignorance in science is very important. If you’re like me and you know too much you can’t try new things. I always work in fields of which I’m totally ignorant.&rdquo;</p>
+<p>This was definitely true for me at 
+
+
+
+
+
+<a
+  href="/Dorsata"
+  rel="noopener" class="internal-link"
+  data-src="/Dorsata">Dorsata</a>. We approached many things in healthcare purposefully different because we were ignorant to how things have traditionally been done. Of course this made many things more painful, but it also led to a differentiated approach and is the source of much of our success.</p>
+]]></content:encoded></item><item><title>SurfingKeys</title><link>https://brandonkboswell.com/SurfingKeys/</link><pubDate>Sat, 30 Apr 2022 07:57:13 +0000</pubDate><guid>https://brandonkboswell.com/SurfingKeys/</guid><description>Tried out on 2022-04-29, but it seemed too complicated and not a big enough upgrade over Vimium to warrant relearning a bunch of muscle memory.</description><content:encoded><![CDATA[<p>Tried out on <em>2022-04-29</em>, but it seemed too complicated and not a big enough upgrade over 
+
+
+
+
+
+<a
+  href="/Vimium"
+  rel="noopener" class="internal-link"
+  data-src="/Vimium">Vimium</a> to warrant relearning a bunch of muscle memory.</p>
 ]]></content:encoded></item></channel></rss>

@@ -48,9 +48,9 @@ which I call
 
 
 <a
-  href="/Vim"
+  href="/VIM"
   rel="noopener" class="internal-link"
-  data-src="/Vim">Vim</a></li>
+  data-src="/VIM">VIM</a></li>
 <li>
 
 
@@ -153,7 +153,16 @@ which I call
 <a href="https://direct.playstation.com/en-us/accessories/accessory/dualsense-wireless-controller.3005715" rel="noopener">Sony DualSense Wireless Controller</a> — 1000 hertz. Doesn&rsquo;t fit quite as good in the hand as the DS4, but is of amazing quality.</li>
 <li>
 
-<a href="https://www.apple.com/ipad-pro/" rel="noopener">iPad Pro 11in</a> — The easiest way to get the benefits of <em>Analog</em> while still having the benefits of 
+<a href="https://www.apple.com/ipad-pro/" rel="noopener">iPad Pro 11in</a> — The easiest way to get the benefits of 
+
+
+
+
+
+<a
+  href="/Analog-Tools"
+  rel="noopener" class="internal-link"
+  data-src="/Analog-Tools">Analog Tools</a> while still having the benefits of 
 
 
 
@@ -182,7 +191,7 @@ which I call
 <a href="https://jdslabs.com/product/black-aluminum-knob-taiss/" rel="noopener">the knob</a> it is just as nice.</li>
 <li>
 
-<a href="https://www.apple.com/airpods-pro/" rel="noopener">Airpod Pros</a> (For Focus)</li>
+<a href="https://www.apple.com/airpods-pro/" rel="noopener">AirPods Pro</a> (For Focus)</li>
 <li>
 
 <a href="https://www.sonos.com/en/shop/one" rel="noopener">Sonos One</a> — So easy and great sounding</li>
@@ -669,7 +678,7 @@ _content_calendar.md
   href="/Obsidian"
   rel="noopener" class="internal-link"
   data-src="/Obsidian">Obsidian</a></p>
-]]></content:encoded></item><item><title>My App Essentials</title><link>https://brandonkboswell.com/blog/My-App-Essentials/</link><pubDate>Tue, 01 Feb 2022 11:04:05 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-App-Essentials/</guid><description> Obsidian TickTick Skitch HandMirror Amethyst OneThing 1Password Loom GoodNotes Readwise Command Honorable Mentions Drafts Spotify / Tidal iTerm2 Parcel Fantastical</description><content:encoded><![CDATA[<ul>
+]]></content:encoded></item><item><title>My App Essentials</title><link>https://brandonkboswell.com/blog/My-App-Essentials/</link><pubDate>Tue, 01 Feb 2022 11:04:05 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-App-Essentials/</guid><description> Obsidian TickTick Skitch HandMirror Amethyst OneThing 1Password Loom GoodNotes Readwise Command MeetingBar Honorable Mentions Drafts Spotify / Tidal iTerm2 Parcel Fantastical</description><content:encoded><![CDATA[<ul>
 <li>
 
 
@@ -692,7 +701,16 @@ _content_calendar.md
   data-src="/TickTick">TickTick</a></li>
 <li><em>Skitch</em></li>
 <li><em>HandMirror</em></li>
-<li><em>Amethyst</em></li>
+<li>
+
+
+
+
+
+<a
+  href="/Amethyst"
+  rel="noopener" class="internal-link"
+  data-src="/Amethyst">Amethyst</a></li>
 <li><em>OneThing</em></li>
 <li><em>1Password</em></li>
 <li>
@@ -717,6 +735,16 @@ _content_calendar.md
   rel="noopener" class="internal-link"
   data-src="/Readwise">Readwise</a></li>
 <li><em>Command</em></li>
+<li>
+
+
+
+
+
+<a
+  href="/MeetingBar"
+  rel="noopener" class="internal-link"
+  data-src="/MeetingBar">MeetingBar</a></li>
 </ul>
 <h3 id="honorable-mentions">Honorable Mentions</h3>
 <ul>
@@ -1003,11 +1031,20 @@ What is it Tabox is a better version of Tab Groups for Chrome I think they suppo
 </ul>
 ]]></content:encoded></item><item><title>Mouseless MacOS Window Management - Yabai vs Amethyst</title><link>https://brandonkboswell.com/blog/Mouseless-MacOS-Window-Management-Yabai-vs-Amethyst/</link><pubDate>Sun, 10 Oct 2021 21:13:23 +0000</pubDate><guid>https://brandonkboswell.com/blog/Mouseless-MacOS-Window-Management-Yabai-vs-Amethyst/</guid><description>Why do you need a window manager at all? too much time moving windows around and wanted an easier way to snap two windows side by side or have a window be full screen without having to us MacOS spaces.</description><content:encoded><![CDATA[<h3 id="why-do-you-need-a-window-manager-at-all">Why do you need a window manager at all?</h3>
 <ul>
-<li>too much time moving windows around and wanted an easier way to snap two windows side by side or have a window be full screen without having to us MacOS spaces.</li>
+<li>too much time moving windows around and wanted an easier way to snap two windows side by side or have a window be full screen without having to us 
+
+
+
+
+
+<a
+  href="/MacOS"
+  rel="noopener" class="internal-link"
+  data-src="/MacOS">MacOS</a> spaces.</li>
 </ul>
 <h3 id="what-have-i-tried">What have I tried?</h3>
 <ul>
-<li>I used ShiftIt for a number of years</li>
+<li>I used <em>ShiftIt</em> for a number of years</li>
 <li>I had 4 basic shortcuts that I would use all the time
 <ul>
 <li>Left</li>
@@ -1017,15 +1054,51 @@ What is it Tabox is a better version of Tab Groups for Chrome I think they suppo
 </ul>
 </li>
 <li>Worked well, but I found that to do most interactions I was doing I ended up needing the mouse to complete them. For example, putting two windows side-by-side would require a mouse to switch focus reliably to the other monitor.</li>
-<li>I found out that <em>ShiftIt</em> was looking for a new maintainer and they were recommending Hammerspoon.</li>
-<li>Eventually I heard about Yabai and gave it a try. It was very different to what I was using with ShiftIt, but gave a different perspective of window management. Instead of me managing my windows manually, what if they could management themselves.</li>
-<li>I liked the idea of this, but found it to be a bit unreliable in the MacOS Monterrey Beta which I was running, and started trying to troubleshoot it. I found that BetterTouchTool and it were have weird interactions and once I stopped using BetterTouchTool it worked better.</li>
-<li>While trying to troubleshoot Yabai I came across Christopher Kapic&rsquo;s Video on Yabai and he mentioned Amethyst. I dug into it and gave it a shot and it seemed to match my needs pretty well.</li>
+<li>I found out that <em>ShiftIt</em> was looking for a new maintainer and they were recommending 
+
+
+
+
+
+<a
+  href="/Hammerspoon"
+  rel="noopener" class="internal-link"
+  data-src="/Hammerspoon">Hammerspoon</a>.</li>
+<li>Eventually I heard about 
+
+
+
+
+
+<a
+  href="/Yabai"
+  rel="noopener" class="internal-link"
+  data-src="/Yabai">Yabai</a> and gave it a try. It was very different to what I was using with <em>ShiftIt</em>, but gave a different perspective of window management. Instead of me managing my windows manually, what if they could manage themselves.</li>
+<li>I liked the idea of this, but found it to be a bit unreliable in the 
+
+
+
+
+
+<a
+  href="/MacOS"
+  rel="noopener" class="internal-link"
+  data-src="/MacOS">MacOS</a> Monterrey Beta which I was running, and started trying to troubleshoot it. I found that <em>BetterTouchTool</em> and it were having weird interactions, and once I stopped using <em>BetterTouchTool</em> it worked better.</li>
+<li>While trying to troubleshoot Yabai, I came across Christopher Kapic&rsquo;s Video on Yabai and he mentioned 
+
+
+
+
+
+<a
+  href="/Amethyst"
+  rel="noopener" class="internal-link"
+  data-src="/Amethyst">Amethyst</a>. I dug into it and gave it a shot and it seemed to match my needs pretty well.</li>
 <li>Here are the shortcuts I use (Note I use a hyper key caps locks that is bound to Escape on tap and changes my HJKL keys into arrow keys). This works well for me not needing to leave the home row, but your mileage may vary.
 <ul>
 <li>Two Layouts: Tall + Fullscreen
 <ul>
-<li>This lets me toggle between tiled and fullscreen which is a habit I have from my Shiftit days</li>
+<li>This lets me toggle between tiled and fullscreen which is a habit I have from my <em>ShiftIt</em> days</li>
 <li>Hyper + Return: Toggle Layout</li>
 <li>Shrink &amp; Expand The Layout with Hyper Plus &amp; Minus</li>
 <li>Move window focus with Hyper ASDF
@@ -1071,6 +1144,48 @@ What is it Tabox is a better version of Tab Groups for Chrome I think they suppo
 </ul>
 </li>
 </ul>
+]]></content:encoded></item><item><title>Always show scrollbars on Mac</title><link>https://brandonkboswell.com/blog/Always-show-scrollbars-on-Mac/</link><pubDate>Fri, 01 Oct 2021 14:13:50 +0000</pubDate><guid>https://brandonkboswell.com/blog/Always-show-scrollbars-on-Mac/</guid><description>On macOS by default, scrollbar UI is only shown when they are hovered or the page is actively being scrolled. This is a clever way to declutter the UI, but is not consistent with the behavior you will find on Windows.</description><content:encoded><![CDATA[<p>On 
+
+
+
+
+
+<a
+  href="/MacOS"
+  rel="noopener" class="internal-link"
+  data-src="/MacOS">macOS</a> by default, scrollbar UI is only shown when they are hovered or the page is actively being scrolled. This is a clever way to declutter the UI, but is not consistent with the behavior you will find on Windows. If you are a designer of sites that will be used by both 
+
+
+
+
+
+<a
+  href="/MacOS"
+  rel="noopener" class="internal-link"
+  data-src="/MacOS">macOS</a> and <em>Windows</em>, it is a good idea to turn on always visible scrollbars.</p>
+<p>At 
+
+
+
+
+
+<a
+  href="/Dorsata"
+  rel="noopener" class="internal-link"
+  data-src="/Dorsata">Dorsata</a>, 90+% of our users are on <em>Windows</em>, but our entire engineering and design team is on 
+
+
+
+
+
+<a
+  href="/MacOS"
+  rel="noopener" class="internal-link"
+  data-src="/MacOS">macOS</a>. I&rsquo;m not going to push for them to move to <em>Windows</em> (because that would be silly), but we can at least make sure we see something similar to what they see when designing and building apps for them.</p>
+<p>There are more details on the differences between scrollbars on the Mac and Windows available at 
+
+<a href="https://gist.github.com/martynchamberlin/6aaf8a45b36907e9f1e21a28889f6b0a" rel="noopener">https://gist.github.com/martynchamberlin/6aaf8a45b36907e9f1e21a28889f6b0a</a></p>
+<h2 id="do-note-that-you-need-to-log-out-or-restart-before-this-change-will-be-reflected">DO NOTE THAT YOU NEED TO LOG OUT OR RESTART BEFORE THIS CHANGE WILL BE REFLECTED</h2>
 ]]></content:encoded></item><item><title>Quickly Mark Up Mac Screenshots on iPad (Skitch vs Markup)</title><link>https://brandonkboswell.com/blog/Quickly-Mark-Up-Mac-Screenshots-on-iPad-Skitch-vs-Markup/</link><pubDate>Mon, 27 Sep 2021 21:57:05 +0000</pubDate><guid>https://brandonkboswell.com/blog/Quickly-Mark-Up-Mac-Screenshots-on-iPad-Skitch-vs-Markup/</guid><description/><content:encoded></content:encoded></item><item><title>Faster Quick Capture &amp; Dictation for TickTick (iOS)</title><link>https://brandonkboswell.com/blog/Faster-Quick-Capture-Dictation-for-TickTick-iOS/</link><pubDate>Mon, 20 Sep 2021 21:24:08 +0000</pubDate><guid>https://brandonkboswell.com/blog/Faster-Quick-Capture-Dictation-for-TickTick-iOS/</guid><description>I started using TickTick in march of this year after finding that time blocking in Things 3 + Fantastical to have a number of issues (perhaps I will do more on that in a future video).</description><content:encoded><![CDATA[<p>I started using TickTick in march of this year after finding that time blocking in Things 3 + Fantastical to have a number of issues (perhaps I will do more on that in a future video).</p>
 <p>Once I migrated over to TickTick, I found myself using it for everything. It basically became my inbox for everything: Tasks, Ideas, Funny things that people said that I didn&rsquo;t want to instantly forget. I came to the realization that as long as I could get the item into TickTick I would act on it.</p>
 <p>The issue I found was although TickTick has good quick capture and dictation built in, there was no way they could do it fast enough for what I wanted. Mostly because of limitations in iOS. At least on my iPhone XS it can only boot so fast and it only can be ready for input so fast.</p>
@@ -1166,7 +1281,7 @@ This last option is just personal preference.</p>
 When Possible Start from a fresh install
 Log in to iCloud
 Install
-Chrome Alfred Obsidian ShiftIt (Amethyst) aText Skitch Rocket 1Password HandMirror Karabiner Elements Set Karabiner Elements Profile TickTick / Things 3 Fantastical For Development</description><content:encoded><![CDATA[<p>
+Chrome Alfred Obsidian ShiftIt ( Amethyst) aText Skitch Rocket 1Password HandMirror Karabiner Elements Set Karabiner Elements Profile TickTick / Things 3 Fantastical For Development</description><content:encoded><![CDATA[<p>
 
 
 
@@ -1207,7 +1322,16 @@ Chrome Alfred Obsidian ShiftIt (Amethyst) aText Skitch Rocket 1Password HandMirr
   href="/Obsidian"
   rel="noopener" class="internal-link"
   data-src="/Obsidian">Obsidian</a></li>
-<li><input checked="" disabled="" type="checkbox"> <del><em>ShiftIt</em></del> (<em>Amethyst</em>)</li>
+<li><input checked="" disabled="" type="checkbox"> <del><em>ShiftIt</em></del> (
+
+
+
+
+
+<a
+  href="/Amethyst"
+  rel="noopener" class="internal-link"
+  data-src="/Amethyst">Amethyst</a>)</li>
 <li><input checked="" disabled="" type="checkbox"> <em>aText</em></li>
 <li><input checked="" disabled="" type="checkbox"> <em>Skitch</em></li>
 <li><input checked="" disabled="" type="checkbox"> 

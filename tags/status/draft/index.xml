@@ -36,7 +36,7 @@ I recorded a video of how I use Obsidian at: How I Use Obsidian</description><co
 <ul>
 <li>Open the Link under your cursor with CMD+OPT+ENTER</li>
 </ul>
-]]></content:encoded></item><item><title>Vim</title><link>https://brandonkboswell.com/Vim/</link><pubDate>Wed, 21 Jul 2021 14:13:12 +0000</pubDate><guid>https://brandonkboswell.com/Vim/</guid><description>Getting started: https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started
+]]></content:encoded></item><item><title>VIM</title><link>https://brandonkboswell.com/VIM/</link><pubDate>Wed, 21 Jul 2021 14:13:12 +0000</pubDate><guid>https://brandonkboswell.com/VIM/</guid><description>Getting started: https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started
 Watching the Thoughtbot training for VIM this dug into f and t for finding a specific character. F will land on it. T will land just prior to it Capital F and Capital T do the same, but in reverse Semicolon repeats Use / for searching.</description><content:encoded><![CDATA[<p>Getting started: 
 
 <a href="https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started" rel="noopener">https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started</a></p>
