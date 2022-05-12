@@ -19,7 +19,7 @@
   data-src="/Vimium">Vimium</a>. The issue is that every app you use has to support VIM movements to make the payoff worthwhile. There are tools like <em>kindaVim</em> that try to bring a VIM experience to MacOS, but it still doesn&rsquo;t feel fully baked. We&rsquo;re most of the way there, but you can&rsquo;t use VIM commands in URL fields or to navigate within Electron apps and it&rsquo;s just too painful to have these superpowers and to only be able to use them 80% of the time. Not to mention, I worry a bit about betting my entire ability to work my computer on one app that intends to be paid. It seems like a great way to get held ransom in the future.</p>
 <p>I&rsquo;m sure at this point you&rsquo;re like &ldquo;Brandon, if you&rsquo;re so against VIM what are you going to use instead?&rdquo; I&rsquo;m going to use my keyboard, just remapped a bit. The key thing I find myself hating about my current keyboard setup that I have tried to fix with VIM is rapid navigation and selection. I feel like I&rsquo;ve gotten most of the way there by borrowing a handful of navigation commands from <em>Jason Rudolph</em>&rsquo;s 
 
-<a href="https://github.com/jasonrudolph/keyboard" rel="noopener">Keyboard</a>
+<a target=“_blank” href="https://github.com/jasonrudolph/keyboard" rel="noopener">Keyboard</a>
 which I call 
 
 
@@ -63,7 +63,7 @@ which I call
   data-src="/Vimium">Vimium</a></li>
 <li><em>kindaVim</em> — 
 
-<a href="https://kindavim.app/" rel="noopener">Link</a></li>
+<a target=“_blank” href="https://kindavim.app/" rel="noopener">Link</a></li>
 <li>Jason Rudolph&rsquo;s 
 
 
@@ -100,9 +100,9 @@ which I call
 <ul>
 <li>
 
-<a href="https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4" rel="noopener">Kindle Oasis</a> — If you&rsquo;re buying today, buy the 
+<a target=“_blank” href="https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4" rel="noopener">Kindle Oasis</a> — If you&rsquo;re buying today, buy the 
 
-<a href="https://www.amazon.com/Introducing-kindle-paperwhite-Signature-Edition/dp/B08B495319/ref=sr_1_2?keywords=kindle&#43;paperwhite&amp;qid=1649520789&amp;s=amazon-devices&amp;sprefix=kindle&#43;pape%2Camazon-devices%2C204&amp;sr=1-2" rel="noopener">Paperwhite</a> instead. My thoughts on 
+<a target=“_blank” href="https://www.amazon.com/Introducing-kindle-paperwhite-Signature-Edition/dp/B08B495319/ref=sr_1_2?keywords=kindle&#43;paperwhite&amp;qid=1649520789&amp;s=amazon-devices&amp;sprefix=kindle&#43;pape%2Camazon-devices%2C204&amp;sr=1-2" rel="noopener">Paperwhite</a> instead. My thoughts on 
 
 
 
@@ -114,9 +114,9 @@ which I call
   data-src="/Kindle">Kindle</a>.</li>
 <li>
 
-<a href="https://www.amazon.com/ENDGAME-GEAR-XM1r-Gaming-Mouse/dp/B08PL5TP3P" rel="noopener">Endgame Gear XM1</a> — I have a 
+<a target=“_blank” href="https://www.amazon.com/ENDGAME-GEAR-XM1r-Gaming-Mouse/dp/B08PL5TP3P" rel="noopener">Endgame Gear XM1</a> — I have a 
 
-<a href="https://www.endgamegear.com/xm2w/gaming-mice" rel="noopener">wireless XM2w</a> on order, but this mouse fits me better than all others, and I have tried a ton.</li>
+<a target=“_blank” href="https://www.endgamegear.com/xm2w/gaming-mice" rel="noopener">wireless XM2w</a> on order, but this mouse fits me better than all others, and I have tried a ton.</li>
 <li>
 
 
@@ -138,22 +138,22 @@ which I call
   rel="noopener" class="internal-link broken"
   data-src="../Herman%20Miller%20Embody">Herman Miller Embody</a> — Still new to this one, but it&rsquo;s a major upgrade over the 
 
-<a href="https://secretlab.co/collections/omega-series" rel="noopener">Secret Labs Omega</a> I used before. The Omega was a great chair, but didn&rsquo;t fit me well. Secret Labs has amazing support, so if the chair fits you well, go for it.</li>
+<a target=“_blank” href="https://secretlab.co/collections/omega-series" rel="noopener">Secret Labs Omega</a> I used before. The Omega was a great chair, but didn&rsquo;t fit me well. Secret Labs has amazing support, so if the chair fits you well, go for it.</li>
 <li>
 
-<a href="https://baronfig.com/tools/confidant/classic?size=flagship&#43;%285.4%22&#43;x&#43;7.7%22%29&amp;color=charcoal&amp;paper&#43;type=dot&#43;grid" rel="noopener">Baron Fig Confidant</a> — Writes better than the Moleskine</li>
+<a target=“_blank” href="https://baronfig.com/tools/confidant/classic?size=flagship&#43;%285.4%22&#43;x&#43;7.7%22%29&amp;color=charcoal&amp;paper&#43;type=dot&#43;grid" rel="noopener">Baron Fig Confidant</a> — Writes better than the Moleskine</li>
 <li>
 
-<a href="https://www.studioneat.com/products/markone" rel="noopener">Studio Neat Mark One</a> — An expensive pen, but feels great in the hand and it makes me want to write more</li>
+<a target=“_blank” href="https://www.studioneat.com/products/markone" rel="noopener">Studio Neat Mark One</a> — An expensive pen, but feels great in the hand and it makes me want to write more</li>
 <li>
 
-<a href="https://drop.com/buy/drop-signature-series-space-race-keyboard" rel="noopener">Drop Alt Signature Series Space Race</a> — Similar to the Studio Neat Mark One above, a bit expensive, but makes me want to type. The stock stabilizers are trash, but after fixing that it&rsquo;s a great keyboard</li>
+<a target=“_blank” href="https://drop.com/buy/drop-signature-series-space-race-keyboard" rel="noopener">Drop Alt Signature Series Space Race</a> — Similar to the Studio Neat Mark One above, a bit expensive, but makes me want to type. The stock stabilizers are trash, but after fixing that it&rsquo;s a great keyboard</li>
 <li>
 
-<a href="https://direct.playstation.com/en-us/accessories/accessory/dualsense-wireless-controller.3005715" rel="noopener">Sony DualSense Wireless Controller</a> — 1000 hertz. Doesn&rsquo;t fit quite as good in the hand as the DS4, but is of amazing quality.</li>
+<a target=“_blank” href="https://direct.playstation.com/en-us/accessories/accessory/dualsense-wireless-controller.3005715" rel="noopener">Sony DualSense Wireless Controller</a> — 1000 hertz. Doesn&rsquo;t fit quite as good in the hand as the DS4, but is of amazing quality.</li>
 <li>
 
-<a href="https://www.apple.com/ipad-pro/" rel="noopener">iPad Pro 11in</a> — The easiest way to get the benefits of 
+<a target=“_blank” href="https://www.apple.com/ipad-pro/" rel="noopener">iPad Pro 11in</a> — The easiest way to get the benefits of 
 
 
 
@@ -177,57 +177,57 @@ which I call
 <ul>
 <li>
 
-<a href="https://www.amazon.com/HIFIMAN-SUNDARA-Over-Ear-Full-Size-Headphones/dp/B077XDWT7X" rel="noopener">Hifiman Sundara</a> (For Music)</li>
+<a target=“_blank” href="https://www.amazon.com/HIFIMAN-SUNDARA-Over-Ear-Full-Size-Headphones/dp/B077XDWT7X" rel="noopener">Hifiman Sundara</a> (For Music)</li>
 <li>
 
-<a href="https://www.schiit.com/products/modi-1" rel="noopener">Schiit Modi</a> — No frills, but works and sounds great</li>
+<a target=“_blank” href="https://www.schiit.com/products/modi-1" rel="noopener">Schiit Modi</a> — No frills, but works and sounds great</li>
 <li>
 
-<a href="https://www.schiit.com/products/magni-1" rel="noopener">Schiit Magni Heresy</a> (AVOID)— Had two break and Schiit&rsquo;s repair policy is awful</li>
+<a target=“_blank” href="https://www.schiit.com/products/magni-1" rel="noopener">Schiit Magni Heresy</a> (AVOID)— Had two break and Schiit&rsquo;s repair policy is awful</li>
 <li>
 
-<a href="https://jdslabs.com/product/atom-amp/" rel="noopener">JDS Labs Atom Amp+</a> — Sounds as good as the Schiit, but doesn&rsquo;t break. The case isn&rsquo;t as nice as the heresy, but after swapping out 
+<a target=“_blank” href="https://jdslabs.com/product/atom-amp/" rel="noopener">JDS Labs Atom Amp+</a> — Sounds as good as the Schiit, but doesn&rsquo;t break. The case isn&rsquo;t as nice as the heresy, but after swapping out 
 
-<a href="https://jdslabs.com/product/black-aluminum-knob-taiss/" rel="noopener">the knob</a> it is just as nice.</li>
+<a target=“_blank” href="https://jdslabs.com/product/black-aluminum-knob-taiss/" rel="noopener">the knob</a> it is just as nice.</li>
 <li>
 
-<a href="https://www.apple.com/airpods-pro/" rel="noopener">AirPods Pro</a> (For Focus)</li>
+<a target=“_blank” href="https://www.apple.com/airpods-pro/" rel="noopener">AirPods Pro</a> (For Focus)</li>
 <li>
 
-<a href="https://www.sonos.com/en/shop/one" rel="noopener">Sonos One</a> — So easy and great sounding</li>
+<a target=“_blank” href="https://www.sonos.com/en/shop/one" rel="noopener">Sonos One</a> — So easy and great sounding</li>
 <li>
 
-<a href="https://www.sonos.com/en/shop/five" rel="noopener">Sonos Five</a> — Expensive, but really good sound</li>
+<a target=“_blank” href="https://www.sonos.com/en/shop/five" rel="noopener">Sonos Five</a> — Expensive, but really good sound</li>
 <li>
 
-<a href="https://www.bhphotovideo.com/c/product/1649504-REG/sony_zv_e10_mirrorless_camera_body.html" rel="noopener">Sony ZV-E10</a>
+<a target=“_blank” href="https://www.bhphotovideo.com/c/product/1649504-REG/sony_zv_e10_mirrorless_camera_body.html" rel="noopener">Sony ZV-E10</a>
 <ul>
 <li>
 
-<a href="https://www.amazon.com/Sigma-16mm-Contemporary-Lens-Sony/dp/B077BWD2BB" rel="noopener">Sigma 16mm f1.4</a></li>
+<a target=“_blank” href="https://www.amazon.com/Sigma-16mm-Contemporary-Lens-Sony/dp/B077BWD2BB" rel="noopener">Sigma 16mm f1.4</a></li>
 </ul>
 </li>
 <li>
 
-<a href="http://www.samsontech.com/samson/products/microphones/usb-microphones/q2u/" rel="noopener">Samson Q2U</a> — Great sounding, but inexpensive microphone.</li>
+<a target=“_blank” href="http://www.samsontech.com/samson/products/microphones/usb-microphones/q2u/" rel="noopener">Samson Q2U</a> — Great sounding, but inexpensive microphone.</li>
 </ul>
 <h2 id="other">Other</h2>
 <ul>
 <li>
 
-<a href="https://www.delonghi.com/en-us/magnifica-automatic-espresso-machine-cappuccino-maker-esam3300/p/ESAM-3300" rel="noopener">Delonghi Magnifica</a> — Expensive, but excellent coffee</li>
+<a target=“_blank” href="https://www.delonghi.com/en-us/magnifica-automatic-espresso-machine-cappuccino-maker-esam3300/p/ESAM-3300" rel="noopener">Delonghi Magnifica</a> — Expensive, but excellent coffee</li>
 <li>
 
-<a href="https://smartish.com/collections/wallet-cases/products/smartish-wallet-slayer-vol-2-card-case-for-iphone-x-xs-silk" rel="noopener">Silk Wallet Case</a> — All in One Case+Wallet for iPhone, but not good for inductive charging</li>
+<a target=“_blank” href="https://smartish.com/collections/wallet-cases/products/smartish-wallet-slayer-vol-2-card-case-for-iphone-x-xs-silk" rel="noopener">Silk Wallet Case</a> — All in One Case+Wallet for iPhone, but not good for inductive charging</li>
 <li>Incase Backpack — Simple no frills backpack that I have used for years. I don&rsquo;t think they made the one I have any longer, but my guess is their new ones are similar.</li>
 <li>
 
-<a href="https://www.tesla.com/model3" rel="noopener">Tesla Model 3</a> — I tested all of the other electric cars in 2021 and ended up coming back to the Model 3. As of the time of this writing Tesla is very far ahead of the other players in electric cars. This will likely changes over the next 2-3 years</li>
+<a target=“_blank” href="https://www.tesla.com/model3" rel="noopener">Tesla Model 3</a> — I tested all of the other electric cars in 2021 and ended up coming back to the Model 3. As of the time of this writing Tesla is very far ahead of the other players in electric cars. This will likely changes over the next 2-3 years</li>
 </ul>
 ]]></content:encoded></item><item><title>Publishing your Obsidian Vault Online with Quartz</title><link>https://brandonkboswell.com/blog/Publishing-your-Obsidian-Vault-Online-with-Quartz/</link><pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate><guid>https://brandonkboswell.com/blog/Publishing-your-Obsidian-Vault-Online-with-Quartz/</guid><description>So you&amp;rsquo;re thinking about publishing your Obsidian Vault online, but you&amp;rsquo;re not sure if you want to pay for Obsidian Publish or not. I&amp;rsquo;ve been there, that was the exact same situation I was in when I considered publishing my vault. Call me cheap, but I wasn&amp;rsquo;t sure if I was ready to pay $20 a month for the rest of time. Would I keep writing meaningful content, would people actually ready it? So instead, I decided I was going to figure out a way to publish my vault without the monthly fee. I now publish my vault online, and I don&amp;rsquo;t pay anything for hosting.</description><content:encoded><![CDATA[<blockquote>
 <p>NOTE: The easiest way to publish your vault online is by using 
 
-<a href="https://obsidian.md/publish" rel="noopener">Obsidian Publish</a>. I put a bunch of time into figuring out how all of this would work together, and I probably could have saved a bunch of time by just using Obsidian Publish. Either way, I&rsquo;ve learned a ton in setting this up. I also have more control on what does and doesn&rsquo;t get published. I have a ton of private content in my vault and I do not want that being published, which is why I went to all this trouble you&rsquo;re about to see. Yes, I could use multiple vaults, but that seems annoying when you want to link to something that resides in another vault.</p>
+<a target=“_blank” href="https://obsidian.md/publish" rel="noopener">Obsidian Publish</a>. I put a bunch of time into figuring out how all of this would work together, and I probably could have saved a bunch of time by just using Obsidian Publish. Either way, I&rsquo;ve learned a ton in setting this up. I also have more control on what does and doesn&rsquo;t get published. I have a ton of private content in my vault and I do not want that being published, which is why I went to all this trouble you&rsquo;re about to see. Yes, I could use multiple vaults, but that seems annoying when you want to link to something that resides in another vault.</p>
 </blockquote>
 <p>So you&rsquo;re thinking about publishing your 
 
@@ -244,14 +244,14 @@ which I call
 <ul>
 <li>
 
-<a href="https://github.com/jackyzha0/quartz" rel="noopener"><strong>Quartz</strong></a>
+<a target=“_blank” href="https://github.com/jackyzha0/quartz" rel="noopener"><strong>Quartz</strong></a>
 <ul>
 <li>A nice, clean-looking template for your digital garden that sits on top of <em>Hugo</em>. Once you get your bearings with it, you will find that it is just a <em>Hugo</em> site and you can customize it a ton if you would like.</li>
 </ul>
 </li>
 <li><strong>
 
-<a href="https://github.com/brandonkboswell/obsidian-export/tree/title_frontmatter" rel="noopener">Obsidian Export</a></strong> (Slightly Modified)
+<a target=“_blank” href="https://github.com/brandonkboswell/obsidian-export/tree/title_frontmatter" rel="noopener">Obsidian Export</a></strong> (Slightly Modified)
 <ul>
 <li>A Rust based library for converting your Obsidian Vault to standards compliant <em>Markdown</em> that supports translating Obsidian style links to standard links that are compatible with Hugo.</li>
 <li>Quartz and Hugo both assume that all of your files have a title attribute in their frontmatter. Unfortunately, most of my files do not have this title front matter. I have a branch of obsidian-export (linked above) that uses the file&rsquo;s name to generate titles when that frontmatter is not present.</li>
@@ -259,7 +259,7 @@ which I call
 </li>
 <li><strong>
 
-<a href="https://github.com/jackyzha0/hugo-obsidian" rel="noopener">obsidian-hugo</a></strong>
+<a target=“_blank” href="https://github.com/jackyzha0/hugo-obsidian" rel="noopener">obsidian-hugo</a></strong>
 <ul>
 <li><em>Quartz</em> has an easy setup that allows you to commit all of your content to <em>Github</em> and it will compile everything via <em>Github Actions</em>. This is fantastic and super helpful. The issue is I have private content that I don&rsquo;t want on Github.</li>
 <li>So instead I use the <em>obsidian-hugo</em> library that Quartz&rsquo;s Github Action uses just I use it on my local machine and precompile the filtered content before uploading to Github. This enables me to host my Digital Garden on Github (for free) without risking private content accidentally leaking out onto the internet.</li>
@@ -267,7 +267,7 @@ which I call
 </li>
 <li>
 
-<a href="https://docs.github.com/en/pages/quickstart" rel="noopener"><strong>Github Pages</strong></a>
+<a target=“_blank” href="https://docs.github.com/en/pages/quickstart" rel="noopener"><strong>Github Pages</strong></a>
 <ul>
 <li>This is where I publish the content that gets output. It&rsquo;s all static html and is being served by Github. There is no amount of traffic I could ever manage to generate that Github couldn&rsquo;t handle.</li>
 </ul>
@@ -282,21 +282,21 @@ which I call
 <li>It handles bad or no frontmatter so that the downstream pipeline doesn&rsquo;t have any issues</li>
 <li>You can avoid a bunch of hacks to Quartz (and your layout files) by ensuring that your files have title attributes in their frontmatter. I have hacked together a fork of obsidian-export that does this automatically based on the file name when exporting. 
 
-<a href="https://github.com/brandonkboswell/obsidian-export/tree/title_frontmatter" rel="noopener">https://github.com/brandonkboswell/obsidian-export/tree/title_frontmatter</a></li>
+<a target=“_blank” href="https://github.com/brandonkboswell/obsidian-export/tree/title_frontmatter" rel="noopener">https://github.com/brandonkboswell/obsidian-export/tree/title_frontmatter</a></li>
 </ul>
 <h1 id="high-level-steps-these-are-from-memory-as-i-set-this-up-a-few-months-ago">High Level Steps (these are from memory as I set this up a few months ago)</h1>
 <ol>
 <li>Clone 
 
-<a href="https://github.com/jackyzha0/quartz" rel="noopener">Quartz</a> into a local directory</li>
+<a target=“_blank” href="https://github.com/jackyzha0/quartz" rel="noopener">Quartz</a> into a local directory</li>
 <li>Create a Repo on Github to host your public garden
 <ol>
 <li>
 
-<a href="https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7" rel="noopener">Getting started with Github Pages</a></li>
+<a target=“_blank” href="https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7" rel="noopener">Getting started with Github Pages</a></li>
 <li>
 
-<a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site" rel="noopener">Configuring a Custom Domain for your Github Pages Site</a></li>
+<a target=“_blank” href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site" rel="noopener">Configuring a Custom Domain for your Github Pages Site</a></li>
 </ol>
 </li>
 <li>Make the public folder of your Quartz repo a submodule of that repo
@@ -479,7 +479,7 @@ _content_calendar.md
 <li>If you&rsquo;ve never used <em>Hugo</em> before (like I hadn&rsquo;t prior to this project), you may not know that Hugo has a static folder that generates assets you want to be in any subsequent rebuilds. When I first started this project I added a bunch of lines to the compile script to create files and moving files around when all I really needed to do was add those files to my static folder.</li>
 <li>You are going to want to update your Hugo layout files to take advantage of the backlink rendering provided by Obsidian Export. The changes you&rsquo;ll want to make, plus an explanation are available here: 
 
-<a href="https://github.com/zoni/obsidian-export/issues/8#issuecomment-774521792" rel="noopener">https://github.com/zoni/obsidian-export/issues/8#issuecomment-774521792</a></li>
+<a target=“_blank” href="https://github.com/zoni/obsidian-export/issues/8#issuecomment-774521792" rel="noopener">https://github.com/zoni/obsidian-export/issues/8#issuecomment-774521792</a></li>
 </ul>
 <h2 id="previous-attempts">Previous Attempts</h2>
 <ul>
@@ -487,7 +487,7 @@ _content_calendar.md
 <ul>
 <li>I had to make a minor modification to obsidian-hugo because it assumes that all of your files have a title attribute in their frontmatter. Unfortunately, most of my files do not have this title front matter. I have a branch of obsidian-hugo that uses the file&rsquo;s name to generate titles if that frontmatter is not present. 
 
-<a href="https://github.com/brandonkboswell/hugo-obsidian/tree/without_titles" rel="noopener">https://github.com/brandonkboswell/hugo-obsidian/tree/without_titles</a>.
+<a target=“_blank” href="https://github.com/brandonkboswell/hugo-obsidian/tree/without_titles" rel="noopener">https://github.com/brandonkboswell/hugo-obsidian/tree/without_titles</a>.
 <em>As the time of this writing, that branch has not been merged into the main repo, but it may have by the time you&rsquo;re reading this.</em></li>
 </ul>
 </li>
@@ -498,7 +498,7 @@ _content_calendar.md
 <ul>
 <li>Originally found it watching a YouTube Video by <em>Jesse Skelton</em> which you can find here 
 
-<a href="https://www.youtube.com/watch?v=uaJSjgVEhMQ" rel="noopener">https://www.youtube.com/watch?v=uaJSjgVEhMQ</a>
+<a target=“_blank” href="https://www.youtube.com/watch?v=uaJSjgVEhMQ" rel="noopener">https://www.youtube.com/watch?v=uaJSjgVEhMQ</a>
 <ul>
 <li>M -&gt; Music -&gt; Spotify</li>
 <li>I -&gt; IM -&gt; Messages</li>
@@ -1184,7 +1184,7 @@ What is it Tabox is a better version of Tab Groups for Chrome I think they suppo
   data-src="/MacOS">macOS</a>. I&rsquo;m not going to push for them to move to <em>Windows</em> (because that would be silly), but we can at least make sure we see something similar to what they see when designing and building apps for them.</p>
 <p>For more details on the differences between scrollbars on the Mac and Windows check out 
 
-<a href="https://gist.github.com/martynchamberlin/6aaf8a45b36907e9f1e21a28889f6b0a" rel="noopener">https://gist.github.com/martynchamberlin/6aaf8a45b36907e9f1e21a28889f6b0a</a>.</p>
+<a target=“_blank” href="https://gist.github.com/martynchamberlin/6aaf8a45b36907e9f1e21a28889f6b0a" rel="noopener">https://gist.github.com/martynchamberlin/6aaf8a45b36907e9f1e21a28889f6b0a</a>.</p>
 <h3 id="steps">Steps</h3>
 <ol>
 <li>Go to Mac <strong>System Preferences</strong></li>
@@ -1432,5 +1432,5 @@ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)</p>
 </ul>
 <p>My <em>dotfiles</em> are available at 
 
-<a href="https://github.com/brandonkboswell/dotfiles" rel="noopener">https://github.com/brandonkboswell/dotfiles</a></p>
+<a target=“_blank” href="https://github.com/brandonkboswell/dotfiles" rel="noopener">https://github.com/brandonkboswell/dotfiles</a></p>
 ]]></content:encoded></item></channel></rss>
