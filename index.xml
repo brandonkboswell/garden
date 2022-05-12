@@ -1182,10 +1182,19 @@ What is it Tabox is a better version of Tab Groups for Chrome I think they suppo
   href="/MacOS"
   rel="noopener" class="internal-link"
   data-src="/MacOS">macOS</a>. I&rsquo;m not going to push for them to move to <em>Windows</em> (because that would be silly), but we can at least make sure we see something similar to what they see when designing and building apps for them.</p>
-<p>There are more details on the differences between scrollbars on the Mac and Windows available at 
+<p>For more details on the differences between scrollbars on the Mac and Windows check out 
 
-<a href="https://gist.github.com/martynchamberlin/6aaf8a45b36907e9f1e21a28889f6b0a" rel="noopener">https://gist.github.com/martynchamberlin/6aaf8a45b36907e9f1e21a28889f6b0a</a></p>
-<h2 id="do-note-that-you-need-to-log-out-or-restart-before-this-change-will-be-reflected">DO NOTE THAT YOU NEED TO LOG OUT OR RESTART BEFORE THIS CHANGE WILL BE REFLECTED</h2>
+<a href="https://gist.github.com/martynchamberlin/6aaf8a45b36907e9f1e21a28889f6b0a" rel="noopener">https://gist.github.com/martynchamberlin/6aaf8a45b36907e9f1e21a28889f6b0a</a>.</p>
+<h3 id="steps">Steps</h3>
+<ol>
+<li>Go to Mac <strong>System Preferences</strong></li>
+<li>Choose <strong>General</strong></li>
+<li>Under Show Scroll Bars, Choose <strong>Always</strong></li>
+<li><strong>Log Out</strong> or <strong>Restart</strong> for the changes be reflected</li>
+</ol>
+<p>
+
+<img src="/../files/Pasted_Image_10_1_21__2_14_PM.png" alt="Pasted_Image_10_1_21__2_14_PM.png"  /></p>
 ]]></content:encoded></item><item><title>Quickly Mark Up Mac Screenshots on iPad (Skitch vs Markup)</title><link>https://brandonkboswell.com/blog/Quickly-Mark-Up-Mac-Screenshots-on-iPad-Skitch-vs-Markup/</link><pubDate>Mon, 27 Sep 2021 21:57:05 +0000</pubDate><guid>https://brandonkboswell.com/blog/Quickly-Mark-Up-Mac-Screenshots-on-iPad-Skitch-vs-Markup/</guid><description/><content:encoded></content:encoded></item><item><title>Faster Quick Capture &amp; Dictation for TickTick (iOS)</title><link>https://brandonkboswell.com/blog/Faster-Quick-Capture-Dictation-for-TickTick-iOS/</link><pubDate>Mon, 20 Sep 2021 21:24:08 +0000</pubDate><guid>https://brandonkboswell.com/blog/Faster-Quick-Capture-Dictation-for-TickTick-iOS/</guid><description>I started using TickTick in march of this year after finding that time blocking in Things 3 + Fantastical to have a number of issues (perhaps I will do more on that in a future video).</description><content:encoded><![CDATA[<p>I started using TickTick in march of this year after finding that time blocking in Things 3 + Fantastical to have a number of issues (perhaps I will do more on that in a future video).</p>
 <p>Once I migrated over to TickTick, I found myself using it for everything. It basically became my inbox for everything: Tasks, Ideas, Funny things that people said that I didn&rsquo;t want to instantly forget. I came to the realization that as long as I could get the item into TickTick I would act on it.</p>
 <p>The issue I found was although TickTick has good quick capture and dictation built in, there was no way they could do it fast enough for what I wanted. Mostly because of limitations in iOS. At least on my iPhone XS it can only boot so fast and it only can be ready for input so fast.</p>
