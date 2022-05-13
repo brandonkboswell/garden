@@ -126,7 +126,7 @@ which I call
 <a
   href="/Fully-Jarvis-Desk"
   rel="noopener" class="internal-link"
-  data-src="/Fully-Jarvis-Desk">Fully Jarvis Desk</a> — A little shakey, but ultimately really good price to performance.</li>
+  data-src="/Fully-Jarvis-Desk">Fully Jarvis Desk</a> — A little shakey, but ultimately excellent price to performance.</li>
 <li>
 
 
@@ -141,7 +141,7 @@ which I call
 <a target=“_blank” href="https://secretlab.co/collections/omega-series" rel="noopener">Secret Labs Omega</a> I used before. The Omega was a great chair, but didn&rsquo;t fit me well. Secret Labs has amazing support, so if the chair fits you well, go for it.</li>
 <li>
 
-<a target=“_blank” href="https://baronfig.com/tools/confidant/classic?size=flagship&#43;%285.4%22&#43;x&#43;7.7%22%29&amp;color=charcoal&amp;paper&#43;type=dot&#43;grid" rel="noopener">Baron Fig Confidant</a> — Writes better than the Moleskine</li>
+<a target=“_blank” href="https://baronfig.com/tools/confidant/classic?size=flagship&#43;%285.4%22&#43;x&#43;7.7%22%29&amp;color=charcoal&amp;paper&#43;type=dot&#43;grid" rel="noopener">Baron Fig Confidant</a> — IMHO it takes ink better than the Moleskine</li>
 <li>
 
 <a target=“_blank” href="https://www.studioneat.com/products/markone" rel="noopener">Studio Neat Mark One</a> — An expensive pen, but feels great in the hand and it makes me want to write more</li>
@@ -222,7 +222,10 @@ which I call
 <li>Incase Backpack — Simple no frills backpack that I have used for years. I don&rsquo;t think they made the one I have any longer, but my guess is their new ones are similar.</li>
 <li>
 
-<a target=“_blank” href="https://www.tesla.com/model3" rel="noopener">Tesla Model 3</a> — I tested all of the other electric cars in 2021 and ended up coming back to the Model 3. As of the time of this writing Tesla is very far ahead of the other players in electric cars. This will likely changes over the next 2-3 years</li>
+<a target=“_blank” href="https://www.tesla.com/model3" rel="noopener">Tesla Model 3</a> — I tested all of the other electric cars in 2021 and ended up coming back to the Model 3. As of the time of this writing, Tesla is very far ahead of the other players in electric cars. This will likely change over the next 2-3 years</li>
+<li>
+
+<a target=“_blank” href="https://byloftie.com/products/loftie" rel="noopener">Loftie</a> — A great alarm clock that keeps me away from my phone in the morning, and discourages snoozing. Has way more features than I need, but is an excellent alarm clock that is a joy to use.</li>
 </ul>
 ]]></content:encoded></item><item><title>Publishing your Obsidian Vault Online with Quartz</title><link>https://brandonkboswell.com/blog/Publishing-your-Obsidian-Vault-Online-with-Quartz/</link><pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate><guid>https://brandonkboswell.com/blog/Publishing-your-Obsidian-Vault-Online-with-Quartz/</guid><description>So you&amp;rsquo;re thinking about publishing your Obsidian Vault online, but you&amp;rsquo;re not sure if you want to pay for Obsidian Publish or not. I&amp;rsquo;ve been there, that was the exact same situation I was in when I considered publishing my vault. Call me cheap, but I wasn&amp;rsquo;t sure if I was ready to pay $20 a month for the rest of time. Would I keep writing meaningful content, would people actually ready it? So instead, I decided I was going to figure out a way to publish my vault without the monthly fee. I now publish my vault online, and I don&amp;rsquo;t pay anything for hosting.</description><content:encoded><![CDATA[<blockquote>
 <p>NOTE: The easiest way to publish your vault online is by using 
@@ -535,6 +538,16 @@ _content_calendar.md
 </ul>
 </li>
 </ul>
+<p>
+
+
+
+
+
+<a
+  href="/Karabiner"
+  rel="noopener" class="internal-link"
+  data-src="/Karabiner">Karabiner</a></p>
 ]]></content:encoded></item><item><title>How I Use Obsidian</title><link>https://brandonkboswell.com/blog/How-I-Use-Obsidian/</link><pubDate>Wed, 09 Feb 2022 08:37:56 +0000</pubDate><guid>https://brandonkboswell.com/blog/How-I-Use-Obsidian/</guid><description>Setting up your Obsidian Vault for Personal Knowledge Management can be daunting. You start from scratch, there are 1000&amp;rsquo;s of plugins to chose from, and honestly it all becomes one big distraction from actually generating thoughts and ideas.</description><content:encoded><![CDATA[<p>Setting up your Obsidian Vault for Personal Knowledge Management can be daunting. You start from scratch, there are 1000&rsquo;s of plugins to chose from, and honestly it all becomes one big distraction from actually generating thoughts and ideas. In this video, I will share my approach to managing an Obisidian vault in hopes it will save you a few headaches when starting from scratch.</p>
 <p><strong>Note:</strong> I publish my Obsidian Vault using Github Pages and because of this I use more folders than most vaults you will see. Having folders that I can hide away makes making sure I only share what I intend to share with the Internet. If you haven&rsquo;t already go check out my vault at brandonkboswell.com. I will put a link in the description.</p>
 <h2 id="folders--major-areas">Folders / Major Areas</h2>
