@@ -2,12 +2,20 @@
 <head>
 <meta charset=utf-8>
 <meta name=description content="I&rsquo;m fairly confident that I&rsquo;m going to get a bunch of hateful comments from this article, but please hear me out. I really like the idea of VIM. The ability to move around the page completely with your keyboard is right up my alley.">
-<title>Why I don't use VIM</title>
+<title>
+Why I don't use VIM
+</title>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <link rel="shortcut icon" type=image/png href=https://brandonkboswell.com/icon.png>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600;700&family=Fira+Code:wght@400;700&display=block" rel=stylesheet>
-<link href=https://brandonkboswell.com/styles.8de89a55d10c8bc7798561e3e603a268.min.css rel=stylesheet>
-<script>const BASE_URL="https://brandonkboswell.com",fetchData=Promise.all([fetch("https://brandonkboswell.com/indices/linkIndex.8b83f536bce91d8ec4c35fa570612ffe.min.json").then(a=>a.json()).then(a=>({index:a.index,links:a.links})),fetch("https://brandonkboswell.com/indices/contentIndex.663515bdb28e46d6353a9c365d225c35.min.json").then(a=>a.json())]).then(([{index:a,links:b},c])=>({index:a,links:b,content:c}))</script>
+<link href=https://brandonkboswell.com/styles.d193e449695d516dea32a2f0c1744de3.min.css rel=stylesheet>
+<script src=https://brandonkboswell.com/js/darkmode.46b07878b7f5d9e26ad7a3c40f8a0605.min.js></script>
+<script src=https://brandonkboswell.com/js/popover.688c5dcb89a57776d7f1cbeaf6f7c44b.min.js></script>
+<script>const BASE_URL="https://brandonkboswell.com",fetchData=Promise.all([fetch("https://brandonkboswell.com/indices/linkIndex.dce46b3292b19e4b11cf0ef446783544.min.json").then(a=>a.json()).then(a=>({index:a.index,links:a.links})),fetch("https://brandonkboswell.com/indices/contentIndex.d9c972e335380e199d183fbb3943e534.min.json").then(a=>a.json())]).then(([{index:a,links:b},c])=>({index:a,links:b,content:c})),draw=()=>{const a=document.getElementById("graph-container");if(!a)return requestAnimationFrame(draw);a.textContent="",drawGraph("https://brandonkboswell.com",[{"/moc":"#4388cc"}],1,!0,!1,!0)}</script>
+<script type=module>
+    import { attachSPARouting } from "https:\/\/brandonkboswell.com\/js\/router.9a6d7a1d38ca8b3310438bee1998ae15.min.js"
+    attachSPARouting(draw)
+  </script>
 </head>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V9PR00CYK8"></script>
 <script>var doNotTrack=!1;if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','G-V9PR00CYK8',{anonymize_ip:!1})}</script>
@@ -20,7 +28,7 @@
 </div>
 </div>
 <script src=https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js integrity="sha256-i3A0NZGkhsKjVMzFxv3ksk0DZh3aXqu0l49Bbh0MdjE=" crossorigin=anonymous defer></script>
-<script defer src=https://brandonkboswell.com/js/search.7861a82db330f0a40935b7458fee3a02.min.js></script>
+<script defer src=https://brandonkboswell.com/js/search.1d58f2d3eaac68cc50beeb118d91edc9.min.js></script>
 <div class="singlePage logo-background">
 <header>
 <a class=header_logo href=https://brandonkboswell.com><img src=/header.svg alt="Brandon Boswell"></a>
@@ -35,12 +43,12 @@ Published April 15, 2022
 </ul>
 <div class=iframe-container><iframe width=560 height=315 src=https://www.youtube.com/embed/NyZbYxCK2jM title="YouTube video player" frameborder=0 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p>I&rsquo;m fairly confident that I&rsquo;m going to get a bunch of hateful comments from this article, but please hear me out. I really like the idea of VIM. The ability to move around the page completely with your keyboard is right up my alley. So much so that I use
-<a href=/Vimium rel=noopener class=internal-link data-src=/Vimium>Vimium</a> within Chrome. The ability to find and jump to any element on the page or click on any button with a few keystrokes is amazing. If you&rsquo;re interested in that, I have a video all about
-<a href=/Vimium rel=noopener class=internal-link data-src=/Vimium>Vimium</a>. The issue is that every app you use has to support VIM movements to make the payoff worthwhile. There are tools like <em>kindaVim</em> that try to bring a VIM experience to MacOS, but it still doesn&rsquo;t feel fully baked. We&rsquo;re most of the way there, but you can&rsquo;t use VIM commands in URL fields or to navigate within Electron apps and it&rsquo;s just too painful to have these superpowers and to only be able to use them 80% of the time. Not to mention, I worry a bit about betting my entire ability to work my computer on one app that intends to be paid. It seems like a great way to get held ransom in the future.</p>
+<a href=/Vimium/ rel=noopener class=internal-link data-src=/Vimium/>Vimium</a> within Chrome. The ability to find and jump to any element on the page or click on any button with a few keystrokes is amazing. If you&rsquo;re interested in that, I have a video all about
+<a href=/Vimium/ rel=noopener class=internal-link data-src=/Vimium/>Vimium</a>. The issue is that every app you use has to support VIM movements to make the payoff worthwhile. There are tools like <em>kindaVim</em> that try to bring a VIM experience to MacOS, but it still doesn&rsquo;t feel fully baked. We&rsquo;re most of the way there, but you can&rsquo;t use VIM commands in URL fields or to navigate within Electron apps and it&rsquo;s just too painful to have these superpowers and to only be able to use them 80% of the time. Not to mention, I worry a bit about betting my entire ability to work my computer on one app that intends to be paid. It seems like a great way to get held ransom in the future.</p>
 <p>I&rsquo;m sure at this point you&rsquo;re like &ldquo;Brandon, if you&rsquo;re so against VIM what are you going to use instead?&rdquo; I&rsquo;m going to use my keyboard, just remapped a bit. The key thing I find myself hating about my current keyboard setup that I have tried to fix with VIM is rapid navigation and selection. I feel like I&rsquo;ve gotten most of the way there by borrowing a handful of navigation commands from <em>Jason Rudolph</em>&rsquo;s
 <a target=“_blank” href=https://github.com/jasonrudolph/keyboard rel=noopener>Keyboard</a>
 which I call
-<a href=/Super-Duper-Keyboard rel=noopener class=internal-link data-src=/Super-Duper-Keyboard>Super Duper Keyboard</a>. It allows me to get Command, Option, Shift and all the arrow keys without having to leave the home row. Yes, this isn&rsquo;t all the power of VIM, but it gets me the parts that I feel I use constantly and I&rsquo;m confident that they work everywhere because it just uses native MacOS cursor navigation just with the convenience of being on the home row.</p>
+<a href=/Super-Duper-Keyboard/ rel=noopener class=internal-link data-src=/Super-Duper-Keyboard/>Super Duper Keyboard</a>. It allows me to get Command, Option, Shift and all the arrow keys without having to leave the home row. Yes, this isn&rsquo;t all the power of VIM, but it gets me the parts that I feel I use constantly and I&rsquo;m confident that they work everywhere because it just uses native MacOS cursor navigation just with the convenience of being on the home row.</p>
 <p>Full disclosure, as of the time of this writing: I have only been using this for about two weeks, so it&rsquo;s not fully in muscle memory yet, but it feels surprisingly natural.</p>
 <a href=#key-features><h2 id=key-features><span class=hanchor arialabel=Anchor># </span>Key Features:</h2></a>
 <ul>
@@ -53,17 +61,17 @@ which I call
 <p><strong>Mentioned in this article:</strong></p>
 <ul>
 <li>
-<a href=/VIM rel=noopener class=internal-link data-src=/VIM>VIM</a></li>
+<a href=/VIM/ rel=noopener class=internal-link data-src=/VIM/>VIM</a></li>
 <li>
-<a href=/Vimium rel=noopener class=internal-link data-src=/Vimium>Vimium</a></li>
+<a href=/Vimium/ rel=noopener class=internal-link data-src=/Vimium/>Vimium</a></li>
 <li><em>kindaVim</em> —
 <a target=“_blank” href=https://kindavim.app/ rel=noopener>Link</a></li>
 <li>Jason Rudolph&rsquo;s
-<a href=/Super-Duper-Keyboard rel=noopener class=internal-link data-src=/Super-Duper-Keyboard>Super Duper Keyboard</a></li>
+<a href=/Super-Duper-Keyboard/ rel=noopener class=internal-link data-src=/Super-Duper-Keyboard/>Super Duper Keyboard</a></li>
 <li>
-<a href=/Karabiner rel=noopener class=internal-link data-src=/Karabiner>Karabiner</a></li>
+<a href=/Karabiner/ rel=noopener class=internal-link data-src=/Karabiner/>Karabiner</a></li>
 <li>
-<a href=/Hammerspoon rel=noopener class=internal-link data-src=/Hammerspoon>Hammerspoon</a></li>
+<a href=/Hammerspoon/ rel=noopener class=internal-link data-src=/Hammerspoon/>Hammerspoon</a></li>
 </ul>
 <a href=#if-you-are-a-vim-user-i-would-love-to-know-what-is-the-feature-that-makes-it-worth-it-feel-free-to-use-the-link-below-to-email-me><h3 id=if-you-are-a-vim-user-i-would-love-to-know-what-is-the-feature-that-makes-it-worth-it-feel-free-to-use-the-link-below-to-email-me><span class=hanchor arialabel=Anchor># </span>If you are a VIM user, I would love to know what is the feature that makes it worth it, feel free to use the link below to email me.</h3></a>
 </article>

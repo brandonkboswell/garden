@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/backlogs/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 22:08:03 +0000</lastBuildDate><atom:link href="https://brandonkboswell.com/backlogs/index.xml" rel="self" type="application/rss+xml"/><item><title>Book Backlog</title><link>https://brandonkboswell.com/backlogs/Book-Backlog/</link><pubDate>Tue, 01 Feb 2022 22:08:03 +0000</pubDate><guid>https://brandonkboswell.com/backlogs/Book-Backlog/</guid><description>Recommended To Me Shoe Dog The Bell Jar The Paper Menagerie Want To Read Don’t Make Me Think — Steve Krug Drive — Daniel Pink The Power of Regret — Daniel Pink Lifespan — https://www.</description><content:encoded><![CDATA[<h2 id="recommended-to-me">Recommended To Me</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/backlogs/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 22:08:03 +0000</lastBuildDate><atom:link href="https://brandonkboswell.com/backlogs/index.xml" rel="self" type="application/rss+xml"/><item><title>Book Backlog</title><link>https://brandonkboswell.com/backlogs/Book-Backlog/</link><pubDate>Tue, 01 Feb 2022 22:08:03 +0000</pubDate><guid>https://brandonkboswell.com/backlogs/Book-Backlog/</guid><description>Recommended To Me Shoe Dog The Bell Jar The Paper Menagerie Want To Read The One Hour Content Plan — https://www.amazon.com/dp/B074T5ZHP7?tag=readwise-20 Don’t Make Me Think — Steve Krug Drive — Daniel Pink The Power of Regret — Daniel Pink Lifespan — https://www.</description><content:encoded><![CDATA[<h2 id="recommended-to-me">Recommended To Me</h2>
 <ul>
 <li><input disabled="" type="checkbox"> Shoe Dog</li>
 <li><input disabled="" type="checkbox"> The Bell Jar</li>
@@ -6,6 +6,9 @@
 </ul>
 <h2 id="want-to-read">Want To Read</h2>
 <ul>
+<li><input disabled="" type="checkbox"> The One Hour Content Plan — 
+
+<a target=“_blank” href="https://www.amazon.com/dp/B074T5ZHP7?tag=readwise-20" rel="noopener">https://www.amazon.com/dp/B074T5ZHP7?tag=readwise-20</a></li>
 <li><input disabled="" type="checkbox"> Don’t Make Me Think — <em>Steve Krug</em></li>
 <li><input disabled="" type="checkbox"> Drive — <em>Daniel Pink</em></li>
 <li><input disabled="" type="checkbox"> The Power of Regret — <em>Daniel Pink</em></li>
@@ -19,9 +22,9 @@
 
 
 <a
-  href="/sources/Range"
+  href="/sources/Range/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Range">Range</a></li>
+  data-src="/sources/Range/">Range</a></li>
 <li><input disabled="" type="checkbox"> The Power of Now 
 
 <a target=“_blank” href="https://www.amazon.com/dp/0340733500?tag=aliabdaal-20&amp;keywords=the-power-of-now&amp;geniuslink=true" rel="noopener">https://www.amazon.com/dp/0340733500?tag=aliabdaal-20&keywords=the%20power%20of%20now&geniuslink=true</a></li>
@@ -62,6 +65,10 @@
 <li><input disabled="" type="checkbox"> 
 
 <a target=“_blank” href="https://www.goodreads.com/book/show/30659.Meditations" rel="noopener">  Meditations</a></li>
+<li><input disabled="" type="checkbox"> Start with Why</li>
+<li><input disabled="" type="checkbox"> The Art and Business of Online Writing — 
+
+<a target=“_blank” href="https://www.amazon.com/dp/B08GZK274F?tag=aliabdaal-20&amp;geniuslink=true" rel="noopener">https://www.amazon.com/dp/B08GZK274F?tag=aliabdaal-20&geniuslink=true</a></li>
 <li><input disabled="" type="checkbox"> 
 
 <a target=“_blank” href="https://www.goodreads.com/book/show/35249663-inspired" rel="noopener">  Inspired: How to Create Tech Products Customers Love</a></li>
@@ -81,14 +88,11 @@
 
 
 <a
-  href="/sources/The-Coaching-Habit"
+  href="/sources/The-Coaching-Habit/"
   rel="noopener" class="internal-link"
-  data-src="/sources/The-Coaching-Habit">The Coaching Habit</a></li>
+  data-src="/sources/The-Coaching-Habit/">The Coaching Habit</a></li>
 </ul>
 <h2 id="up-next">Up Next</h2>
-<ul>
-<li><input disabled="" type="checkbox"> Start with Why</li>
-</ul>
 <h2 id="currently-reading">Currently Reading</h2>
 <ul>
 <li><input disabled="" type="checkbox"> 
@@ -98,9 +102,9 @@
 
 
 <a
-  href="/Four-Thousand-Weeks"
+  href="/Four-Thousand-Weeks/"
   rel="noopener" class="internal-link"
-  data-src="/Four-Thousand-Weeks">Four Thousand Weeks</a></li>
+  data-src="/Four-Thousand-Weeks/">Four Thousand Weeks</a></li>
 <li><input disabled="" type="checkbox"> 
 
 
@@ -108,9 +112,9 @@
 
 
 <a
-  href="/sources/The-Crime-Without-a-Name"
+  href="/sources/The-Crime-Without-a-Name/"
   rel="noopener" class="internal-link"
-  data-src="/sources/The-Crime-Without-a-Name">The Crime Without a Name</a></li>
+  data-src="/sources/The-Crime-Without-a-Name/">The Crime Without a Name</a></li>
 </ul>
 <h2 id="pausedput-down">Paused/Put Down</h2>
 <ul>
@@ -121,9 +125,9 @@
 
 
 <a
-  href="/sources/Deep-Work"
+  href="/sources/Deep-Work/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Deep-Work">Deep Work</a></li>
+  data-src="/sources/Deep-Work/">Deep Work</a></li>
 <li><input disabled="" type="checkbox"> Thinking Fast &amp; Slow</li>
 <li><input disabled="" type="checkbox"> 
 
@@ -132,9 +136,9 @@
 
 
 <a
-  href="/sources/The-Checklist-Manifesto"
+  href="/sources/The-Checklist-Manifesto/"
   rel="noopener" class="internal-link"
-  data-src="/sources/The-Checklist-Manifesto">The Checklist Manifesto</a></li>
+  data-src="/sources/The-Checklist-Manifesto/">The Checklist Manifesto</a></li>
 <li><input disabled="" type="checkbox"> 
 
 
@@ -142,9 +146,9 @@
 
 
 <a
-  href="/sources/Sapiens"
+  href="/sources/Sapiens/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Sapiens">Sapiens</a></li>
+  data-src="/sources/Sapiens/">Sapiens</a></li>
 </ul>
 <h2 id="put-down">Put Down</h2>
 <ul>
@@ -155,9 +159,9 @@
 
 
 <a
-  href="/sources/The-Design-of-Everyday-Things"
+  href="/sources/The-Design-of-Everyday-Things/"
   rel="noopener" class="internal-link"
-  data-src="/sources/The-Design-of-Everyday-Things">The Design of Everyday Things</a></li>
+  data-src="/sources/The-Design-of-Everyday-Things/">The Design of Everyday Things</a></li>
 </ul>
 <h2 id="read">Read</h2>
 <ul>
@@ -168,9 +172,9 @@
 
 
 <a
-  href="/sources/Anything-You-Want"
+  href="/sources/Anything-You-Want/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Anything-You-Want">Anything You Want</a></li>
+  data-src="/sources/Anything-You-Want/">Anything You Want</a></li>
 <li><input checked="" disabled="" type="checkbox"> 
 
 
@@ -178,9 +182,9 @@
 
 
 <a
-  href="/sources/Keep-Going"
+  href="/sources/Keep-Going/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Keep-Going">Keep Going</a></li>
+  data-src="/sources/Keep-Going/">Keep Going</a></li>
 <li><input checked="" disabled="" type="checkbox"> Principles</li>
 <li><input checked="" disabled="" type="checkbox"> The Shape of Design</li>
 <li><input checked="" disabled="" type="checkbox"> 
@@ -190,9 +194,9 @@
 
 
 <a
-  href="/sources/Make-Time"
+  href="/sources/Make-Time/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Make-Time">Make Time</a></li>
+  data-src="/sources/Make-Time/">Make Time</a></li>
 <li><input checked="" disabled="" type="checkbox"> 
 
 
@@ -200,9 +204,9 @@
 
 
 <a
-  href="/sources/Atomic-Habits"
+  href="/sources/Atomic-Habits/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Atomic-Habits">Atomic Habits</a></li>
+  data-src="/sources/Atomic-Habits/">Atomic Habits</a></li>
 <li><input checked="" disabled="" type="checkbox"> 
 
 
@@ -210,9 +214,9 @@
 
 
 <a
-  href="/sources/Steal-Like-an-Artist"
+  href="/sources/Steal-Like-an-Artist/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Steal-Like-an-Artist">Steal Like an Artist</a></li>
+  data-src="/sources/Steal-Like-an-Artist/">Steal Like an Artist</a></li>
 <li><input checked="" disabled="" type="checkbox"> 
 
 
@@ -220,9 +224,9 @@
 
 
 <a
-  href="/sources/The-4-Hour-Workweek"
+  href="/sources/The-4-Hour-Workweek/"
   rel="noopener" class="internal-link"
-  data-src="/sources/The-4-Hour-Workweek">The 4-Hour Workweek</a></li>
+  data-src="/sources/The-4-Hour-Workweek/">The 4-Hour Workweek</a></li>
 <li><input checked="" disabled="" type="checkbox"> 
 
 
@@ -230,9 +234,9 @@
 
 
 <a
-  href="/sources/Show-Your-Work"
+  href="/sources/Show-Your-Work/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Show-Your-Work">Show Your Work!</a></li>
+  data-src="/sources/Show-Your-Work/">Show Your Work!</a></li>
 <li><input checked="" disabled="" type="checkbox"> 
 
 
@@ -240,9 +244,9 @@
 
 
 <a
-  href="/sources/Alchemy"
+  href="/sources/Alchemy/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Alchemy">Alchemy</a></li>
+  data-src="/sources/Alchemy/">Alchemy</a></li>
 <li><input checked="" disabled="" type="checkbox"> 
 
 
@@ -250,9 +254,9 @@
 
 
 <a
-  href="/sources/How-to-Take-Smart-Notes"
+  href="/sources/How-to-Take-Smart-Notes/"
   rel="noopener" class="internal-link"
-  data-src="/sources/How-to-Take-Smart-Notes">How to Take Smart Notes</a></li>
+  data-src="/sources/How-to-Take-Smart-Notes/">How to Take Smart Notes</a></li>
 <li><input checked="" disabled="" type="checkbox"> 
 
 
@@ -260,9 +264,9 @@
 
 
 <a
-  href="/sources/Made-to-Stick"
+  href="/sources/Made-to-Stick/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Made-to-Stick">Made to Stick</a></li>
+  data-src="/sources/Made-to-Stick/">Made to Stick</a></li>
 </ul>
 <h2 id="reviewed">Reviewed</h2>
 <h2 id="archive">Archive</h2>
@@ -330,9 +334,9 @@
 
 
 <a
-  href="/games/PHOGS"
+  href="/games/PHOGS/"
   rel="noopener" class="internal-link"
-  data-src="/games/PHOGS">PHOGS!</a> <em>Charlie Boswell</em></li>
+  data-src="/games/PHOGS/">PHOGS!</a> <em>Charlie Boswell</em></li>
 <li><input disabled="" type="checkbox"> Pokemon Snap <em>Charlie</em></li>
 <li><input disabled="" type="checkbox"> Mario + Rabbids: Kingdom Battle <em>Marshie</em> <em>Charlie</em></li>
 <li><input disabled="" type="checkbox"> Pikmin 3: Deluxe <em>Charlie Boswell</em></li>
@@ -362,9 +366,9 @@
 
 
 <a
-  href="/games/Forza-Horizon-5"
+  href="/games/Forza-Horizon-5/"
   rel="noopener" class="internal-link"
-  data-src="/games/Forza-Horizon-5">Forza Horizon 5</a></li>
+  data-src="/games/Forza-Horizon-5/">Forza Horizon 5</a></li>
 <li><input disabled="" type="checkbox"> Titanfall 2</li>
 <li><input disabled="" type="checkbox"> Superhot</li>
 <li><input checked="" disabled="" type="checkbox"> Killer Queen Black</li>
@@ -404,9 +408,9 @@
 
 
 <a
-  href="/games/Death-Stranding"
+  href="/games/Death-Stranding/"
   rel="noopener" class="internal-link"
-  data-src="/games/Death-Stranding">Death Stranding</a></li>
+  data-src="/games/Death-Stranding/">Death Stranding</a></li>
 <li><input checked="" disabled="" type="checkbox"> Riverbond <em>Charlie Boswell</em> <em>Marshie</em></li>
 <li><input checked="" disabled="" type="checkbox"> Astro&rsquo;s Playroom <em>Marshie</em> <em>Charlie</em></li>
 <li><input checked="" disabled="" type="checkbox"> Pokemon: Let&rsquo;s Go Eevee</li>
@@ -417,9 +421,9 @@
 
 
 <a
-  href="/games/Control"
+  href="/games/Control/"
   rel="noopener" class="internal-link"
-  data-src="/games/Control">Control</a></li>
+  data-src="/games/Control/">Control</a></li>
 <li><input checked="" disabled="" type="checkbox"> EDF 2017</li>
 <li><input checked="" disabled="" type="checkbox"> Portal</li>
 <li><input checked="" disabled="" type="checkbox"> Burnout Paradise</li>
