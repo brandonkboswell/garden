@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/backlogs/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 22:08:03 +0000</lastBuildDate><atom:link href="https://brandonkboswell.com/backlogs/index.xml" rel="self" type="application/rss+xml"/><item><title>Book Backlog</title><link>https://brandonkboswell.com/backlogs/Book-Backlog/</link><pubDate>Tue, 01 Feb 2022 22:08:03 +0000</pubDate><guid>https://brandonkboswell.com/backlogs/Book-Backlog/</guid><description>Recommended To Me Shoe Dog The Bell Jar The Paper Menagerie Want To Read The One Hour Content Plan — https://www.amazon.com/dp/B074T5ZHP7?tag=readwise-20 Don’t Make Me Think — Steve Krug Drive — Daniel Pink The Power of Regret — Daniel Pink Lifespan — https://www.</description><content:encoded><![CDATA[<h2 id="recommended-to-me">Recommended To Me</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/backlogs/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 22:08:03 +0000</lastBuildDate><atom:link href="https://brandonkboswell.com/backlogs/index.xml" rel="self" type="application/rss+xml"/><item><title>Book Backlog</title><link>https://brandonkboswell.com/backlogs/Book-Backlog/</link><pubDate>Tue, 01 Feb 2022 22:08:03 +0000</pubDate><guid>https://brandonkboswell.com/backlogs/Book-Backlog/</guid><description>Recommended To Me https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776 S —https://www.amazon.com/Ship-Theseus-J-Abrams/dp/0316201642/ref=sr_1_3?crid=SRDB7EMFUOES&amp;amp;keywords=S+book&amp;amp;qid=1655216888&amp;amp;sprefix=s+book%2Caps%2C146&amp;amp;sr=8-3#customerReviews Station Eleven —https://www.amazon.com/Station-Eleven-Emily-John-Mandel/dp/0804172447 Shoe Dog The Bell Jar The Paper Menagerie Want To Read The One Hour Content Plan — https://www.amazon.com/dp/B074T5ZHP7?tag=readwise-20 Don’t Make Me Think — Steve Krug Drive — Daniel Pink The Power of Regret — Daniel Pink Lifespan — https://www.</description><content:encoded><![CDATA[<h2 id="recommended-to-me">Recommended To Me</h2>
 <ul>
+<li><input disabled="" type="checkbox"> 
+
+<a target=“_blank” href="https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776" rel="noopener">https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776</a></li>
+<li><input disabled="" type="checkbox"> S —https://www.amazon.com/Ship-Theseus-J-Abrams/dp/0316201642/ref=sr_1_3?crid=SRDB7EMFUOES&amp;keywords=S+book&amp;qid=1655216888&amp;sprefix=s+book%2Caps%2C146&amp;sr=8-3#customerReviews</li>
+<li><input disabled="" type="checkbox"> Station Eleven —https://www.amazon.com/Station-Eleven-Emily-John-Mandel/dp/0804172447</li>
 <li><input disabled="" type="checkbox"> Shoe Dog</li>
 <li><input disabled="" type="checkbox"> The Bell Jar</li>
 <li><input disabled="" type="checkbox"> The Paper Menagerie</li>
@@ -102,9 +107,9 @@
 
 
 <a
-  href="/Four-Thousand-Weeks/"
+  href="/sources/Four-Thousand-Weeks/"
   rel="noopener" class="internal-link"
-  data-src="/Four-Thousand-Weeks/">Four Thousand Weeks</a></li>
+  data-src="/sources/Four-Thousand-Weeks/">Four Thousand Weeks</a></li>
 <li><input disabled="" type="checkbox"> 
 
 
@@ -125,9 +130,9 @@
 
 
 <a
-  href="/sources/Deep-Work/"
+  href="/Deep-Work/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Deep-Work/">Deep Work</a></li>
+  data-src="/Deep-Work/">Deep Work</a></li>
 <li><input disabled="" type="checkbox"> Thinking Fast &amp; Slow</li>
 <li><input disabled="" type="checkbox"> 
 
@@ -320,7 +325,16 @@
 </ul>
 <h2 id="current-multiplayer">Current Multiplayer</h2>
 <ul>
-<li><input disabled="" type="checkbox"> <em>Rocket League</em></li>
+<li><input disabled="" type="checkbox"> 
+
+
+
+
+
+<a
+  href="/Rocket-League/"
+  rel="noopener" class="internal-link"
+  data-src="/Rocket-League/">Rocket League</a></li>
 <li><input disabled="" type="checkbox"> Halo Infinite</li>
 <li><input disabled="" type="checkbox"> Overcooked 2 <em>Marshie</em> <em>Charlie</em></li>
 </ul>

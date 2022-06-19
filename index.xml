@@ -825,7 +825,16 @@ _content_calendar.md
 <ul>
 <li><em>Drafts</em></li>
 <li><em>Spotify</em> / <em>Tidal</em></li>
-<li><em>iTerm2</em></li>
+<li>
+
+
+
+
+
+<a
+  href="/iTerm2/"
+  rel="noopener" class="internal-link"
+  data-src="/iTerm2/">iTerm2</a></li>
 <li><em>Parcel</em></li>
 <li><em>Fantastical</em></li>
 </ul>
@@ -1453,7 +1462,16 @@ Chrome Alfred Obsidian ShiftIt ( Amethyst) aText Skitch Rocket 1Password HandMir
 <ul>
 <li><input checked="" disabled="" type="checkbox"> <em>Postico</em></li>
 <li><input checked="" disabled="" type="checkbox"> <em>Sublime Text</em></li>
-<li><input checked="" disabled="" type="checkbox"> <em>iTerm</em></li>
+<li><input checked="" disabled="" type="checkbox"> 
+
+
+
+
+
+<a
+  href="/iTerm2/"
+  rel="noopener" class="internal-link"
+  data-src="/iTerm2/">iTerm2</a></li>
 </ul>
 </li>
 <li>
@@ -1496,7 +1514,16 @@ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)</p>
 <li>
 <p>Setting Up Dev Environment</p>
 <ul>
-<li><input checked="" disabled="" type="checkbox"> <em>iTerm2</em></li>
+<li><input checked="" disabled="" type="checkbox"> 
+
+
+
+
+
+<a
+  href="/iTerm2/"
+  rel="noopener" class="internal-link"
+  data-src="/iTerm2/">iTerm2</a></li>
 <li><input checked="" disabled="" type="checkbox"> <em>Sublime Text</em>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> Get Preferences</li>
