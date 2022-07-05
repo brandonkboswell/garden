@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/priority/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/priority/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Reflection</title><link>https://brandonkboswell.com/blog/Weekly-Reflection/</link><pubDate>Sun, 01 May 2022 13:16:10 +0000</pubDate><guid>https://brandonkboswell.com/blog/Weekly-Reflection/</guid><description>Why do weekly reflection? The progress you are making in your life can sometimes be difficult to see in realtime, but is fairly easy see after the fact if you go look for it.</description><content:encoded><![CDATA[<h2 id="why-do-weekly-reflection">Why do weekly reflection?</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/priority/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/priority/index.xml" rel="self" type="application/rss+xml"/><item><title>Creation Consumption Ratio</title><link>https://brandonkboswell.com/Creation-Consumption-Ratio/</link><pubDate>Sun, 03 Jul 2022 10:35:22 +0000</pubDate><guid>https://brandonkboswell.com/Creation-Consumption-Ratio/</guid><description>&amp;ldquo;Is your reading and research supplementing your actions or substituting for them? Research is useful until it becomes a form of procrastination.&amp;rdquo; — James Clear
+We need content intake to create, but we need to think about when we&amp;rsquo;re taking in too much.</description><content:encoded><![CDATA[<blockquote>
+<p>&ldquo;Is your reading and research supplementing your actions or substituting for them? Research is useful until it becomes a form of procrastination.&rdquo; — <em>James Clear</em></p>
+</blockquote>
+<p>We need content intake to create, but we need to think about when we&rsquo;re taking in too much. There is likely some concept here of <em>Literary Gluttony</em></p>
+<p>How would we measure it?</p>
+]]></content:encoded></item><item><title>Weekly Reflection</title><link>https://brandonkboswell.com/blog/Weekly-Reflection/</link><pubDate>Sun, 01 May 2022 13:16:10 +0000</pubDate><guid>https://brandonkboswell.com/blog/Weekly-Reflection/</guid><description>Why do weekly reflection? The progress you are making in your life can sometimes be difficult to see in realtime, but is fairly easy see after the fact if you go look for it.</description><content:encoded><![CDATA[<h2 id="why-do-weekly-reflection">Why do weekly reflection?</h2>
 <ul>
 <li>The progress you are making in your life can sometimes be difficult to see in realtime, but is fairly easy see after the fact if you go look for it. By spending 5 minutes each evening writing about your day you can learn so much about yourself and it&rsquo;s rewarding to look back and see the all the good things that happen in life and your progress.</li>
 <li>I&rsquo;m constantly amazed how easy it is to forget the great things that happen in life if you don&rsquo;t take a moment to write them down. Often when I sit down for weekly review I will be reminded of great things that I had already forgotten about. Weekly and annual review allow us to keep these things and continue to enjoy them.</li>
@@ -222,35 +228,20 @@ From:
 <a
   
   rel="noopener" class="internal-link broken"
-  data-src="Akiflow">Akiflow</a>, which has an inbox and snooze feature, I can use <em>Spaced Repetition</em> instead of these backlogs to ensure that I consider that content again. If I skip over it repeatedly, then it can be safely deleted.</p>
+  data-src="Akiflow">Akiflow</a>, which has an inbox and snooze feature, I can use 
+
+
+
+
+
+<a
+  href="/Spaced-Repetition/"
+  rel="noopener" class="internal-link"
+  data-src="/Spaced-Repetition/">Spaced Repetition</a> instead of these backlogs to ensure that I consider that content again. If I skip over it repeatedly, then it can be safely deleted.</p>
 <h2 id="resources">Resources:</h2>
 <p>
 
 <a target=“_blank” href="https://notes.andymatuschak.org/z7yRMBXGc81KkUwLxefodzfnnfKXx63vXzP88" rel="noopener">https://notes.andymatuschak.org/z7yRMBXGc81KkUwLxefodzfnnfKXx63vXzP88</a></p>
-]]></content:encoded></item><item><title>One Sec</title><link>https://brandonkboswell.com/One-Sec/</link><pubDate>Sun, 17 Apr 2022 23:56:31 +0000</pubDate><guid>https://brandonkboswell.com/One-Sec/</guid><description>$19 dollars a year to be more aware of when I am leaking time on Time Sinks.
-Cancelled on 2022-04-25. Had signed up for a year subscription to try it out.</description><content:encoded><![CDATA[<p>$19 dollars a year to be more aware of when I am leaking time on 
-
-
-
-
-
-<a
-  href="/Time-Sinks/"
-  rel="noopener" class="internal-link"
-  data-src="/Time-Sinks/">Time Sinks</a>.</p>
-<p>Cancelled on <em>2022-04-25</em>. Had signed up for a year subscription to try it out. Turns out I found it incredibly annoying, and I&rsquo;ve instead adopted the principle to set a 5-minute timer to remind myself to get off of whatever app I was on. That was the piece I really enjoyed, and it can be accomplished with a simple Shortcut flow on iOS (similar to what the app uses).</p>
-<p>All in all, it was worth it because it showed me how useful that notification can be and how to use app launching intercepts to do interesting actions on iOS.</p>
-]]></content:encoded></item><item><title>Timeblocking</title><link>https://brandonkboswell.com/Timeblocking/</link><pubDate>Wed, 13 Apr 2022 11:48:20 +0000</pubDate><guid>https://brandonkboswell.com/Timeblocking/</guid><description>In my head there are two types of timeblocking and I am realizing that I&amp;rsquo;m not sure which one people are talking about when they mention the subject. There is the idea of thinking about how much time a task will take and slotting that into available time on your daily or weekly schedule to figure out what will fit and what you will prioritize.</description><content:encoded><![CDATA[<p>In my head there are two types of timeblocking and I am realizing that I&rsquo;m not sure which one people are talking about when they mention the subject. There is the idea of thinking about how much time a task will take and slotting that into available time on your daily or weekly schedule to figure out what will fit and what you will prioritize. Then there is also the idea of blocking time on your schedule for doing a specific type of work or a specific task so that others don&rsquo;t attempt to schedule over your 
-
-
-
-
-
-<a
-  
-  rel="noopener" class="internal-link broken"
-  data-src="seedlings/There%20is%20a%20two%20hour%20window%20in%20each%20day%20where%20you%20are%20most%20productive.">Most productive time of the day</a>. I think both are important and we should be discussing both, but I now no longer know which one people are referring to when we use the term.</p>
-<p><strong>Is there another term we should be using talking about holding time on your calendar to fulfill your role (<em>Defending your schedule</em>)?</strong></p>
 ]]></content:encoded></item><item><title>Clear your Read It Later List</title><link>https://brandonkboswell.com/Clear-your-Read-It-Later-List/</link><pubDate>Tue, 29 Mar 2022 09:22:29 +0000</pubDate><guid>https://brandonkboswell.com/Clear-your-Read-It-Later-List/</guid><description>It is weighing you down
 Say no to the article backlog. If you don’t know why you are reading it, then why are you reading it?</description><content:encoded><![CDATA[<p>It is weighing you down</p>
 <p><strong>Say no to the article backlog. If you don’t know why you are reading it, then why are you reading it?</strong></p>
