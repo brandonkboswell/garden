@@ -584,49 +584,47 @@ which I call
 </span><span class="lnt">15
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">templates/*
-private/*
-1-1/*
-business/*
-collections/*
-people/*
-to_publish/*
-files/*
-temporal/*
-personal/*
-screenshots/*
-ideas/*
-.trash/*
-.obsidian/*
-_content_calendar.md
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">templates/*
+</span></span><span class="line"><span class="cl">private/*
+</span></span><span class="line"><span class="cl">1-1/*
+</span></span><span class="line"><span class="cl">business/*
+</span></span><span class="line"><span class="cl">collections/*
+</span></span><span class="line"><span class="cl">people/*
+</span></span><span class="line"><span class="cl">to_publish/*
+</span></span><span class="line"><span class="cl">files/*
+</span></span><span class="line"><span class="cl">temporal/*
+</span></span><span class="line"><span class="cl">personal/*
+</span></span><span class="line"><span class="cl">screenshots/*
+</span></span><span class="line"><span class="cl">ideas/*
+</span></span><span class="line"><span class="cl">.trash/*
+</span></span><span class="line"><span class="cl">.obsidian/*
+</span></span><span class="line"><span class="cl">_content_calendar.md
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="to-compile-your-notes-once">To compile your notes once</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="cp">#!/bin/bash
-</span><span class="cp"></span>
-<span class="nb">cd</span> ~/Sites/quartz<span class="p">;</span> ./compile.sh
-
---- compile.sh ---
-
-<span class="c1">#!/bin/bash</span>
-
-<span class="nb">cd</span> ~/Sites/hugo-obsidian<span class="p">;</span> rm -fr ~/Sites/quartz/content/*<span class="p">;</span> rm -rf ~/Sites/quartz/public/*<span class="p">;</span> ~/Sites/obsidian-export/target/debug/obsidian-export --add-titles --frontmatter<span class="o">=</span>always ~/Library/Mobile<span class="se">\ </span>Documents/iCloud~md~obsidian/Documents/bkb ~/Sites/quartz/content<span class="p">;</span> go run ~/Sites/hugo-obsidian -input<span class="o">=</span>/Users/brandonkboswell/Sites/quartz/content -output<span class="o">=</span>/Users/brandonkboswell/Sites/quartz/assets/indices -index -root<span class="o">=</span>/Users/brandonkboswell/Sites/quartz<span class="p">;</span> <span class="o">(</span><span class="nb">cd</span> ~/Sites/quartz <span class="o">&amp;&amp;</span> hugo --minify<span class="o">)</span>
-
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="cp">#!/bin/bash
+</span></span></span><span class="line"><span class="cl"><span class="cp"></span>
+</span></span><span class="line"><span class="cl"><span class="nb">cd</span> ~/Sites/quartz<span class="p">;</span> ./compile.sh
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">--- compile.sh ---
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">#!/bin/bash</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nb">cd</span> ~/Sites/hugo-obsidian<span class="p">;</span> rm -fr ~/Sites/quartz/content/*<span class="p">;</span> rm -rf ~/Sites/quartz/public/*<span class="p">;</span> ~/Sites/obsidian-export/target/debug/obsidian-export --add-titles --frontmatter<span class="o">=</span>always ~/Library/Mobile<span class="se">\ </span>Documents/iCloud~md~obsidian/Documents/bkb ~/Sites/quartz/content<span class="p">;</span> go run ~/Sites/hugo-obsidian -input<span class="o">=</span>/Users/brandonkboswell/Sites/quartz/content -output<span class="o">=</span>/Users/brandonkboswell/Sites/quartz/assets/indices -index -root<span class="o">=</span>/Users/brandonkboswell/Sites/quartz<span class="p">;</span> <span class="o">(</span><span class="nb">cd</span> ~/Sites/quartz <span class="o">&amp;&amp;</span> hugo --minify<span class="o">)</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="to-recompile-your-notes-on-change">To recompile your notes on change</h2>
 <div class="highlight"><div class="chroma">
@@ -638,18 +636,16 @@ _content_calendar.md
 </span><span class="lnt">5
 </span><span class="lnt">6
 </span><span class="lnt">7
-</span><span class="lnt">8
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">cd</span> ~/Sites/quartz<span class="p">;</span> ./watch.sh
-
---- watch.sh ---
-
-<span class="c1">#!/bin/bash</span>
-
-<span class="nb">export</span> <span class="nv">GOPATH</span><span class="o">=</span>/Users/<span class="nv">$USER</span>/go<span class="p">;</span> <span class="nb">export</span> <span class="nv">GOROOT</span><span class="o">=</span><span class="s2">&#34;</span><span class="k">$(</span>/usr/local/bin/brew --prefix golang<span class="k">)</span><span class="s2">/libexec&#34;</span><span class="p">;</span> <span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$PATH</span><span class="s2">:</span><span class="si">${</span><span class="nv">GOPATH</span><span class="si">}</span><span class="s2">/bin:</span><span class="si">${</span><span class="nv">GOROOT</span><span class="si">}</span><span class="s2">/bin&#34;</span><span class="p">;</span> <span class="nb">cd</span> ~/Sites/quartz<span class="p">;</span> nodemon -w ~/Library/Mobile<span class="se">\ </span>Documents/iCloud~md~obsidian/Documents/bkb -w ~/Sites/quartz/assets/js -w ~/Sites/quartz/assets/styles -w ~/Sites/quartz/layouts -w ~/Sites/quartz/config.toml -w ~/Sites/quartz/data/config.yaml -x <span class="s2">&#34;~/Sites/quartz/compile.sh&#34;</span> -e md,html,js,scss,xml
-
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">cd</span> ~/Sites/quartz<span class="p">;</span> ./watch.sh
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">--- watch.sh ---
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">#!/bin/bash</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">GOPATH</span><span class="o">=</span>/Users/<span class="nv">$USER</span>/go<span class="p">;</span> <span class="nb">export</span> <span class="nv">GOROOT</span><span class="o">=</span><span class="s2">&#34;</span><span class="k">$(</span>/usr/local/bin/brew --prefix golang<span class="k">)</span><span class="s2">/libexec&#34;</span><span class="p">;</span> <span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$PATH</span><span class="s2">:</span><span class="si">${</span><span class="nv">GOPATH</span><span class="si">}</span><span class="s2">/bin:</span><span class="si">${</span><span class="nv">GOROOT</span><span class="si">}</span><span class="s2">/bin&#34;</span><span class="p">;</span> <span class="nb">cd</span> ~/Sites/quartz<span class="p">;</span> nodemon -w ~/Library/Mobile<span class="se">\ </span>Documents/iCloud~md~obsidian/Documents/bkb -w ~/Sites/quartz/assets/js -w ~/Sites/quartz/assets/styles -w ~/Sites/quartz/layouts -w ~/Sites/quartz/config.toml -w ~/Sites/quartz/data/config.yaml -x <span class="s2">&#34;~/Sites/quartz/compile.sh&#34;</span> -e md,html,js,scss,xml
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="to-preview-your-changes-before-pushing-to-github-you-can-run-a-local-hugo-server">To preview your changes before pushing to Github, you can run a local hugo server:</h2>
 <p>Sometimes the server will crash while the compile script is rebuilding everything. If you wrap the hugo server code in a while loop then it will restart itself if this happens. For this I will have two terminal panes open on for the watch script and one for the hugo server. As I make changes to my Obsidian Vault or the Quartz files it will recompile the content and then hugo will recompile, at which point you can refresh your browser to see the change. Usually that will be at localhost:1313.</p>
@@ -660,10 +656,10 @@ _content_calendar.md
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="o">(</span><span class="k">while</span> true<span class="p">;</span> <span class="k">do</span> 
-	hugo server --disableFastRender
-<span class="k">done</span><span class="o">)</span> <span class="p">&amp;</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="o">(</span><span class="k">while</span> true<span class="p">;</span> <span class="k">do</span> 
+</span></span><span class="line"><span class="cl">	hugo server --disableFastRender
+</span></span><span class="line"><span class="cl"><span class="k">done</span><span class="o">)</span> <span class="p">&amp;</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="when-im-ready-to-publish-an-update-to-github">When I&rsquo;m ready to publish an update to Github:</h2>
 <p>Go to the garden folder and commit those changes:</p>
@@ -672,8 +668,8 @@ _content_calendar.md
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">cd</span> ~/sites/quartz/public<span class="p">;</span> git add .<span class="p">;</span> git commit -m <span class="s2">&#34;Update&#34;</span><span class="p">;</span> git push origin
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">cd</span> ~/sites/quartz/public<span class="p">;</span> git add .<span class="p">;</span> git commit -m <span class="s2">&#34;Update&#34;</span><span class="p">;</span> git push origin
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="additional-notes">Additional Notes</h2>
 <ul>
@@ -1508,7 +1504,7 @@ This last option is just personal preference.</p>
 <p>From here, Alfred can access your browser&rsquo;s bookmarks and keeps them in sync. If you add a new bookmark just hit Option + Space to open Alfred and then press escape and by the time you open it the next time your newly added bookmark will be there.</p>
 <p>Ever since I learned this trick, I feel like I can now get to all the places on my Mac that I want as soon as I think of them. Previously, this was only possible for applications.</p>
 ]]></content:encoded></item><item><title>Calendar Heatmaps</title><link>https://brandonkboswell.com/blog/Calendar-Heatmaps/</link><pubDate>Tue, 03 Aug 2021 23:47:16 +0000</pubDate><guid>https://brandonkboswell.com/blog/Calendar-Heatmaps/</guid><description>User Behavior
-1 2 3 4 https://github.com/wa0x6e/cal-heatmap Could show one color for having opened at least one chart and a different color for did they take the desired action. https://levelup.</description><content:encoded><![CDATA[<p><em>User Behavior</em></p>
+1 2 3 4 https://github.com/wa0x6e/cal-heatmap Could show one color for having opened at least one chart and a different color for did they take the desired action. https://levelup.gitconnected.com/how-to-create-a-tracker-like-the-github-contribution-graph-with-node-js-and-google-sheets-5e915c668c1 https://github.</description><content:encoded><![CDATA[<p><em>User Behavior</em></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -1517,11 +1513,11 @@ This last option is just personal preference.</p>
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">https://github.com/wa0x6e/cal-heatmap
-Could show one color for having opened at least one chart and a different color for did they take the desired action. 
-https://levelup.gitconnected.com/how-to-create-a-tracker-like-the-github-contribution-graph-with-node-js-and-google-sheets-5e915c668c1
-https://github.com/austenc/habitgrid
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">https://github.com/wa0x6e/cal-heatmap
+</span></span><span class="line"><span class="cl">Could show one color for having opened at least one chart and a different color for did they take the desired action. 
+</span></span><span class="line"><span class="cl">https://levelup.gitconnected.com/how-to-create-a-tracker-like-the-github-contribution-graph-with-node-js-and-google-sheets-5e915c668c1
+</span></span><span class="line"><span class="cl">https://github.com/austenc/habitgrid
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>-&gt; This looks like what we&rsquo;re looking for:	https://github.com/MohamedKiouaz/LoopHabitTrackerVisualisation
 Reverse Engineer: 

@@ -116,25 +116,25 @@ We need content intake to create, but we need to think about when we&amp;rsquo;r
 </span><span class="lnt">18
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-lua" data-lang="lua"><span class="kd">local</span> <span class="n">isAppFocused</span> <span class="o">=</span> <span class="kr">function</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
-  <span class="n">app</span> <span class="o">=</span> <span class="n">hs.application</span><span class="p">.</span><span class="n">frontmostApplication</span><span class="p">()</span>
-  <span class="n">appName</span> <span class="o">=</span> <span class="n">app</span><span class="p">:</span><span class="n">name</span><span class="p">()</span>
-
-  <span class="kr">return</span> <span class="n">appName</span> <span class="o">==</span> <span class="n">name</span>
-<span class="kr">end</span>
-
-<span class="kd">local</span> <span class="n">toggleFocus</span> <span class="o">=</span> <span class="kr">function</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
-  <span class="kr">if</span><span class="p">(</span><span class="n">isAppFocused</span><span class="p">(</span><span class="n">name</span><span class="p">))</span> <span class="kr">then</span>
-    <span class="n">app</span><span class="p">:</span><span class="n">hide</span><span class="p">();</span>
-  <span class="kr">else</span>
-    <span class="n">hs.application</span><span class="p">.</span><span class="n">launchOrFocus</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
-  <span class="kr">end</span>
-<span class="kr">end</span>
-
-<span class="n">hs.hotkey</span><span class="p">.</span><span class="n">bind</span><span class="p">({</span><span class="s1">&#39;ctrl&#39;</span><span class="p">},</span> <span class="s1">&#39;space&#39;</span><span class="p">,</span> <span class="kr">function</span><span class="p">()</span>
-  <span class="n">toggleFocus</span><span class="p">(</span><span class="s1">&#39;Obsidian&#39;</span><span class="p">)</span>
-<span class="kr">end</span><span class="p">)</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-lua" data-lang="lua"><span class="line"><span class="cl"><span class="kd">local</span> <span class="n">isAppFocused</span> <span class="o">=</span> <span class="kr">function</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">app</span> <span class="o">=</span> <span class="n">hs.application</span><span class="p">.</span><span class="n">frontmostApplication</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">appName</span> <span class="o">=</span> <span class="n">app</span><span class="p">:</span><span class="n">name</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="kr">return</span> <span class="n">appName</span> <span class="o">==</span> <span class="n">name</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kd">local</span> <span class="n">toggleFocus</span> <span class="o">=</span> <span class="kr">function</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">if</span><span class="p">(</span><span class="n">isAppFocused</span><span class="p">(</span><span class="n">name</span><span class="p">))</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">app</span><span class="p">:</span><span class="n">hide</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">else</span>
+</span></span><span class="line"><span class="cl">    <span class="n">hs.application</span><span class="p">.</span><span class="n">launchOrFocus</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">hs.hotkey</span><span class="p">.</span><span class="n">bind</span><span class="p">({</span><span class="s1">&#39;ctrl&#39;</span><span class="p">},</span> <span class="s1">&#39;space&#39;</span><span class="p">,</span> <span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">toggleFocus</span><span class="p">(</span><span class="s1">&#39;Obsidian&#39;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span><span class="p">)</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div>]]></content:encoded></item><item><title>Weekly Planning</title><link>https://brandonkboswell.com/Weekly-Planning/</link><pubDate>Sat, 30 Apr 2022 09:19:01 +0000</pubDate><guid>https://brandonkboswell.com/Weekly-Planning/</guid><description>2022-05-07 Weekly planning is going well, but I think I am packing my days a bit too tight, as usually at least one thing slips each day. I have also noticed that my afternoon productivity is not nearly as strong as my morning.</description><content:encoded><![CDATA[<p><em>2022-05-07</em>
 Weekly planning is going well, but I think I am packing my days a bit too tight, as usually at least one thing slips each day. I have also noticed that my afternoon productivity is not nearly as strong as my morning. This is not completely surprising, but blocking in my day makes it more obvious.</p>

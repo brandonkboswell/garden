@@ -731,724 +731,724 @@ My First Node ^CB7uuGHG</description><content:encoded><![CDATA[<p>==⚠  Switch 
 </span><span class="lnt">717
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-json" data-lang="json"><span class="p">{</span>
-	<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;excalidraw&#34;</span><span class="p">,</span>
-	<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
-	<span class="nt">&#34;source&#34;</span><span class="p">:</span> <span class="s2">&#34;https://excalidraw.com&#34;</span><span class="p">,</span>
-	<span class="nt">&#34;elements&#34;</span><span class="p">:</span> <span class="p">[</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;rectangle&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">98</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">784242921</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;R78Xzo9CFB2xRpnc0IJze&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-154.3633918294857</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-249.0712767950899</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">228</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">159.7174072265625</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">869313897</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;Z3szZ1eR&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span>
-				<span class="p">},</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;ZF4iUFz04tRkB6WGEvPSz&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
-				<span class="p">},</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;iKobEXT05frQPAEJXuPq9&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
-				<span class="p">}</span>
-			<span class="p">],</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972611</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">79</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">348292647</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;Z3szZ1eR&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-149.3633918294857</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-181.71257318180864</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">218</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mi">25</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">638130249</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972611</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;fontSize&#34;</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
-			<span class="nt">&#34;fontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;My First Node&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;rawText&#34;</span><span class="p">:</span> <span class="s2">&#34;My First Node&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;baseline&#34;</span><span class="p">:</span> <span class="mi">17</span><span class="p">,</span>
-			<span class="nt">&#34;textAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;verticalAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;middle&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;containerId&#34;</span><span class="p">:</span> <span class="s2">&#34;R78Xzo9CFB2xRpnc0IJze&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;originalText&#34;</span><span class="p">:</span> <span class="s2">&#34;My First Node&#34;</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;rectangle&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">166</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">833524425</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;XcRIYfd8prGatGnut9vR_&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-325.8086078182127</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">112.8721858098022</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">228</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">159.7174072265625</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">34715335</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;ZF4iUFz04tRkB6WGEvPSz&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
-				<span class="p">},</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;bDhJhCVI&#34;</span>
-				<span class="p">},</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;q3O5aUzgjH30zKRKCBZg1&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
-				<span class="p">}</span>
-			<span class="p">],</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463994316</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">338</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1074968935</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;ZF4iUFz04tRkB6WGEvPSz&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-114.49395604115547</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-88.35386956852739</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">30.981814959873233</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">199.2631647533296</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">909738503</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463994317</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
-				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;R78Xzo9CFB2xRpnc0IJze&#34;</span><span class="p">,</span>
-				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">0.4866072206909044</span>
-			<span class="p">},</span>
-			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
-				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;XcRIYfd8prGatGnut9vR_&#34;</span><span class="p">,</span>
-				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mf">1.962890625</span><span class="p">,</span>
-				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">0.42408249703248374</span>
-			<span class="p">},</span>
-			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
-				<span class="p">[</span>
-					<span class="mi">0</span><span class="p">,</span>
-					<span class="mi">0</span>
-				<span class="p">],</span>
-				<span class="p">[</span>
-					<span class="mf">-30.981814959873233</span><span class="p">,</span>
-					<span class="mf">199.2631647533296</span>
-				<span class="p">]</span>
-			<span class="p">]</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">143</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1951373895</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;bDhJhCVI&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-320.8086078182127</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">155.73088942308345</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">218</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mi">74</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1964426569</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463994316</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;fontSize&#34;</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
-			<span class="nt">&#34;fontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;Why would I use \nScrintal when I have \nthis?&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;rawText&#34;</span><span class="p">:</span> <span class="s2">&#34;Why would I use Scrintal when I have this?&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;baseline&#34;</span><span class="p">:</span> <span class="mi">67</span><span class="p">,</span>
-			<span class="nt">&#34;textAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;verticalAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;middle&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;containerId&#34;</span><span class="p">:</span> <span class="s2">&#34;XcRIYfd8prGatGnut9vR_&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;originalText&#34;</span><span class="p">:</span> <span class="s2">&#34;Why would I use Scrintal when I have this?&#34;</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;rectangle&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">222</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">2081025703</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;4CI6gseHNPydQjLxtbrfy&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">555.3310892180001</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-248.21253806213883</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">228</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">159.7174072265625</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1416522855</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;7FP6wWiZ&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span>
-				<span class="p">},</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;ZF4iUFz04tRkB6WGEvPSz&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
-				<span class="p">},</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;iKobEXT05frQPAEJXuPq9&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
-				<span class="p">},</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;q3O5aUzgjH30zKRKCBZg1&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
-				<span class="p">}</span>
-			<span class="p">],</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463991363</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">235</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1978019303</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;7FP6wWiZ&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">560.3310892180001</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-180.85383444885758</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">218</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mi">25</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1959937927</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463975242</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;fontSize&#34;</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
-			<span class="nt">&#34;fontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;Another Object&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;rawText&#34;</span><span class="p">:</span> <span class="s2">&#34;Another Object&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;baseline&#34;</span><span class="p">:</span> <span class="mi">17</span><span class="p">,</span>
-			<span class="nt">&#34;textAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;verticalAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;middle&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;containerId&#34;</span><span class="p">:</span> <span class="s2">&#34;4CI6gseHNPydQjLxtbrfy&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;originalText&#34;</span><span class="p">:</span> <span class="s2">&#34;Another Object&#34;</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">732</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1691736327</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;iKobEXT05frQPAEJXuPq9&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">74.63660817051431</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-190.47822044236727</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">479.6944810474858</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">58.66319701601469</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1537291753</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463975243</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
-				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;R78Xzo9CFB2xRpnc0IJze&#34;</span><span class="p">,</span>
-				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">-0.375826324583169</span>
-			<span class="p">},</span>
-			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
-				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;4CI6gseHNPydQjLxtbrfy&#34;</span><span class="p">,</span>
-				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">-0.5394716429370322</span>
-			<span class="p">},</span>
-			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
-				<span class="p">[</span>
-					<span class="mi">0</span><span class="p">,</span>
-					<span class="mi">0</span>
-				<span class="p">],</span>
-				<span class="p">[</span>
-					<span class="mf">479.6944810474858</span><span class="p">,</span>
-					<span class="mf">58.66319701601469</span>
-				<span class="p">]</span>
-			<span class="p">]</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;rectangle&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">207</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">375579687</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;v80xbSKtybrnuXGQYagpM&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">259.65593912352546</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">102.19509360631014</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">228</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">159.7174072265625</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">734451591</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;CB7uuGHG&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span>
-				<span class="p">},</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;ZF4iUFz04tRkB6WGEvPSz&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
-				<span class="p">},</span>
-				<span class="p">{</span>
-					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;iKobEXT05frQPAEJXuPq9&#34;</span><span class="p">,</span>
-					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
-				<span class="p">}</span>
-			<span class="p">],</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463995957</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">205</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">550114761</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;CB7uuGHG&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">264.65593912352546</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">169.5537972195914</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">218</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mi">25</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">405819047</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463995957</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;fontSize&#34;</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
-			<span class="nt">&#34;fontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;My First Node&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;rawText&#34;</span><span class="p">:</span> <span class="s2">&#34;My First Node&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;baseline&#34;</span><span class="p">:</span> <span class="mi">17</span><span class="p">,</span>
-			<span class="nt">&#34;textAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;verticalAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;middle&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;containerId&#34;</span><span class="p">:</span> <span class="s2">&#34;v80xbSKtybrnuXGQYagpM&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;originalText&#34;</span><span class="p">:</span> <span class="s2">&#34;My First Node&#34;</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;e6efVXgJ&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-171.3066862108392</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-337.05136075069726</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">248</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mi">35</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">878284615</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">134</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1335158601</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972611</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;This is some text&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;rawText&#34;</span><span class="p">:</span> <span class="s2">&#34;This is some text&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fontSize&#34;</span><span class="p">:</span> <span class="mi">28</span><span class="p">,</span>
-			<span class="nt">&#34;fontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;textAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;verticalAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;top&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;baseline&#34;</span><span class="p">:</span> <span class="mi">25</span><span class="p">,</span>
-			<span class="nt">&#34;containerId&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;originalText&#34;</span><span class="p">:</span> <span class="s2">&#34;This is some text&#34;</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;q3O5aUzgjH30zKRKCBZg1&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">620.7330868439306</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-84.93360802651748</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">709.3228723403842</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">362.78236193779117</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">343750089</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">214</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1617228935</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463994317</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
-				<span class="p">[</span>
-					<span class="mi">0</span><span class="p">,</span>
-					<span class="mi">0</span>
-				<span class="p">],</span>
-				<span class="p">[</span>
-					<span class="mf">-709.3228723403842</span><span class="p">,</span>
-					<span class="mf">362.78236193779117</span>
-				<span class="p">]</span>
-			<span class="p">],</span>
-			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
-				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;4CI6gseHNPydQjLxtbrfy&#34;</span><span class="p">,</span>
-				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">-0.4240444782560941</span><span class="p">,</span>
-				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mf">3.561522809058829</span>
-			<span class="p">},</span>
-			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
-				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;XcRIYfd8prGatGnut9vR_&#34;</span><span class="p">,</span>
-				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">1.0721904848261916</span><span class="p">,</span>
-				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mf">10.613456463769808</span>
-			<span class="p">},</span>
-			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;wnRkJLltLe2i-YtDCCK3T&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-310.6922269278347</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-232.83213048707432</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">11</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mi">25</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">749320679</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">16</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1309068743</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972612</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;rawText&#34;</span><span class="p">:</span> <span class="s2">&#34;&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fontSize&#34;</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
-			<span class="nt">&#34;fontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;textAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;left&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;verticalAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;top&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;baseline&#34;</span><span class="p">:</span> <span class="mi">17</span><span class="p">,</span>
-			<span class="nt">&#34;containerId&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;originalText&#34;</span><span class="p">:</span> <span class="s2">&#34;&#34;</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;jh2IEqb7WwVFN5ILesU9m&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;line&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">88.4993933451683</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-95.227266214711</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">1.8123567837252494</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">98.74615855892</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mf">5.82466609330623</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1301838791</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">169</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">350950953</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972612</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
-				<span class="p">[</span>
-					<span class="mi">0</span><span class="p">,</span>
-					<span class="mi">0</span>
-				<span class="p">],</span>
-				<span class="p">[</span>
-					<span class="mf">-1.8123567837252494</span><span class="p">,</span>
-					<span class="mf">98.74615855892</span>
-				<span class="p">]</span>
-			<span class="p">],</span>
-			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;2QrZl51CqSwWtHJ2he9n-&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;line&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">71.54867826197096</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-90.38489498537547</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">67.73049119539553</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">105.21648778529755</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1099999177</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">57</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1402436839</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972612</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
-				<span class="p">[</span>
-					<span class="mi">0</span><span class="p">,</span>
-					<span class="mi">0</span>
-				<span class="p">],</span>
-				<span class="p">[</span>
-					<span class="mf">67.73049119539553</span><span class="p">,</span>
-					<span class="mf">105.21648778529755</span>
-				<span class="p">]</span>
-			<span class="p">],</span>
-			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;Lr_aflxIgEgI2UVUfAM96&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;line&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">73.73059732656634</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-88.16046513546178</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">100.03062384908117</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">177.7987352566647</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">776967239</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">188</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1901619465</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972612</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
-				<span class="p">[</span>
-					<span class="mi">0</span><span class="p">,</span>
-					<span class="mi">0</span>
-				<span class="p">],</span>
-				<span class="p">[</span>
-					<span class="mf">100.03062384908117</span><span class="p">,</span>
-					<span class="mf">177.7987352566647</span>
-				<span class="p">]</span>
-			<span class="p">],</span>
-			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span>
-		<span class="p">},</span>
-		<span class="p">{</span>
-			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;gQFm_NPp13GTBKjj9liEv&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">664.10946936544</span><span class="p">,</span>
-			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-84.47075143019822</span><span class="p">,</span>
-			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">173.18275220785108</span><span class="p">,</span>
-			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">98.35083953894855</span><span class="p">,</span>
-			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
-			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
-			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
-			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
-			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1591041769</span><span class="p">,</span>
-			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">61</span><span class="p">,</span>
-			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1589968135</span><span class="p">,</span>
-			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
-			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463986188</span><span class="p">,</span>
-			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
-				<span class="p">[</span>
-					<span class="mi">0</span><span class="p">,</span>
-					<span class="mi">0</span>
-				<span class="p">],</span>
-				<span class="p">[</span>
-					<span class="mf">-173.18275220785108</span><span class="p">,</span>
-					<span class="mf">98.35083953894855</span>
-				<span class="p">]</span>
-			<span class="p">],</span>
-			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
-				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;4CI6gseHNPydQjLxtbrfy&#34;</span><span class="p">,</span>
-				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">-0.5595987102633729</span><span class="p">,</span>
-				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mf">4.024379405378113</span>
-			<span class="p">},</span>
-			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
-				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;v80xbSKtybrnuXGQYagpM&#34;</span><span class="p">,</span>
-				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">-0.19093379106922392</span><span class="p">,</span>
-				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mf">10.404032824515639</span>
-			<span class="p">},</span>
-			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
-		<span class="p">}</span>
-	<span class="p">],</span>
-	<span class="nt">&#34;appState&#34;</span><span class="p">:</span> <span class="p">{</span>
-		<span class="nt">&#34;theme&#34;</span><span class="p">:</span> <span class="s2">&#34;light&#34;</span><span class="p">,</span>
-		<span class="nt">&#34;viewBackgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#f8f9fa&#34;</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemStrokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemBackgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemFillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemStrokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemStrokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemRoughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemOpacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemFontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemFontSize&#34;</span><span class="p">:</span> <span class="mi">28</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemTextAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemStrokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemStartArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemEndArrowhead&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
-		<span class="nt">&#34;currentItemLinearStrokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
-		<span class="nt">&#34;gridSize&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
-		<span class="nt">&#34;colorPalette&#34;</span><span class="p">:</span> <span class="p">{}</span>
-	<span class="p">},</span>
-	<span class="nt">&#34;files&#34;</span><span class="p">:</span> <span class="p">{}</span>
-<span class="p">}</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-json" data-lang="json"><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">	<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;excalidraw&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">	<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">	<span class="nt">&#34;source&#34;</span><span class="p">:</span> <span class="s2">&#34;https://excalidraw.com&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">	<span class="nt">&#34;elements&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;rectangle&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">98</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">784242921</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;R78Xzo9CFB2xRpnc0IJze&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-154.3633918294857</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-249.0712767950899</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">228</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">159.7174072265625</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">869313897</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;Z3szZ1eR&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">},</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;ZF4iUFz04tRkB6WGEvPSz&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">},</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;iKobEXT05frQPAEJXuPq9&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">}</span>
+</span></span><span class="line"><span class="cl">			<span class="p">],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972611</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">79</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">348292647</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;Z3szZ1eR&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-149.3633918294857</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-181.71257318180864</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">218</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mi">25</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">638130249</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972611</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fontSize&#34;</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;My First Node&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;rawText&#34;</span><span class="p">:</span> <span class="s2">&#34;My First Node&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;baseline&#34;</span><span class="p">:</span> <span class="mi">17</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;textAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;verticalAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;middle&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;containerId&#34;</span><span class="p">:</span> <span class="s2">&#34;R78Xzo9CFB2xRpnc0IJze&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;originalText&#34;</span><span class="p">:</span> <span class="s2">&#34;My First Node&#34;</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;rectangle&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">166</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">833524425</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;XcRIYfd8prGatGnut9vR_&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-325.8086078182127</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">112.8721858098022</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">228</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">159.7174072265625</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">34715335</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;ZF4iUFz04tRkB6WGEvPSz&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">},</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;bDhJhCVI&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">},</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;q3O5aUzgjH30zKRKCBZg1&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">}</span>
+</span></span><span class="line"><span class="cl">			<span class="p">],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463994316</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">338</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1074968935</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;ZF4iUFz04tRkB6WGEvPSz&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-114.49395604115547</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-88.35386956852739</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">30.981814959873233</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">199.2631647533296</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">909738503</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463994317</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;R78Xzo9CFB2xRpnc0IJze&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">0.4866072206909044</span>
+</span></span><span class="line"><span class="cl">			<span class="p">},</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;XcRIYfd8prGatGnut9vR_&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mf">1.962890625</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">0.42408249703248374</span>
+</span></span><span class="line"><span class="cl">			<span class="p">},</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span>
+</span></span><span class="line"><span class="cl">				<span class="p">],</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">-30.981814959873233</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">199.2631647533296</span>
+</span></span><span class="line"><span class="cl">				<span class="p">]</span>
+</span></span><span class="line"><span class="cl">			<span class="p">]</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">143</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1951373895</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;bDhJhCVI&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-320.8086078182127</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">155.73088942308345</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">218</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mi">74</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1964426569</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463994316</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fontSize&#34;</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;Why would I use \nScrintal when I have \nthis?&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;rawText&#34;</span><span class="p">:</span> <span class="s2">&#34;Why would I use Scrintal when I have this?&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;baseline&#34;</span><span class="p">:</span> <span class="mi">67</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;textAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;verticalAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;middle&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;containerId&#34;</span><span class="p">:</span> <span class="s2">&#34;XcRIYfd8prGatGnut9vR_&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;originalText&#34;</span><span class="p">:</span> <span class="s2">&#34;Why would I use Scrintal when I have this?&#34;</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;rectangle&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">222</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">2081025703</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;4CI6gseHNPydQjLxtbrfy&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">555.3310892180001</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-248.21253806213883</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">228</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">159.7174072265625</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1416522855</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;7FP6wWiZ&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">},</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;ZF4iUFz04tRkB6WGEvPSz&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">},</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;iKobEXT05frQPAEJXuPq9&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">},</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;q3O5aUzgjH30zKRKCBZg1&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">}</span>
+</span></span><span class="line"><span class="cl">			<span class="p">],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463991363</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">235</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1978019303</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;7FP6wWiZ&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">560.3310892180001</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-180.85383444885758</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">218</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mi">25</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1959937927</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463975242</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fontSize&#34;</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;Another Object&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;rawText&#34;</span><span class="p">:</span> <span class="s2">&#34;Another Object&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;baseline&#34;</span><span class="p">:</span> <span class="mi">17</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;textAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;verticalAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;middle&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;containerId&#34;</span><span class="p">:</span> <span class="s2">&#34;4CI6gseHNPydQjLxtbrfy&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;originalText&#34;</span><span class="p">:</span> <span class="s2">&#34;Another Object&#34;</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">732</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1691736327</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;iKobEXT05frQPAEJXuPq9&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">74.63660817051431</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-190.47822044236727</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">479.6944810474858</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">58.66319701601469</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1537291753</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463975243</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;R78Xzo9CFB2xRpnc0IJze&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">-0.375826324583169</span>
+</span></span><span class="line"><span class="cl">			<span class="p">},</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;4CI6gseHNPydQjLxtbrfy&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">-0.5394716429370322</span>
+</span></span><span class="line"><span class="cl">			<span class="p">},</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span>
+</span></span><span class="line"><span class="cl">				<span class="p">],</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">479.6944810474858</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">58.66319701601469</span>
+</span></span><span class="line"><span class="cl">				<span class="p">]</span>
+</span></span><span class="line"><span class="cl">			<span class="p">]</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;rectangle&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">207</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">375579687</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;v80xbSKtybrnuXGQYagpM&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">259.65593912352546</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">102.19509360631014</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">228</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">159.7174072265625</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">734451591</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;CB7uuGHG&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">},</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;ZF4iUFz04tRkB6WGEvPSz&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">},</span>
+</span></span><span class="line"><span class="cl">				<span class="p">{</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;iKobEXT05frQPAEJXuPq9&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="p">}</span>
+</span></span><span class="line"><span class="cl">			<span class="p">],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463995957</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">205</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">550114761</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;CB7uuGHG&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;hachure&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">264.65593912352546</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">169.5537972195914</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;transparent&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">218</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mi">25</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">405819047</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463995957</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fontSize&#34;</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;My First Node&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;rawText&#34;</span><span class="p">:</span> <span class="s2">&#34;My First Node&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;baseline&#34;</span><span class="p">:</span> <span class="mi">17</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;textAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;verticalAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;middle&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;containerId&#34;</span><span class="p">:</span> <span class="s2">&#34;v80xbSKtybrnuXGQYagpM&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;originalText&#34;</span><span class="p">:</span> <span class="s2">&#34;My First Node&#34;</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;e6efVXgJ&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-171.3066862108392</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-337.05136075069726</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">248</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mi">35</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">878284615</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">134</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1335158601</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972611</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;This is some text&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;rawText&#34;</span><span class="p">:</span> <span class="s2">&#34;This is some text&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fontSize&#34;</span><span class="p">:</span> <span class="mi">28</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;textAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;verticalAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;top&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;baseline&#34;</span><span class="p">:</span> <span class="mi">25</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;containerId&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;originalText&#34;</span><span class="p">:</span> <span class="s2">&#34;This is some text&#34;</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;q3O5aUzgjH30zKRKCBZg1&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">620.7330868439306</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-84.93360802651748</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">709.3228723403842</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">362.78236193779117</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">343750089</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">214</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1617228935</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463994317</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span>
+</span></span><span class="line"><span class="cl">				<span class="p">],</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">-709.3228723403842</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">362.78236193779117</span>
+</span></span><span class="line"><span class="cl">				<span class="p">]</span>
+</span></span><span class="line"><span class="cl">			<span class="p">],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;4CI6gseHNPydQjLxtbrfy&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">-0.4240444782560941</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mf">3.561522809058829</span>
+</span></span><span class="line"><span class="cl">			<span class="p">},</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;XcRIYfd8prGatGnut9vR_&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">1.0721904848261916</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mf">10.613456463769808</span>
+</span></span><span class="line"><span class="cl">			<span class="p">},</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;wnRkJLltLe2i-YtDCCK3T&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;text&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">-310.6922269278347</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-232.83213048707432</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mi">11</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mi">25</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">749320679</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">16</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1309068743</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972612</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;rawText&#34;</span><span class="p">:</span> <span class="s2">&#34;&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fontSize&#34;</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;textAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;left&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;verticalAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;top&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;baseline&#34;</span><span class="p">:</span> <span class="mi">17</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;containerId&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;originalText&#34;</span><span class="p">:</span> <span class="s2">&#34;&#34;</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;jh2IEqb7WwVFN5ILesU9m&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;line&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">88.4993933451683</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-95.227266214711</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">1.8123567837252494</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">98.74615855892</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mf">5.82466609330623</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1301838791</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">169</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">350950953</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972612</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span>
+</span></span><span class="line"><span class="cl">				<span class="p">],</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">-1.8123567837252494</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">98.74615855892</span>
+</span></span><span class="line"><span class="cl">				<span class="p">]</span>
+</span></span><span class="line"><span class="cl">			<span class="p">],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;2QrZl51CqSwWtHJ2he9n-&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;line&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">71.54867826197096</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-90.38489498537547</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">67.73049119539553</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">105.21648778529755</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1099999177</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">57</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1402436839</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972612</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span>
+</span></span><span class="line"><span class="cl">				<span class="p">],</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">67.73049119539553</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">105.21648778529755</span>
+</span></span><span class="line"><span class="cl">				<span class="p">]</span>
+</span></span><span class="line"><span class="cl">			<span class="p">],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;Lr_aflxIgEgI2UVUfAM96&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;line&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">73.73059732656634</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-88.16046513546178</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">100.03062384908117</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">177.7987352566647</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">776967239</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">188</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1901619465</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463972612</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span>
+</span></span><span class="line"><span class="cl">				<span class="p">],</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">100.03062384908117</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">177.7987352566647</span>
+</span></span><span class="line"><span class="cl">				<span class="p">]</span>
+</span></span><span class="line"><span class="cl">			<span class="p">],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span>
+</span></span><span class="line"><span class="cl">		<span class="p">},</span>
+</span></span><span class="line"><span class="cl">		<span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;gQFm_NPp13GTBKjj9liEv&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;x&#34;</span><span class="p">:</span> <span class="mf">664.10946936544</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;y&#34;</span><span class="p">:</span> <span class="mf">-84.47075143019822</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;width&#34;</span><span class="p">:</span> <span class="mf">173.18275220785108</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;height&#34;</span><span class="p">:</span> <span class="mf">98.35083953894855</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;angle&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;backgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;fillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;roughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;opacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;groupIds&#34;</span><span class="p">:</span> <span class="p">[],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;strokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;seed&#34;</span><span class="p">:</span> <span class="mi">1591041769</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="mi">61</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;versionNonce&#34;</span><span class="p">:</span> <span class="mi">1589968135</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;isDeleted&#34;</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;boundElements&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;updated&#34;</span><span class="p">:</span> <span class="mi">1656463986188</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;link&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;locked&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;points&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mi">0</span>
+</span></span><span class="line"><span class="cl">				<span class="p">],</span>
+</span></span><span class="line"><span class="cl">				<span class="p">[</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">-173.18275220785108</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">					<span class="mf">98.35083953894855</span>
+</span></span><span class="line"><span class="cl">				<span class="p">]</span>
+</span></span><span class="line"><span class="cl">			<span class="p">],</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;lastCommittedPoint&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;4CI6gseHNPydQjLxtbrfy&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">-0.5595987102633729</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mf">4.024379405378113</span>
+</span></span><span class="line"><span class="cl">			<span class="p">},</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endBinding&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;elementId&#34;</span><span class="p">:</span> <span class="s2">&#34;v80xbSKtybrnuXGQYagpM&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;focus&#34;</span><span class="p">:</span> <span class="mf">-0.19093379106922392</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">				<span class="nt">&#34;gap&#34;</span><span class="p">:</span> <span class="mf">10.404032824515639</span>
+</span></span><span class="line"><span class="cl">			<span class="p">},</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;startArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;endArrowhead&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span>
+</span></span><span class="line"><span class="cl">		<span class="p">}</span>
+</span></span><span class="line"><span class="cl">	<span class="p">],</span>
+</span></span><span class="line"><span class="cl">	<span class="nt">&#34;appState&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;theme&#34;</span><span class="p">:</span> <span class="s2">&#34;light&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;viewBackgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#f8f9fa&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemStrokeColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemBackgroundColor&#34;</span><span class="p">:</span> <span class="s2">&#34;#82c91e&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemFillStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;cross-hatch&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemStrokeWidth&#34;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemStrokeStyle&#34;</span><span class="p">:</span> <span class="s2">&#34;solid&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemRoughness&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemOpacity&#34;</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemFontFamily&#34;</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemFontSize&#34;</span><span class="p">:</span> <span class="mi">28</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemTextAlign&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemStrokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;sharp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemStartArrowhead&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemEndArrowhead&#34;</span><span class="p">:</span> <span class="s2">&#34;arrow&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;currentItemLinearStrokeSharpness&#34;</span><span class="p">:</span> <span class="s2">&#34;round&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;gridSize&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;colorPalette&#34;</span><span class="p">:</span> <span class="p">{}</span>
+</span></span><span class="line"><span class="cl">	<span class="p">},</span>
+</span></span><span class="line"><span class="cl">	<span class="nt">&#34;files&#34;</span><span class="p">:</span> <span class="p">{}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>%%</p>
 ]]></content:encoded></item></channel></rss>
