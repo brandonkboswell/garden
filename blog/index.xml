@@ -1,4 +1,91 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/blog/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 17 Aug 2022 08:29:35 +0000</lastBuildDate><atom:link href="https://brandonkboswell.com/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Should you use PARA in Obsidian</title><link>https://brandonkboswell.com/blog/Should-you-use-PARA-in-Obsidian/</link><pubDate>Wed, 17 Aug 2022 08:29:35 +0000</pubDate><guid>https://brandonkboswell.com/blog/Should-you-use-PARA-in-Obsidian/</guid><description>I recently read Tiago Forte&amp;rsquo;s Building a Second Brain and I think that book has a good explanation of the PARA method and the CODE Method, but should you be using PARA in your Obsidian vault?</description><content:encoded><![CDATA[<p>I recently read <em>Tiago Forte</em>&rsquo;s 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/blog/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 09:12:38 +0000</lastBuildDate><atom:link href="https://brandonkboswell.com/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>My YouTube Video Process</title><link>https://brandonkboswell.com/blog/My-YouTube-Video-Process/</link><pubDate>Sat, 10 Sep 2022 09:12:38 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-YouTube-Video-Process/</guid><description> Write an Outline Write a script and/or Intro Is there a video I can mention or reference in this video? Come up with 10 title options Determine what the thumbnail should be Make the thumbnail (before recording the video) If the thumbnail sucks, no need to go any further Record the A-Roll (Dialog) Do an initial cut of the dialog Note B-Roll we need with markers (Blue) Note chapters via markers in another color (Purple) Take that list from Davinci Resolve and record all the B-Roll Write a description for YouTube Be sure to add relevant tags Create named clips of that B-Roll in Davinci Resolve Overlay those B-Roll clips on the markers Change the markers to green as you have filled each This gives us a todo list of remaining tasks Rewatch at 2x Speed and do a final edit Chop up any long-running clips to stay interesting Add chapters via markers in another color Add Intro, Subscribe callouts and outro</description><content:encoded><![CDATA[<ul>
+<li><input disabled="" type="checkbox"> Write an Outline</li>
+<li><input disabled="" type="checkbox"> Write a script and/or Intro
+<ul>
+<li>Is there a video I can mention or reference in this video?</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Come up with 10 title options</li>
+<li><input disabled="" type="checkbox"> Determine what the thumbnail should be</li>
+<li><input disabled="" type="checkbox"> Make the thumbnail (before recording the video)
+<ul>
+<li>If the thumbnail sucks, no need to go any further</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Record the A-Roll (Dialog)</li>
+<li><input disabled="" type="checkbox"> Do an initial cut of the dialog
+<ul>
+<li>Note B-Roll we need with markers (Blue)</li>
+<li>Note chapters via markers in another color (Purple)</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Take that list from 
+
+
+
+
+
+<a
+  href="/Davinci-Resolve/"
+  rel="noopener" class="internal-link"
+  data-src="/Davinci-Resolve/">Davinci Resolve</a> and record all the 
+
+
+
+
+
+<a
+  href="/B-Roll/"
+  rel="noopener" class="internal-link"
+  data-src="/B-Roll/">B-Roll</a></li>
+<li><input disabled="" type="checkbox"> Write a description for 
+
+
+
+
+
+<a
+  href="/YouTube/"
+  rel="noopener" class="internal-link"
+  data-src="/YouTube/">YouTube</a>
+<ul>
+<li>Be sure to add relevant tags</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Create named clips of that 
+
+
+
+
+
+<a
+  href="/B-Roll/"
+  rel="noopener" class="internal-link"
+  data-src="/B-Roll/">B-Roll</a> in 
+
+
+
+
+
+<a
+  href="/Davinci-Resolve/"
+  rel="noopener" class="internal-link"
+  data-src="/Davinci-Resolve/">Davinci Resolve</a></li>
+<li><input disabled="" type="checkbox"> Overlay those B-Roll clips on the markers
+<ul>
+<li>Change the markers to green as you have filled each</li>
+<li>This gives us a todo list of remaining tasks</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Rewatch at 2x Speed and do a final edit
+<ul>
+<li>Chop up any long-running clips to stay interesting</li>
+<li>Add chapters via markers in another color</li>
+<li>Add Intro, Subscribe callouts and outro</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded></item><item><title>Should you use PARA in Obsidian</title><link>https://brandonkboswell.com/blog/Should-you-use-PARA-in-Obsidian/</link><pubDate>Wed, 17 Aug 2022 08:29:35 +0000</pubDate><guid>https://brandonkboswell.com/blog/Should-you-use-PARA-in-Obsidian/</guid><description>I recently read Tiago Forte&amp;rsquo;s Building a Second Brain and I think that book has a good explanation of the PARA method and the CODE Method, but should you be using PARA in your Obsidian vault?</description><content:encoded><![CDATA[<p>I recently read <em>Tiago Forte</em>&rsquo;s 
 
 
 
@@ -307,6 +394,82 @@
   href="/moc/Keyboard-Navigation/"
   rel="noopener" class="internal-link"
   data-src="/moc/Keyboard-Navigation/">Keyboard Navigation</a></p>
+]]></content:encoded></item><item><title>Optimizing the iPhone for productivity</title><link>https://brandonkboswell.com/blog/Optimizing-the-iPhone-for-productivity/</link><pubDate>Tue, 26 Jul 2022 20:05:37 +0000</pubDate><guid>https://brandonkboswell.com/blog/Optimizing-the-iPhone-for-productivity/</guid><description>In this post, I will show you how I have optimized my phone to have more focus and ultimately a more healthy relationship with my phone. Along the way, I will show you 5 tips to have a healthy balance with your phone</description><content:encoded><![CDATA[<p>In this post, I will show you how I have optimized my phone to have more focus and ultimately a more healthy relationship with my phone. Along the way, I will show you 5 tips to have a healthy balance with your phone</p>
+<p>Many videos talk about decluttering your phone, and I am in favor of this, but ultimately for a different reason. Everything in your life is vying for your attention, and your phone likely most of all. A big point of emphasis with my iPhone is making it as much of a distraction free tool as it can be. For that reason, aside from the dock, my Home Screen only has 6 apps on it.</p>
+<p>Show&rsquo;s the <em>iPhone</em> on Screen w/ the Dock illuminated. There&rsquo;s nothing too crazy on the dock</p>
+<h2 id="1-out-of-sight-out-of-mind--intentionality">1. Out of sight, out of mind — Intentionality</h2>
+<p>I am a big proponent of out of sight, out of mind. My goal is to have intention when I pick up my <em>iPhone</em>. I don&rsquo;t uninstall distracting apps from my phone, I just make it where my brain has to have intention to open that app. If I want to open Reddit, I&rsquo;m going to search for it. I introduce just that little bit of friction so that I won&rsquo;t get pulled into an addictive open just because I unlocked my phone.</p>
+<h2 id="2-add-a-little-friction">2. Add a little friction</h2>
+<p>For some apps, hiding the icon on your home screen may not be enough, the ones I have to watch out for are <em>Twitter</em> and <em>Reddit</em>. For those apps, you might want to check out 
+
+
+
+
+
+<a
+  href="/One-Sec/"
+  rel="noopener" class="internal-link"
+  data-src="/One-Sec/">One Sec</a>. It&rsquo;s an app you install on your iPhone and with a little setup it will add a little friction to opening those apps that you can&rsquo;t quite seem to get away from. It gives you a moment to pause and think, does this app align with my goals? The other feature that 
+
+
+
+
+
+<a
+  href="/One-Sec/"
+  rel="noopener" class="internal-link"
+  data-src="/One-Sec/">One Sec</a> has, is the ability to send you a notification if you are still in the app after a certain period of time. So if you are still using the app after say 5 minutes, it will give you a notification in hopes that it will pull you out of the Matrix. 
+
+<a target=“_blank” href="https://apps.apple.com/redeem/?ctx=offercodes&amp;id=1532875441&amp;code=BRANDON15" rel="noopener">You can get 15% off One Sec by using this link</a>. Alternatively, you can use <em>iOS Shortcuts</em> to set a 5-minute timer when you open those addictive apps. That is why I have a clock on my home screen so that I can cancel that timer when I leave. If you&rsquo;re curious about how you can set up this shortcut for yourself, let me know down in the comments and I can put up a video on how to do that.</p>
+<h2 id="3-give-yourself-more-rewarding-distractions">3. Give yourself more rewarding distractions</h2>
+<p>We can&rsquo;t be distraction free all the time, and for that I put some good distractions at arms reach, if I just need a break from what I&rsquo;m doing. For me, this is 
+
+
+
+
+
+<a
+  href="/Readwise/"
+  rel="noopener" class="internal-link"
+  data-src="/Readwise/">Readwise</a> and their new RSS+Read-it-later app 
+
+
+
+
+
+<a
+  
+  rel="noopener" class="internal-link broken"
+  data-src="../Reader">Reader</a>. So if I just need a break instead of getting pulled into the infinity pool which is Twitter, I can review some key highlights from books or articles I&rsquo;ve read, or read an article I have saved for later. It is like putting healthy snacks out in case you get hungry.</p>
+<h2 id="4-turn-off-notifications">4. Turn off notifications</h2>
+<p>I shouldn&rsquo;t have to say this, but for those 9 people out there who still have notifications enabled on their iPhone, please go turn them off. This is the equivalent of signing yourself up for spam phone calls in the modern age. The only real exception I have to this rule is my car and my front doorbell. Aside from that, my notifications are off. While we&rsquo;re on the topic of notifications, I highly recommend that you enable iOS&rsquo;s new * Focus Mode* feature. It lets you filter out messages, phone calls and notifications so that you only get important ones while enabled. I have this set up to turn on automatically at 9am when I start my workday. It then runs until noon, turns off for an hour for lunch and then comes back from 1pm to 5pm.</p>
+<h2 id="5-avoid-using-your-phone-during-high-productivity-periods">5. Avoid using your phone during high productivity periods</h2>
+<p>For me, that&rsquo;s in the morning before work. I have an hour or so that I can do something meaningful with before the workday starts, but if I reach for my iPhone that hour is likely gone. For that reason, I no longer us my iPhone as an alarm clock. I recently bought the 
+
+
+
+
+
+<a
+  href="/Loftie/"
+  rel="noopener" class="internal-link"
+  data-src="/Loftie/">Loftie</a> alarm clock and it has given me my mornings back by not having my iPhone be the first thing I&rsquo;m greeted with in the morning. It allows you to avoid the news and twitter and set the tone you want for your day.</p>
+<h2 id="6-make-your-phone-less-desirable-at-rest">6. Make your phone less desirable at rest</h2>
+<p>This goes back to the your phone is a magnet for your attention. If you put a picture of your partner or your child on lock screen of your phone you are just pulling yourself back into. Its going to suck you back in and drain your willpower. For me I set my background to a black image. That does two things, it makes it less likely I&rsquo;m going to get pulled in and it saves me some battery. As long as you have an iPhone with an <em>OLED</em> screen you save battery by having a black background image because the pixels only have to illuminate when there is color to display. The other thing you can do is set you phone to be grayscale so that the bright colors don&rsquo;t pull you in. It&rsquo;s pretty impractical to leave it in grayscale all of the time, so I have an accessibility shortcut set up where I triple tap the lock button to toggle between grayscale and color. This lets me see the colors of a photo I just took, but not have the home screen be colored while at rest.</p>
+<h2 id="7-make-the-iphone-a-great-capture-tool">7. Make the iPhone a great capture tool</h2>
+<p>I&rsquo;m trying out this new app <em>Quick Capture</em>. Quick gives you a quick way to jot down a quick note either by hand, photo or verbally. Think of it like <em>Drafts</em>, but it supports dictation.</p>
+<ul>
+<li>Often times when I&rsquo;m trying to quick capture something I want it to go into my task manager. In my case, 
+
+
+
+
+
+<a
+  
+  rel="noopener" class="internal-link broken"
+  data-src="../Akiflow">Akiflow</a>. Show the double tap to write things and triple tap to dictate.</li>
+</ul>
 ]]></content:encoded></item><item><title>reMarkable Resources when getting started</title><link>https://brandonkboswell.com/blog/reMarkable-Resources-when-getting-started/</link><pubDate>Wed, 13 Jul 2022 07:50:49 +0000</pubDate><guid>https://brandonkboswell.com/blog/reMarkable-Resources-when-getting-started/</guid><description>rM2 Template Making rM2 Template Helper &amp;amp; Custom Screens https://youtu.be/7FHBSLMShVc Whitelines for Remarkable https://github.com/Templarian/Remarkable https://rm.ezb.io/
 rM2 Highlights Python Library for pulling Remarkable highlights
 Screensharing https://github.com/rien/reStream https://github.com/bordaigorl/rmview
@@ -1843,222 +2006,4 @@ dig into JS heatmaps</p>
 <h2 id="httpscal-heatmapcom---this-is-the-one">
 
 <a target=“_blank” href="https://cal-heatmap.com/" rel="noopener">https://cal-heatmap.com/</a> &lt;- this is the one.</h2>
-]]></content:encoded></item><item><title>Setting up a new Mac</title><link>https://brandonkboswell.com/blog/Setting-up-a-new-Mac/</link><pubDate>Sun, 01 Aug 2021 15:38:57 +0000</pubDate><guid>https://brandonkboswell.com/blog/Setting-up-a-new-Mac/</guid><description>MacOS
-When Possible Start from a fresh install
-Log in to iCloud
-Install
-Chrome Alfred Obsidian ShiftIt ( Amethyst) aText Skitch Rocket 1Password HandMirror Karabiner Elements Set Karabiner Elements Profile TickTick / Things 3 Fantastical For Development</description><content:encoded><![CDATA[<p>
-
-
-
-
-
-<a
-  href="/MacOS/"
-  rel="noopener" class="internal-link"
-  data-src="/MacOS/">MacOS</a></p>
-<ul>
-<li>
-<p><input checked="" disabled="" type="checkbox"> When Possible Start from a fresh install</p>
-</li>
-<li>
-<p><input checked="" disabled="" type="checkbox"> Log in to <em>iCloud</em></p>
-</li>
-<li>
-<p><input checked="" disabled="" type="checkbox"> Install</p>
-<ul>
-<li><input checked="" disabled="" type="checkbox"> <em>Chrome</em></li>
-<li><input checked="" disabled="" type="checkbox"> 
-
-
-
-
-
-<a
-  href="/Alfred/"
-  rel="noopener" class="internal-link"
-  data-src="/Alfred/">Alfred</a></li>
-<li><input checked="" disabled="" type="checkbox"> 
-
-
-
-
-
-<a
-  href="/Obsidian/"
-  rel="noopener" class="internal-link"
-  data-src="/Obsidian/">Obsidian</a></li>
-<li><input checked="" disabled="" type="checkbox"> <del><em>ShiftIt</em></del> (
-
-
-
-
-
-<a
-  href="/Amethyst/"
-  rel="noopener" class="internal-link"
-  data-src="/Amethyst/">Amethyst</a>)</li>
-<li><input checked="" disabled="" type="checkbox"> <em>aText</em></li>
-<li><input checked="" disabled="" type="checkbox"> <em>Skitch</em></li>
-<li><input checked="" disabled="" type="checkbox"> 
-
-
-
-
-
-<a
-  href="/Rocket/"
-  rel="noopener" class="internal-link"
-  data-src="/Rocket/">Rocket</a></li>
-<li><input checked="" disabled="" type="checkbox"> <em>1Password</em></li>
-<li><input checked="" disabled="" type="checkbox"> <em>HandMirror</em></li>
-<li><input checked="" disabled="" type="checkbox"> <em>Karabiner Elements</em>
-<ul>
-<li><input checked="" disabled="" type="checkbox"> Set <em>Karabiner Elements</em> Profile</li>
-</ul>
-</li>
-<li><input checked="" disabled="" type="checkbox"> 
-
-
-
-
-
-<a
-  href="/TickTick/"
-  rel="noopener" class="internal-link"
-  data-src="/TickTick/">TickTick</a> / <em>Things 3</em></li>
-<li><input checked="" disabled="" type="checkbox"> <em>Fantastical</em></li>
-</ul>
-</li>
-<li>
-<p><input checked="" disabled="" type="checkbox"> For Development</p>
-<ul>
-<li><input checked="" disabled="" type="checkbox"> <em>Postico</em></li>
-<li><input checked="" disabled="" type="checkbox"> <em>Sublime Text</em></li>
-<li><input checked="" disabled="" type="checkbox"> 
-
-
-
-
-
-<a
-  href="/iTerm2/"
-  rel="noopener" class="internal-link"
-  data-src="/iTerm2/">iTerm2</a></li>
-</ul>
-</li>
-<li>
-<p><input checked="" disabled="" type="checkbox"> Configure</p>
-<ul>
-<li>
-<p><input checked="" disabled="" type="checkbox"> Mouse/Trackpad</p>
-<ul>
-<li><input checked="" disabled="" type="checkbox"> Turn off natural direction</li>
-<li><input checked="" disabled="" type="checkbox"> Turn off Force touch</li>
-</ul>
-</li>
-<li>
-<p><input checked="" disabled="" type="checkbox"> Setup Key Repeat (Maybe just run the dotfiles)</p>
-<blockquote>
-<p>defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)
-defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)</p>
-</blockquote>
-</li>
-<li>
-<p><input checked="" disabled="" type="checkbox"> Or Just use 
-
-
-
-
-
-<a
-  href="/TinkerTool/"
-  rel="noopener" class="internal-link"
-  data-src="/TinkerTool/">TinkerTool</a></p>
-</li>
-<li>
-<p><input checked="" disabled="" type="checkbox"> Show Battery</p>
-</li>
-<li>
-<p><input checked="" disabled="" type="checkbox"> Hide Siri</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Setting Up Dev Environment</p>
-<ul>
-<li><input checked="" disabled="" type="checkbox"> 
-
-
-
-
-
-<a
-  href="/iTerm2/"
-  rel="noopener" class="internal-link"
-  data-src="/iTerm2/">iTerm2</a></li>
-<li><input checked="" disabled="" type="checkbox"> <em>Sublime Text</em>
-<ul>
-<li><input checked="" disabled="" type="checkbox"> Get Preferences</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p>My <em>dotfiles</em> are available at 
-
-<a target=“_blank” href="https://github.com/brandonkboswell/dotfiles" rel="noopener">https://github.com/brandonkboswell/dotfiles</a></p>
-]]></content:encoded></item><item><title>Heirloom Grade</title><link>https://brandonkboswell.com/blog/Heirloom-Grade/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brandonkboswell.com/blog/Heirloom-Grade/</guid><description>&amp;ldquo;When you buy something cheap and bad, the best you’re going to feel about it is when you buy it. When you buy something expensive and good, the worst you’re going to feel about it is when you buy it.</description><content:encoded><![CDATA[<blockquote>
-<p>&ldquo;When you buy something cheap and bad, the best you’re going to feel about it is when you buy it. When you buy something expensive and good, the worst you’re going to feel about it is when you buy it.&rdquo;  — <em>James Clear</em></p>
-</blockquote>
-<p>In a world filled with stuff, I have found myself wanting to have fewer things. <em>Each object around you is a magnet for your attention</em>. I have found joy in curating the right things. By removing unnecessary things, I can focus on those that enrich life while reducing 
-
-
-
-
-
-<a
-  href="/Distractions/"
-  rel="noopener" class="internal-link"
-  data-src="/Distractions/">Distractions</a>.</p>
-<h2 id="current-heirloom-grade-items">Current Heirloom Grade Items</h2>
-<h3 id="plycraft-mid-centry-lounge-chair---linkhttpsmidcenturywarehousecomlounge-chairs5187-plycraft-mid-century-lounge-chair-and-ottomanhtml"><em><strong>Plycraft Mid Centry Lounge Chair</strong></em>  — 
-
-<a target=“_blank” href="https://midcenturywarehouse.com/lounge-chairs/5187-plycraft-mid-century-lounge-chair-and-ottoman.html" rel="noopener">Link</a></h3>
-<p>
-
-<img src="/../files/Pasted%20image%2020220512123728.png" alt="Pasted image 20220512123728.png"  /></p>
-<hr>
-<h3 id="herman-miller-embodyherman20miller20embodymd---linkhttpsstorehermanmillercomhome-office-chairsembody-chair4737htmllangen_us"><strong>
-
-
-
-
-
-<a
-  
-  rel="noopener" class="internal-link broken"
-  data-src="../Herman%20Miller%20Embody">Herman Miller Embody</a></strong>  — 
-
-<a target=“_blank” href="https://store.hermanmiller.com/home-office-chairs/embody-chair/4737.html?lang=en_US" rel="noopener">Link</a></h3>
-<p>
-
-<img src="/../files/Pasted%20image%2020220512123858.png" alt="Pasted image 20220512123858.png"  /></p>
-<hr>
-<h3 id="studio-neat-mark-one---linkhttpswwwstudioneatcomproductsmarkone"><em><strong>Studio Neat Mark One</strong></em>  — 
-
-<a target=“_blank” href="https://www.studioneat.com/products/markone" rel="noopener">Link</a></h3>
-<p>
-
-<img src="/../files/Pasted%20image%2020220512124016.png" alt="Pasted image 20220512124016.png"  /></p>
-<h2 id="for-others-things-that-enrich-life-but-arent-timeless-check-out-my-favorite-gearmy20favorite20gearmd">For others things that enrich life, but aren&rsquo;t timeless, check out: 
-
-
-
-
-
-<a
-  href="/blog/My-Favorite-Gear/"
-  rel="noopener" class="internal-link"
-  data-src="/blog/My-Favorite-Gear/">My Favorite Gear</a></h2>
 ]]></content:encoded></item></channel></rss>
