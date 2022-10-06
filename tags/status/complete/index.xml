@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/complete/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/complete/index.xml" rel="self" type="application/rss+xml"/><item><title>reMarkable 2</title><link>https://brandonkboswell.com/blog/reMarkable-2/</link><pubDate>Sat, 16 Jul 2022 18:47:01 +0000</pubDate><guid>https://brandonkboswell.com/blog/reMarkable-2/</guid><description>So you are looking into purchasing an eInk tablet and you&amp;rsquo;ve come across the reMarkable 2. They have the best marketing of all the eInk tablet manufacturers. I&amp;rsquo;ve tested the Boox Note Air 2 Plus, the Supernote A5 X and now the reMarkable 2.</description><content:encoded><![CDATA[<p>So you are looking into purchasing an eInk tablet and you&rsquo;ve come across the reMarkable 2. They have the best marketing of all the eInk tablet manufacturers.  I&rsquo;ve tested the 
+
+
+
+
+
+<a
+  href="/Boox-Note-Air-2-Plus/"
+  rel="noopener" class="internal-link"
+  data-src="/Boox-Note-Air-2-Plus/">Boox Note Air 2 Plus</a>, the 
+
+
+
+
+
+<a
+  href="/Supernote-A5-X/"
+  rel="noopener" class="internal-link"
+  data-src="/Supernote-A5-X/">Supernote A5 X</a> and now the reMarkable 2. In this video I will tell you about the reMarkable 2, how it stacks up against the competitors and who is and isn&rsquo;t a good fit for this device.</p>
+<p>When I first started researching eInk tablets, the reMarkable 2 was the first tablet I came across. It was simple, well-designed and looked great. I ultimately passed on it because I didn&rsquo;t like their business model of charging for their connectivity tools, like exporting notes to Google Drive or screen-sharing. It also didn&rsquo;t have a backlight or Kindle support, so I bought the Boox Note Air 2 Plus instead. I did a review on that and after that review I was getting a bunch of questions about how the Boox compared, but I didn&rsquo;t have a point of reference to compare it to so I ultimately bought a reMarkable 2, so I could compare.</p>
+<p>For full transparency, this video is NOT sponsored. This is my own personal reMarkable 2 that I paid for with my own money.</p>
+<h2 id="form-factor-design--build-quality">Form Factor, Design &amp; Build Quality</h2>
+<ul>
+<li>Design-wise it is an amazingly designed piece of hardware. It looks and feels premium.
+<ul>
+<li>These little rubber feet on the back are a nice touch and prevent the device from sliding around the table.</li>
+<li>I like the way they hid the charge port in the bottom-left of the device</li>
+<li>The sleep button being on the top also feels great.</li>
+<li>The white bezels are beautiful.</li>
+<li>The device is taller than the Boox, but is thinner. It&rsquo;s only slightly thinner, but you can tell. I really enjoy the form factor of the reMarkable.</li>
+<li>I think it feels more premium than the Boox Note Air 2 Plus and significantly more so than the Supernote A5 X.</li>
+<li>I love that the sides are less rounded than the Boox so that the magnetic pen actually stays where it&rsquo;s supposed to</li>
+</ul>
+</li>
+<li>Similarly to the Supernote there is no backlight on this device. They do this to minimize the distance between the pen tip and the eInk rendering to make the handwriting more convincing, but I don&rsquo;t find the Boox&rsquo;s backlit display to feel inferior to write on.
+<ul>
+<li>There is no backlight, but the screen is at least bright white so as long as you have a decent amount of light you will be able to see what is going on well.</li>
+</ul>
+</li>
+<li>It does have a glass front and back and is breakable. I would treat this the way I would a laptop. It should go in a padding pocket in your bag if you&rsquo;re going to put it in one.
+<ul>
+<li>If you want a device that doesn&rsquo;t feel as nice, but can take more abuse, then check out the Supernote A5 X</li>
+</ul>
+</li>
+</ul>
+<h2 id="writing-look--feel">Writing Look &amp; Feel</h2>
+<ul>
+<li>When I first got the reMarkable, I was extremely confused by it. It had ultra low-latency, great tooling and attention to detail, but the handwritten text looked awful. I was perplexed by it and on more than one occasion I wondered to myself &ldquo;why do people like this device?&rdquo; It felt inherently flawed. It turns out the device isn&rsquo;t bad, just the fineliner is. I absolutely hate the writing look and feel of the fineliner. And somehow was the pen that was selected (I think because I like fineliners in real life). Once I found the Ballpoint pen, nearly all of my issues were solved.</li>
+<li>The handwriting has extremely low latency. It has the lowest latency of all the devices, and feels great, but I would gladly trade some latency for better anti-aliasing
+<ul>
+<li>A leaked beta build showed that they were working on anti-aliasing on page turn which would be a very clever way to maintain the low latency while still having great looking and convincing handwriting after the fact.</li>
+</ul>
+</li>
+<li>reMarkable has in my opinion the most satisfying writing feel of all the devices.
+<ul>
+<li>Similar to the Boox, but perhaps a bit more rough.
+<ul>
+<li>The continuum is reMarkable roughest (traditional pencil), Boox is ever so slightly smoother (mechanical pencil) and the SuperNote is much smoother (gel pen on pad of paper)</li>
+</ul>
+</li>
+<li>Visceral and fluid without any of the fatigue of real paper</li>
+</ul>
+</li>
+<li>Be aware of screen magnitization, when I first got the device I thought I got a bad digitizer because the lines were not lining up with where I was writing (especially near the edges of the device), but I found out the device was just being magnetized by the other devices I was using near it. You can slide your stylus sideways across the device to make this issue go away.  
+
+<a target=“_blank” href="https://github.com/reMarkable/linux/issues/13" rel="noopener">Link to magnetization info</a></li>
+</ul>
+<h2 id="software">Software</h2>
+<ul>
+<li>
+<p>The software is simple, and that&rsquo;s a good thing.</p>
+<ul>
+<li>You open the device and you have a single list of documents. Some that you created on the device and some that may have imported as PDFs.</li>
+</ul>
+</li>
+<li>
+<p>Everything about the software feels snappy and responsive.</p>
+<ul>
+<li>Page flips</li>
+<li>The device wakes very quickly</li>
+<li>It seems like reMarkable truly uses the device themselves and it feels like it values my time the most of any of the three devices.</li>
+<li>I like the keyboard a lot, but it does feel weird that they don&rsquo;t have the handwriting to text like the Boox device.</li>
+</ul>
+</li>
+<li>
+<p>I found myself after a few minutes going, is that it? Is that all it can do, but after using it in practice I love that everything is in one place because it leads to me processing the documents I create instead of them languishing on the device forever</p>
+</li>
+<li>
+<p>This device is a high-powered notebook, and that&rsquo;s about it</p>
+<ul>
+<li>This device can do some basic reading of PDFs, but no Kindle support. After using all of these devices, I come to the conclusion that if you want to read a simple novel, just use a Kindle. It&rsquo;s the best experience for that.</li>
+</ul>
+</li>
+<li>
+<p>Quick sheets is a lovely way to take a quick note without having to throw it into the wrong notebook. It&rsquo;s a little thing, but a nice touch.</p>
+</li>
+<li>
+<p>Per page tagging is very handy. I use it to ensure I transfer all of my important notes back to my source of truth. (Notion for work things and Obsidian for personal)</p>
+<ul>
+<li>You can also do document level tagging</li>
+</ul>
+</li>
+<li>
+<p>Aside from tags there are no clever titles feature or stars for tasks like on the SuperNote, so if you are looking for something to replace your daily planner you should probably look at the SuperNote (I will have my review of that linked above)</p>
+</li>
+<li>
+<p>The highlighter is beautiful and delightful to use</p>
+<ul>
+<li>When in PDFs it aligns with the text you&rsquo;re highlighting
+<ul>
+<li>I haven&rsquo;t found a good off the shelf solution to easily get these highlights off of the device. There is the rmApi project that can successfully pull this data, but the project that attempts to do this appears broken since a recent reMarkable Api update. Here&rsquo;s hoping someone can find a way to integrate it with 
+
+
+
+
+
+<a
+  href="/Readwise/"
+  rel="noopener" class="internal-link"
+  data-src="/Readwise/">Readwise</a>. If no one does, I might write something at some point.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>The tablet runs on Linux. For context the Supernote and Boox run on Android. The linux architecture opens up significant room to tinker and I believe is a significant factor in how snappy the device feels.</p>
+<ul>
+<li>For my particular device I use the DDVK Hack which is a patched firmware to fill in some missing functionality in the base reMarkable UX
+<ul>
+<li>Quick Tool Switching</li>
+<li>Gestures to quick swap between two documents
+<ul>
+<li>This opens up the ability to read and keep notes in a separate document or two switch between two frequently used notebooks.
+<ul>
+<li>For example a personal notebook and a work notebook</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Ability to see your active tool when you disable the UI</li>
+<li>Ability to use the eraser button with non-reMarkable stylus (be sure to install the additional stylus hack it is not bundled with the base package)</li>
+<li>Easy undo/redo gestures (not as good as SuperNote but still really good)</li>
+<li>I turned off the Bookmarking gesture</li>
+<li>Out of the box the device is not very left friendly because of the back button in the top right</li>
+</ul>
+</li>
+<li>With the DDVK hacks I think the reMarkable software is very close to as good as Supernote&rsquo;s which I regard as the best when it comes to usability for writing and getting things done.
+<ul>
+<li>If you aren&rsquo;t, intending on installing the DDVK hacks, then you might find it a little barebones.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>In my opinion, reMarkable has the best companion app of the tablets.</p>
+<ul>
+<li>It&rsquo;s nice to be able to load up the reMarkable app on my Mac and see all of my notes there instead of having to flip to it on my tablet, if all I want to do is review things.</li>
+<li>Synchronization is very quick and I don&rsquo;t find myself having to manually sync. It just works and that is awesome.</li>
+<li>You can do this even without the connect membership, but thats a bit moot with reMarkable&rsquo;s recent change to give majority of the connect features for free.</li>
+</ul>
+</li>
+<li>
+<p>The out-of-the-box templates are plentiful and well-designed. The dot grid template on the reMarkable is better than the default one of the Boox.</p>
+<ul>
+<li>I have since emulated that template on the Boox and the Supernote</li>
+</ul>
+</li>
+<li>
+<p>I will note that the reMarkable software hasn&rsquo;t evolved or improved in the time I have had the device. There have been a couple bug fix updates, but that&rsquo;s it. Their team did announce that they have big changes coming towards the end of the year and hopefully that&rsquo;s why we haven&rsquo;t seen any real updates.</p>
+</li>
+</ul>
+<h2 id="business-practices">Business Practices</h2>
+<ul>
+<li>Putting Google Drive syncing and screensharing behind a monthly fee feels weird and honestly probably loses them some customers. (They have since fixed this as of 9/21/22, Well done reMarkable)</li>
+<li>I do like that they don&rsquo;t bundle their stylus in with the device. This brings the overall price of the device down significantly. I think $279 USD if you use a referral code. I will include mine in the description if you decide you want to pick up the device. I don&rsquo;t like that they overcharge for their stylus, making it look like you can get the device for $259, but by the time you get through checkout you are looking at close to $400 dollars because their stylus is $129.
+<ul>
+<li>Making it so that the Eraser on third-party styluses doesn&rsquo;t work is a slimy way to sell more overpriced Markers. reMarkable if you make your markers worthy of their price people will prefer them over the competing styluses.</li>
+</ul>
+</li>
+</ul>
+<h2 id="wish-list">Wish List</h2>
+<ul>
+<li>I wish I could write in the titles of my notebooks. The Boox does this very well. It&rsquo;s surprising it&rsquo;s not here on the reMarkable</li>
+<li>ANTI-ALIASING!</li>
+<li>I wish screen-sharing wasn&rsquo;t locked behind a monthly fee. This has been fixed as of 9/21/22</li>
+<li>Make other people&rsquo;s stylus work out of the box.</li>
+<li>Let me keep my common pens together on the toolbar and also let me have them persist across notebooks</li>
+<li>I wish my notebooks were synced in the background on idle instead of having to go to the home screen.</li>
+<li>The device is minimalist, and I like minimalism, but this feels a bit too minimalist
+<ul>
+<li>If I want to move my toolbar to the bottom of the screen I should be able to</li>
+<li>I wish there was a way to refresh the screen manually. This device has more ghosting than the Boox or SuperNote. It&rsquo;s not a big deal, but when you get some you are largely helpless to it.</li>
+<li>I wish it had a lasso stroke eraser. That is my favorite style of eraser</li>
+</ul>
+</li>
+<li>I wish it did smart shapes like in GoodNotes</li>
+</ul>
+<h2 id="conclusion--who-should-buy-this">Conclusion / Who should buy this?</h2>
+<p>The reMarkable 2 is the iPhone of eInk tablets. Its feature-set is limited, but it does the right things and does those very well. The device is very simple and intuitive. Perhaps barebones, but it is the tablet I pick up when I want to think or explore an idea.</p>
+<p>If you decide to pick up a reMarkable and consider me a friend, you can use my referral code to save $40. 
+
+<a target=“_blank” href="https://remarkable.com/referral/JQC4-N95E" rel="noopener">https://remarkable.com/referral/JQC4-N95E</a></p>
+<h3 id="meta">Meta</h3>
+<p>
+
+
+
+
+
+<a
+  href="/blog/reMarkable-Resources-when-getting-started/"
+  rel="noopener" class="internal-link"
+  data-src="/blog/reMarkable-Resources-when-getting-started/">reMarkable resources when getting started</a></p>
+]]></content:encoded></item><item><title>Reflecting on a year on YouTube</title><link>https://brandonkboswell.com/blog/Reflecting-on-a-year-on-YouTube/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brandonkboswell.com/blog/Reflecting-on-a-year-on-YouTube/</guid><description>Hey there, everyone. I will keep this brief, as I know you all have more important things to do. I want to take a moment to say thank you to all of you who watched these videos.</description><content:encoded><![CDATA[<p>Hey there, everyone. I will keep this brief, as I know you all have more important things to do. I want to take a moment to say thank you to all of you who watched these videos. As of mid-September 2022 it will have been one year since I started posting to this channel and it has been a very special year. So let me take 2 minutes and give a quick recap of this YouTube channel over the last year. This is the 26th video (+ 1 short if you count that). We covered a number of topics from task management, productivity,  eInk Tablets, Obsidian, Digital vs Analog tools and MacOS Workflow tips. If you missed any of those there are playlists linked down below for each. The response from all of you has been way more then I ever would have expected we&rsquo;re going to end the first year with right around 1,500 subscribers and the stat that I&rsquo;m personally most excited about is the 534 comments over the last year. Chatting with many of you in the comments has been the most rewarding part of this channel, so thank you again to all of you who watch these videos and extra special thank you to those who reach out via the comments.</p>
+]]></content:encoded></item></channel></rss>
