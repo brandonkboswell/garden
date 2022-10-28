@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Staying up late</title><link>https://brandonkboswell.com/blog/Staying-up-late/</link><pubDate>Sat, 22 Oct 2022 13:18:57 +0000</pubDate><guid>https://brandonkboswell.com/blog/Staying-up-late/</guid><description>As someone who notoriously stays up late, I can finally say it is a bad tradeoff. For 8+ years, I have gone to bed after midnight. For a good portion of this time, I was going to bed around 2am.</description><content:encoded><![CDATA[<p>As someone who notoriously stays up late, I can finally say it is a bad tradeoff. For 8+ years, I have gone to bed after midnight. For a good portion of this time, I was going to bed around 2am. Only in the last year have I started going to bed reliably before midnight. Now I realize that staying up late (at least for me) is trading your fresh, creative hours in the morning for sluggish robotic hours in the evening. I was wasting my 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/index.xml" rel="self" type="application/rss+xml"/><item><title>reMarkable 3 Beta First Impressions</title><link>https://brandonkboswell.com/blog/reMarkable-3-Beta-First-Impressions/</link><pubDate>Fri, 28 Oct 2022 12:43:54 +0000</pubDate><guid>https://brandonkboswell.com/blog/reMarkable-3-Beta-First-Impressions/</guid><description>I&amp;rsquo;ve been using the reMarkable 3.0 Beta for the past week. Here are my initial impressions.
+Being able to extend a page beyond A4 size is a huge improvement. Often I am forced to start a new page to continue a thought.</description><content:encoded><![CDATA[<p>I&rsquo;ve been using the reMarkable 3.0 Beta for the past week. Here are my initial impressions.</p>
+<ul>
+<li>
+<p>Being able to extend a page beyond A4 size is a huge improvement. Often I am forced to start a new page to continue a thought. Being able to have one page per ideas is very nice.</p>
+</li>
+<li>
+<p>Being able to extend a page also opens up a better workflow to have one page per day. Previously, I couldn&rsquo;t fit my notes for a given day on one page, so I didn&rsquo;t attempt this. This works well now!</p>
+</li>
+<li>
+<p>The ability to scroll pages is excellent, but I wish it remembered my scroll position when I leave the document and come back.</p>
+</li>
+<li>
+<p>The new extendable pages now make using the reMarkable in landscape mode desirable. You can get a larger working space while still having as much height as you need. Excellent.</p>
+</li>
+<li>
+<p>Landscape mode still doesn&rsquo;t allow you to view the gallery in a landscape orientation. This makes landscape mode feel half-baked.</p>
+</li>
+<li>
+<p>Being able to undo and redo actions via a two-finger tap is excellent. The only time I use the eraser now is when I need to erase something I wrote awhile ago.</p>
+</li>
+<li>
+<p>The idea of typing in a reMarkable document makes a lot of sense once it&rsquo;s hooked up for typing within the reMarkable app. It is not hooked up yet.</p>
+</li>
+<li>
+<p>If you try to SSH into your reMarkable, and it closes the connection, you can fix this by remove the host from your known_hosts file.</p>
+</li>
+<li>
+<p>I miss DDVK hacks, but I&rsquo;m sure they will support 3.0 eventually.</p>
+</li>
+</ul>
+<p>For more details on the reMarkable 3.0 beta, check out my video here: 
+
+<a target=“_blank” href="https://youtu.be/xPEqzmU5-xg" rel="noopener">https://youtu.be/xPEqzmU5-xg</a></p>
+]]></content:encoded></item><item><title>Staying up late</title><link>https://brandonkboswell.com/blog/Staying-up-late/</link><pubDate>Sat, 22 Oct 2022 13:18:57 +0000</pubDate><guid>https://brandonkboswell.com/blog/Staying-up-late/</guid><description>As someone who notoriously stays up late, I can finally say it is a bad tradeoff. For 8+ years, I have gone to bed after midnight. For a good portion of this time, I was going to bed around 2am.</description><content:encoded><![CDATA[<p>As someone who notoriously stays up late, I can finally say it is a bad tradeoff. For 8+ years, I have gone to bed after midnight. For a good portion of this time, I was going to bed around 2am. Only in the last year have I started going to bed reliably before midnight. Now I realize that staying up late (at least for me) is trading your fresh, creative hours in the morning for sluggish robotic hours in the evening. I was wasting my 
 
 
 
@@ -2171,4 +2205,4 @@ What is it Tabox is a better version of Tab Groups for Chrome I think they suppo
 <p>
 
 <img src="/../files/Pasted_Image_10_1_21__2_14_PM.png" alt="Pasted_Image_10_1_21__2_14_PM.png"  /></p>
-]]></content:encoded></item><item><title>Quickly Mark Up Mac Screenshots on iPad (Skitch vs Markup)</title><link>https://brandonkboswell.com/blog/Quickly-Mark-Up-Mac-Screenshots-on-iPad-Skitch-vs-Markup/</link><pubDate>Mon, 27 Sep 2021 21:57:05 +0000</pubDate><guid>https://brandonkboswell.com/blog/Quickly-Mark-Up-Mac-Screenshots-on-iPad-Skitch-vs-Markup/</guid><description/><content:encoded></content:encoded></item></channel></rss>
+]]></content:encoded></item></channel></rss>
