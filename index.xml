@@ -1,5 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/index.xml" rel="self" type="application/rss+xml"/><item><title>reMarkable 3 Beta First Impressions</title><link>https://brandonkboswell.com/blog/reMarkable-3-Beta-First-Impressions/</link><pubDate>Fri, 28 Oct 2022 12:43:54 +0000</pubDate><guid>https://brandonkboswell.com/blog/reMarkable-3-Beta-First-Impressions/</guid><description>I&amp;rsquo;ve been using the reMarkable 3.0 Beta for the past week. Here are my initial impressions.
-Being able to extend a page beyond A4 size is a huge improvement. Often I am forced to start a new page to continue a thought.</description><content:encoded><![CDATA[<p>I&rsquo;ve been using the reMarkable 3.0 Beta for the past week. Here are my initial impressions.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/index.xml" rel="self" type="application/rss+xml"/><item><title>The Broad, Asynchronous Reach of YouTube</title><link>https://brandonkboswell.com/blog/The-Broad-Asynchronous-Reach-of-YouTube/</link><pubDate>Mon, 14 Nov 2022 18:45:13 +0000</pubDate><guid>https://brandonkboswell.com/blog/The-Broad-Asynchronous-Reach-of-YouTube/</guid><description>I have been creating videos on YouTube for a little over a year now. It started as a little experiment in sharing my favorite tips and tricks with the world, but has slowly grown much bigger than I originally expected.</description><content:encoded><![CDATA[<p>I have been creating videos on 
+
+
+
+
+
+<a
+  href="/moc/YouTube/"
+  rel="noopener" class="internal-link"
+  data-src="/moc/YouTube/">YouTube</a> for a little over a year now. It started as a little experiment in sharing my favorite tips and tricks with the world, but has slowly grown much bigger than I originally expected. I recently took a look at my YouTube stats are they are by no means staggering, but when you try to translate them into &ldquo;in-person&rdquo; or human terms it is quite wild.</p>
+<p>Over the last 28 days here are some raw statistics from 
+
+
+
+
+
+<a
+  href="/moc/YouTube/"
+  rel="noopener" class="internal-link"
+  data-src="/moc/YouTube/">YouTube</a>:</p>
+<ul>
+<li>2,284 Subscribers</li>
+<li>85,000 Views</li>
+<li>55,300 Viewers</li>
+<li>6,500 watch hours</li>
+</ul>
+<h2 id="lets-translate-those-numbers-into-terms-we-can-more-easily-wrap-our-heads-around">Let&rsquo;s translate those numbers into terms we can more easily wrap our heads around</h2>
+<ul>
+<li>2,284 people have watched a video and at the end decided they would like to see more videos like that in the future.</li>
+<li>Videos I produced were watched over 3,500 times per day</li>
+<li>Every minute there were 9 people around the world watching a video I made</li>
+</ul>
+<p>The first time I calculated these numbers, I was amazed at the reach and this is just for a relatively small tech channel. To do something of this scale in the physical world would be crazy, but on 
+
+
+
+
+
+<a
+  href="/moc/YouTube/"
+  rel="noopener" class="internal-link"
+  data-src="/moc/YouTube/">YouTube</a> it is just another Monday.</p>
+]]></content:encoded></item><item><title>reMarkable 3 Beta First Impressions</title><link>https://brandonkboswell.com/blog/reMarkable-3-Beta-First-Impressions/</link><pubDate>Fri, 28 Oct 2022 12:43:54 +0000</pubDate><guid>https://brandonkboswell.com/blog/reMarkable-3-Beta-First-Impressions/</guid><description>I&amp;rsquo;ve been using the reMarkable 3.0 Beta for the past week. Here are my initial impressions.
+Being able to extend a page beyond A4 size is a huge improvement. Often I am forced to start a new page to continue a thought.</description><content:encoded><![CDATA[<p>I&rsquo;ve been using the <em>reMarkable</em> 3.0 Beta for the past week. Here are my initial impressions.</p>
 <ul>
 <li>
 <p>Being able to extend a page beyond A4 size is a huge improvement. Often I am forced to start a new page to continue a thought. Being able to have one page per ideas is very nice.</p>
@@ -11,7 +53,7 @@ Being able to extend a page beyond A4 size is a huge improvement. Often I am for
 <p>The ability to scroll pages is excellent, but I wish it remembered my scroll position when I leave the document and come back.</p>
 </li>
 <li>
-<p>The new extendable pages now make using the reMarkable in landscape mode desirable. You can get a larger working space while still having as much height as you need. Excellent.</p>
+<p>The new extendable pages now make using the reMarkable in <em>landscape mode</em> desirable. You can get a larger working space while still having as much height as you need. Excellent.</p>
 </li>
 <li>
 <p>Landscape mode still doesn&rsquo;t allow you to view the gallery in a landscape orientation. This makes landscape mode feel half-baked.</p>
@@ -23,10 +65,19 @@ Being able to extend a page beyond A4 size is a huge improvement. Often I am for
 <p>The idea of typing in a reMarkable document makes a lot of sense once it&rsquo;s hooked up for typing within the reMarkable app. It is not hooked up yet.</p>
 </li>
 <li>
-<p>If you try to SSH into your reMarkable, and it closes the connection, you can fix this by remove the host from your known_hosts file.</p>
+<p>If you try to <em>SSH</em> into your reMarkable, and it closes the connection, you can fix this by remove the host from your known_hosts file.</p>
 </li>
 <li>
-<p>I miss DDVK hacks, but I&rsquo;m sure they will support 3.0 eventually.</p>
+<p>I miss 
+
+
+
+
+
+<a
+  href="/DDVK-hacks/"
+  rel="noopener" class="internal-link"
+  data-src="/DDVK-hacks/">DDVK hacks</a>, but I&rsquo;m sure they will support 3.0 eventually.</p>
 </li>
 </ul>
 <p>For more details on the reMarkable 3.0 beta, check out my video here: 
@@ -44,7 +95,7 @@ Being able to extend a page beyond A4 size is a huge improvement. Often I am for
   data-src="../seedlings/There%20is%20a%20two%20hour%20window%20in%20each%20day%20where%20you%20are%20most%20productive.">Most productive time of the day</a>.</p>
 <p>My ability to think creatively is significantly diminished in the evening, and staying up late to get a few more of those hours at the expense of a productive morning the next morning is just a bad deal.</p>
 <p>Staying up late does not produce additional &ldquo;work&rdquo; hours, they are traded against the energy level of the next morning (perhaps the next few mornings, depending on how sleep affects you).</p>
-]]></content:encoded></item><item><title>My YouTube Video Process</title><link>https://brandonkboswell.com/blog/My-YouTube-Video-Process/</link><pubDate>Sat, 10 Sep 2022 09:12:38 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-YouTube-Video-Process/</guid><description> Write an Outline Write a script and/or Intro Is there a video I can mention or reference in this video? Come up with 10 title options Determine what the thumbnail should be Make the thumbnail (before recording the video) If the thumbnail sucks, no need to go any further Record the A-Roll (Dialog) Do an initial cut of the dialog Note B-Roll we need with markers (Blue) Note chapters via markers in another color (Purple) Take that list from Davinci Resolve and record all the B-Roll Write a description for YouTube Be sure to add relevant tags Create named clips of that B-Roll in Davinci Resolve Overlay those B-Roll clips on the markers Change the markers to green as you have filled each This gives us a todo list of remaining tasks Rewatch at 2x Speed and do a final edit Chop up any long-running clips to stay interesting Add chapters via markers in another color Add Intro, Subscribe callouts and outro</description><content:encoded><![CDATA[<ul>
+]]></content:encoded></item><item><title>My YouTube Video Process</title><link>https://brandonkboswell.com/blog/My-YouTube-Video-Process/</link><pubDate>Sat, 10 Sep 2022 09:12:38 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-YouTube-Video-Process/</guid><description> Write an Outline Write a script and/or Intro Is there a video I can mention or reference in this video? Come up with 10 title options Determine what the thumbnail should be Make the thumbnail (before recording the video) If the thumbnail sucks, no need to go any further Record the A-Roll (Dialog) Do an initial cut of the dialog Note B-Roll we need with markers (Blue) Note chapters via markers in another color (Purple) Take that list from Davinci Resolve and record all the B-Roll Write a description for moc/YouTube Be sure to add relevant tags Create named clips of that B-Roll in Davinci Resolve Overlay those B-Roll clips on the markers Change the markers to green as you have filled each This gives us a todo list of remaining tasks Rewatch at 2x Speed and do a final edit Chop up any long-running clips to stay interesting Add chapters via markers in another color Add Intro, Subscribe callouts and outro</description><content:encoded><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> Write an Outline</li>
 <li><input disabled="" type="checkbox"> Write a script and/or Intro
 <ul>
@@ -91,9 +142,9 @@ Being able to extend a page beyond A4 size is a huge improvement. Often I am for
 
 
 <a
-  href="/YouTube/"
+  href="/moc/YouTube/"
   rel="noopener" class="internal-link"
-  data-src="/YouTube/">YouTube</a>
+  data-src="/moc/YouTube/">moc/YouTube</a>
 <ul>
 <li>Be sure to add relevant tags</li>
 </ul>
@@ -166,9 +217,9 @@ Being able to extend a page beyond A4 size is a huge improvement. Often I am for
 
 
 <a
-  href="/Personal-Knowledge-Management/"
+  href="/moc/Personal-Knowledge-Management/"
   rel="noopener" class="internal-link"
-  data-src="/Personal-Knowledge-Management/">PKM</a> systems because it is not flat enough. A file can only be in one folder and I think that makes sense in a traditional file system, but one of the benefits of 
+  data-src="/moc/Personal-Knowledge-Management/">PKM</a> systems because it is not flat enough. A file can only be in one folder and I think that makes sense in a traditional file system, but one of the benefits of 
 
 
 
@@ -217,9 +268,9 @@ Being able to extend a page beyond A4 size is a huge improvement. Often I am for
 
 
 <a
-  href="/YouTube/"
+  href="/moc/YouTube/"
   rel="noopener" class="internal-link"
-  data-src="/YouTube/">YouTube</a>) and projects for each. I can see Areas and Resources working here. If you would like to see more about the <em>Arc browser</em> and how I use it, let me know down in the comments.</p>
+  data-src="/moc/YouTube/">moc/YouTube</a>) and projects for each. I can see Areas and Resources working here. If you would like to see more about the <em>Arc browser</em> and how I use it, let me know down in the comments.</p>
 <p>If you&rsquo;ve implemented <em>PARA</em> in your life, I would love to hear about your experience and what has worked and what hasn&rsquo;t. Feel free to DM or email me.</p>
 ]]></content:encoded></item><item><title>My Favorite Keyboard Shortcuts</title><link>https://brandonkboswell.com/blog/My-Favorite-Keyboard-Shortcuts/</link><pubDate>Wed, 17 Aug 2022 07:50:10 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-Favorite-Keyboard-Shortcuts/</guid><description>If you know of a great keyboard shortcut that you adore, that is not mentioned here, email (this domain at gmail.com) or DM me on Twitter so I can add it.</description><content:encoded><![CDATA[<blockquote>
 <p>If you know of a great keyboard shortcut that you adore, that is not mentioned here, email (this domain at gmail.com) or DM me on 
@@ -289,6 +340,8 @@ Being able to extend a page beyond A4 size is a huge improvement. Often I am for
 <ul>
 <li><strong>CMD + SHIFT + V</strong> toggle video on and off</li>
 <li><strong>CMD + SHIFT + A</strong> toggle mute on and off</li>
+<li>*<em>CTRL + *</em> toggle additional UI</li>
+<li><strong>CMD + U</strong> toggle the participant sidebar</li>
 <li><strong>HOLD Spacebar</strong> (while Zoom is focused) to temporarily unmute</li>
 </ul>
 <h2 id="obsidianobsidianmd">
@@ -2154,55 +2207,4 @@ What is it Tabox is a better version of Tab Groups for Chrome I think they suppo
 </ul>
 </li>
 </ul>
-]]></content:encoded></item><item><title>Always show scrollbars on Mac</title><link>https://brandonkboswell.com/blog/Always-show-scrollbars-on-Mac/</link><pubDate>Fri, 01 Oct 2021 14:13:50 +0000</pubDate><guid>https://brandonkboswell.com/blog/Always-show-scrollbars-on-Mac/</guid><description>On macOS by default, scrollbar UI is only shown when they are hovered or the page is actively being scrolled. This is a clever way to declutter the UI, but is not consistent with the behavior you will find on Windows.</description><content:encoded><![CDATA[<p>On 
-
-
-
-
-
-<a
-  href="/MacOS/"
-  rel="noopener" class="internal-link"
-  data-src="/MacOS/">macOS</a> by default, scrollbar UI is only shown when they are hovered or the page is actively being scrolled. This is a clever way to declutter the UI, but is not consistent with the behavior you will find on Windows. If you are a designer of sites that will be used by both 
-
-
-
-
-
-<a
-  href="/MacOS/"
-  rel="noopener" class="internal-link"
-  data-src="/MacOS/">macOS</a> and <em>Windows</em>, it is a good idea to turn on always visible scrollbars.</p>
-<p>At 
-
-
-
-
-
-<a
-  href="/Dorsata/"
-  rel="noopener" class="internal-link"
-  data-src="/Dorsata/">Dorsata</a>, 90+% of our users are on <em>Windows</em>, but our entire engineering and design team is on 
-
-
-
-
-
-<a
-  href="/MacOS/"
-  rel="noopener" class="internal-link"
-  data-src="/MacOS/">macOS</a>. I&rsquo;m not going to push for them to move to <em>Windows</em> (because that would be silly), but we can at least make sure we see something similar to what they see when designing and building apps for them.</p>
-<p>For more details on the differences between scrollbars on the Mac and Windows check out 
-
-<a target=“_blank” href="https://gist.github.com/martynchamberlin/6aaf8a45b36907e9f1e21a28889f6b0a" rel="noopener">https://gist.github.com/martynchamberlin/6aaf8a45b36907e9f1e21a28889f6b0a</a>.</p>
-<h3 id="steps">Steps</h3>
-<ol>
-<li>Go to Mac <strong>System Preferences</strong></li>
-<li>Choose <strong>General</strong></li>
-<li>Under Show Scroll Bars, Choose <strong>Always</strong></li>
-<li><strong>Log Out</strong> or <strong>Restart</strong> for the changes be reflected</li>
-</ol>
-<p>
-
-<img src="/../files/Pasted_Image_10_1_21__2_14_PM.png" alt="Pasted_Image_10_1_21__2_14_PM.png"  /></p>
 ]]></content:encoded></item></channel></rss>
