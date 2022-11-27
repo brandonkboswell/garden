@@ -579,10 +579,28 @@ How you use it from your desk</description><content:encoded><![CDATA[<ul>
 ]]></content:encoded></item><item><title>Obsidian Statuses</title><link>https://brandonkboswell.com/Obsidian-Statuses/</link><pubDate>Mon, 21 Mar 2022 08:44:57 +0000</pubDate><guid>https://brandonkboswell.com/Obsidian-Statuses/</guid><description>Statuses new — I am trying out differentiating slightly between review and new by having new be used for writing content within Obsidian and review being for reviewing content by others</description><content:encoded><![CDATA[<h2 id="statuses">Statuses</h2>
 <ul>
 <li>
-<p><strong>new</strong> — I am trying out differentiating slightly between review and new by having new be used for writing content within Obsidian and review being for reviewing content by others</p>
+<p><strong>new</strong> — I am trying out differentiating slightly between review and new by having new be used for writing content within 
+
+
+
+
+
+<a
+  href="/Obsidian/"
+  rel="noopener" class="internal-link"
+  data-src="/Obsidian/">Obsidian</a> and review being for reviewing content by others</p>
 </li>
 <li>
-<p><strong>review</strong> — Initial status upon coming into the vault from an outside source such as Readwise. The intention here is to review it at least once after the initial writing to see if my opinions have changed after time away from the idea.</p>
+<p><strong>review</strong> — Initial status upon coming into the vault from an outside source such as 
+
+
+
+
+
+<a
+  href="/Readwise/"
+  rel="noopener" class="internal-link"
+  data-src="/Readwise/">Readwise</a>. The intention here is to review it at least once after the initial writing to see if my opinions have changed after time away from the idea.</p>
 </li>
 <li>
 <p><strong>draft</strong> — A start for an idea, but is not likely ready to publish yet</p>
@@ -830,11 +848,7 @@ The speed of data transfer is not below the level of latency necessary to feel s
 </span></span><span class="line"><span class="cl">done) &amp;
 </span></span></code></pre></td></tr></table>
 </div>
-</div>]]></content:encoded></item><item><title>Range</title><link>https://brandonkboswell.com/sources/Range/</link><pubDate>Thu, 24 Feb 2022 12:42:11 +0000</pubDate><guid>https://brandonkboswell.com/sources/Range/</guid><description>Author: David Epstein URL: https://www.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;amp;qid=&amp;amp;sr=</description><content:encoded><![CDATA[<p>Author:  <em>David Epstein</em>
-URL: 
-
-<a target=“_blank” href="https://www.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM/ref=tmm_kin_swatch_0" rel="noopener">https://www.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM/ref=tmm_kin_swatch_0</a>?_encoding=UTF8&amp;qid=&amp;sr=</p>
-]]></content:encoded></item><item><title>Postgres</title><link>https://brandonkboswell.com/Postgres/</link><pubDate>Wed, 23 Feb 2022 10:36:02 +0000</pubDate><guid>https://brandonkboswell.com/Postgres/</guid><description> Databases
+</div>]]></content:encoded></item><item><title>Postgres</title><link>https://brandonkboswell.com/Postgres/</link><pubDate>Wed, 23 Feb 2022 10:36:02 +0000</pubDate><guid>https://brandonkboswell.com/Postgres/</guid><description> Databases
 References</description><content:encoded><![CDATA[<p>
 
 
@@ -992,4 +1006,4 @@ I always manage to forget how to do JSONB array querying, so I&amp;rsquo;m final
 </div><hr>
 <h3 id="references">References</h3>
 <p>/question/2328-pregnancy-problems-without-snomed-mappings</p>
-]]></content:encoded></item><item><title>Death Stranding</title><link>https://brandonkboswell.com/games/Death-Stranding/</link><pubDate>Tue, 22 Feb 2022 15:05:35 +0000</pubDate><guid>https://brandonkboswell.com/games/Death-Stranding/</guid><description>According to HowLongToBeat it takes 40.5 hours, and I am 16.75 hours in.</description><content:encoded>&lt;p>According to HowLongToBeat it takes 40.5 hours, and I am 16.75 hours in.&lt;/p></content:encoded></item></channel></rss>
+]]></content:encoded></item><item><title>Death Stranding</title><link>https://brandonkboswell.com/games/Death-Stranding/</link><pubDate>Tue, 22 Feb 2022 15:05:35 +0000</pubDate><guid>https://brandonkboswell.com/games/Death-Stranding/</guid><description>According to HowLongToBeat it takes 40.5 hours, and I am 16.75 hours in.</description><content:encoded>&lt;p>According to HowLongToBeat it takes 40.5 hours, and I am 16.75 hours in.&lt;/p></content:encoded></item><item><title>Control</title><link>https://brandonkboswell.com/games/Control/</link><pubDate>Tue, 22 Feb 2022 15:02:23 +0000</pubDate><guid>https://brandonkboswell.com/games/Control/</guid><description>According to HowLongToBeat it takes 11.5 hours (13 hours on Ultimate Edition) to beat, and I am 10.3 hours in. I should go ahead and finish it.</description><content:encoded>&lt;p>According to HowLongToBeat it takes 11.5 hours (13 hours on Ultimate Edition) to beat, and I am 10.3 hours in. I should go ahead and finish it.&lt;/p></content:encoded></item></channel></rss>
