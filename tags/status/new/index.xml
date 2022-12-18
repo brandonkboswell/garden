@@ -1,93 +1,325 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>Specialist</title><link>https://brandonkboswell.com/Specialist/</link><pubDate>Sun, 27 Nov 2022 09:31:13 +0000</pubDate><guid>https://brandonkboswell.com/Specialist/</guid><description>We recently had a network technician from Verizon work on our FiOS connection. They have machines that can detect refraction ( OTDR) in Fiber Optic lines and pinpoint where it is down to the foot.</description><content:encoded><![CDATA[<p>We recently had a network technician from <em>Verizon</em> work on our FiOS connection. They have machines that can detect refraction (
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>Cloud Software</title><link>https://brandonkboswell.com/Cloud-Software/</link><pubDate>Fri, 16 Dec 2022 11:08:14 +0000</pubDate><guid>https://brandonkboswell.com/Cloud-Software/</guid><description>Cloud Software makes you a borrower of your own data</description><content:encoded>&lt;p>&lt;em>Cloud Software makes you a borrower of your own data&lt;/em>&lt;/p></content:encoded></item><item><title>PKM Pipeline Mermaid</title><link>https://brandonkboswell.com/PKM-Pipeline-Mermaid/</link><pubDate>Wed, 14 Dec 2022 08:59:42 +0000</pubDate><guid>https://brandonkboswell.com/PKM-Pipeline-Mermaid/</guid><description>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 graph subgraph main[ ] subgraph source[&amp;#34;Sources&amp;#34;] subgraph padding1[ ] A([&amp;#34;Books&amp;#34;]) B([&amp;#34;Podcasts&amp;#34;]) WS([&amp;#34;Websites&amp;#34;]) D([&amp;#34;Articles&amp;#34;]) E([&amp;#34;Email Newsletters&amp;#34;]) F([&amp;#34;Twitter Threads&amp;#34;]) G([&amp;#34;RSS&amp;#34;]) C([&amp;#34;YouTube&amp;#34;]) end end subgraph queue[&amp;#34;Queues&amp;#34;] subgraph padding2[ ] I([&amp;#34;Book Queue&amp;lt;br /&amp;gt;(Obsidian)&amp;#34;]) J([&amp;#34;Podcast Queue&amp;lt;br /&amp;gt;(Snipd)&amp;#34;]) K([&amp;#34;Watch Later&amp;lt;br /&amp;gt;(YouTube)&amp;#34;]) L([&amp;#34;Consumption Queue\n(Readwise Reader)&amp;#34;]) end end subgraph consumption[&amp;#34;Consumption&amp;#34;] subgraph padding8[ ] RE([&amp;#34;Read&amp;#34;]) KRE([&amp;#34;Kindle Reading&amp;#34;]) WA([&amp;#34;Watch&amp;#34;]) MB([&amp;#34;Mobile Browse&amp;#34;]) DB([&amp;#34;Desktop Browse&amp;#34;]) J --&amp;gt; LI([&amp;#34;Listen&amp;#34;]) FRSS([&amp;#34;Filter RSS&amp;#34;]) end end I --&amp;gt; KRE L --&amp;gt; RE LI --&amp;gt; HI RE --&amp;gt; HI K --&amp;gt; WA WA --&amp;gt; T WS ---&amp;gt; MB --&amp;gt; V WS ---&amp;gt; DB --&amp;gt; HI subgraph curation[&amp;#34;Curation&amp;#34;] subgraph padding3[ ] HI([&amp;#34;Text Highlights\n(Readwise)&amp;#34;]) V([&amp;#34;Mobile Quick Capture\n(Todoist)&amp;#34;]) T([&amp;#34;Screenshots&amp;#34;]) end end subgraph gtd[&amp;#34;GTD&amp;#34;] subgraph padding4[ ] M([&amp;#34;Primary Inbox\n(Akiflow)&amp;#34;]) AA([&amp;#34;Projects List\n(Obsidian)&amp;#34;]) end end subgraph pkm[&amp;#34;PKM&amp;#34;] subgraph padding5[ ] Q([&amp;#34;PKM Sources\n(Obsidian)&amp;#34;]) EE([&amp;#34;Create Zettles\n(Obsidian)&amp;#34;]) Z([&amp;#34;Review, Cleanup, Expand&amp;#34;]) end end subgraph reflection[&amp;#34;Reflection&amp;#34;] subgraph padding6[ ] W([&amp;#34;Daily Highlight Review\n(Readwise iOS)&amp;#34;]) Y([&amp;#34;Weekly Review\n(Obsidian)&amp;#34;]) end end subgraph deliver[&amp;#34;Deliver, Learn &amp;amp; Repeat&amp;#34;] subgraph padding7[ ] BB(((&amp;#34;Share&amp;#34;))) FF([&amp;#34;Feedback&amp;#34;]) end end end A --&amp;gt; I B --&amp;gt; J C --&amp;gt; K T --&amp;gt; M V --&amp;gt; M M --&amp;gt; EE EE --&amp;gt; Y Y --&amp;gt; AA AA --&amp;gt; BB -.</description><content:encoded><![CDATA[<p>
 
-<a target=“_blank” href="https://www.flukenetworks.com/expertise/learn-about/otdr#:~:text=OTDR-Working-Principle" rel="noopener">OTDR</a>) in Fiber Optic lines and pinpoint where it is down to the foot. This is the reason to specialize. Get your Ph D. and become the best at that.</p>
-]]></content:encoded></item><item><title>Hanover Pines</title><link>https://brandonkboswell.com/Hanover-Pines/</link><pubDate>Fri, 25 Nov 2022 20:19:21 +0000</pubDate><guid>https://brandonkboswell.com/Hanover-Pines/</guid><description>Christmas Trees near Richmond, VA
-18216 Teman Rd, Beaverdam, VA 23015
-We go every year on Black Friday</description><content:encoded><![CDATA[<p><em>Christmas Trees</em> near 
+<img src="/files/BKB%202022-12-14%20at%2013.26.59.png" alt="BKB 2022-12-14 at 13.26.59.png"  /></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">  1
+</span><span class="lnt">  2
+</span><span class="lnt">  3
+</span><span class="lnt">  4
+</span><span class="lnt">  5
+</span><span class="lnt">  6
+</span><span class="lnt">  7
+</span><span class="lnt">  8
+</span><span class="lnt">  9
+</span><span class="lnt"> 10
+</span><span class="lnt"> 11
+</span><span class="lnt"> 12
+</span><span class="lnt"> 13
+</span><span class="lnt"> 14
+</span><span class="lnt"> 15
+</span><span class="lnt"> 16
+</span><span class="lnt"> 17
+</span><span class="lnt"> 18
+</span><span class="lnt"> 19
+</span><span class="lnt"> 20
+</span><span class="lnt"> 21
+</span><span class="lnt"> 22
+</span><span class="lnt"> 23
+</span><span class="lnt"> 24
+</span><span class="lnt"> 25
+</span><span class="lnt"> 26
+</span><span class="lnt"> 27
+</span><span class="lnt"> 28
+</span><span class="lnt"> 29
+</span><span class="lnt"> 30
+</span><span class="lnt"> 31
+</span><span class="lnt"> 32
+</span><span class="lnt"> 33
+</span><span class="lnt"> 34
+</span><span class="lnt"> 35
+</span><span class="lnt"> 36
+</span><span class="lnt"> 37
+</span><span class="lnt"> 38
+</span><span class="lnt"> 39
+</span><span class="lnt"> 40
+</span><span class="lnt"> 41
+</span><span class="lnt"> 42
+</span><span class="lnt"> 43
+</span><span class="lnt"> 44
+</span><span class="lnt"> 45
+</span><span class="lnt"> 46
+</span><span class="lnt"> 47
+</span><span class="lnt"> 48
+</span><span class="lnt"> 49
+</span><span class="lnt"> 50
+</span><span class="lnt"> 51
+</span><span class="lnt"> 52
+</span><span class="lnt"> 53
+</span><span class="lnt"> 54
+</span><span class="lnt"> 55
+</span><span class="lnt"> 56
+</span><span class="lnt"> 57
+</span><span class="lnt"> 58
+</span><span class="lnt"> 59
+</span><span class="lnt"> 60
+</span><span class="lnt"> 61
+</span><span class="lnt"> 62
+</span><span class="lnt"> 63
+</span><span class="lnt"> 64
+</span><span class="lnt"> 65
+</span><span class="lnt"> 66
+</span><span class="lnt"> 67
+</span><span class="lnt"> 68
+</span><span class="lnt"> 69
+</span><span class="lnt"> 70
+</span><span class="lnt"> 71
+</span><span class="lnt"> 72
+</span><span class="lnt"> 73
+</span><span class="lnt"> 74
+</span><span class="lnt"> 75
+</span><span class="lnt"> 76
+</span><span class="lnt"> 77
+</span><span class="lnt"> 78
+</span><span class="lnt"> 79
+</span><span class="lnt"> 80
+</span><span class="lnt"> 81
+</span><span class="lnt"> 82
+</span><span class="lnt"> 83
+</span><span class="lnt"> 84
+</span><span class="lnt"> 85
+</span><span class="lnt"> 86
+</span><span class="lnt"> 87
+</span><span class="lnt"> 88
+</span><span class="lnt"> 89
+</span><span class="lnt"> 90
+</span><span class="lnt"> 91
+</span><span class="lnt"> 92
+</span><span class="lnt"> 93
+</span><span class="lnt"> 94
+</span><span class="lnt"> 95
+</span><span class="lnt"> 96
+</span><span class="lnt"> 97
+</span><span class="lnt"> 98
+</span><span class="lnt"> 99
+</span><span class="lnt">100
+</span><span class="lnt">101
+</span><span class="lnt">102
+</span><span class="lnt">103
+</span><span class="lnt">104
+</span><span class="lnt">105
+</span><span class="lnt">106
+</span><span class="lnt">107
+</span><span class="lnt">108
+</span><span class="lnt">109
+</span><span class="lnt">110
+</span><span class="lnt">111
+</span><span class="lnt">112
+</span><span class="lnt">113
+</span><span class="lnt">114
+</span><span class="lnt">115
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">graph 
+</span></span><span class="line"><span class="cl">  subgraph main[ ]
+</span></span><span class="line"><span class="cl">    subgraph source[&#34;Sources&#34;]
+</span></span><span class="line"><span class="cl">      subgraph padding1[ ]
+</span></span><span class="line"><span class="cl">          A([&#34;Books&#34;])
+</span></span><span class="line"><span class="cl">          B([&#34;Podcasts&#34;])
+</span></span><span class="line"><span class="cl">          WS([&#34;Websites&#34;])
+</span></span><span class="line"><span class="cl">          D([&#34;Articles&#34;])
+</span></span><span class="line"><span class="cl">          E([&#34;Email Newsletters&#34;])
+</span></span><span class="line"><span class="cl">          F([&#34;Twitter Threads&#34;])
+</span></span><span class="line"><span class="cl">          G([&#34;RSS&#34;])
+</span></span><span class="line"><span class="cl">          C([&#34;YouTube&#34;])
+</span></span><span class="line"><span class="cl">      end
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    subgraph queue[&#34;Queues&#34;]
+</span></span><span class="line"><span class="cl">      subgraph padding2[ ]
+</span></span><span class="line"><span class="cl">        I([&#34;Book Queue&lt;br /&gt;(Obsidian)&#34;])
+</span></span><span class="line"><span class="cl">        J([&#34;Podcast Queue&lt;br /&gt;(Snipd)&#34;])
+</span></span><span class="line"><span class="cl">        K([&#34;Watch Later&lt;br /&gt;(YouTube)&#34;])
+</span></span><span class="line"><span class="cl">        L([&#34;Consumption Queue\n(Readwise Reader)&#34;]) 
+</span></span><span class="line"><span class="cl">      end
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    subgraph consumption[&#34;Consumption&#34;]
+</span></span><span class="line"><span class="cl">      subgraph padding8[ ]
+</span></span><span class="line"><span class="cl">        RE([&#34;Read&#34;])
+</span></span><span class="line"><span class="cl">        KRE([&#34;Kindle Reading&#34;])
+</span></span><span class="line"><span class="cl">        WA([&#34;Watch&#34;])
+</span></span><span class="line"><span class="cl">        MB([&#34;Mobile Browse&#34;])
+</span></span><span class="line"><span class="cl">        DB([&#34;Desktop Browse&#34;])
+</span></span><span class="line"><span class="cl">        J --&gt; LI([&#34;Listen&#34;])
+</span></span><span class="line"><span class="cl">        FRSS([&#34;Filter RSS&#34;]) 
+</span></span><span class="line"><span class="cl">      end
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    I --&gt; KRE
+</span></span><span class="line"><span class="cl">    L --&gt; RE
+</span></span><span class="line"><span class="cl">    LI --&gt; HI
+</span></span><span class="line"><span class="cl">    RE --&gt; HI
+</span></span><span class="line"><span class="cl">    K --&gt; WA
+</span></span><span class="line"><span class="cl">    WA --&gt; T
+</span></span><span class="line"><span class="cl">    WS ---&gt; MB --&gt; V
+</span></span><span class="line"><span class="cl">    WS ---&gt; DB --&gt; HI
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    subgraph curation[&#34;Curation&#34;]
+</span></span><span class="line"><span class="cl">      subgraph padding3[ ]
+</span></span><span class="line"><span class="cl">        HI([&#34;Text Highlights\n(Readwise)&#34;])
+</span></span><span class="line"><span class="cl">        V([&#34;Mobile Quick Capture\n(Todoist)&#34;])
+</span></span><span class="line"><span class="cl">        T([&#34;Screenshots&#34;])
+</span></span><span class="line"><span class="cl">      end 
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    subgraph gtd[&#34;GTD&#34;]
+</span></span><span class="line"><span class="cl">      subgraph padding4[ ]
+</span></span><span class="line"><span class="cl">        M([&#34;Primary Inbox\n(Akiflow)&#34;])
+</span></span><span class="line"><span class="cl">        AA([&#34;Projects List\n(Obsidian)&#34;])
+</span></span><span class="line"><span class="cl">      end
+</span></span><span class="line"><span class="cl">    end 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    subgraph pkm[&#34;PKM&#34;]
+</span></span><span class="line"><span class="cl">      subgraph padding5[ ]
+</span></span><span class="line"><span class="cl">        Q([&#34;PKM Sources\n(Obsidian)&#34;])
+</span></span><span class="line"><span class="cl">        EE([&#34;Create Zettles\n(Obsidian)&#34;])
+</span></span><span class="line"><span class="cl">        Z([&#34;Review, Cleanup, Expand&#34;])
+</span></span><span class="line"><span class="cl">      end
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    subgraph reflection[&#34;Reflection&#34;]
+</span></span><span class="line"><span class="cl">      subgraph padding6[ ]
+</span></span><span class="line"><span class="cl">        W([&#34;Daily Highlight Review\n(Readwise iOS)&#34;])
+</span></span><span class="line"><span class="cl">        Y([&#34;Weekly Review\n(Obsidian)&#34;])
+</span></span><span class="line"><span class="cl">      end
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    subgraph deliver[&#34;Deliver, Learn &amp; Repeat&#34;]
+</span></span><span class="line"><span class="cl">      subgraph padding7[ ]
+</span></span><span class="line"><span class="cl">        BB(((&#34;Share&#34;)))
+</span></span><span class="line"><span class="cl">        FF([&#34;Feedback&#34;])
+</span></span><span class="line"><span class="cl">      end
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">  end
+</span></span><span class="line"><span class="cl">        
+</span></span><span class="line"><span class="cl">A --&gt; I
+</span></span><span class="line"><span class="cl">B --&gt; J
+</span></span><span class="line"><span class="cl">C --&gt; K 
+</span></span><span class="line"><span class="cl">T --&gt; M
+</span></span><span class="line"><span class="cl">V --&gt; M
+</span></span><span class="line"><span class="cl">M --&gt; EE
+</span></span><span class="line"><span class="cl">EE --&gt; Y
+</span></span><span class="line"><span class="cl">Y --&gt; AA
+</span></span><span class="line"><span class="cl">AA --&gt; BB -.-&gt; FF -.-&gt; Z
+</span></span><span class="line"><span class="cl">Y --&gt; Z
+</span></span><span class="line"><span class="cl">D --&gt; L
+</span></span><span class="line"><span class="cl">E --&gt; L
+</span></span><span class="line"><span class="cl">F --&gt; L
+</span></span><span class="line"><span class="cl">Q --&gt; EE
+</span></span><span class="line"><span class="cl">Y --&gt; Q
+</span></span><span class="line"><span class="cl">HI --&gt; Q
+</span></span><span class="line"><span class="cl">HI --&gt; W --&gt; Z
+</span></span><span class="line"><span class="cl">G --&gt; FRSS --&gt; L
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">classDef share fill:#32DE84,stroke:#333;
+</span></span><span class="line"><span class="cl">classDef feedback stroke:#333;
+</span></span><span class="line"><span class="cl">classDef main fill:#ddd,stroke:#666,stroke-width:4px, font-weight:bold, font-size: 80px;
+</span></span><span class="line"><span class="cl">classDef section fill:#fff,stroke:#666,stroke-width:2px, font-weight:bold, font-size: 25px, stroke-dasharray: 5 5;
+</span></span><span class="line"><span class="cl">classDef padding fill:none,stroke-width:0px;
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">class BB share
+</span></span><span class="line"><span class="cl">class FF feedback
+</span></span><span class="line"><span class="cl">class main main
+</span></span><span class="line"><span class="cl">class padding1,padding2,padding3,padding4,padding5,padding6,padding7,padding8 padding
+</span></span><span class="line"><span class="cl">class reflection,pkm,deliver,source,queue,curation,gtd,consumption section````
+</span></span></code></pre></td></tr></table>
+</div>
+</div>]]></content:encoded></item><item><title>Badass Making Users Awesome</title><link>https://brandonkboswell.com/sources/Badass-Making-Users-Awesome/</link><pubDate>Tue, 13 Dec 2022 13:52:25 +0000</pubDate><guid>https://brandonkboswell.com/sources/Badass-Making-Users-Awesome/</guid><description> Author: Kathy Sierra URL: https://amzn.to/3VWSczM</description><content:encoded><![CDATA[<ul>
+<li>Author: <em>Kathy Sierra</em></li>
+<li>URL: 
 
-
-
-
-
-<a
-  href="/Richmond-VA/"
-  rel="noopener" class="internal-link"
-  data-src="/Richmond-VA/">Richmond, VA</a></p>
-<p>18216 Teman Rd, Beaverdam, VA 23015</p>
-<p>We go every year on <em>Black Friday</em></p>
-]]></content:encoded></item><item><title>Sleep on a project</title><link>https://brandonkboswell.com/Sleep-on-a-project/</link><pubDate>Wed, 23 Nov 2022 11:11:21 +0000</pubDate><guid>https://brandonkboswell.com/Sleep-on-a-project/</guid><description>I really believe in sleep and the process of I think when you sleep, your brain figures out the problems you had the morning before, so I mean, I will always sleep on a manuscript, and often the problem I have you know, one day after a good night&amp;rsquo;s sleep, it gets fixed the next day.</description><content:encoded><![CDATA[<blockquote>
-<p>I really believe in sleep and the process of I think when you sleep, your brain figures out the problems you had the morning before, so I mean, I will always sleep on a manuscript, and often the problem I have you know, one day after a good night&rsquo;s sleep, it gets fixed the next day.
-— <em>Austin Kleon</em></p>
-</blockquote>
-]]></content:encoded></item><item><title>Staccato Method</title><link>https://brandonkboswell.com/blog/Staccato-Method/</link><pubDate>Wed, 23 Nov 2022 11:07:18 +0000</pubDate><guid>https://brandonkboswell.com/blog/Staccato-Method/</guid><description>A term I coined on 2022-11-21 for the success I have observed in design when using smaller chunks of work over longer periods of time. Instead of brute forcing a project over a single session or two, work on aspects of it over a handful of smaller work sessions across a few days.</description><content:encoded><![CDATA[<p>A term I coined on <em>2022-11-21</em> for the success I have observed in 
-
-
-
-
-
-<a
-  href="/moc/Design/"
-  rel="noopener" class="internal-link"
-  data-src="/moc/Design/">design</a> when using smaller chunks of work over longer periods of time. Instead of brute forcing a project over a single session or two, work on aspects of it over a handful of smaller work sessions across a few days. This enables you to have multiple fresh looks at the project (and your work on it), and I find that it leads to better overall quality.</p>
-<p>I find in design, you can no longer see your work clearly after spending too much time with it. You need to leave it, do something else and re-evaluate it with &ldquo;fresh eyes&rdquo;.</p>
+<a target=“_blank” href="https://amzn.to/3VWSczM" rel="noopener">https://amzn.to/3VWSczM</a></li>
+</ul>
 <p>
 
+<img src="/files/Badass_%20Making%20Users%20Awesome%20-%20page%2057.png" alt="Badass_ Making Users Awesome - page 57.png"  /></p>
+<p>
 
+<img src="/files/Badass_%20Making%20Users%20Awesome%20-%20page%2043.png" alt="Badass_ Making Users Awesome - page 43.png"  /></p>
+<p>
 
+<img src="/files/Badass_%20Making%20Users%20Awesome%20-%20page%2045.png" alt="Badass_ Making Users Awesome - page 45.png"  /></p>
+<p>
 
-
-<a
-  href="/Sleep-on-a-project/"
-  rel="noopener" class="internal-link"
-  data-src="/Sleep-on-a-project/">Sleep on a project</a></p>
-]]></content:encoded></item><item><title>Error Messages</title><link>https://brandonkboswell.com/Error-Messages/</link><pubDate>Sun, 20 Nov 2022 10:57:57 +0000</pubDate><guid>https://brandonkboswell.com/Error-Messages/</guid><description>UX</description><content:encoded>&lt;p>
+<img src="/files/Badass_%20Making%20Users%20Awesome%20-%20page%2056.png" alt="Badass_ Making Users Awesome - page 56.png"  /></p>
+]]></content:encoded></item><item><title>You are conveying much more information in a video than just the parts you are aware of</title><link>https://brandonkboswell.com/You-are-conveying-much-more-information-in-a-video-than-just-the-parts-you-are-aware-of/</link><pubDate>Sun, 11 Dec 2022 09:08:34 +0000</pubDate><guid>https://brandonkboswell.com/You-are-conveying-much-more-information-in-a-video-than-just-the-parts-you-are-aware-of/</guid><description>One of the many benefits of moc/YouTube</description><content:encoded>&lt;p>One of the many benefits of
 &lt;a
-href="/moc/UX/"
+href="/moc/YouTube/"
 rel="noopener" class="internal-link"
-data-src="/moc/UX/">UX&lt;/a>&lt;/p></content:encoded></item><item><title>Specialist vs Generalist</title><link>https://brandonkboswell.com/Specialist-vs-Generalist/</link><pubDate>Sun, 20 Nov 2022 10:48:40 +0000</pubDate><guid>https://brandonkboswell.com/Specialist-vs-Generalist/</guid><description>Specialist vs Generalist</description><content:encoded><![CDATA[<p>
+data-src="/moc/YouTube/">moc/YouTube&lt;/a>&lt;/p></content:encoded></item><item><title>Survival is not enough</title><link>https://brandonkboswell.com/sources/Survival-is-not-enough/</link><pubDate>Fri, 09 Dec 2022 12:35:37 +0000</pubDate><guid>https://brandonkboswell.com/sources/Survival-is-not-enough/</guid><description>Author: Seth Godin URL: https://amzn.to/3Ydw4CM “If all you do at work is hope to survive, your day can’t be much fun. We’re all working too hard. Putting in more hours than we’d like, nervous about the future, uncertain about our roles and our goals.</description><content:encoded><![CDATA[<ul>
+<li>Author: <em>Seth Godin</em></li>
+<li>URL: 
+
+<a target=“_blank” href="https://amzn.to/3Ydw4CM" rel="noopener">https://amzn.to/3Ydw4CM</a></li>
+</ul>
+<p>“If all you do at work is hope to survive, your day can’t be much fun. We’re all working too hard. Putting in more hours than we’d like, nervous about the future, uncertain about our roles and our goals. We work too hard to hope for mere survival. Our goal must be to thrive and prosper, not just get by.”</p>
+<p>BKB Notes: This is an argument for setting a 
 
 
 
 
 
 <a
-  href="/Specialist/"
+  href="/Daily-Highlight/"
   rel="noopener" class="internal-link"
-  data-src="/Specialist/">Specialist</a> vs <em>Generalist</em></p>
-]]></content:encoded></item><item><title>Opinionated Products</title><link>https://brandonkboswell.com/Opinionated-Products/</link><pubDate>Sun, 20 Nov 2022 10:41:59 +0000</pubDate><guid>https://brandonkboswell.com/Opinionated-Products/</guid><description>My favorite products are opinionated. They make a clear statement about what they are not good at, in favor of being much better at something else. — Stephan Ango</description><content:encoded><![CDATA[<blockquote>
-<p>My favorite products are opinionated. They make a clear statement about what they are not good at, in favor of being much better at something else. — <em>Stephan Ango</em></p>
+  data-src="/Daily-Highlight/">Daily Highlight</a>. Be sure to make time for your prosperous work before spending all of your time just trying to put out fires. Many of these fires will put themselves out or weren&rsquo;t as big of fires as they seemed at the beginning.</p>
+]]></content:encoded></item><item><title>Traction and product development are of equal importance and should each get about half of your attention</title><link>https://brandonkboswell.com/Traction-and-product-development-are-of-equal-importance-and-should-each-get-about-half-of-your-attention/</link><pubDate>Mon, 05 Dec 2022 08:57:38 +0000</pubDate><guid>https://brandonkboswell.com/Traction-and-product-development-are-of-equal-importance-and-should-each-get-about-half-of-your-attention/</guid><description>Marketing / Traction</description><content:encoded><![CDATA[<p><em>Marketing</em> / 
+
+
+
+
+
+<a
+  href="/sources/Traction/"
+  rel="noopener" class="internal-link"
+  data-src="/sources/Traction/">Traction</a></p>
+]]></content:encoded></item><item><title>Traction</title><link>https://brandonkboswell.com/sources/Traction/</link><pubDate>Mon, 05 Dec 2022 08:56:58 +0000</pubDate><guid>https://brandonkboswell.com/sources/Traction/</guid><description>Author: Gabriel Weinberg / Justin Mares URL: Surfaced through Readwise Half of my time (outside of operations) should be improving the product and the other half traction. &amp;ldquo; Traction and product development are of equal importance and should each get about half of your attention.</description><content:encoded><![CDATA[<ul>
+<li>Author: <em>Gabriel Weinberg</em> / <em>Justin Mares</em></li>
+<li>URL: Surfaced through Readwise</li>
+</ul>
+<blockquote>
+<p>Half of my time (outside of operations) should be improving the product and the other half traction. &ldquo;
+
+
+
+
+
+<a
+  href="/Traction-and-product-development-are-of-equal-importance-and-should-each-get-about-half-of-your-attention/"
+  rel="noopener" class="internal-link"
+  data-src="/Traction-and-product-development-are-of-equal-importance-and-should-each-get-about-half-of-your-attention/">Traction and product development are of equal importance and should each get about half of your attention</a>. This is what we call the 50 percent rule: spend 50 percent of your time on product and 50 percent on traction.&rdquo;</p>
 </blockquote>
-<p><em>Product Design</em></p>
-<p>For example, 
-
-
-
-
-
-<a
-  href="/Dorsata/"
-  rel="noopener" class="internal-link"
-  data-src="/Dorsata/">Dorsata</a> is about decision support and not forgetting things, it is willing to trade minor amounts of documentation speed in order to achieve that.</p>
-]]></content:encoded></item><item><title>data ownership</title><link>https://brandonkboswell.com/data-ownership/</link><pubDate>Sun, 20 Nov 2022 10:34:30 +0000</pubDate><guid>https://brandonkboswell.com/data-ownership/</guid><description>Do you own your data, or are you renting it back from some other service?</description><content:encoded>&lt;p>Do you own your &lt;em>data&lt;/em>, or are you renting it back from some other service?&lt;/p></content:encoded></item><item><title>Wunderkammer</title><link>https://brandonkboswell.com/Wunderkammer/</link><pubDate>Sun, 20 Nov 2022 10:32:30 +0000</pubDate><guid>https://brandonkboswell.com/Wunderkammer/</guid><description>&amp;ldquo;Cabinet of Curiosities&amp;rdquo;
-This was a thing back in the 16th century. Now in the digital age this is largely going away, but it is something we have decided to embrace.</description><content:encoded><![CDATA[<blockquote>
-<p>&ldquo;Cabinet of Curiosities&rdquo;</p>
-</blockquote>
-<p>This was a thing back in the 16th century. Now in the digital age this is largely going away, but it is something we have decided to embrace. In our case, it is our <em>Burrow Bookshelf</em> in the Living Room.</p>
-]]></content:encoded></item><item><title>ideas aren’t summoned from nowhere</title><link>https://brandonkboswell.com/ideas-arent-summoned-from-nowhere/</link><pubDate>Sun, 20 Nov 2022 10:31:21 +0000</pubDate><guid>https://brandonkboswell.com/ideas-arent-summoned-from-nowhere/</guid><description>Collect then remix</description><content:encoded>&lt;p>&lt;em>Collect then remix&lt;/em>&lt;/p></content:encoded></item><item><title>Laura and Matthew "Helen's Parents"</title><link>https://brandonkboswell.com/Laura-and-Matthew-Helens-Parents/</link><pubDate>Sun, 20 Nov 2022 10:26:39 +0000</pubDate><guid>https://brandonkboswell.com/Laura-and-Matthew-Helens-Parents/</guid><description>She is a teacher He is a journalist who works for CNN Lived in Manhattan and Washington, DC Originally from Richmond</description><content:encoded><![CDATA[<p>She is a teacher
-He is a journalist who works for <em>CNN</em>
-Lived in <em>Manhattan</em> and <em>Washington, DC</em>
-Originally from 
-
-
-
-
-
-<a
-  href="/Richmond-VA/"
-  rel="noopener" class="internal-link"
-  data-src="/Richmond-VA/">Richmond</a></p>
-]]></content:encoded></item><item><title>Reach out to people who are doing interesting things</title><link>https://brandonkboswell.com/Reach-out-to-people-who-are-doing-interesting-things/</link><pubDate>Sun, 20 Nov 2022 10:09:10 +0000</pubDate><guid>https://brandonkboswell.com/Reach-out-to-people-who-are-doing-interesting-things/</guid><description>People I should reach out to
-There is very little downside in attempting to reach out to people you don&amp;rsquo;t know</description><content:encoded><![CDATA[<p>
+<p>I should do similarly for YouTube</p>
+]]></content:encoded></item><item><title>Plutchik's wheel</title><link>https://brandonkboswell.com/Plutchiks-wheel/</link><pubDate>Sat, 03 Dec 2022 13:15:17 +0000</pubDate><guid>https://brandonkboswell.com/Plutchiks-wheel/</guid><description/><content:encoded>&lt;p>
+&lt;img src="/files/Plutchik-s-Model.png" alt="" />&lt;/p></content:encoded></item><item><title>Junto Institute</title><link>https://brandonkboswell.com/Junto-Institute/</link><pubDate>Sat, 03 Dec 2022 13:15:11 +0000</pubDate><guid>https://brandonkboswell.com/Junto-Institute/</guid><description/><content:encoded>&lt;p>
+&lt;img src="/files/The-Emotional-Wheel.png" alt="" />&lt;/p></content:encoded></item><item><title>Components of a good Hook</title><link>https://brandonkboswell.com/Components-of-a-good-Hook/</link><pubDate>Sat, 03 Dec 2022 12:13:23 +0000</pubDate><guid>https://brandonkboswell.com/Components-of-a-good-Hook/</guid><description>Hook</description><content:encoded>&lt;p>
+&lt;a
+href="/Hook/"
+rel="noopener" class="internal-link"
+data-src="/Hook/">Hook&lt;/a>&lt;/p></content:encoded></item><item><title>SCQA</title><link>https://brandonkboswell.com/SCQA/</link><pubDate>Sat, 03 Dec 2022 12:13:01 +0000</pubDate><guid>https://brandonkboswell.com/SCQA/</guid><description>Components of a good Hook Situation (summary) Complication (problem) Question (what to do?) Answer (solution)</description><content:encoded>&lt;p>
+&lt;a
+href="/Components-of-a-good-Hook/"
+rel="noopener" class="internal-link"
+data-src="/Components-of-a-good-Hook/">Components of a good Hook&lt;/a>
+Situation (summary)
+Complication (problem)
+Question (what to do?)
+Answer (solution)&lt;/p></content:encoded></item><item><title>Hook</title><link>https://brandonkboswell.com/Hook/</link><pubDate>Sat, 03 Dec 2022 12:06:17 +0000</pubDate><guid>https://brandonkboswell.com/Hook/</guid><description/><content:encoded></content:encoded></item><item><title>Paperwork complete vs Project Success</title><link>https://brandonkboswell.com/Paperwork-complete-vs-Project-Success/</link><pubDate>Sat, 03 Dec 2022 10:49:04 +0000</pubDate><guid>https://brandonkboswell.com/Paperwork-complete-vs-Project-Success/</guid><description>These things are sometimes at odds with each other.
+As a creative, you are responsible for the success of your process.</description><content:encoded><![CDATA[<p>These things are sometimes at odds with each other.</p>
+<p>
 
 
 
@@ -96,21 +328,100 @@ There is very little downside in attempting to reach out to people you don&amp;r
 <a
   
   rel="noopener" class="internal-link broken"
-  data-src="People%20I%20should%20reach%20out%20to">People I should reach out to</a></p>
-<p>
+  data-src="As%20a%20creative,%20you%20are%20responsible%20for%20the%20success%20of%20your%20process.">As a creative, you are responsible for the success of your process.</a></p>
+]]></content:encoded></item><item><title>Happy Accidents</title><link>https://brandonkboswell.com/Happy-Accidents/</link><pubDate>Sat, 03 Dec 2022 10:45:13 +0000</pubDate><guid>https://brandonkboswell.com/Happy-Accidents/</guid><description>Many of the design decisions in our apps were a direct result of a &amp;ldquo;happy accident&amp;rdquo; we stumbled into by accidentally using the wrong setting or a quirk in the design app.</description><content:encoded><![CDATA[<p>Many of the design decisions in our apps were a direct result of a &ldquo;happy accident&rdquo; we stumbled into by accidentally using the wrong setting or a quirk in the design app. This was and continues to be the case for me at 
 
 
 
 
 
 <a
-  href="/Failed-Outreach/"
+  href="/Dorsata/"
   rel="noopener" class="internal-link"
-  data-src="/Failed-Outreach/">There is very little downside in attempting to reach out to people you don&rsquo;t know</a></p>
-]]></content:encoded></item><item><title>Be near people doing the things you want to do</title><link>https://brandonkboswell.com/Be-near-people-doing-the-things-you-want-to-do/</link><pubDate>Sun, 20 Nov 2022 10:05:18 +0000</pubDate><guid>https://brandonkboswell.com/Be-near-people-doing-the-things-you-want-to-do/</guid><description>Be where things are happening. I think this is the biggest argument for why you should live in or near a big city. This was a major factor in the second dot com boom in San Francisco, CA.</description><content:encoded><![CDATA[<p>Be where things are happening. I think this is the biggest argument for why you should live in or near a big city. This was a major factor in the second dot com boom in <em>San Francisco, CA</em>.</p>
-<blockquote>
-<p>&ldquo;<em>Serendipity</em> happens, if you let it.&rdquo;</p>
+  data-src="/Dorsata/">Dorsata</a></p>
+]]></content:encoded></item><item><title>Life Script</title><link>https://brandonkboswell.com/Life-Script/</link><pubDate>Sat, 03 Dec 2022 10:43:44 +0000</pubDate><guid>https://brandonkboswell.com/Life-Script/</guid><description>&amp;ldquo;And it is generally a script that was embedded in you from about seven or so, and then you are then perpetually living it, or trying to run away from it.</description><content:encoded><![CDATA[<blockquote>
+<p>&ldquo;And it is generally a script that was embedded in you from about seven or so, and then you are then perpetually living it, or trying to run away from it. And a lot of our actions, sometimes, depending on our personality traits, our historical upbringing, these can deter you from taking decisions.&rdquo;
+— <em>Samantha Clarke</em></p>
 </blockquote>
+]]></content:encoded></item><item><title>Generalist</title><link>https://brandonkboswell.com/Generalist/</link><pubDate>Sat, 03 Dec 2022 10:36:45 +0000</pubDate><guid>https://brandonkboswell.com/Generalist/</guid><description>Being a generalist is not necessarily the easy path. It is unclear what you call yourself when people ask what you do, or what role you perform. I recently went to a Product Workshop and asked which role do you perform:</description><content:encoded><![CDATA[<p>Being a generalist is not necessarily the easy path. It is unclear what you call yourself when people ask what you do, or what role you perform. I recently went to a Product Workshop and asked which role do you perform:</p>
+<ul>
+<li><input disabled="" type="checkbox"> Engineering</li>
+<li><input disabled="" type="checkbox"> Design</li>
+<li><input disabled="" type="checkbox"> Strategy</li>
+<li><input disabled="" type="checkbox"> Product Management</li>
+</ul>
+<p>I said all of the above.</p>
+<p>When people ask what I am or what I do, there isn&rsquo;t a clear-cut answer. I&rsquo;m a designer who codes, but ultimately lives in the world of product strategy. It works fine for me because I work in a small company, but if I worked in a larger company it would probably mean picking only one of the hats to wear.</p>
+<p>There isn&rsquo;t a prescribed path for what I&rsquo;m doing.</p>
+]]></content:encoded></item><item><title>If you get asked the same thing more than three times, create a post on it</title><link>https://brandonkboswell.com/If-you-get-asked-the-same-thing-more-than-three-times-create-a-post-on-it/</link><pubDate>Sat, 03 Dec 2022 10:29:22 +0000</pubDate><guid>https://brandonkboswell.com/If-you-get-asked-the-same-thing-more-than-three-times-create-a-post-on-it/</guid><description>Chances are many others have the same question.</description><content:encoded>&lt;p>Chances are many others have the same question.&lt;/p></content:encoded></item><item><title>Asheville, NC</title><link>https://brandonkboswell.com/Asheville-NC/</link><pubDate>Thu, 01 Dec 2022 13:06:31 +0000</pubDate><guid>https://brandonkboswell.com/Asheville-NC/</guid><description/><content:encoded></content:encoded></item><item><title>Brand Voice &amp; Tone</title><link>https://brandonkboswell.com/Brand-Voice-Tone/</link><pubDate>Thu, 01 Dec 2022 08:59:40 +0000</pubDate><guid>https://brandonkboswell.com/Brand-Voice-Tone/</guid><description>Here&amp;rsquo;s one from Arc which I like:</description><content:encoded><![CDATA[<p>Here&rsquo;s one from 
+
+
+
+
+
+<a
+  href="/Arc/"
+  rel="noopener" class="internal-link"
+  data-src="/Arc/">Arc</a> which I like: 
+
+<img src="/files/IMG_0165.png" alt="IMG_0165.png"  /></p>
+]]></content:encoded></item><item><title>Latency</title><link>https://brandonkboswell.com/Latency/</link><pubDate>Thu, 01 Dec 2022 08:54:42 +0000</pubDate><guid>https://brandonkboswell.com/Latency/</guid><description>16ms of delay is equivalent to one frame at 60 fps. Which is the target for most devices.
+If we are targeting 120fps, then our actions need to be completed in 8ms.</description><content:encoded><![CDATA[<p>16ms of delay is equivalent to one frame at 60 fps. Which is the target for most devices.</p>
+<p>If we are targeting 120fps, then our actions need to be completed in 8ms.</p>
+<p>
+
+<a target=“_blank” href="https://input-delay.glitch.me/" rel="noopener">https://input-delay.glitch.me/</a>
+
+
+<img src="/files/IMG_0163.png" alt="IMG_0163.png"  /></p>
+<p>A fast server response is likely 60ms+. Avoid blocking the user behind a server response if at all possible.</p>
+<p>Source: 
+
+
+
+
+
+<a
+  href="/Arc/"
+  rel="noopener" class="internal-link"
+  data-src="/Arc/">Arc</a> YouTube Video about 
+
+<a target=“_blank” href="https://www.youtube.com/watch?v=jofEa83F4zc" rel="noopener">Perception Break</a> by <em>Brian Michel</em></p>
+]]></content:encoded></item><item><title>One last run for the best hat ever made</title><link>https://brandonkboswell.com/sources/One-last-run-for-the-best-hat-ever-made/</link><pubDate>Wed, 30 Nov 2022 08:46:17 +0000</pubDate><guid>https://brandonkboswell.com/sources/One-last-run-for-the-best-hat-ever-made/</guid><description>Author: Beau Miles URL: https://youtu.be/4sbVVJyLoBM Appreciation Minimalism Being Present</description><content:encoded><![CDATA[<ul>
+<li>Author: <em>Beau Miles</em></li>
+<li>URL: 
+
+<a target=“_blank” href="https://youtu.be/4sbVVJyLoBM" rel="noopener">https://youtu.be/4sbVVJyLoBM</a></li>
+</ul>
+<p><em>Appreciation</em>
+<em>Minimalism</em>
+<em>Being Present</em></p>
+]]></content:encoded></item><item><title>Knowledge Workers Discord</title><link>https://brandonkboswell.com/Knowledge-Workers-Discord/</link><pubDate>Tue, 29 Nov 2022 10:38:24 +0000</pubDate><guid>https://brandonkboswell.com/Knowledge-Workers-Discord/</guid><description>A place for knowledge workers to connect and discuss what is on their minds.
+Join at: https://discord.gg/v4qdKMughq
+Meta Knowledge Workers Discord Intro</description><content:encoded><![CDATA[<p>A place for knowledge workers to connect and discuss what is on their minds.</p>
+<p>Join at: 
+
+<a target=“_blank” href="https://discord.gg/v4qdKMughq" rel="noopener">https://discord.gg/v4qdKMughq</a></p>
+<h3 id="meta">Meta</h3>
+<p><em>Knowledge Workers Discord Intro</em></p>
+]]></content:encoded></item><item><title>Richmond Montessori School</title><link>https://brandonkboswell.com/Richmond-Montessori-School/</link><pubDate>Tue, 29 Nov 2022 10:30:29 +0000</pubDate><guid>https://brandonkboswell.com/Richmond-Montessori-School/</guid><description/><content:encoded></content:encoded></item><item><title>As a creative, you are responsible for the success of your process.</title><link>https://brandonkboswell.com/As-a-creative-you-are-responsible-for-the-success-of-your-process./</link><pubDate>Sun, 27 Nov 2022 10:15:02 +0000</pubDate><guid>https://brandonkboswell.com/As-a-creative-you-are-responsible-for-the-success-of-your-process./</guid><description>Creative Process Probably also true for Knowledge Worker</description><content:encoded><![CDATA[<p><em>Creative Process</em>
+Probably also true for 
+
+
+
+
+
+<a
+  href="/Knowledge-workers/"
+  rel="noopener" class="internal-link"
+  data-src="/Knowledge-workers/">Knowledge Worker</a></p>
+]]></content:encoded></item><item><title>The Little Black Book of Design</title><link>https://brandonkboswell.com/sources/The-Little-Black-Book-of-Design/</link><pubDate>Sun, 27 Nov 2022 10:13:08 +0000</pubDate><guid>https://brandonkboswell.com/sources/The-Little-Black-Book-of-Design/</guid><description>Author: Adam Judge URL: https://amzn.to/3XztxCF “The people paying the bills almost always will consider properly filled-out paperwork to be more &amp;lsquo;successful&amp;rsquo; than a brilliantly conceived and executed idea. Plan accordingly.</description><content:encoded><![CDATA[<ul>
+<li>Author: <em>Adam Judge</em></li>
+<li>URL: 
+
+<a target=“_blank” href="https://amzn.to/3XztxCF" rel="noopener">https://amzn.to/3XztxCF</a></li>
+</ul>
+<p>“The people paying the bills almost always will consider properly filled-out paperwork to be more &lsquo;successful&rsquo; than a brilliantly conceived and executed idea. Plan accordingly.”</p>
 <p>
 
 
@@ -118,207 +429,17 @@ There is very little downside in attempting to reach out to people you don&amp;r
 
 
 <a
-  href="/Make-yourself-go-out-and-meet-people/"
+  href="/Paperwork-complete-vs-Project-Success/"
   rel="noopener" class="internal-link"
-  data-src="/Make-yourself-go-out-and-meet-people/">Make yourself go out and meet people</a></p>
-<p>This also works on the internet by being vocal and engaging with others.</p>
-]]></content:encoded></item><item><title>Make yourself go out and meet people</title><link>https://brandonkboswell.com/Make-yourself-go-out-and-meet-people/</link><pubDate>Sun, 20 Nov 2022 10:04:14 +0000</pubDate><guid>https://brandonkboswell.com/Make-yourself-go-out-and-meet-people/</guid><description>Networking
-Just because it feels a little uncomfortable doesn’t mean you shouldn’t do it</description><content:encoded><![CDATA[<p><em>Networking</em></p>
-<p><em>Just because it feels a little uncomfortable doesn’t mean you shouldn’t do it</em></p>
-]]></content:encoded></item><item><title>Intrinsic Motivation</title><link>https://brandonkboswell.com/Intrinsic-Motivation/</link><pubDate>Sun, 20 Nov 2022 09:56:13 +0000</pubDate><guid>https://brandonkboswell.com/Intrinsic-Motivation/</guid><description>Is this fun and/or rewarding on its own?</description><content:encoded><![CDATA[<p>Is this <em>fun</em> and/or <em>rewarding</em> on its own?</p>
-]]></content:encoded></item><item><title>Extrinsic Motivation</title><link>https://brandonkboswell.com/Extrinsic-Motivation/</link><pubDate>Sun, 20 Nov 2022 09:56:07 +0000</pubDate><guid>https://brandonkboswell.com/Extrinsic-Motivation/</guid><description>Do we need to apply points, levels or some other form of artificial progression to make it &amp;ldquo;appear&amp;rdquo; rewarding?
-Rewards</description><content:encoded><![CDATA[<p>Do we need to apply points, levels or some other form of artificial progression to make it &ldquo;appear&rdquo; rewarding?</p>
-<p><em>Rewards</em></p>
-]]></content:encoded></item><item><title>Building a Discord Community</title><link>https://brandonkboswell.com/Building-a-Discord-Community/</link><pubDate>Fri, 18 Nov 2022 17:13:12 +0000</pubDate><guid>https://brandonkboswell.com/Building-a-Discord-Community/</guid><description>Establish a Welcome Channel
-With an FAQ Set a channel for some basic rules
-Additional Rules Resource Create a list of engaging channels
-Welcome / Intros e-Ink Productivity Off-Topic Voice Huddles Consider emojis&amp;hellip;</description><content:encoded><![CDATA[<ul>
-<li>
-<p><input disabled="" type="checkbox"> Establish a Welcome Channel</p>
-<ul>
-<li>With an FAQ</li>
-</ul>
-</li>
-<li>
-<p><input disabled="" type="checkbox"> Set a channel for some basic rules</p>
-<ul>
-<li><input disabled="" type="checkbox"> 
+  data-src="/Paperwork-complete-vs-Project-Success/">Paperwork complete vs Project Success</a>
 
-<img src="/files/Pasted%20image%2020221118173144.png" alt="Pasted image 20221118173144.png"  /></li>
-<li><input disabled="" type="checkbox"> 
-
-<a target=“_blank” href="https://gist.github.com/Ryonez/ea992e49d4923980426b0128603fd42f" rel="noopener">Additional Rules Resource</a></li>
-</ul>
-</li>
-<li>
-<p><input disabled="" type="checkbox"> Create a list of engaging channels</p>
-<ul>
-<li><input disabled="" type="checkbox"> Welcome / Intros</li>
-<li><input disabled="" type="checkbox"> e-Ink</li>
-<li><input disabled="" type="checkbox"> Productivity</li>
-<li><input disabled="" type="checkbox"> Off-Topic</li>
-<li><input disabled="" type="checkbox"> Voice Huddles</li>
-</ul>
-</li>
-<li>
-<p><input disabled="" type="checkbox"> Consider emojis&hellip;</p>
-</li>
-<li>
-<p><input disabled="" type="checkbox"> Consider giving people tags based on their profession</p>
-<ul>
-<li>Student</li>
-<li>Academic</li>
-<li>Engineer</li>
-<li>Designer</li>
-<li>Lawyer</li>
-</ul>
-</li>
-<li>
-<p><input disabled="" type="checkbox"> Give active member roles</p>
-</li>
-<li>
-<p><input disabled="" type="checkbox"> Do some form of a launch event to get things started</p>
-<ul>
-<li>What would be a good event to bring people in?</li>
-<li>Maybe the Kindle Scribe unboxing?</li>
-<li>Could also livestream that on YouTube.</li>
-</ul>
-</li>
-<li>
-<p><input disabled="" type="checkbox"> Figure out how we will make sure people know that it exists</p>
-<ul>
-<li><input disabled="" type="checkbox"> Twitter?
-<ul>
-<li><input disabled="" type="checkbox"> Maybe try to get some people I know to share it</li>
-</ul>
-</li>
-<li><input disabled="" type="checkbox"> Reddit
-<ul>
-<li><input disabled="" type="checkbox"> e-Ink</li>
-<li><input disabled="" type="checkbox"> Productivity?</li>
-</ul>
-</li>
-<li><input disabled="" type="checkbox"> YouTube channel update</li>
-<li><input disabled="" type="checkbox"> At the end of videos</li>
-<li><input disabled="" type="checkbox"> Have current members invite others
-<ul>
-<li><input disabled="" type="checkbox"> Who should be here, but isn&rsquo;t?</li>
-<li><input disabled="" type="checkbox"> Should it be anyone is let in, or should it be more &ldquo;Knowledgeable People&rdquo; and invite only.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<h2 id="goals">Goals</h2>
-<ul>
-<li>Why are you building an online community? What will your members get by being in it? What can you offer them as value? What will you get out of it as the creator?</li>
-<li>At the beginning of any online community, it&rsquo;s important to do a deep dive into what you want it to accomplish.</li>
-<li><input disabled="" type="checkbox"> Connect with subscribers</li>
-<li><input disabled="" type="checkbox"> Give a place to have deeper conversation</li>
-<li><input disabled="" type="checkbox"> Connect smart people with one another
-<ul>
-<li><input disabled="" type="checkbox"> Let them talk amongst themselves</li>
-</ul>
-</li>
-<li><input disabled="" type="checkbox"> Share updates</li>
-</ul>
-</li>
-</ul>
-]]></content:encoded></item><item><title>Discord</title><link>https://brandonkboswell.com/Discord/</link><pubDate>Fri, 18 Nov 2022 17:13:05 +0000</pubDate><guid>https://brandonkboswell.com/Discord/</guid><description>Building a Discord Community</description><content:encoded>&lt;p>
-&lt;a
-href="/Building-a-Discord-Community/"
-rel="noopener" class="internal-link"
-data-src="/Building-a-Discord-Community/">Building a Discord Community&lt;/a>&lt;/p></content:encoded></item><item><title>Digital Notifications</title><link>https://brandonkboswell.com/Digital-Notifications/</link><pubDate>Fri, 18 Nov 2022 08:37:22 +0000</pubDate><guid>https://brandonkboswell.com/Digital-Notifications/</guid><description/><content:encoded></content:encoded></item><item><title>SHORT— Favorite tip for getting into Flowstate — Set an Alarm</title><link>https://brandonkboswell.com/SHORT-Favorite-tip-for-getting-into-Flowstate-Set-an-Alarm/</link><pubDate>Mon, 14 Nov 2022 09:43:23 +0000</pubDate><guid>https://brandonkboswell.com/SHORT-Favorite-tip-for-getting-into-Flowstate-Set-an-Alarm/</guid><description/><content:encoded></content:encoded></item><item><title>YouTube Thumbnails that catch my eye</title><link>https://brandonkboswell.com/YouTube-Thumbnails-that-catch-my-eye/</link><pubDate>Mon, 14 Nov 2022 08:32:25 +0000</pubDate><guid>https://brandonkboswell.com/YouTube-Thumbnails-that-catch-my-eye/</guid><description>moc/YouTube
-7M Subs Just used the high quality are from the game. Probably wouldn&amp;rsquo;t work for me
-2K Subs Logo is front and center Colorful Arrow lead your eye</description><content:encoded><![CDATA[<p>
 
 
 
 
 
 <a
-  href="/moc/YouTube/"
-  rel="noopener" class="internal-link"
-  data-src="/moc/YouTube/">moc/YouTube</a></p>
-<p>
-
-<img src="/files/Pasted%20image%2020221114083241.png" alt="Pasted image 20221114083241.png"  />
-7M Subs
-Just used the high quality are from the game. Probably wouldn&rsquo;t work for me</p>
-<p>
-
-<img src="/files/Pasted%20image%2020221114083300.png" alt="Pasted image 20221114083300.png"  />
-2K Subs
-Logo is front and center
-Colorful
-Arrow lead your eye</p>
-<p>
-
-<img src="/files/Pasted%20image%2020221114083339.png" alt="Pasted image 20221114083339.png"  />
-3.5M Subs
-Clean
-Beautiful color grade
-Device is front and center
-Device is unique and recognizable
-Background blur is beautiful
-Targeting a knowledge worker based on the desk setup</p>
-<p>
-
-<img src="/files/Pasted%20image%2020221114083423.png" alt="Pasted image 20221114083423.png"  />
-711K Subs
-Cool use of color and typography
-
-
-<img src="/files/Pasted%20image%2020221114083545.png" alt="Pasted image 20221114083545.png"  />
-3.5M Subs
-Great color grade
-Beautiful Text</p>
-<p>
-
-<img src="/files/Pasted%20image%2020221114083712.png" alt="Pasted image 20221114083712.png"  />
-313K Subs
-Big Text
-Great contrast between the text and the white background</p>
-<p>
-
-<img src="/files/Pasted%20image%2020221114083851.png" alt="Pasted image 20221114083851.png"  />
-4.4K Subs
-Beautiful Color
-Simple Shot
-Clear Text
-Nice subtle gradientv</p>
-<p>
-
-<img src="/files/Pasted%20image%2020221114083945.png" alt="Pasted image 20221114083945.png"  />
-58K Subs
-Great text style again
-Creating a scene with other items around</p>
-<p>
-
-<img src="/files/Pasted%20image%2020221114084346.png" alt="Pasted image 20221114084346.png"  />
-193K Subs
-Host first
-Icons are useful.
-Overall only okay</p>
-<p>
-
-<img src="/files/Pasted%20image%2020221114084410.png" alt="Pasted image 20221114084410.png"  />
-13K Subs
-I like that this one has bright colors and lets you showcase an app window easily</p>
-<p>
-
-<img src="/files/Pasted%20image%2020221114084428.png" alt="Pasted image 20221114084428.png"  />
-1M Subs
-I really like the color work here</p>
-]]></content:encoded></item><item><title>Sound for YouTube</title><link>https://brandonkboswell.com/Sound-for-YouTube/</link><pubDate>Mon, 14 Nov 2022 08:19:57 +0000</pubDate><guid>https://brandonkboswell.com/Sound-for-YouTube/</guid><description> Epidemic Sound — $9 per month for YouTube channels
-I haven&amp;rsquo;t used it, but assuming you could use it month to month then it would be a decent deal.</description><content:encoded><![CDATA[<p>
-
-<a target=“_blank” href="https://www.epidemicsound.com/personal-subscription/" rel="noopener">Epidemic Sound</a> — $9 per month for YouTube channels</p>
-<ul>
-<li>I haven&rsquo;t used it, but assuming you could use it month to month then it would be a decent deal.</li>
-</ul>
-]]></content:encoded></item><item><title>Paid subscriptions</title><link>https://brandonkboswell.com/Paid-subscriptions/</link><pubDate>Sun, 13 Nov 2022 14:34:07 +0000</pubDate><guid>https://brandonkboswell.com/Paid-subscriptions/</guid><description>Monetization</description><content:encoded>&lt;p>&lt;em>Monetization&lt;/em>&lt;/p></content:encoded></item><item><title>Avoid using paid subscriptions as your primary way of monetizing if at all possible</title><link>https://brandonkboswell.com/Avoid-using-paid-subscriptions-as-your-primary-way-of-monetizing-if-at-all-possible/</link><pubDate>Sun, 13 Nov 2022 14:33:58 +0000</pubDate><guid>https://brandonkboswell.com/Avoid-using-paid-subscriptions-as-your-primary-way-of-monetizing-if-at-all-possible/</guid><description>Paid subscriptions</description><content:encoded>&lt;p>
-&lt;a
-href="/Paid-subscriptions/"
-rel="noopener" class="internal-link"
-data-src="/Paid-subscriptions/">Paid subscriptions&lt;/a>&lt;/p></content:encoded></item><item><title>Product Onboarding</title><link>https://brandonkboswell.com/Product-Onboarding/</link><pubDate>Sun, 13 Nov 2022 14:30:33 +0000</pubDate><guid>https://brandonkboswell.com/Product-Onboarding/</guid><description>Product Design</description><content:encoded>&lt;p>&lt;em>Product Design&lt;/em>&lt;/p></content:encoded></item></channel></rss>
+  
+  rel="noopener" class="internal-link broken"
+  data-src="../As%20a%20creative,%20you%20are%20responsible%20for%20the%20success%20of%20your%20process.">As a creative, you are responsible for the success of your process.</a></p>
+]]></content:encoded></item></channel></rss>
