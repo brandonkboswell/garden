@@ -223,9 +223,9 @@ Taking Charlie to see the Lion King</description><content:encoded><![CDATA[<h2 i
 
 
 <a
-  href="/blog/My-YouTube-Video-Process/"
-  rel="noopener" class="internal-link"
-  data-src="/blog/My-YouTube-Video-Process/">YouTube Video Process</a> and learned the importance of thumbnail, title, and hook to the success of a 
+  
+  rel="noopener" class="internal-link broken"
+  data-src="My%20YouTube%20Video%20Process%20%28OLD%29">YouTube Video Process</a> and learned the importance of thumbnail, title, and hook to the success of a 
 
 
 
@@ -583,7 +583,16 @@ Taking Charlie to see the Lion King</description><content:encoded><![CDATA[<h2 i
 <a
   href="/Mastodon/"
   rel="noopener" class="internal-link"
-  data-src="/Mastodon/">Mastodon</a> — Feels like <em>Twitter</em> of old. Which is a good thing- 
+  data-src="/Mastodon/">Mastodon</a> — Feels like 
+
+
+
+
+
+<a
+  href="/Twitter/"
+  rel="noopener" class="internal-link"
+  data-src="/Twitter/">Twitter</a> of old. Which is a good thing- 
 
 
 
@@ -749,9 +758,9 @@ Taking Charlie to see the Lion King</description><content:encoded><![CDATA[<h2 i
 
 
 <a
-  href="/Davinci-Resolve/"
+  href="/DaVinci-Resolve/"
   rel="noopener" class="internal-link"
-  data-src="/Davinci-Resolve/">Davinci Resolve</a></p>
+  data-src="/DaVinci-Resolve/">DaVinci Resolve</a></p>
 <ul>
 <li>Ultra powerful and free</li>
 <li>Learned how to zoom with anchor points in 
@@ -761,9 +770,9 @@ Taking Charlie to see the Lion King</description><content:encoded><![CDATA[<h2 i
 
 
 <a
-  href="/Davinci-Resolve/"
+  href="/DaVinci-Resolve/"
   rel="noopener" class="internal-link"
-  data-src="/Davinci-Resolve/">Davinci Resolve</a></li>
+  data-src="/DaVinci-Resolve/">DaVinci Resolve</a></li>
 </ul>
 </li>
 <li>
@@ -966,7 +975,16 @@ Taking Charlie to see the Lion King</description><content:encoded><![CDATA[<h2 i
 </ul>
 </li>
 <li>
-<p>Had more productive morning time by avoiding time traps like <em>Twitter</em> and <em>Feedly</em></p>
+<p>Had more productive morning time by avoiding time traps like 
+
+
+
+
+
+<a
+  href="/Twitter/"
+  rel="noopener" class="internal-link"
+  data-src="/Twitter/">Twitter</a> and <em>Feedly</em></p>
 <ul>
 <li>Learned to avoid my phone and 
 
@@ -1291,7 +1309,18 @@ AirPods Pro (1st Generation) —
 Deep Work (Cal Newport) — 
 
 <a target=“_blank” href="https://amzn.to/3D0vIHn" rel="noopener">https://amzn.to/3D0vIHn</a></p>
-]]></content:encoded></item><item><title>My YouTube Video Process</title><link>https://brandonkboswell.com/blog/My-YouTube-Video-Process/</link><pubDate>Sat, 10 Sep 2022 09:12:38 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-YouTube-Video-Process/</guid><description> Write an Outline Write a script and/or Intro Is there a video I can mention or reference in this video? Come up with 10 title options Determine what the thumbnail should be Make the thumbnail (before recording the video) If the thumbnail sucks, no need to go any further Record the A-Roll (Dialog) Do an initial cut of the dialog Note B-Roll we need with markers (Blue) Note chapters via markers in another color (Purple) Take that list from Davinci Resolve and record all the B-Roll Write a description for moc/YouTube Be sure to add relevant tags Create named clips of that B-Roll in Davinci Resolve Overlay those B-Roll clips on the markers Change the markers to green as you have filled each This gives us a todo list of remaining tasks Rewatch at 2x Speed and do a final edit Chop up any long-running clips to stay interesting Add chapters via markers in another color Add Intro, Subscribe callouts and outro This needs to be updated, but I&amp;rsquo;ve started using Descript</description><content:encoded><![CDATA[<ul>
+]]></content:encoded></item><item><title>My YouTube Video Process (OLD)</title><link>https://brandonkboswell.com/blog/My-YouTube-Video-Process-OLD/</link><pubDate>Sat, 10 Sep 2022 09:12:38 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-YouTube-Video-Process-OLD/</guid><description>This is out of date and the current process is in: YouTube Production Checklist
+Write an Outline Write a script and/or Intro Is there a video I can mention or reference in this video?</description><content:encoded><![CDATA[<p>This is out of date and the current process is in: 
+
+
+
+
+
+<a
+  href="/YouTube-Production-Checklist/"
+  rel="noopener" class="internal-link"
+  data-src="/YouTube-Production-Checklist/">YouTube Production Checklist</a></p>
+<ul>
 <li><input disabled="" type="checkbox"> Write an Outline</li>
 <li><input disabled="" type="checkbox"> Write a script and/or Intro
 <ul>
@@ -1319,9 +1348,9 @@ Deep Work (Cal Newport) —
 
 
 <a
-  href="/Davinci-Resolve/"
+  href="/DaVinci-Resolve/"
   rel="noopener" class="internal-link"
-  data-src="/Davinci-Resolve/">Davinci Resolve</a> and record all the 
+  data-src="/DaVinci-Resolve/">DaVinci Resolve</a> and record all the 
 
 
 
@@ -1361,9 +1390,9 @@ Deep Work (Cal Newport) —
 
 
 <a
-  href="/Davinci-Resolve/"
+  href="/DaVinci-Resolve/"
   rel="noopener" class="internal-link"
-  data-src="/Davinci-Resolve/">Davinci Resolve</a></li>
+  data-src="/DaVinci-Resolve/">DaVinci Resolve</a></li>
 <li><input disabled="" type="checkbox"> Overlay those B-Roll clips on the markers
 <ul>
 <li>Change the markers to green as you have filled each</li>
@@ -1705,7 +1734,16 @@ Deep Work (Cal Newport) —
 <h2 id="1-out-of-sight-out-of-mind--intentionality">1. Out of sight, out of mind — Intentionality</h2>
 <p>I am a big proponent of out of sight, out of mind. My goal is to have intention when I pick up my <em>iPhone</em>. I don&rsquo;t uninstall distracting apps from my phone, I just make it where my brain has to have intention to open that app. If I want to open Reddit, I&rsquo;m going to search for it. I introduce just that little bit of friction so that I won&rsquo;t get pulled into an addictive open just because I unlocked my phone.</p>
 <h2 id="2-add-a-little-friction">2. Add a little friction</h2>
-<p>For some apps, hiding the icon on your home screen may not be enough, the ones I have to watch out for are <em>Twitter</em> and <em>Reddit</em>. For those apps, you might want to check out 
+<p>For some apps, hiding the icon on your home screen may not be enough, the ones I have to watch out for are 
+
+
+
+
+
+<a
+  href="/Twitter/"
+  rel="noopener" class="internal-link"
+  data-src="/Twitter/">Twitter</a> and <em>Reddit</em>. For those apps, you might want to check out 
 
 
 
