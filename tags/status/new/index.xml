@@ -1,117 +1,180 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>Monitors</title><link>https://brandonkboswell.com/Monitors/</link><pubDate>Wed, 17 May 2023 10:56:17 +0000</pubDate><guid>https://brandonkboswell.com/Monitors/</guid><description/><content:encoded></content:encoded></item><item><title>Window Managers</title><link>https://brandonkboswell.com/Window-Managers/</link><pubDate>Wed, 17 May 2023 10:55:56 +0000</pubDate><guid>https://brandonkboswell.com/Window-Managers/</guid><description/><content:encoded></content:encoded></item><item><title>Twitter</title><link>https://brandonkboswell.com/Twitter/</link><pubDate>Sun, 14 May 2023 13:24:04 +0000</pubDate><guid>https://brandonkboswell.com/Twitter/</guid><description>Check out Metamuse w Francesco Typefully</description><content:encoded>&lt;p>Check out
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>Multiplayer effect in apps help a ton with K-Factor</title><link>https://brandonkboswell.com/Multiplayer-effect-in-apps-help-a-ton-with-K-Factor/</link><pubDate>Sat, 05 Aug 2023 08:49:35 +0000</pubDate><guid>https://brandonkboswell.com/Multiplayer-effect-in-apps-help-a-ton-with-K-Factor/</guid><description/><content:encoded></content:encoded></item><item><title>Response Time</title><link>https://brandonkboswell.com/Response-Time/</link><pubDate>Fri, 04 Aug 2023 12:29:51 +0000</pubDate><guid>https://brandonkboswell.com/Response-Time/</guid><description/><content:encoded></content:encoded></item><item><title>The average human reaction time is 200ms</title><link>https://brandonkboswell.com/The-average-human-reaction-time-is-200ms/</link><pubDate>Fri, 04 Aug 2023 12:22:34 +0000</pubDate><guid>https://brandonkboswell.com/The-average-human-reaction-time-is-200ms/</guid><description>Latency Reaction Time</description><content:encoded><![CDATA[<p>
+
+
+
+
+
+<a
+  href="/Latency/"
+  rel="noopener" class="internal-link"
+  data-src="/Latency/">Latency</a>
+<em>Reaction Time</em></p>
+]]></content:encoded></item><item><title>My Portfolio</title><link>https://brandonkboswell.com/My-Portfolio/</link><pubDate>Wed, 02 Aug 2023 08:46:52 +0000</pubDate><guid>https://brandonkboswell.com/My-Portfolio/</guid><description>My Portfolio is available at: https://link.brandonkboswell.com/portfolio</description><content:encoded>&lt;p>My Portfolio is available at:
+&lt;a target=“_blank” href="https://link.brandonkboswell.com/portfolio" rel="noopener">https://link.brandonkboswell.com/portfolio&lt;/a>&lt;/p></content:encoded></item><item><title>SB's Main Street Love Shack</title><link>https://brandonkboswell.com/SBs-Main-Street-Love-Shack/</link><pubDate>Wed, 26 Jul 2023 14:46:17 +0000</pubDate><guid>https://brandonkboswell.com/SBs-Main-Street-Love-Shack/</guid><description/><content:encoded></content:encoded></item><item><title>Rode Videomic NTG</title><link>https://brandonkboswell.com/Rode-Videomic-NTG/</link><pubDate>Wed, 26 Jul 2023 14:46:07 +0000</pubDate><guid>https://brandonkboswell.com/Rode-Videomic-NTG/</guid><description/><content:encoded></content:encoded></item><item><title>UX Principles for Javascript Developers</title><link>https://brandonkboswell.com/UX-Principles-for-Javascript-Developers/</link><pubDate>Mon, 24 Jul 2023 15:41:51 +0000</pubDate><guid>https://brandonkboswell.com/UX-Principles-for-Javascript-Developers/</guid><description/><content:encoded></content:encoded></item><item><title>Explanation Point</title><link>https://brandonkboswell.com/Explanation-Point/</link><pubDate>Mon, 24 Jul 2023 10:35:35 +0000</pubDate><guid>https://brandonkboswell.com/Explanation-Point/</guid><description>It sadly appears that the .com and YouTube handles have been taken for this.</description><content:encoded>&lt;p>It sadly appears that the .com and YouTube handles have been taken for this.&lt;/p></content:encoded></item><item><title>Grep a Folder</title><link>https://brandonkboswell.com/Grep-a-Folder/</link><pubDate>Fri, 21 Jul 2023 11:18:41 +0000</pubDate><guid>https://brandonkboswell.com/Grep-a-Folder/</guid><description>Grep
+Example looking for Tailwind CSS colors used in a project while attempting to theme that project.
+This looks for the pattern while recursively checking the folder structure then returning unique matches and piping that to a file so you can manipulate the results</description><content:encoded><![CDATA[<p><em>Grep</em></p>
+<p>Example looking for 
+
+
+
+
+
+<a
+  href="/Tailwind-UI/"
+  rel="noopener" class="internal-link"
+  data-src="/Tailwind-UI/">Tailwind CSS</a> colors used in a project while attempting to theme that project.</p>
+<p>This looks for the pattern while recursively checking the folder structure then returning unique matches and piping that to a file so you can manipulate the results</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">grep -orE &#39;\-\w+?\-[1-9]00&#39; . | sort -u &gt; ./matches.txt
+</span></span></code></pre></td></tr></table>
+</div>
+</div>]]></content:encoded></item><item><title>writing stuff down to free up more mental space</title><link>https://brandonkboswell.com/writing-stuff-down-to-free-up-more-mental-space/</link><pubDate>Tue, 18 Jul 2023 08:42:57 +0000</pubDate><guid>https://brandonkboswell.com/writing-stuff-down-to-free-up-more-mental-space/</guid><description>Mental Capacity</description><content:encoded>&lt;p>&lt;em>Mental Capacity&lt;/em>&lt;/p></content:encoded></item><item><title>core hours</title><link>https://brandonkboswell.com/core-hours/</link><pubDate>Mon, 10 Jul 2023 23:08:22 +0000</pubDate><guid>https://brandonkboswell.com/core-hours/</guid><description>This is the idea that everyone must be in the office from say 10-3
+Remote Work</description><content:encoded><![CDATA[<p>This is the idea that everyone must be in the office from say 10-3</p>
+<p><em>Remote Work</em></p>
+]]></content:encoded></item><item><title>The brain naturally shrinks with age</title><link>https://brandonkboswell.com/The-brain-naturally-shrinks-with-age/</link><pubDate>Mon, 10 Jul 2023 23:05:13 +0000</pubDate><guid>https://brandonkboswell.com/The-brain-naturally-shrinks-with-age/</guid><description>Aging</description><content:encoded>&lt;p>&lt;em>Aging&lt;/em>&lt;/p></content:encoded></item><item><title>What can wait for another day?</title><link>https://brandonkboswell.com/What-can-wait-for-another-day/</link><pubDate>Mon, 10 Jul 2023 22:24:45 +0000</pubDate><guid>https://brandonkboswell.com/What-can-wait-for-another-day/</guid><description>This creates more room for Daily Highlights</description><content:encoded>&lt;p>This creates more room for
 &lt;a
-href="/sources/Metamuse-w-Francesco-Typefully/"
+href="/Daily-Highlight/"
 rel="noopener" class="internal-link"
-data-src="/sources/Metamuse-w-Francesco-Typefully/">Metamuse w Francesco Typefully&lt;/a>&lt;/p></content:encoded></item><item><title>quality assets</title><link>https://brandonkboswell.com/quality-assets/</link><pubDate>Sun, 14 May 2023 13:22:15 +0000</pubDate><guid>https://brandonkboswell.com/quality-assets/</guid><description/><content:encoded></content:encoded></item><item><title>Time assets</title><link>https://brandonkboswell.com/Time-assets/</link><pubDate>Sun, 14 May 2023 13:21:44 +0000</pubDate><guid>https://brandonkboswell.com/Time-assets/</guid><description/><content:encoded></content:encoded></item><item><title>Time debts</title><link>https://brandonkboswell.com/Time-debts/</link><pubDate>Sun, 14 May 2023 13:21:42 +0000</pubDate><guid>https://brandonkboswell.com/Time-debts/</guid><description/><content:encoded></content:encoded></item><item><title>Sonoma, CA</title><link>https://brandonkboswell.com/Sonoma-CA/</link><pubDate>Sun, 14 May 2023 13:04:34 +0000</pubDate><guid>https://brandonkboswell.com/Sonoma-CA/</guid><description/><content:encoded></content:encoded></item><item><title>Cabernet Sauvignon</title><link>https://brandonkboswell.com/Cabernet-Sauvignon/</link><pubDate>Sun, 14 May 2023 13:04:32 +0000</pubDate><guid>https://brandonkboswell.com/Cabernet-Sauvignon/</guid><description/><content:encoded></content:encoded></item><item><title>Red Wine</title><link>https://brandonkboswell.com/Red-Wine/</link><pubDate>Sun, 14 May 2023 13:04:30 +0000</pubDate><guid>https://brandonkboswell.com/Red-Wine/</guid><description/><content:encoded></content:encoded></item><item><title>Gling</title><link>https://brandonkboswell.com/Gling/</link><pubDate>Sun, 14 May 2023 12:50:14 +0000</pubDate><guid>https://brandonkboswell.com/Gling/</guid><description/><content:encoded></content:encoded></item><item><title>New York City</title><link>https://brandonkboswell.com/New-York-City/</link><pubDate>Sun, 14 May 2023 12:45:43 +0000</pubDate><guid>https://brandonkboswell.com/New-York-City/</guid><description/><content:encoded></content:encoded></item><item><title>Chromium</title><link>https://brandonkboswell.com/Chromium/</link><pubDate>Sun, 14 May 2023 12:43:48 +0000</pubDate><guid>https://brandonkboswell.com/Chromium/</guid><description/><content:encoded></content:encoded></item><item><title>Chrome</title><link>https://brandonkboswell.com/Chrome/</link><pubDate>Sun, 14 May 2023 12:43:46 +0000</pubDate><guid>https://brandonkboswell.com/Chrome/</guid><description/><content:encoded></content:encoded></item><item><title>The Browser Company</title><link>https://brandonkboswell.com/The-Browser-Company/</link><pubDate>Sun, 14 May 2023 12:41:15 +0000</pubDate><guid>https://brandonkboswell.com/The-Browser-Company/</guid><description/><content:encoded></content:encoded></item><item><title>Automaticity</title><link>https://brandonkboswell.com/Automaticity/</link><pubDate>Fri, 12 May 2023 12:07:35 +0000</pubDate><guid>https://brandonkboswell.com/Automaticity/</guid><description>Automaticity is the ability to perform a behavior without thinking about each step, which occurs when the nonconscious mind takes over.
-For me, success in Productivity is about converting as many things to Automaticity as possible to lead the way to more value-adding activities.</description><content:encoded><![CDATA[<p>Automaticity is the ability to perform a behavior without thinking about each step, which occurs when the nonconscious mind takes over.</p>
-<p>For me, success in 
+data-src="/Daily-Highlight/">Daily Highlights&lt;/a>&lt;/p></content:encoded></item><item><title>B-Roll Shot Ideas</title><link>https://brandonkboswell.com/B-Roll-Shot-Ideas/</link><pubDate>Mon, 03 Jul 2023 12:28:47 +0000</pubDate><guid>https://brandonkboswell.com/B-Roll-Shot-Ideas/</guid><description> Drag into the frame Spin the Item Plug it in Inspect it Does it have any actions? Zoom into it Does it have any features to showcase</description><content:encoded><![CDATA[<ul>
+<li><input disabled="" type="checkbox"> Drag into the frame</li>
+<li><input disabled="" type="checkbox"> Spin the Item</li>
+<li><input disabled="" type="checkbox"> Plug it in</li>
+<li><input disabled="" type="checkbox"> Inspect it</li>
+<li><input disabled="" type="checkbox"> Does it have any actions?</li>
+<li><input disabled="" type="checkbox"> Zoom into it</li>
+<li><input disabled="" type="checkbox"> Does it have any features to showcase</li>
+</ul>
+]]></content:encoded></item><item><title>Easlo</title><link>https://brandonkboswell.com/Easlo/</link><pubDate>Sun, 02 Jul 2023 08:13:39 +0000</pubDate><guid>https://brandonkboswell.com/Easlo/</guid><description>From his website:
+I’m a Notion expert helping busy people like you get organized and productive with ready-to-use solutions.
+There are pieces to this that apply to the vision for what I do</description><content:encoded><![CDATA[<p>From his website:</p>
+<blockquote>
+<p>I’m a Notion expert helping busy people like you get organized and productive with ready-to-use solutions.</p>
+</blockquote>
+<p>There are pieces to this that apply to the vision for what I do</p>
+]]></content:encoded></item><item><title>American Medical Association</title><link>https://brandonkboswell.com/American-Medical-Association/</link><pubDate>Sun, 02 Jul 2023 07:57:48 +0000</pubDate><guid>https://brandonkboswell.com/American-Medical-Association/</guid><description/><content:encoded></content:encoded></item><item><title>Socratic questioning</title><link>https://brandonkboswell.com/Socratic-questioning/</link><pubDate>Sun, 02 Jul 2023 07:53:48 +0000</pubDate><guid>https://brandonkboswell.com/Socratic-questioning/</guid><description>A form of disciplined questioning that enables critical thinking. There are six types of questions you can ask to dig deeper for the fundamental truth:
+Clarification – &amp;ldquo;What do you mean by&amp;hellip;?</description><content:encoded><![CDATA[<p>A form of disciplined questioning that enables <em>critical thinking</em>. There are six types of questions you can ask to dig deeper for the <em>fundamental truth</em>:</p>
+<ol>
+<li><em>Clarification</em> – &ldquo;What do you mean by&hellip;?&rdquo;</li>
+<li><em>Probing assumptions</em> – &ldquo;What could we assume instead?&rdquo;</li>
+<li><em>Probing reasons/evidence</em> – &ldquo;Why do you think this is true?&rdquo;</li>
+<li><em>Implications and consequences</em> – &ldquo;What effect would that have?&rdquo;</li>
+<li><em>Different viewpoints</em> – &ldquo;What would be an alternative?&rdquo;</li>
+<li><em>Questioning the original question</em> – &ldquo;What was the point of this question?&rdquo;</li>
+</ol>
+]]></content:encoded></item><item><title>WIMP</title><link>https://brandonkboswell.com/WIMP/</link><pubDate>Sun, 11 Jun 2023 09:58:54 +0000</pubDate><guid>https://brandonkboswell.com/WIMP/</guid><description>Windows, Icons, Menus and Pointer</description><content:encoded><![CDATA[<p><em>Windows</em>, 
 
 
 
 
 
 <a
-  href="/Productivity/"
+  href="/Icons/"
   rel="noopener" class="internal-link"
-  data-src="/Productivity/">Productivity</a> is about converting as many things to 
-
-
-
-
-
-<a
-  href="/Automaticity/"
-  rel="noopener" class="internal-link"
-  data-src="/Automaticity/">Automaticity</a> as possible to lead the way to more value-adding activities.</p>
-<p><em>Muscle Memory</em> is another form of 
-
-
-
-
-
-<a
-  href="/Automaticity/"
-  rel="noopener" class="internal-link"
-  data-src="/Automaticity/">Automaticity</a></p>
-]]></content:encoded></item><item><title>Metamuse w Francesco Typefully</title><link>https://brandonkboswell.com/sources/Metamuse-w-Francesco-Typefully/</link><pubDate>Tue, 09 May 2023 12:00:27 +0000</pubDate><guid>https://brandonkboswell.com/sources/Metamuse-w-Francesco-Typefully/</guid><description>Metamuse with Francesco Di Lorenzo from Metamuse w Francesco Typefully
-Twitter is a place to connect with people in your fields
-Know whats going on or be inspired by others</description><content:encoded><![CDATA[<p><em>Metamuse</em> with <em>Francesco Di Lorenzo</em> from 
-
-
-
-
-
-<a
-  href="/sources/Metamuse-w-Francesco-Typefully/"
-  rel="noopener" class="internal-link"
-  data-src="/sources/Metamuse-w-Francesco-Typefully/">Metamuse w Francesco Typefully</a></p>
-<p>
-
-
-
-
-
-<a
-  href="/Twitter/"
-  rel="noopener" class="internal-link"
-  data-src="/Twitter/">Twitter</a> is a place to connect with people in your fields</p>
-<p>Know whats going on or be inspired by others</p>
-<p>A lightweight alternative to a conference</p>
-<p>Much more casual</p>
-<p>Leads to relationships and business friendships</p>
-<p>The social network of ideas. Mastodon is somewhat doing that</p>
-<p>&ldquo;Microblogging&rdquo;</p>
-<p>Quote Tweet &gt; Retweet because it has context of why they liked it enough to retweet it.</p>
-<p>Algorithymic Timelines can be good from a discovery and exposure perspective, but its not optimized for te</p>
-]]></content:encoded></item><item><title>Altar I</title><link>https://brandonkboswell.com/Altar-I/</link><pubDate>Wed, 03 May 2023 15:07:54 +0000</pubDate><guid>https://brandonkboswell.com/Altar-I/</guid><description>https://electronicmaterialsoffice.com/</description><content:encoded>&lt;p>
-&lt;a target=“_blank” href="https://electronicmaterialsoffice.com/" rel="noopener">https://electronicmaterialsoffice.com/&lt;/a>&lt;/p></content:encoded></item><item><title>Perfectionism</title><link>https://brandonkboswell.com/Perfectionism/</link><pubDate>Sat, 29 Apr 2023 13:20:07 +0000</pubDate><guid>https://brandonkboswell.com/Perfectionism/</guid><description>Fighting Perfectionism</description><content:encoded>&lt;p>&lt;em>Fighting Perfectionism&lt;/em>&lt;/p></content:encoded></item><item><title>Imposter Syndrome</title><link>https://brandonkboswell.com/Imposter-Syndrome/</link><pubDate>Sat, 29 Apr 2023 13:17:27 +0000</pubDate><guid>https://brandonkboswell.com/Imposter-Syndrome/</guid><description/><content:encoded></content:encoded></item><item><title>Using the AirPods Pro, you can reduce sound by 23 dB</title><link>https://brandonkboswell.com/Using-the-AirPods-Pro-you-can-reduce-sound-by-23-dB/</link><pubDate>Sat, 29 Apr 2023 13:14:59 +0000</pubDate><guid>https://brandonkboswell.com/Using-the-AirPods-Pro-you-can-reduce-sound-by-23-dB/</guid><description>AirPods Pro</description><content:encoded>&lt;p>
-&lt;a
-href="/AirPods-Pro/"
-rel="noopener" class="internal-link"
-data-src="/AirPods-Pro/">AirPods Pro&lt;/a>&lt;/p></content:encoded></item><item><title>Half of all pregnancies in the US are unplanned</title><link>https://brandonkboswell.com/Half-of-all-pregnancies-in-the-US-are-unplanned/</link><pubDate>Sat, 29 Apr 2023 13:14:36 +0000</pubDate><guid>https://brandonkboswell.com/Half-of-all-pregnancies-in-the-US-are-unplanned/</guid><description>pregnancy</description><content:encoded>&lt;p>&lt;em>pregnancy&lt;/em>&lt;/p></content:encoded></item><item><title>Cawston Press</title><link>https://brandonkboswell.com/Cawston-Press/</link><pubDate>Wed, 26 Apr 2023 08:51:08 +0000</pubDate><guid>https://brandonkboswell.com/Cawston-Press/</guid><description>We had these at Koneko Cat Cafe in New York City and they were excellent.
-Apparently it&amp;rsquo;s a British company and a bit tough to find here in the states, but I was able to find this: https://amzn.</description><content:encoded><![CDATA[<p>We had these at <em>Koneko Cat Cafe</em> in 
-
-
-
-
-
-<a
-  href="/New-York-City/"
-  rel="noopener" class="internal-link"
-  data-src="/New-York-City/">New York City</a> and they were excellent.</p>
-<p>Apparently it&rsquo;s a British company and a bit tough to find here in the states, but I was able to find this: 
-
-<a target=“_blank” href="https://amzn.to/3HfgHCV" rel="noopener">https://amzn.to/3HfgHCV</a></p>
-]]></content:encoded></item><item><title>blog</title><link>https://brandonkboswell.com/blog/</link><pubDate>Wed, 26 Apr 2023 08:42:45 +0000</pubDate><guid>https://brandonkboswell.com/blog/</guid><description>The reason to maintain a blog is to own your audience, instead of it being leased from another source. Example: moc/YouTube Twitter. An email newsletter can be another way to do that</description><content:encoded><![CDATA[<p>The reason to maintain a blog is to <em>own your audience</em>, instead of it being leased from another source. Example: 
-
-
-
-
-
-<a
-  href="/moc/YouTube/"
-  rel="noopener" class="internal-link"
-  data-src="/moc/YouTube/">moc/YouTube</a> 
-
-
-
-
-
-<a
-  href="/Twitter/"
-  rel="noopener" class="internal-link"
-  data-src="/Twitter/">Twitter</a>. An <em>email newsletter</em> can be another way to do that</p>
-]]></content:encoded></item><item><title>Zettel</title><link>https://brandonkboswell.com/Zettel/</link><pubDate>Wed, 26 Apr 2023 08:41:07 +0000</pubDate><guid>https://brandonkboswell.com/Zettel/</guid><description>A form of Atomic Writing</description><content:encoded>&lt;p>A form of &lt;em>Atomic Writing&lt;/em>&lt;/p></content:encoded></item><item><title>Generative AI in Healthcare Conversations in Health</title><link>https://brandonkboswell.com/sources/Generative-AI-in-Healthcare-Conversations-in-Health/</link><pubDate>Tue, 18 Apr 2023 17:27:05 +0000</pubDate><guid>https://brandonkboswell.com/sources/Generative-AI-in-Healthcare-Conversations-in-Health/</guid><description>Author: FINN Partners URL: https://vimeo.com/814732622 AI
-AI in Healthcare
-&amp;ldquo;AI will not replace you, but someone who knows how to use AI will&amp;rdquo;
-Pre-Eclampsia in pregnancy has been shown to lead to higher risk of heart disease and at an earlier age.</description><content:encoded><![CDATA[<ul>
-<li>Author: <em>FINN Partners</em></li>
+  data-src="/Icons/">Icons</a>, <em>Menus</em> and <em>Pointer</em></p>
+]]></content:encoded></item><item><title>Mobile Backends</title><link>https://brandonkboswell.com/Mobile-Backends/</link><pubDate>Wed, 07 Jun 2023 09:35:39 +0000</pubDate><guid>https://brandonkboswell.com/Mobile-Backends/</guid><description> Supabase Firebase Vercel?</description><content:encoded><![CDATA[<ul>
+<li>Supabase</li>
+<li>Firebase</li>
+<li>Vercel?</li>
+</ul>
+]]></content:encoded></item><item><title>Principles of Spatial Design</title><link>https://brandonkboswell.com/sources/Principles-of-Spatial-Design/</link><pubDate>Tue, 06 Jun 2023 17:11:55 +0000</pubDate><guid>https://brandonkboswell.com/sources/Principles-of-Spatial-Design/</guid><description>Author: Apple URL: https://developer.apple.com/videos/play/wwdc2023/10072/ Key points from the transcript:
+Designing for a spatial operating system allows for creating experiences with depth, scale, natural inputs, and Spatial Audio.
+The goal is to design familiar apps that can be easily navigated and understood by users.</description><content:encoded><![CDATA[<ul>
+<li>Author:  <em>Apple</em></li>
 <li>URL: 
 
-<a target=“_blank” href="https://vimeo.com/814732622" rel="noopener">https://vimeo.com/814732622</a></li>
+<a target=“_blank” href="https://developer.apple.com/videos/play/wwdc2023/10072/" rel="noopener">https://developer.apple.com/videos/play/wwdc2023/10072/</a></li>
 </ul>
-<p><em>AI</em></p>
-<p><em>AI in Healthcare</em></p>
-<p>&ldquo;<em>AI will not replace you, but someone who knows how to use AI will</em>&rdquo;</p>
-<p><em>Pre-Eclampsia</em> in <em>pregnancy</em> has been shown to lead to higher risk of heart disease and at an earlier age. 20:50</p>
+<p>Key points from the transcript:</p>
+<ul>
+<li>
+<p>Designing for a spatial operating system allows for creating experiences with depth, scale, natural inputs, and Spatial Audio.</p>
+</li>
+<li>
+<p>The goal is to design familiar apps that can be easily navigated and understood by users.</p>
+</li>
+<li>
+<p>Windows in the spatial operating system are designed with a new visual language, using glass material for contrast and adaptability to different lighting conditions.</p>
+</li>
+<li>
+<p>Windows can be moved, resized, and closed using intuitive controls, and they should be placed in a way that keeps interfaces easy to read and use.</p>
+</li>
+<li>
+<p>The size and shape of windows can be flexible to accommodate different content and contexts.</p>
+</li>
+<li>
+<p>Multiple windows can be used in certain cases but should be avoided when possible to avoid overwhelming users.</p>
+</li>
+<li>
+<p>Points are used to specify the size of interface elements and ensure scalability across different screens and distances.</p>
+</li>
+<li>
+<p>Designing human-centered spatial apps involves considering the field of view, ergonomics, and the ability to interact with content from different positions.</p>
+</li>
+<li>
+<p>Content should be placed within the field of view and designed to accommodate different physical positions and movements.</p>
+</li>
+<li>
+<p>The use of depth and scale can create hierarchy, emphasize content, and provide immersive experiences.</p>
+</li>
+<li>
+<p>Immersive experiences can range from being within a window in the Shared Space to occupying a Full Space, with varying levels of immersion and control for the user.</p>
+</li>
+<li>
+<p>Immersive apps should guide users&rsquo; focus, blend with reality, incorporate subtle animations and soundscapes, and maintain smooth transitions to enhance the overall experience.
+
+
+<img src="/BKB%202023-06-06%20at%2017.13.40.png" alt="BKB 2023-06-06 at 17.13.40.png"  /></p>
+</li>
+<li>
+<p>Anchor content in people&rsquo;s space not to their FOV</p>
+</li>
+</ul>
+]]></content:encoded></item><item><title>Design for Spatial Input</title><link>https://brandonkboswell.com/sources/Design-for-Spatial-Input/</link><pubDate>Tue, 06 Jun 2023 17:01:19 +0000</pubDate><guid>https://brandonkboswell.com/sources/Design-for-Spatial-Input/</guid><description>Author: Apple URL: https://developer.apple.com/videos/play/wwdc2023/10073/ We can&amp;rsquo;t actually touch virtual content (yet) so we need to compensate for that with other forms of feedback Why can&amp;rsquo;t we use Apple Watch for haptics / tactile interaction?</description><content:encoded><![CDATA[<ul>
+<li>Author: <em>Apple</em></li>
+<li>URL: <em>
+
+<a target=“_blank” href="https://developer.apple.com/videos/play/wwdc2023/10073/" rel="noopener">https://developer.apple.com/videos/play/wwdc2023/10073/</a></em></li>
+</ul>
+<p>
+
+<img src="/Pasted%20image%2020230606170133.png" alt="Pasted image 20230606170133.png"  />
+
+
+<img src="/BKB%202023-06-06%20at%2017.02.35.png" alt="BKB 2023-06-06 at 17.02.35.png"  />
+
+<img src="/BKB%202023-06-06%20at%2017.03.48.png" alt="BKB 2023-06-06 at 17.03.48.png"  />
+We can&rsquo;t actually touch virtual content (yet) so we need to compensate for that with other forms of feedback 
+
+<img src="/BKB%202023-06-06%20at%2017.06.32.png" alt="BKB 2023-06-06 at 17.06.32.png"  /></p>
+<p>
+
+<img src="/BKB%202023-06-06%20at%2017.07.11.png" alt="BKB 2023-06-06 at 17.07.11.png"  />
+
+<img src="/BKB%202023-06-06%20at%2017.07.24.png" alt="BKB 2023-06-06 at 17.07.24.png"  />Why can&rsquo;t we use <em>Apple Watch</em> for haptics / tactile interaction?</p>
+<p>Teaching is going to be important because this not going to be intuitive for many people.</p>
+]]></content:encoded></item><item><title>Grilled Chicken Rub</title><link>https://brandonkboswell.com/cooking/Grilled-Chicken-Rub/</link><pubDate>Sun, 04 Jun 2023 14:27:22 +0000</pubDate><guid>https://brandonkboswell.com/cooking/Grilled-Chicken-Rub/</guid><description>Ingredients 1 tablespoon brown sugar 1 tablespoon kosher salt 1 tablespoon garlic powder 1 tablespoon paprika 1 ½ teaspoons onion powder 1 ½ teaspoons freshly cracked black pepper 2 tablespoons extra virgin olive oil 3 pounds boneless, skinless chicken thighs Source: https://themodernproper.</description><content:encoded><![CDATA[<h1 id="ingredients">Ingredients</h1>
+<ul>
+<li>1 tablespoon brown sugar</li>
+<li>1 tablespoon kosher salt</li>
+<li>1 tablespoon garlic powder</li>
+<li>1 tablespoon paprika</li>
+<li>1 ½ teaspoons onion powder</li>
+<li>1 ½ teaspoons freshly cracked black pepper</li>
+<li>2 tablespoons extra virgin olive oil</li>
+<li>3 pounds boneless, skinless chicken thighs</li>
+</ul>
+<p>
+
+<img src="/../BKB%202023-06-04%20at%2014.26.44.png" alt="BKB 2023-06-04 at 14.26.44.png"  /></p>
+<p>Source: 
+
+<a target=“_blank” href="https://themodernproper.com/grilled-chicken-thighs" rel="noopener">https://themodernproper.com/grilled-chicken-thighs</a></p>
+]]></content:encoded></item><item><title>Improvements aren't always visible</title><link>https://brandonkboswell.com/Improvements-arent-always-visible/</link><pubDate>Sun, 04 Jun 2023 13:43:26 +0000</pubDate><guid>https://brandonkboswell.com/Improvements-arent-always-visible/</guid><description>Improvement</description><content:encoded>&lt;p>&lt;em>Improvement&lt;/em>&lt;/p></content:encoded></item><item><title>Stop Motion</title><link>https://brandonkboswell.com/Stop-Motion/</link><pubDate>Sat, 03 Jun 2023 21:46:06 +0000</pubDate><guid>https://brandonkboswell.com/Stop-Motion/</guid><description>Dragon Frame</description><content:encoded>&lt;p>
+&lt;a target=“_blank” href="https://www.dragonframe.com/" rel="noopener">Dragon Frame&lt;/a>&lt;/p></content:encoded></item><item><title>COVID Epoch</title><link>https://brandonkboswell.com/COVID-Epoch/</link><pubDate>Sat, 03 Jun 2023 21:41:53 +0000</pubDate><guid>https://brandonkboswell.com/COVID-Epoch/</guid><description>Chip and I joked that time of COVID should be a new version of Epoch * Time before COVID, Time after COVID * 3 Years after COVID</description><content:encoded><![CDATA[<p><em>Chip</em> and I joked that time of <em>COVID</em> should be a new version of <em>Epoch</em>
+* Time before COVID, Time after COVID
+* 3 Years after COVID</p>
 ]]></content:encoded></item></channel></rss>

@@ -1,4 +1,129 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/sources/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 May 2023 12:00:27 +0000</lastBuildDate><atom:link href="https://brandonkboswell.com/sources/index.xml" rel="self" type="application/rss+xml"/><item><title>Metamuse w Francesco Typefully</title><link>https://brandonkboswell.com/sources/Metamuse-w-Francesco-Typefully/</link><pubDate>Tue, 09 May 2023 12:00:27 +0000</pubDate><guid>https://brandonkboswell.com/sources/Metamuse-w-Francesco-Typefully/</guid><description>Metamuse with Francesco Di Lorenzo from Metamuse w Francesco Typefully
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/sources/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 Jun 2023 17:11:55 +0000</lastBuildDate><atom:link href="https://brandonkboswell.com/sources/index.xml" rel="self" type="application/rss+xml"/><item><title>Principles of Spatial Design</title><link>https://brandonkboswell.com/sources/Principles-of-Spatial-Design/</link><pubDate>Tue, 06 Jun 2023 17:11:55 +0000</pubDate><guid>https://brandonkboswell.com/sources/Principles-of-Spatial-Design/</guid><description>Author: Apple URL: https://developer.apple.com/videos/play/wwdc2023/10072/ Key points from the transcript:
+Designing for a spatial operating system allows for creating experiences with depth, scale, natural inputs, and Spatial Audio.
+The goal is to design familiar apps that can be easily navigated and understood by users.</description><content:encoded><![CDATA[<ul>
+<li>Author:  <em>Apple</em></li>
+<li>URL: 
+
+<a target=“_blank” href="https://developer.apple.com/videos/play/wwdc2023/10072/" rel="noopener">https://developer.apple.com/videos/play/wwdc2023/10072/</a></li>
+</ul>
+<p>Key points from the transcript:</p>
+<ul>
+<li>
+<p>Designing for a spatial operating system allows for creating experiences with depth, scale, natural inputs, and Spatial Audio.</p>
+</li>
+<li>
+<p>The goal is to design familiar apps that can be easily navigated and understood by users.</p>
+</li>
+<li>
+<p>Windows in the spatial operating system are designed with a new visual language, using glass material for contrast and adaptability to different lighting conditions.</p>
+</li>
+<li>
+<p>Windows can be moved, resized, and closed using intuitive controls, and they should be placed in a way that keeps interfaces easy to read and use.</p>
+</li>
+<li>
+<p>The size and shape of windows can be flexible to accommodate different content and contexts.</p>
+</li>
+<li>
+<p>Multiple windows can be used in certain cases but should be avoided when possible to avoid overwhelming users.</p>
+</li>
+<li>
+<p>Points are used to specify the size of interface elements and ensure scalability across different screens and distances.</p>
+</li>
+<li>
+<p>Designing human-centered spatial apps involves considering the field of view, ergonomics, and the ability to interact with content from different positions.</p>
+</li>
+<li>
+<p>Content should be placed within the field of view and designed to accommodate different physical positions and movements.</p>
+</li>
+<li>
+<p>The use of depth and scale can create hierarchy, emphasize content, and provide immersive experiences.</p>
+</li>
+<li>
+<p>Immersive experiences can range from being within a window in the Shared Space to occupying a Full Space, with varying levels of immersion and control for the user.</p>
+</li>
+<li>
+<p>Immersive apps should guide users&rsquo; focus, blend with reality, incorporate subtle animations and soundscapes, and maintain smooth transitions to enhance the overall experience.
+
+
+<img src="/BKB%202023-06-06%20at%2017.13.40.png" alt="BKB 2023-06-06 at 17.13.40.png"  /></p>
+</li>
+<li>
+<p>Anchor content in people&rsquo;s space not to their FOV</p>
+</li>
+</ul>
+]]></content:encoded></item><item><title>Design for Spatial Input</title><link>https://brandonkboswell.com/sources/Design-for-Spatial-Input/</link><pubDate>Tue, 06 Jun 2023 17:01:19 +0000</pubDate><guid>https://brandonkboswell.com/sources/Design-for-Spatial-Input/</guid><description>Author: Apple URL: https://developer.apple.com/videos/play/wwdc2023/10073/ We can&amp;rsquo;t actually touch virtual content (yet) so we need to compensate for that with other forms of feedback Why can&amp;rsquo;t we use Apple Watch for haptics / tactile interaction?</description><content:encoded><![CDATA[<ul>
+<li>Author: <em>Apple</em></li>
+<li>URL: <em>
+
+<a target=“_blank” href="https://developer.apple.com/videos/play/wwdc2023/10073/" rel="noopener">https://developer.apple.com/videos/play/wwdc2023/10073/</a></em></li>
+</ul>
+<p>
+
+<img src="/Pasted%20image%2020230606170133.png" alt="Pasted image 20230606170133.png"  />
+
+
+<img src="/BKB%202023-06-06%20at%2017.02.35.png" alt="BKB 2023-06-06 at 17.02.35.png"  />
+
+<img src="/BKB%202023-06-06%20at%2017.03.48.png" alt="BKB 2023-06-06 at 17.03.48.png"  />
+We can&rsquo;t actually touch virtual content (yet) so we need to compensate for that with other forms of feedback 
+
+<img src="/BKB%202023-06-06%20at%2017.06.32.png" alt="BKB 2023-06-06 at 17.06.32.png"  /></p>
+<p>
+
+<img src="/BKB%202023-06-06%20at%2017.07.11.png" alt="BKB 2023-06-06 at 17.07.11.png"  />
+
+<img src="/BKB%202023-06-06%20at%2017.07.24.png" alt="BKB 2023-06-06 at 17.07.24.png"  />Why can&rsquo;t we use <em>Apple Watch</em> for haptics / tactile interaction?</p>
+<p>Teaching is going to be important because this not going to be intuitive for many people.</p>
+]]></content:encoded></item><item><title>How to Grow on YouTube with Ali</title><link>https://brandonkboswell.com/sources/How-to-Grow-on-YouTube-with-Ali/</link><pubDate>Thu, 25 May 2023 22:41:35 +0000</pubDate><guid>https://brandonkboswell.com/sources/How-to-Grow-on-YouTube-with-Ali/</guid><description>Author: Ali Abdaal URL: https://vimeo.com/682204644/20ff483bbc Get Going Get Good Get Smart
+Content Creator Lifecycle
+Convert:
+Stranger Fan (via content) Friend (via communication, usually email) Prospect (again via email) Customer (via product) Evangelist 99% of your content is free 1% of your content is paid 1% of your audience will care and buy it</description><content:encoded><![CDATA[<ul>
+<li>Author: <em>Ali Abdaal</em></li>
+<li>URL: 
+
+<a target=“_blank” href="https://vimeo.com/682204644/20ff483bbc" rel="noopener">https://vimeo.com/682204644/20ff483bbc</a></li>
+</ul>
+<p><em>Get Going</em>
+<em>Get Good</em>
+<em>Get Smart</em></p>
+<p>
+
+<img src="/Pasted%20image%2020230525224146.png" alt="Pasted image 20230525224146.png"  />
+
+<img src="/BKB%202023-05-25%20at%2022.43.46.png" alt="BKB 2023-05-25 at 22.43.46.png"  />
+
+
+<img src="/BKB%202023-05-25%20at%2022.56.00.png" alt="BKB 2023-05-25 at 22.56.00.png"  /></p>
+<p>
+
+
+
+
+
+<a
+  href="/Content-Creator-Lifecycle/"
+  rel="noopener" class="internal-link"
+  data-src="/Content-Creator-Lifecycle/">Content Creator Lifecycle</a></p>
+<p>Convert:</p>
+<ul>
+<li><em>Stranger</em></li>
+<li><em>Fan</em> (via content)</li>
+<li><em>Friend</em> (via communication, usually email)</li>
+<li><em>Prospect</em> (again via email)</li>
+<li><em>Customer</em> (via product)</li>
+<li><em>Evangelist</em></li>
+</ul>
+<p>
+
+<img src="/BKB%202023-05-25%20at%2022.57.43.png" alt="BKB 2023-05-25 at 22.57.43.png"  />
+<em>99% of your content is free</em>
+1% of your content is paid
+1% of your audience will care and buy it</p>
+<p>YouTube channels grow by targeting the browse/suggested screen. You do that by producing videos with high CTR and high WT. 
+
+<img src="/BKB%202023-05-25%20at%2023.03.36.png" alt="BKB 2023-05-25 at 23.03.36.png"  />
+Ali says the way to meet people is on Twitter. I wonder if in my case also Mastodon</p>
+]]></content:encoded></item><item><title>Metamuse w Francesco Typefully</title><link>https://brandonkboswell.com/sources/Metamuse-w-Francesco-Typefully/</link><pubDate>Tue, 09 May 2023 12:00:27 +0000</pubDate><guid>https://brandonkboswell.com/sources/Metamuse-w-Francesco-Typefully/</guid><description>Metamuse with Francesco Di Lorenzo from Metamuse w Francesco Typefully
 Twitter is a place to connect with people in your fields
 Know whats going on or be inspired by others</description><content:encoded><![CDATA[<p><em>Metamuse</em> with <em>Francesco Di Lorenzo</em> from 
 
@@ -817,87 +942,4 @@ URL:
   href="/seedlings/Get-ideas-out-of-your-head/"
   rel="noopener" class="internal-link"
   data-src="/seedlings/Get-ideas-out-of-your-head/">Get ideas out of your head</a></p>
-]]></content:encoded></item><item><title>The Dash Plus System</title><link>https://brandonkboswell.com/sources/The-Dash-Plus-System/</link><pubDate>Mon, 17 Jan 2022 20:43:05 +0000</pubDate><guid>https://brandonkboswell.com/sources/The-Dash-Plus-System/</guid><description>Author: Patrick Rhone URL: https://patrickrhone.com/dashplus/
-Capture Tools Analog Tools Handwritten Daily Notes Tools for thought
-(Dash): Undone Action Item — Individual items (action items and ideas) are marked with a dash preceding them.</description><content:encoded><![CDATA[<p>Author: <em>Patrick Rhone</em>
-URL: 
-
-<a target=“_blank” href="https://patrickrhone.com/dashplus/" rel="noopener">https://patrickrhone.com/dashplus/</a></p>
-<p><em>Capture Tools</em>
-
-
-
-
-
-
-<a
-  href="/Analog-Tools/"
-  rel="noopener" class="internal-link"
-  data-src="/Analog-Tools/">Analog Tools</a>
-<em>Handwritten Daily Notes</em>
-
-
-
-
-
-
-<a
-  href="/moc/Tools-for-thought/"
-  rel="noopener" class="internal-link"
-  data-src="/moc/Tools-for-thought/">Tools for thought</a></p>
-<p>(Dash): Undone Action Item — Individual items (action items and ideas) are marked with a dash preceding them. All items, no matter what they are, are therefore treated as items to be processed.</p>
-<p>(Plus): Done Action Item — If the item is an action item (todo), when the item is complete, a vertical line is drawn through the “dash” thus making it resemble a “plus”. This makes the dashed items stand out quite well despite the fact that the same color pen or pencil may be used.</p>
-<p>(Right Arrow): Waiting – (i.e. for another action) — Drawing an arrow pointing to the the item denotes that it is something that is waiting on another action to happen or deliverable.</p>
-<p>(Left Arrow): Delegated — Drawing an arrow pointing to the left of the item denotes that it has been delegated (with a note to whom and the date) .</p>
-<p>(Triangle): Data Point — Turning the dash into a triangle denotes a data point (a fact or figure you wish to remember for instance).</p>
-<p>(Circle) — A circle around any of the above means that it has been carried forward, moved to another list or otherwise changed status – i.e. a “Waiting” item has now become an Action Item elsewhere (with a note about where that item has gone).</p>
-]]></content:encoded></item><item><title>My Obsidian Kindle Notes Workflow</title><link>https://brandonkboswell.com/sources/My-Obsidian-Kindle-Notes-Workflow/</link><pubDate>Thu, 30 Dec 2021 13:20:14 +0000</pubDate><guid>https://brandonkboswell.com/sources/My-Obsidian-Kindle-Notes-Workflow/</guid><description>Author: Bryan Jenks URL: https://www.youtube.com/watch?v=GKj6y7nKlxY
-Unfortunately Bryan didn&amp;rsquo;t go into depth on how he actually consumes his Kindle highlights, just the technical logistics on how to get your Kindle Book Highlights into Obsidian</description><content:encoded><![CDATA[<p>Author: <em>Bryan Jenks</em>
-URL: 
-
-<a target=“_blank” href="https://www.youtube.com/watch?v=GKj6y7nKlxY" rel="noopener">https://www.youtube.com/watch?v=GKj6y7nKlxY</a></p>
-<p>Unfortunately Bryan didn&rsquo;t go into depth on how he actually consumes his 
-
-
-
-
-
-<a
-  href="/Kindle/"
-  rel="noopener" class="internal-link"
-  data-src="/Kindle/">Kindle</a> highlights, just the technical logistics on how to get your Kindle <em>Book Highlights</em> into 
-
-
-
-
-
-<a
-  href="/Obsidian/"
-  rel="noopener" class="internal-link"
-  data-src="/Obsidian/">Obsidian</a></p>
-]]></content:encoded></item><item><title>Don’t Go Entirely Paperless</title><link>https://brandonkboswell.com/sources/Dont-Go-Entirely-Paperless/</link><pubDate>Thu, 30 Dec 2021 09:58:09 +0000</pubDate><guid>https://brandonkboswell.com/sources/Dont-Go-Entirely-Paperless/</guid><description>Author: Curtis McHale URL: https://curtismchale.ca/2021/12/28/dont-go-entirely-paperless/
-In this article Curtis comments on the Guilt generated by Task Managers when incomplete tasks move forward. He hypothesizes that not living up to the ideal version of yourself is the source of this guilt.</description><content:encoded><![CDATA[<p>Author: <em>Curtis McHale</em>
-URL: 
-
-<a target=“_blank” href="https://curtismchale.ca/2021/12/28/dont-go-entirely-paperless/" rel="noopener">https://curtismchale.ca/2021/12/28/dont-go-entirely-paperless/</a></p>
-<p>In this article Curtis comments on the <em>Guilt</em> generated by 
-
-
-
-
-
-<a
-  href="/moc/Task-Managers/"
-  rel="noopener" class="internal-link"
-  data-src="/moc/Task-Managers/">Task Managers</a> when incomplete tasks move forward. He hypothesizes that not living up to the ideal version of yourself is the source of this guilt. For this reason he uses paper for <em>Daily Task Management</em> and 
-
-
-
-
-
-<a
-  href="/Weekly-Planning/"
-  rel="noopener" class="internal-link"
-  data-src="/Weekly-Planning/">Weekly Planning</a> to avoid inducing this guilt.</p>
-<p>Another interesting thing about this article is that Curtis is basically leaving a commentary on another person&rsquo;s article. This seems like a fairly painless way to generate content assuming your audience values what you have to say.</p>
 ]]></content:encoded></item></channel></rss>

@@ -327,8 +327,9 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>%%</p>
-]]></content:encoded></item><item><title>Gaming Backlog</title><link>https://brandonkboswell.com/backlogs/Gaming-Backlog/</link><pubDate>Tue, 01 Feb 2022 21:57:35 +0000</pubDate><guid>https://brandonkboswell.com/backlogs/Gaming-Backlog/</guid><description>Want to Play Horizon: Zero Dawn Journey Horizon: Forbidden West Doom Eternal Gorogoa Biped Battletoads Charlie Boswell Marshie Spelunky Sifu Nier: Automata The Touryst Charlie Boswell Kentucky Route Zero For The King Child of Light Demeo Inside Nobody Saves the World Sackboy Demon Souls Up Next Overwatch 2 Kena: Bridge of Spirits https://sodaraptor.</description><content:encoded><![CDATA[<h2 id="want-to-play">Want to Play</h2>
+]]></content:encoded></item><item><title>Gaming Backlog</title><link>https://brandonkboswell.com/backlogs/Gaming-Backlog/</link><pubDate>Tue, 01 Feb 2022 21:57:35 +0000</pubDate><guid>https://brandonkboswell.com/backlogs/Gaming-Backlog/</guid><description>Want to Play God of War: Ragnarok Horizon: Zero Dawn Journey Horizon: Forbidden West Doom Eternal Gorogoa Biped Battletoads Charlie Boswell Marshie Spelunky Sifu Nier: Automata The Touryst Charlie Boswell Kentucky Route Zero For The King Child of Light Demeo Nobody Saves the World Sackboy Demon Souls Up Next https://sodaraptor.</description><content:encoded><![CDATA[<h2 id="want-to-play">Want to Play</h2>
 <ul>
+<li><input disabled="" type="checkbox"> God of War: Ragnarok</li>
 <li><input disabled="" type="checkbox"> Horizon: Zero Dawn</li>
 <li><input disabled="" type="checkbox"> Journey</li>
 <li><input disabled="" type="checkbox"> Horizon: Forbidden West</li>
@@ -344,32 +345,30 @@
 <li><input disabled="" type="checkbox"> For The King</li>
 <li><input disabled="" type="checkbox"> Child of Light</li>
 <li><input disabled="" type="checkbox"> Demeo</li>
-<li><input disabled="" type="checkbox"> Inside</li>
 <li><input disabled="" type="checkbox"> Nobody Saves the World</li>
 <li><input disabled="" type="checkbox"> Sackboy</li>
 <li><input disabled="" type="checkbox"> Demon Souls</li>
 </ul>
 <h2 id="up-next">Up Next</h2>
 <ul>
-<li><input disabled="" type="checkbox"> Overwatch 2</li>
-<li><input disabled="" type="checkbox"> Kena: Bridge of Spirits</li>
 <li><input disabled="" type="checkbox"> 
 
 <a target=“_blank” href="https://sodaraptor.itch.io/covert-critter" rel="noopener">https://sodaraptor.itch.io/covert-critter</a></li>
-<li><input disabled="" type="checkbox"> Uncharted 4</li>
-<li><input disabled="" type="checkbox"> Spider-Man: Miles Morales <em>Charlie</em> <em>Marshie</em></li>
 </ul>
 <h2 id="currently-playing">Currently Playing</h2>
 <ul>
-<li><input disabled="" type="checkbox"> Teenage Mutant Ninja Turtles: Shredder&rsquo;s Revenge</li>
+<li><input disabled="" type="checkbox"> Star Wars Jedi: Fallen Order</li>
+<li><input disabled="" type="checkbox"> Marvel Midnight Suns <em>Marshie</em> + <em>Charlie</em></li>
+<li><input disabled="" type="checkbox"> Spider-Man: Miles Morales <em>Charlie</em> <em>Marshie</em></li>
+<li><input disabled="" type="checkbox"> Uncharted 4</li>
+<li><input disabled="" type="checkbox"> Kena: Bridge of Spirits</li>
 <li><input disabled="" type="checkbox"> Bomberman R</li>
-<li><input disabled="" type="checkbox"> It Takes Two <em>Marshie</em></li>
-<li><input disabled="" type="checkbox"> God of War: 2018</li>
 <li><input disabled="" type="checkbox"> Sonic Colors</li>
 <li><input disabled="" type="checkbox"> OlliOlli World <em>Charlie</em></li>
 </ul>
 <h2 id="current-multiplayer">Current Multiplayer</h2>
 <ul>
+<li><input disabled="" type="checkbox"> Overwatch 2</li>
 <li><input disabled="" type="checkbox"> 
 
 
@@ -380,12 +379,12 @@
   href="/Rocket-League/"
   rel="noopener" class="internal-link"
   data-src="/Rocket-League/">Rocket League</a></li>
-<li><input disabled="" type="checkbox"> Fall Guys <em>Charlie Boswell</em></li>
-<li><input disabled="" type="checkbox"> Overcooked 2 <em>Marshie</em> <em>Charlie</em></li>
 </ul>
 <h2 id="paused">Paused</h2>
 <ul>
 <li><input disabled="" type="checkbox"> Zelda Breath of the Wild <em>Charlie</em></li>
+<li><input disabled="" type="checkbox"> Fall Guys <em>Charlie Boswell</em></li>
+<li><input disabled="" type="checkbox"> Overcooked 2 <em>Marshie</em> <em>Charlie</em></li>
 <li><input disabled="" type="checkbox"> 
 
 
@@ -457,7 +456,10 @@
 <h2 id="completed">Completed</h2>
 <p><strong>Complete</strong></p>
 <ul>
+<li><input checked="" disabled="" type="checkbox"> Teenage Mutant Ninja Turtles: Shredder&rsquo;s Revenge</li>
 <li><input checked="" disabled="" type="checkbox"> <em>Slay the Spire</em></li>
+<li><input checked="" disabled="" type="checkbox"> God of War: 2018</li>
+<li><input checked="" disabled="" type="checkbox"> It Takes Two <em>Marshie</em></li>
 <li><input checked="" disabled="" type="checkbox"> Untitled Goose Game</li>
 <li><input checked="" disabled="" type="checkbox"> Lovers in a dangerous spacetime  <em>Marshie</em> <em>Charlie Boswell</em></li>
 <li><input checked="" disabled="" type="checkbox"> Spider-Man: Remastered <em>Charlie</em> <em>Marshie</em></li>
@@ -519,6 +521,11 @@
 <li><input disabled="" type="checkbox"> Monster Train</li>
 <li><input checked="" disabled="" type="checkbox"> Borderlands 2</li>
 <li><input disabled="" type="checkbox"> Slay the Spire</li>
+</ul>
+<hr>
+<h2 id="archive">Archive</h2>
+<ul>
+<li><input disabled="" type="checkbox"> Inside</li>
 </ul>
 <p>%% kanban:settings</p>
 <div class="highlight"><div class="chroma">
