@@ -97,11 +97,12 @@ I recorded a video of how I use Obsidian at: How I Use Obsidian</description><co
 <li>Open the Link under your cursor with CMD+OPT+ENTER</li>
 </ul>
 ]]></content:encoded></item><item><title>VIM</title><link>https://brandonkboswell.com/VIM/</link><pubDate>Wed, 21 Jul 2021 14:13:12 +0000</pubDate><guid>https://brandonkboswell.com/VIM/</guid><description>Getting started: https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started
-Watching the Thoughtbot training for VIM this dug into f and t for finding a specific character. F will land on it. T will land just prior to it Capital F and Capital T do the same, but in reverse Semicolon repeats Use / for searching.</description><content:encoded><![CDATA[<p>Getting started: 
+Watching the Thoughtbot training for VIM this dug into
+f and t for finding a specific character. F will land on it. T will land just prior to it Capital F and Capital T do the same, but in reverse Semicolon repeats Use / for searching.</description><content:encoded><![CDATA[<p>Getting started: 
 
 <a target=“_blank” href="https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started" rel="noopener">https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started</a></p>
-<p>Watching the Thoughtbot training for VIM this dug into
-f and t for finding a specific character. F will land on it. T will land just prior to it
+<p>Watching the Thoughtbot training for VIM this dug into</p>
+<p>f and t for finding a specific character. F will land on it. T will land just prior to it
 Capital F and Capital T do the same, but in reverse
 Semicolon repeats
 Use / for searching. Use n to go to the next result and shift N to go to the previous
@@ -120,6 +121,10 @@ From this course I learned that I need to use shift on my right hand more. I app
 
 
 <a target=“_blank” href="https://vimsheet.com/" rel="noopener">https://vimsheet.com/</a></p>
+<p>Shift + I to insert at the beginning of the line
+Shift + A to insert at the end of the line
+:20 for line number jumping
++p for system clipboard in VIM, but doesn&rsquo;t seem to work in Obsidian</p>
 <p>
 
 <a target=“_blank” href="https://vimsheet.com/" rel="noopener">https://vimsheet.com/</a></p>

@@ -1,180 +1,318 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>Multiplayer effect in apps help a ton with K-Factor</title><link>https://brandonkboswell.com/Multiplayer-effect-in-apps-help-a-ton-with-K-Factor/</link><pubDate>Sat, 05 Aug 2023 08:49:35 +0000</pubDate><guid>https://brandonkboswell.com/Multiplayer-effect-in-apps-help-a-ton-with-K-Factor/</guid><description/><content:encoded></content:encoded></item><item><title>Response Time</title><link>https://brandonkboswell.com/Response-Time/</link><pubDate>Fri, 04 Aug 2023 12:29:51 +0000</pubDate><guid>https://brandonkboswell.com/Response-Time/</guid><description/><content:encoded></content:encoded></item><item><title>The average human reaction time is 200ms</title><link>https://brandonkboswell.com/The-average-human-reaction-time-is-200ms/</link><pubDate>Fri, 04 Aug 2023 12:22:34 +0000</pubDate><guid>https://brandonkboswell.com/The-average-human-reaction-time-is-200ms/</guid><description>Latency Reaction Time</description><content:encoded><![CDATA[<p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>The Knowledge Work Company</title><link>https://brandonkboswell.com/The-Knowledge-Work-Company/</link><pubDate>Thu, 07 Sep 2023 22:27:04 +0000</pubDate><guid>https://brandonkboswell.com/The-Knowledge-Work-Company/</guid><description>A company I started to help people improve their Focus and Creativity.
+1 [theknowledgework.co](theknowledgework.co)````</description><content:encoded><![CDATA[<p>A company I started to help people improve their 
 
 
 
 
 
 <a
-  href="/Latency/"
+  href="/moc/Focus/"
   rel="noopener" class="internal-link"
-  data-src="/Latency/">Latency</a>
-<em>Reaction Time</em></p>
-]]></content:encoded></item><item><title>My Portfolio</title><link>https://brandonkboswell.com/My-Portfolio/</link><pubDate>Wed, 02 Aug 2023 08:46:52 +0000</pubDate><guid>https://brandonkboswell.com/My-Portfolio/</guid><description>My Portfolio is available at: https://link.brandonkboswell.com/portfolio</description><content:encoded>&lt;p>My Portfolio is available at:
-&lt;a target=“_blank” href="https://link.brandonkboswell.com/portfolio" rel="noopener">https://link.brandonkboswell.com/portfolio&lt;/a>&lt;/p></content:encoded></item><item><title>SB's Main Street Love Shack</title><link>https://brandonkboswell.com/SBs-Main-Street-Love-Shack/</link><pubDate>Wed, 26 Jul 2023 14:46:17 +0000</pubDate><guid>https://brandonkboswell.com/SBs-Main-Street-Love-Shack/</guid><description/><content:encoded></content:encoded></item><item><title>Rode Videomic NTG</title><link>https://brandonkboswell.com/Rode-Videomic-NTG/</link><pubDate>Wed, 26 Jul 2023 14:46:07 +0000</pubDate><guid>https://brandonkboswell.com/Rode-Videomic-NTG/</guid><description/><content:encoded></content:encoded></item><item><title>UX Principles for Javascript Developers</title><link>https://brandonkboswell.com/UX-Principles-for-Javascript-Developers/</link><pubDate>Mon, 24 Jul 2023 15:41:51 +0000</pubDate><guid>https://brandonkboswell.com/UX-Principles-for-Javascript-Developers/</guid><description/><content:encoded></content:encoded></item><item><title>Explanation Point</title><link>https://brandonkboswell.com/Explanation-Point/</link><pubDate>Mon, 24 Jul 2023 10:35:35 +0000</pubDate><guid>https://brandonkboswell.com/Explanation-Point/</guid><description>It sadly appears that the .com and YouTube handles have been taken for this.</description><content:encoded>&lt;p>It sadly appears that the .com and YouTube handles have been taken for this.&lt;/p></content:encoded></item><item><title>Grep a Folder</title><link>https://brandonkboswell.com/Grep-a-Folder/</link><pubDate>Fri, 21 Jul 2023 11:18:41 +0000</pubDate><guid>https://brandonkboswell.com/Grep-a-Folder/</guid><description>Grep
-Example looking for Tailwind CSS colors used in a project while attempting to theme that project.
-This looks for the pattern while recursively checking the folder structure then returning unique matches and piping that to a file so you can manipulate the results</description><content:encoded><![CDATA[<p><em>Grep</em></p>
-<p>Example looking for 
+  data-src="/moc/Focus/">Focus</a> and 
 
 
 
 
 
 <a
-  href="/Tailwind-UI/"
+  href="/moc/Creativity/"
   rel="noopener" class="internal-link"
-  data-src="/Tailwind-UI/">Tailwind CSS</a> colors used in a project while attempting to theme that project.</p>
-<p>This looks for the pattern while recursively checking the folder structure then returning unique matches and piping that to a file so you can manipulate the results</p>
+  data-src="/moc/Creativity/">Creativity</a>.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">grep -orE &#39;\-\w+?\-[1-9]00&#39; . | sort -u &gt; ./matches.txt
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">[theknowledgework.co](theknowledgework.co)````
 </span></span></code></pre></td></tr></table>
 </div>
-</div>]]></content:encoded></item><item><title>writing stuff down to free up more mental space</title><link>https://brandonkboswell.com/writing-stuff-down-to-free-up-more-mental-space/</link><pubDate>Tue, 18 Jul 2023 08:42:57 +0000</pubDate><guid>https://brandonkboswell.com/writing-stuff-down-to-free-up-more-mental-space/</guid><description>Mental Capacity</description><content:encoded>&lt;p>&lt;em>Mental Capacity&lt;/em>&lt;/p></content:encoded></item><item><title>core hours</title><link>https://brandonkboswell.com/core-hours/</link><pubDate>Mon, 10 Jul 2023 23:08:22 +0000</pubDate><guid>https://brandonkboswell.com/core-hours/</guid><description>This is the idea that everyone must be in the office from say 10-3
-Remote Work</description><content:encoded><![CDATA[<p>This is the idea that everyone must be in the office from say 10-3</p>
-<p><em>Remote Work</em></p>
-]]></content:encoded></item><item><title>The brain naturally shrinks with age</title><link>https://brandonkboswell.com/The-brain-naturally-shrinks-with-age/</link><pubDate>Mon, 10 Jul 2023 23:05:13 +0000</pubDate><guid>https://brandonkboswell.com/The-brain-naturally-shrinks-with-age/</guid><description>Aging</description><content:encoded>&lt;p>&lt;em>Aging&lt;/em>&lt;/p></content:encoded></item><item><title>What can wait for another day?</title><link>https://brandonkboswell.com/What-can-wait-for-another-day/</link><pubDate>Mon, 10 Jul 2023 22:24:45 +0000</pubDate><guid>https://brandonkboswell.com/What-can-wait-for-another-day/</guid><description>This creates more room for Daily Highlights</description><content:encoded>&lt;p>This creates more room for
-&lt;a
-href="/Daily-Highlight/"
-rel="noopener" class="internal-link"
-data-src="/Daily-Highlight/">Daily Highlights&lt;/a>&lt;/p></content:encoded></item><item><title>B-Roll Shot Ideas</title><link>https://brandonkboswell.com/B-Roll-Shot-Ideas/</link><pubDate>Mon, 03 Jul 2023 12:28:47 +0000</pubDate><guid>https://brandonkboswell.com/B-Roll-Shot-Ideas/</guid><description> Drag into the frame Spin the Item Plug it in Inspect it Does it have any actions? Zoom into it Does it have any features to showcase</description><content:encoded><![CDATA[<ul>
-<li><input disabled="" type="checkbox"> Drag into the frame</li>
-<li><input disabled="" type="checkbox"> Spin the Item</li>
-<li><input disabled="" type="checkbox"> Plug it in</li>
-<li><input disabled="" type="checkbox"> Inspect it</li>
-<li><input disabled="" type="checkbox"> Does it have any actions?</li>
-<li><input disabled="" type="checkbox"> Zoom into it</li>
-<li><input disabled="" type="checkbox"> Does it have any features to showcase</li>
-</ul>
-]]></content:encoded></item><item><title>Easlo</title><link>https://brandonkboswell.com/Easlo/</link><pubDate>Sun, 02 Jul 2023 08:13:39 +0000</pubDate><guid>https://brandonkboswell.com/Easlo/</guid><description>From his website:
-I’m a Notion expert helping busy people like you get organized and productive with ready-to-use solutions.
-There are pieces to this that apply to the vision for what I do</description><content:encoded><![CDATA[<p>From his website:</p>
-<blockquote>
-<p>I’m a Notion expert helping busy people like you get organized and productive with ready-to-use solutions.</p>
-</blockquote>
-<p>There are pieces to this that apply to the vision for what I do</p>
-]]></content:encoded></item><item><title>American Medical Association</title><link>https://brandonkboswell.com/American-Medical-Association/</link><pubDate>Sun, 02 Jul 2023 07:57:48 +0000</pubDate><guid>https://brandonkboswell.com/American-Medical-Association/</guid><description/><content:encoded></content:encoded></item><item><title>Socratic questioning</title><link>https://brandonkboswell.com/Socratic-questioning/</link><pubDate>Sun, 02 Jul 2023 07:53:48 +0000</pubDate><guid>https://brandonkboswell.com/Socratic-questioning/</guid><description>A form of disciplined questioning that enables critical thinking. There are six types of questions you can ask to dig deeper for the fundamental truth:
-Clarification – &amp;ldquo;What do you mean by&amp;hellip;?</description><content:encoded><![CDATA[<p>A form of disciplined questioning that enables <em>critical thinking</em>. There are six types of questions you can ask to dig deeper for the <em>fundamental truth</em>:</p>
-<ol>
-<li><em>Clarification</em> – &ldquo;What do you mean by&hellip;?&rdquo;</li>
-<li><em>Probing assumptions</em> – &ldquo;What could we assume instead?&rdquo;</li>
-<li><em>Probing reasons/evidence</em> – &ldquo;Why do you think this is true?&rdquo;</li>
-<li><em>Implications and consequences</em> – &ldquo;What effect would that have?&rdquo;</li>
-<li><em>Different viewpoints</em> – &ldquo;What would be an alternative?&rdquo;</li>
-<li><em>Questioning the original question</em> – &ldquo;What was the point of this question?&rdquo;</li>
-</ol>
-]]></content:encoded></item><item><title>WIMP</title><link>https://brandonkboswell.com/WIMP/</link><pubDate>Sun, 11 Jun 2023 09:58:54 +0000</pubDate><guid>https://brandonkboswell.com/WIMP/</guid><description>Windows, Icons, Menus and Pointer</description><content:encoded><![CDATA[<p><em>Windows</em>, 
+</div>]]></content:encoded></item><item><title>pop music interferes with information processing and reading comprehension</title><link>https://brandonkboswell.com/pop-music-interferes-with-information-processing-and-reading-comprehension/</link><pubDate>Tue, 05 Sep 2023 14:13:46 +0000</pubDate><guid>https://brandonkboswell.com/pop-music-interferes-with-information-processing-and-reading-comprehension/</guid><description>Focus Focus Music</description><content:encoded><![CDATA[<p>
 
 
 
 
 
 <a
-  href="/Icons/"
+  href="/moc/Focus/"
   rel="noopener" class="internal-link"
-  data-src="/Icons/">Icons</a>, <em>Menus</em> and <em>Pointer</em></p>
-]]></content:encoded></item><item><title>Mobile Backends</title><link>https://brandonkboswell.com/Mobile-Backends/</link><pubDate>Wed, 07 Jun 2023 09:35:39 +0000</pubDate><guid>https://brandonkboswell.com/Mobile-Backends/</guid><description> Supabase Firebase Vercel?</description><content:encoded><![CDATA[<ul>
-<li>Supabase</li>
-<li>Firebase</li>
-<li>Vercel?</li>
-</ul>
-]]></content:encoded></item><item><title>Principles of Spatial Design</title><link>https://brandonkboswell.com/sources/Principles-of-Spatial-Design/</link><pubDate>Tue, 06 Jun 2023 17:11:55 +0000</pubDate><guid>https://brandonkboswell.com/sources/Principles-of-Spatial-Design/</guid><description>Author: Apple URL: https://developer.apple.com/videos/play/wwdc2023/10072/ Key points from the transcript:
-Designing for a spatial operating system allows for creating experiences with depth, scale, natural inputs, and Spatial Audio.
-The goal is to design familiar apps that can be easily navigated and understood by users.</description><content:encoded><![CDATA[<ul>
-<li>Author:  <em>Apple</em></li>
-<li>URL: 
+  data-src="/moc/Focus/">Focus</a>
+<em>Focus Music</em></p>
+]]></content:encoded></item><item><title>Morning Meditation</title><link>https://brandonkboswell.com/Morning-Meditation/</link><pubDate>Tue, 05 Sep 2023 08:46:07 +0000</pubDate><guid>https://brandonkboswell.com/Morning-Meditation/</guid><description>Meditation</description><content:encoded>&lt;p>
+&lt;a
+href="/Meditation/"
+rel="noopener" class="internal-link"
+data-src="/Meditation/">Meditation&lt;/a>&lt;/p></content:encoded></item><item><title>Lost to Memory</title><link>https://brandonkboswell.com/Lost-to-Memory/</link><pubDate>Tue, 05 Sep 2023 08:26:48 +0000</pubDate><guid>https://brandonkboswell.com/Lost-to-Memory/</guid><description>Journaling / Reflection is about not having things that are important or rewarding to us be Lost to Memory
+Your Brain is a Terrible Office because key things will be Lost to Memory</description><content:encoded><![CDATA[<p>
 
-<a target=“_blank” href="https://developer.apple.com/videos/play/wwdc2023/10072/" rel="noopener">https://developer.apple.com/videos/play/wwdc2023/10072/</a></li>
+
+
+
+
+<a
+  href="/Journaling/"
+  rel="noopener" class="internal-link"
+  data-src="/Journaling/">Journaling</a> / 
+
+
+
+
+
+<a
+  href="/Reflection/"
+  rel="noopener" class="internal-link"
+  data-src="/Reflection/">Reflection</a> is about not having things that are important or rewarding to us be 
+
+
+
+
+
+<a
+  href="/Lost-to-Memory/"
+  rel="noopener" class="internal-link"
+  data-src="/Lost-to-Memory/">Lost to Memory</a></p>
+<p>
+
+
+
+
+
+<a
+  href="/Your-Brain-is-a-Terrible-Office/"
+  rel="noopener" class="internal-link"
+  data-src="/Your-Brain-is-a-Terrible-Office/">Your Brain is a Terrible Office</a> because key things will be 
+
+
+
+
+
+<a
+  href="/Lost-to-Memory/"
+  rel="noopener" class="internal-link"
+  data-src="/Lost-to-Memory/">Lost to Memory</a></p>
+]]></content:encoded></item><item><title>insight?</title><link>https://brandonkboswell.com/insight/</link><pubDate>Mon, 04 Sep 2023 10:19:53 +0000</pubDate><guid>https://brandonkboswell.com/insight/</guid><description>an insight is a realization that changes the way I think, and ideally changes the way I behave — Ali Abdaal</description><content:encoded>&lt;p>an insight is a realization that changes the way I think, and ideally changes the way I behave — &lt;em>Ali Abdaal&lt;/em>&lt;/p></content:encoded></item><item><title>always create from a place of “I want to do this,” not “I need to do this.”</title><link>https://brandonkboswell.com/always-create-from-a-place-of-I-want-to-do-this-not-I-need-to-do-this./</link><pubDate>Mon, 04 Sep 2023 10:12:34 +0000</pubDate><guid>https://brandonkboswell.com/always-create-from-a-place-of-I-want-to-do-this-not-I-need-to-do-this./</guid><description>Joy and Excitement vs Dread</description><content:encoded><![CDATA[<p><em>Joy</em> and <em>Excitement</em> vs <em>Dread</em></p>
+]]></content:encoded></item><item><title>Boox Refresh modes</title><link>https://brandonkboswell.com/Boox-Refresh-modes/</link><pubDate>Thu, 31 Aug 2023 08:16:52 +0000</pubDate><guid>https://brandonkboswell.com/Boox-Refresh-modes/</guid><description>https://help.boox.com/hc/en-us/articles/10701257029780-Refresh-Modes</description><content:encoded>&lt;p>
+&lt;a target=“_blank” href="https://help.boox.com/hc/en-us/articles/10701257029780-Refresh-Modes" rel="noopener">https://help.boox.com/hc/en-us/articles/10701257029780-Refresh-Modes&lt;/a>&lt;/p></content:encoded></item><item><title>The Focused Writer</title><link>https://brandonkboswell.com/sources/The-Focused-Writer/</link><pubDate>Wed, 30 Aug 2023 21:29:58 +0000</pubDate><guid>https://brandonkboswell.com/sources/The-Focused-Writer/</guid><description>Author: Shawn Blanc
+Shawn explains that writing has 4 distinct steps: ideas, developing ideas, editing, and publishing. Breaking it down makes writing less intimidating. He recommends always knowing your &amp;ldquo;what&amp;rdquo; - having a plan for what you&amp;rsquo;ll work on before sitting down to write.</description><content:encoded><![CDATA[<p>Author: <em>Shawn Blanc</em></p>
+<ul>
+<li>Shawn explains that <em>writing</em> has 4 distinct steps: ideas, developing ideas, editing, and publishing. Breaking it down makes writing less intimidating.</li>
+<li>He recommends always knowing your &ldquo;what&rdquo; - having a plan for what you&rsquo;ll work on before sitting down to write. This prevents split focus.</li>
+<li>Scheduling &ldquo;when&rdquo; and &ldquo;where&rdquo; you&rsquo;ll write is critical. Studies show you&rsquo;re more likely to follow through when it&rsquo;s scheduled.</li>
+<li>Having a consistent startup routine for writing helps you get into flow quickly. He&rsquo;ll teach more on this later.</li>
+<li>For organization, Shawn uses Ulysses to capture ideas and move them through the 4 stages. Apps like Craft or Notion work too.</li>
+<li>Overthinking is common when working alone without accountability. Community helps provide motivation and progress.</li>
+<li>Shawn outlines his online community, Focus Accelerator, which provides courses, training, accountability and masterminds.</li>
+<li>He previews an upcoming workshop series called &ldquo;Ideas to Action&rdquo; to help members structure systems and build habits.</li>
+<li>There was Q&amp;A on managing the drafting process, structuring time after a major life change, and fiction organization.</li>
+<li>In summary, Shawn provided in-depth advice on structured writing routines, using apps to organize the process, and leveraging community for accountability.</li>
 </ul>
-<p>Key points from the transcript:</p>
+]]></content:encoded></item><item><title>Healthy productivity is about how many chores can you put on autopilot, so that you can focus on the things you really care about</title><link>https://brandonkboswell.com/Healthy-productivity-is-about-how-many-chores-can-you-put-on-autopilot-so-that-you-can-focus-on-the-things-you-really-care-about/</link><pubDate>Sat, 26 Aug 2023 18:19:50 +0000</pubDate><guid>https://brandonkboswell.com/Healthy-productivity-is-about-how-many-chores-can-you-put-on-autopilot-so-that-you-can-focus-on-the-things-you-really-care-about/</guid><description>Automaticity</description><content:encoded>&lt;p>
+&lt;a
+href="/Automaticity/"
+rel="noopener" class="internal-link"
+data-src="/Automaticity/">Automaticity&lt;/a>&lt;/p></content:encoded></item><item><title>Rule followers will be replaced by computers and AI</title><link>https://brandonkboswell.com/Rule-followers-will-be-replaced-by-computers-and-AI/</link><pubDate>Sat, 26 Aug 2023 18:16:25 +0000</pubDate><guid>https://brandonkboswell.com/Rule-followers-will-be-replaced-by-computers-and-AI/</guid><description>AI</description><content:encoded>&lt;p>&lt;em>AI&lt;/em>&lt;/p></content:encoded></item><item><title>Halifax, Nova Scotia, Canada</title><link>https://brandonkboswell.com/Halifax-Nova-Scotia-Canada/</link><pubDate>Fri, 25 Aug 2023 20:42:23 +0000</pubDate><guid>https://brandonkboswell.com/Halifax-Nova-Scotia-Canada/</guid><description>Places I&amp;rsquo;ve Been / Recommend Harbor Hopper Five Fisherman Restaurante aMano Classic Pizza for Donair Lot Six Birch and Anchor Point Pleasant Public Gardens</description><content:encoded><![CDATA[<h2 id="places-ive-been--recommend">Places I&rsquo;ve Been / Recommend</h2>
+<ul>
+<li>Harbor Hopper</li>
+<li>Five Fisherman</li>
+<li><em>Restaurante aMano</em></li>
+<li>Classic Pizza for <em>Donair</em></li>
+<li>Lot Six</li>
+<li>Birch and Anchor</li>
+<li>Point Pleasant</li>
+<li>Public Gardens</li>
+</ul>
+]]></content:encoded></item><item><title>Human Resources</title><link>https://brandonkboswell.com/Human-Resources/</link><pubDate>Thu, 24 Aug 2023 08:09:44 +0000</pubDate><guid>https://brandonkboswell.com/Human-Resources/</guid><description/><content:encoded></content:encoded></item><item><title>Riverside Tavern</title><link>https://brandonkboswell.com/Riverside-Tavern/</link><pubDate>Thu, 24 Aug 2023 08:04:18 +0000</pubDate><guid>https://brandonkboswell.com/Riverside-Tavern/</guid><description>2023-08-23
+The atmosphere was nice The food was decent, but not amazing Specifically their cheese steak wasn&amp;rsquo;t great If/when we go back we need to try to chopped beef</description><content:encoded><![CDATA[<p><em>2023-08-23</em></p>
+<ul>
+<li>The atmosphere was nice</li>
+<li>The food was decent, but not amazing</li>
+<li>Specifically their cheese steak wasn&rsquo;t great</li>
+<li>If/when we go back we need to try to chopped beef</li>
+</ul>
+]]></content:encoded></item><item><title>second brain</title><link>https://brandonkboswell.com/second-brain/</link><pubDate>Thu, 24 Aug 2023 08:02:13 +0000</pubDate><guid>https://brandonkboswell.com/second-brain/</guid><description/><content:encoded></content:encoded></item><item><title>eInk</title><link>https://brandonkboswell.com/eInk/</link><pubDate>Wed, 23 Aug 2023 12:10:41 +0000</pubDate><guid>https://brandonkboswell.com/eInk/</guid><description/><content:encoded></content:encoded></item><item><title>Benefits of Digital Tools</title><link>https://brandonkboswell.com/Benefits-of-Digital-Tools/</link><pubDate>Wed, 23 Aug 2023 12:08:00 +0000</pubDate><guid>https://brandonkboswell.com/Benefits-of-Digital-Tools/</guid><description>Digital Tools makes the following features inexpensive / easy:
+Searchable Sharable Backupable Editable Linkable Syncable eInk bring the Benefits of Digital Tools to historically Analog Tools and their workflows</description><content:encoded><![CDATA[<p><em>Digital Tools</em> makes the following features inexpensive / easy:</p>
+<ul>
+<li><em>Searchable</em></li>
+<li><em>Sharable</em></li>
+<li><em>Backupable</em></li>
+<li><em>Editable</em></li>
+<li><em>Linkable</em></li>
+<li><em>Syncable</em></li>
+</ul>
+<p>
+
+
+
+
+
+<a
+  href="/eInk/"
+  rel="noopener" class="internal-link"
+  data-src="/eInk/">eInk</a> bring the 
+
+
+
+
+
+<a
+  href="/Benefits-of-Digital-Tools/"
+  rel="noopener" class="internal-link"
+  data-src="/Benefits-of-Digital-Tools/">Benefits of Digital Tools</a> to historically 
+
+
+
+
+
+<a
+  href="/Analog-Tools/"
+  rel="noopener" class="internal-link"
+  data-src="/Analog-Tools/">Analog Tools</a> and their workflows</p>
+]]></content:encoded></item><item><title>Why I start with Analog Tools and you probably should, too</title><link>https://brandonkboswell.com/blog/Why-I-start-with-Analog-Tools-and-you-probably-should-too/</link><pubDate>Wed, 23 Aug 2023 07:38:30 +0000</pubDate><guid>https://brandonkboswell.com/blog/Why-I-start-with-Analog-Tools-and-you-probably-should-too/</guid><description>Digital Tools are excellent and essential, but they are a terrible place to start. When you&amp;rsquo;re working on a new idea and the possibilities are still endless, the linear flow of modern digital tools is a recipe to build something like the things you&amp;rsquo;ve already built or someone else has already built.</description><content:encoded><![CDATA[<p>
+
+
+
+
+
+<a
+  href="/moc/Digital-Workflow/"
+  rel="noopener" class="internal-link"
+  data-src="/moc/Digital-Workflow/">Digital Tools</a> are excellent and essential, but they are a terrible place to start. When you&rsquo;re working on a new idea and the possibilities are still endless, the linear flow of modern digital tools is a recipe to build something like the things you&rsquo;ve already built or someone else has already built. Starting with digital also increases the risk of missing the point of the project altogether by working in high fidelity before you&rsquo;ve truly figured out the essence of what you&rsquo;re trying to make.</p>
+<p>For years, I used paper notebooks for this step in my process, but about 2 years ago, I gave 
+
+
+
+
+
+<a
+  href="/eInk/"
+  rel="noopener" class="internal-link"
+  data-src="/eInk/">E-Ink</a> a try, and I haven&rsquo;t looked back. E-Ink devices, like the 
+
+
+
+
+
+<a
+  href="/reMarkable-2/"
+  rel="noopener" class="internal-link"
+  data-src="/reMarkable-2/">reMarkable 2</a>, have the conveniences of 
+
+
+
+
+
+<a
+  href="/Analog-Tools/"
+  rel="noopener" class="internal-link"
+  data-src="/Analog-Tools/">Analog Tools</a>, combined with digital portability and collaboration. As a User Experience designer, there are often times when I have an image in mind or even on my sketchbook, but I&rsquo;m trying to discuss it with one of my coworkers via Zoom. Not only can they not see what&rsquo;s in my mind, they also can&rsquo;t see what&rsquo;s in my sketchbook. I&rsquo;m effectively left with just my words to try to communicate the vision for this idea. With E-Ink, I can share my drawing screen in real-time with my colleague and that person can see exactly what I see. If a detail about the sketch isn&rsquo;t quite right (or I haven&rsquo;t explored that detail yet), we can explore that together. E-Ink can bridge the gaps created by a remote workforce. When I&rsquo;m done with this step in the process, I can share the result with others without having to rip the page out of my notebook or find a camera or scanner.</p>
+<h3 id="additional-ideas">Additional Ideas</h3>
 <ul>
 <li>
-<p>Designing for a spatial operating system allows for creating experiences with depth, scale, natural inputs, and Spatial Audio.</p>
-</li>
-<li>
-<p>The goal is to design familiar apps that can be easily navigated and understood by users.</p>
-</li>
-<li>
-<p>Windows in the spatial operating system are designed with a new visual language, using glass material for contrast and adaptability to different lighting conditions.</p>
-</li>
-<li>
-<p>Windows can be moved, resized, and closed using intuitive controls, and they should be placed in a way that keeps interfaces easy to read and use.</p>
-</li>
-<li>
-<p>The size and shape of windows can be flexible to accommodate different content and contexts.</p>
-</li>
-<li>
-<p>Multiple windows can be used in certain cases but should be avoided when possible to avoid overwhelming users.</p>
-</li>
-<li>
-<p>Points are used to specify the size of interface elements and ensure scalability across different screens and distances.</p>
-</li>
-<li>
-<p>Designing human-centered spatial apps involves considering the field of view, ergonomics, and the ability to interact with content from different positions.</p>
-</li>
-<li>
-<p>Content should be placed within the field of view and designed to accommodate different physical positions and movements.</p>
-</li>
-<li>
-<p>The use of depth and scale can create hierarchy, emphasize content, and provide immersive experiences.</p>
-</li>
-<li>
-<p>Immersive experiences can range from being within a window in the Shared Space to occupying a Full Space, with varying levels of immersion and control for the user.</p>
-</li>
-<li>
-<p>Immersive apps should guide users&rsquo; focus, blend with reality, incorporate subtle animations and soundscapes, and maintain smooth transitions to enhance the overall experience.
 
 
-<img src="/BKB%202023-06-06%20at%2017.13.40.png" alt="BKB 2023-06-06 at 17.13.40.png"  /></p>
-</li>
-<li>
-<p>Anchor content in people&rsquo;s space not to their FOV</p>
-</li>
+
+
+
+<a
+  href="/Start-with-Analog-Tools/"
+  rel="noopener" class="internal-link"
+  data-src="/Start-with-Analog-Tools/">Start with Analog Tools</a></li>
+<li><em>Analog tools enable non-linear thinking</em></li>
+<li><em>Analog tools enable exploration</em></li>
+<li><em>Work from low-fidelity to high-fidelity</em></li>
+<li><em>ideas in our minds are of the lowest fidelity</em></li>
 </ul>
-]]></content:encoded></item><item><title>Design for Spatial Input</title><link>https://brandonkboswell.com/sources/Design-for-Spatial-Input/</link><pubDate>Tue, 06 Jun 2023 17:01:19 +0000</pubDate><guid>https://brandonkboswell.com/sources/Design-for-Spatial-Input/</guid><description>Author: Apple URL: https://developer.apple.com/videos/play/wwdc2023/10073/ We can&amp;rsquo;t actually touch virtual content (yet) so we need to compensate for that with other forms of feedback Why can&amp;rsquo;t we use Apple Watch for haptics / tactile interaction?</description><content:encoded><![CDATA[<ul>
-<li>Author: <em>Apple</em></li>
-<li>URL: <em>
+]]></content:encoded></item><item><title>How to fix Obsidian iOS iCloud sinking not loading</title><link>https://brandonkboswell.com/How-to-fix-Obsidian-iOS-iCloud-sinking-not-loading/</link><pubDate>Tue, 22 Aug 2023 16:33:49 +0000</pubDate><guid>https://brandonkboswell.com/How-to-fix-Obsidian-iOS-iCloud-sinking-not-loading/</guid><description>Was running into this issue where Obsidian on iOS was always indicating that it didn&amp;rsquo;t have it&amp;rsquo;s configuration file. This article is helpful for fixing it: https://www.080f53.com/blog/2023/03/how-to-fix-an-issue-with-the-obsidian-app-not-opening-and-syncing-on-your-iphone/</description><content:encoded><![CDATA[<p>Was running into this issue where 
 
-<a target=“_blank” href="https://developer.apple.com/videos/play/wwdc2023/10073/" rel="noopener">https://developer.apple.com/videos/play/wwdc2023/10073/</a></em></li>
-</ul>
+
+
+
+
+<a
+  href="/Obsidian/"
+  rel="noopener" class="internal-link"
+  data-src="/Obsidian/">Obsidian</a> on <em>iOS</em> was always indicating that it didn&rsquo;t have it&rsquo;s configuration file. This article is helpful for fixing it: 
+
+<a target=“_blank” href="https://www.080f53.com/blog/2023/03/how-to-fix-an-issue-with-the-obsidian-app-not-opening-and-syncing-on-your-iphone/" rel="noopener">https://www.080f53.com/blog/2023/03/how-to-fix-an-issue-with-the-obsidian-app-not-opening-and-syncing-on-your-iphone/</a></p>
+]]></content:encoded></item><item><title>How to fix a corrupted git folder</title><link>https://brandonkboswell.com/How-to-fix-a-corrupted-git-folder/</link><pubDate>Mon, 21 Aug 2023 22:28:47 +0000</pubDate><guid>https://brandonkboswell.com/How-to-fix-a-corrupted-git-folder/</guid><description>I ran into this with my Obsidian backup and was able to solve this by using the steps in this article: https://zelig880.com/how-to-fix-git-error-bad-object-head</description><content:encoded><![CDATA[<p>I ran into this with my 
+
+
+
+
+
+<a
+  href="/Obsidian/"
+  rel="noopener" class="internal-link"
+  data-src="/Obsidian/">Obsidian</a> backup and was able to solve this by using the steps in this article: 
+
+<a target=“_blank” href="https://zelig880.com/how-to-fix-git-error-bad-object-head" rel="noopener">https://zelig880.com/how-to-fix-git-error-bad-object-head</a></p>
+]]></content:encoded></item><item><title>Pielihueso Los Sauces 2022</title><link>https://brandonkboswell.com/wine/Pielihueso-Los-Sauces-2022/</link><pubDate>Sun, 20 Aug 2023 14:10:40 +0000</pubDate><guid>https://brandonkboswell.com/wine/Pielihueso-Los-Sauces-2022/</guid><description>50% Cabernet Sauvignon 50% Malbec Opened and let it sit open for an hour Mendoza, Argentina Argentina
+Full Bodied, notes of dark fruit dark fruit Easy to drink Red Wine Smooth</description><content:encoded><![CDATA[<p>50% 
+
+
+
+
+
+<a
+  href="/Cabernet-Sauvignon/"
+  rel="noopener" class="internal-link"
+  data-src="/Cabernet-Sauvignon/">Cabernet Sauvignon</a>
+50% <em>Malbec</em>
+Opened and let it sit open for an hour
+<em>Mendoza, Argentina</em>
+<em>Argentina</em></p>
+<p>Full Bodied, notes of dark fruit
+<em>dark fruit</em>
+<em>Easy to drink</em>
+
+
+
+
+
+
+<a
+  href="/Red-Wine/"
+  rel="noopener" class="internal-link"
+  data-src="/Red-Wine/">Red Wine</a>
+<em>Smooth</em></p>
+<p>Drank with <em>Marshie</em>, <em>Jimmy</em> and <em>Jordan</em></p>
+]]></content:encoded></item><item><title>Meditation is a hedged bet</title><link>https://brandonkboswell.com/Meditation-is-a-hedged-bet/</link><pubDate>Fri, 18 Aug 2023 09:37:15 +0000</pubDate><guid>https://brandonkboswell.com/Meditation-is-a-hedged-bet/</guid><description>At best, I get focus and clarity, at worst I get a stream of new ideas.</description><content:encoded>&lt;p>At best, I get
+&lt;a
+href="/moc/Focus/"
+rel="noopener" class="internal-link"
+data-src="/moc/Focus/">focus&lt;/a> and clarity, at worst I get a stream of new ideas.&lt;/p></content:encoded></item><item><title>Meditation</title><link>https://brandonkboswell.com/Meditation/</link><pubDate>Fri, 18 Aug 2023 09:37:06 +0000</pubDate><guid>https://brandonkboswell.com/Meditation/</guid><description>Meditation is a hedged bet</description><content:encoded>&lt;p>
+&lt;a
+href="/Meditation-is-a-hedged-bet/"
+rel="noopener" class="internal-link"
+data-src="/Meditation-is-a-hedged-bet/">Meditation is a hedged bet&lt;/a>&lt;/p></content:encoded></item><item><title>Default Preferences</title><link>https://brandonkboswell.com/Default-Preferences/</link><pubDate>Thu, 10 Aug 2023 12:57:30 +0000</pubDate><guid>https://brandonkboswell.com/Default-Preferences/</guid><description>User Preferences</description><content:encoded>&lt;p>
+&lt;a
+href="/User-Preferences/"
+rel="noopener" class="internal-link"
+data-src="/User-Preferences/">User Preferences&lt;/a>&lt;/p></content:encoded></item><item><title>There are some settings that designers should not have strong opinions on</title><link>https://brandonkboswell.com/There-are-some-settings-that-designers-should-not-have-strong-opinions-on/</link><pubDate>Thu, 10 Aug 2023 12:56:49 +0000</pubDate><guid>https://brandonkboswell.com/There-are-some-settings-that-designers-should-not-have-strong-opinions-on/</guid><description>User Preferences</description><content:encoded>&lt;p>
+&lt;a
+href="/User-Preferences/"
+rel="noopener" class="internal-link"
+data-src="/User-Preferences/">User Preferences&lt;/a>&lt;/p></content:encoded></item><item><title>Caret Mode</title><link>https://brandonkboswell.com/Caret-Mode/</link><pubDate>Mon, 07 Aug 2023 22:59:12 +0000</pubDate><guid>https://brandonkboswell.com/Caret-Mode/</guid><description>VIM Vimium
+https://github.com/philc/vimium/wiki/Visual-Mode</description><content:encoded><![CDATA[<p>
+
+
+
+
+
+<a
+  href="/VIM/"
+  rel="noopener" class="internal-link"
+  data-src="/VIM/">VIM</a>
+
+
+
+
+
+
+<a
+  href="/Vimium/"
+  rel="noopener" class="internal-link"
+  data-src="/Vimium/">Vimium</a></p>
 <p>
 
-<img src="/Pasted%20image%2020230606170133.png" alt="Pasted image 20230606170133.png"  />
-
-
-<img src="/BKB%202023-06-06%20at%2017.02.35.png" alt="BKB 2023-06-06 at 17.02.35.png"  />
-
-<img src="/BKB%202023-06-06%20at%2017.03.48.png" alt="BKB 2023-06-06 at 17.03.48.png"  />
-We can&rsquo;t actually touch virtual content (yet) so we need to compensate for that with other forms of feedback 
-
-<img src="/BKB%202023-06-06%20at%2017.06.32.png" alt="BKB 2023-06-06 at 17.06.32.png"  /></p>
-<p>
-
-<img src="/BKB%202023-06-06%20at%2017.07.11.png" alt="BKB 2023-06-06 at 17.07.11.png"  />
-
-<img src="/BKB%202023-06-06%20at%2017.07.24.png" alt="BKB 2023-06-06 at 17.07.24.png"  />Why can&rsquo;t we use <em>Apple Watch</em> for haptics / tactile interaction?</p>
-<p>Teaching is going to be important because this not going to be intuitive for many people.</p>
-]]></content:encoded></item><item><title>Grilled Chicken Rub</title><link>https://brandonkboswell.com/cooking/Grilled-Chicken-Rub/</link><pubDate>Sun, 04 Jun 2023 14:27:22 +0000</pubDate><guid>https://brandonkboswell.com/cooking/Grilled-Chicken-Rub/</guid><description>Ingredients 1 tablespoon brown sugar 1 tablespoon kosher salt 1 tablespoon garlic powder 1 tablespoon paprika 1 ½ teaspoons onion powder 1 ½ teaspoons freshly cracked black pepper 2 tablespoons extra virgin olive oil 3 pounds boneless, skinless chicken thighs Source: https://themodernproper.</description><content:encoded><![CDATA[<h1 id="ingredients">Ingredients</h1>
-<ul>
-<li>1 tablespoon brown sugar</li>
-<li>1 tablespoon kosher salt</li>
-<li>1 tablespoon garlic powder</li>
-<li>1 tablespoon paprika</li>
-<li>1 ½ teaspoons onion powder</li>
-<li>1 ½ teaspoons freshly cracked black pepper</li>
-<li>2 tablespoons extra virgin olive oil</li>
-<li>3 pounds boneless, skinless chicken thighs</li>
-</ul>
-<p>
-
-<img src="/../BKB%202023-06-04%20at%2014.26.44.png" alt="BKB 2023-06-04 at 14.26.44.png"  /></p>
-<p>Source: 
-
-<a target=“_blank” href="https://themodernproper.com/grilled-chicken-thighs" rel="noopener">https://themodernproper.com/grilled-chicken-thighs</a></p>
-]]></content:encoded></item><item><title>Improvements aren't always visible</title><link>https://brandonkboswell.com/Improvements-arent-always-visible/</link><pubDate>Sun, 04 Jun 2023 13:43:26 +0000</pubDate><guid>https://brandonkboswell.com/Improvements-arent-always-visible/</guid><description>Improvement</description><content:encoded>&lt;p>&lt;em>Improvement&lt;/em>&lt;/p></content:encoded></item><item><title>Stop Motion</title><link>https://brandonkboswell.com/Stop-Motion/</link><pubDate>Sat, 03 Jun 2023 21:46:06 +0000</pubDate><guid>https://brandonkboswell.com/Stop-Motion/</guid><description>Dragon Frame</description><content:encoded>&lt;p>
-&lt;a target=“_blank” href="https://www.dragonframe.com/" rel="noopener">Dragon Frame&lt;/a>&lt;/p></content:encoded></item><item><title>COVID Epoch</title><link>https://brandonkboswell.com/COVID-Epoch/</link><pubDate>Sat, 03 Jun 2023 21:41:53 +0000</pubDate><guid>https://brandonkboswell.com/COVID-Epoch/</guid><description>Chip and I joked that time of COVID should be a new version of Epoch * Time before COVID, Time after COVID * 3 Years after COVID</description><content:encoded><![CDATA[<p><em>Chip</em> and I joked that time of <em>COVID</em> should be a new version of <em>Epoch</em>
-* Time before COVID, Time after COVID
-* 3 Years after COVID</p>
+<a target=“_blank” href="https://github.com/philc/vimium/wiki/Visual-Mode" rel="noopener">https://github.com/philc/vimium/wiki/Visual-Mode</a></p>
 ]]></content:encoded></item></channel></rss>
