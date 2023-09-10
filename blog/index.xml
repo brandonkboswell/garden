@@ -2887,8 +2887,36 @@ which I call
   href="/Obsidian/"
   rel="noopener" class="internal-link"
   data-src="/Obsidian/">Obsidian</a></p>
-]]></content:encoded></item><item><title>My App Essentials</title><link>https://brandonkboswell.com/blog/My-App-Essentials/</link><pubDate>Tue, 01 Feb 2022 11:04:05 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-App-Essentials/</guid><description> Obsidian TickTick Skitch HandMirror Amethyst OneThing 1Password Loom GoodNotes Readwise Command MeetingBar Honorable Mentions Drafts Spotify / Tidal iTerm2 Parcel Fantastical</description><content:encoded><![CDATA[<ul>
+]]></content:encoded></item><item><title>My App Essentials</title><link>https://brandonkboswell.com/blog/My-App-Essentials/</link><pubDate>Tue, 01 Feb 2022 11:04:05 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-App-Essentials/</guid><description>Arc
+Obsidian
+Akiflow
+Cleanshot X
+1Password
+Loom
+Readwise
+MeetingBar
+DaVinci Resolve / Gling
+IZotope Rx
+Postico
+Sublime Text / VS Code
+Discord
+Honorable Mentions Drafts
+Things 3
+Apple Music</description><content:encoded><![CDATA[<ul>
 <li>
+<p>
+
+
+
+
+
+<a
+  href="/Arc/"
+  rel="noopener" class="internal-link"
+  data-src="/Arc/">Arc</a></p>
+</li>
+<li>
+<p>
 
 
 
@@ -2897,32 +2925,28 @@ which I call
 <a
   href="/Obsidian/"
   rel="noopener" class="internal-link"
-  data-src="/Obsidian/">Obsidian</a></li>
+  data-src="/Obsidian/">Obsidian</a></p>
+</li>
 <li>
+<p>
 
 
 
 
 
 <a
-  href="/TickTick/"
-  rel="noopener" class="internal-link"
-  data-src="/TickTick/">TickTick</a></li>
-<li><em>Skitch</em></li>
-<li><em>HandMirror</em></li>
+  
+  rel="noopener" class="internal-link broken"
+  data-src="../Akiflow">Akiflow</a></p>
+</li>
 <li>
-
-
-
-
-
-<a
-  href="/Amethyst/"
-  rel="noopener" class="internal-link"
-  data-src="/Amethyst/">Amethyst</a></li>
-<li><em>OneThing</em></li>
-<li><em>1Password</em></li>
+<p><em>Cleanshot X</em></p>
+</li>
 <li>
+<p><em>1Password</em></p>
+</li>
+<li>
+<p>
 
 
 
@@ -2931,9 +2955,10 @@ which I call
 <a
   href="/Loom/"
   rel="noopener" class="internal-link"
-  data-src="/Loom/">Loom</a></li>
-<li><em>GoodNotes</em></li>
+  data-src="/Loom/">Loom</a></p>
+</li>
 <li>
+<p>
 
 
 
@@ -2942,9 +2967,10 @@ which I call
 <a
   href="/Readwise/"
   rel="noopener" class="internal-link"
-  data-src="/Readwise/">Readwise</a></li>
-<li><em>Command</em></li>
+  data-src="/Readwise/">Readwise</a></p>
+</li>
 <li>
+<p>
 
 
 
@@ -2953,13 +2979,64 @@ which I call
 <a
   href="/MeetingBar/"
   rel="noopener" class="internal-link"
-  data-src="/MeetingBar/">MeetingBar</a></li>
+  data-src="/MeetingBar/">MeetingBar</a></p>
+</li>
+<li>
+<p>
+
+
+
+
+
+<a
+  href="/DaVinci-Resolve/"
+  rel="noopener" class="internal-link"
+  data-src="/DaVinci-Resolve/">DaVinci Resolve</a> / 
+
+
+
+
+
+<a
+  href="/Gling/"
+  rel="noopener" class="internal-link"
+  data-src="/Gling/">Gling</a></p>
+</li>
+<li>
+<p><em>IZotope Rx</em></p>
+</li>
+<li>
+<p><em>Postico</em></p>
+</li>
+<li>
+<p><em>Sublime Text</em> / <em>VS Code</em></p>
+</li>
+<li>
+<p>
+
+
+
+
+
+<a
+  href="/Discord/"
+  rel="noopener" class="internal-link"
+  data-src="/Discord/">Discord</a></p>
+</li>
 </ul>
 <h3 id="honorable-mentions">Honorable Mentions</h3>
 <ul>
-<li><em>Drafts</em></li>
-<li><em>Spotify</em> / <em>Tidal</em></li>
 <li>
+<p><em>Drafts</em></p>
+</li>
+<li>
+<p><em>Things 3</em></p>
+</li>
+<li>
+<p><em>Apple Music</em></p>
+</li>
+<li>
+<p>
 
 
 
@@ -2968,9 +3045,53 @@ which I call
 <a
   href="/iTerm2/"
   rel="noopener" class="internal-link"
-  data-src="/iTerm2/">iTerm2</a></li>
-<li><em>Parcel</em></li>
-<li><em>Fantastical</em></li>
+  data-src="/iTerm2/">iTerm2</a></p>
+</li>
+<li>
+<p><em>Parcel</em></p>
+</li>
+<li>
+<p><em>Fantastical</em></p>
+</li>
+</ul>
+<h2 id="previous">Previous</h2>
+<ul>
+<li>
+<p><em>GoodNotes</em></p>
+</li>
+<li>
+<p>
+
+
+
+
+
+<a
+  href="/TickTick/"
+  rel="noopener" class="internal-link"
+  data-src="/TickTick/">TickTick</a></p>
+</li>
+<li>
+<p>
+
+
+
+
+
+<a
+  href="/Amethyst/"
+  rel="noopener" class="internal-link"
+  data-src="/Amethyst/">Amethyst</a></p>
+</li>
+<li>
+<p><em>HandMirror</em></p>
+</li>
+<li>
+<p><em>Spotify</em> / <em>Tidal</em></p>
+</li>
+<li>
+<p><em>Command</em></p>
+</li>
 </ul>
 ]]></content:encoded></item><item><title>My process for keeping in touch with people using TickTick</title><link>https://brandonkboswell.com/blog/My-process-for-keeping-in-touch-with-people-using-TickTick/</link><pubDate>Mon, 31 Jan 2022 22:53:25 +0000</pubDate><guid>https://brandonkboswell.com/blog/My-process-for-keeping-in-touch-with-people-using-TickTick/</guid><description/><content:encoded></content:encoded></item><item><title>How I keep my Chrome Tabs under control with "Merge All Windows" Chrome Extension</title><link>https://brandonkboswell.com/blog/How-I-keep-my-Chrome-Tabs-under-control-with-Merge-All-Windows-Chrome-Extension/</link><pubDate>Mon, 31 Jan 2022 22:47:25 +0000</pubDate><guid>https://brandonkboswell.com/blog/How-I-keep-my-Chrome-Tabs-under-control-with-Merge-All-Windows-Chrome-Extension/</guid><description/><content:encoded></content:encoded></item><item><title>Vimium is not just for Developers</title><link>https://brandonkboswell.com/blog/Vimium-is-not-just-for-Developers/</link><pubDate>Sun, 28 Nov 2021 21:53:02 +0000</pubDate><guid>https://brandonkboswell.com/blog/Vimium-is-not-just-for-Developers/</guid><description>Chrome Extensions
 This video is by no means an exhaustive list of everything Vimium can do, but I can walk you through the features I use everyday that I think are a good starting point and then you can decide if you want to mix in anything else.</description><content:encoded><![CDATA[<p>
