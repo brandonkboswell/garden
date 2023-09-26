@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Why I start with Analog Tools and you probably should, too</title><link>https://brandonkboswell.com/blog/Why-I-start-with-Analog-Tools-and-you-probably-should-too/</link><pubDate>Wed, 23 Aug 2023 07:38:30 +0000</pubDate><guid>https://brandonkboswell.com/blog/Why-I-start-with-Analog-Tools-and-you-probably-should-too/</guid><description>Digital Tools are excellent and essential, but they are a terrible place to start. When you&amp;rsquo;re working on a new idea and the possibilities are still endless, the linear flow of modern digital tools is a recipe to build something like the things you&amp;rsquo;ve already built or someone else has already built.</description><content:encoded><![CDATA[<p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Which e-Ink device would I not buy?</title><link>https://brandonkboswell.com/blog/Which-e-Ink-device-would-I-not-buy/</link><pubDate>Sun, 24 Sep 2023 09:13:28 +0000</pubDate><guid>https://brandonkboswell.com/blog/Which-e-Ink-device-would-I-not-buy/</guid><description>A prompt from a recent E-Ink Roundtable was: If you no longer had access to any of your E-Ink tablets, and had to go out and buy one with your own money, which would you not buy?</description><content:encoded><![CDATA[<p>A prompt from a recent 
+
+
+
+
+
+<a
+  href="/E-Ink-Roundtable/"
+  rel="noopener" class="internal-link"
+  data-src="/E-Ink-Roundtable/">E-Ink Roundtable</a> was: If you no longer had access to any of your 
+
+
+
+
+
+<a
+  href="/eInk/"
+  rel="noopener" class="internal-link"
+  data-src="/eInk/">E-Ink</a> tablets, and had to go out and buy one with your own money, which would you not buy?</p>
+<p>From a completely personal preference perspective, I would not buy the <em>SuperNote</em>. This is not because is it&rsquo;s a bad device, quite the opposite, it&rsquo;s actually an amazing device that is practical, and I love their team&rsquo;s philosophy and their software. The challenge I have is that my writing style is just not compatible with that device. I want to reiterate, this is completely my personal preference. I find writing on the SuperNote fatiguing, as I am constantly bogging down the pen tip in the writing surface. <strong>With that said, Kindle Scribe Hardware running SuperNote software would be S-Tier.</strong></p>
+]]></content:encoded></item><item><title>Why I start with Analog Tools and you probably should, too</title><link>https://brandonkboswell.com/blog/Why-I-start-with-Analog-Tools-and-you-probably-should-too/</link><pubDate>Wed, 23 Aug 2023 07:38:30 +0000</pubDate><guid>https://brandonkboswell.com/blog/Why-I-start-with-Analog-Tools-and-you-probably-should-too/</guid><description>Digital Tools are excellent and essential, but they are a terrible place to start. When you&amp;rsquo;re working on a new idea and the possibilities are still endless, the linear flow of modern digital tools is a recipe to build something like the things you&amp;rsquo;ve already built or someone else has already built.</description><content:encoded><![CDATA[<p>
 
 
 
@@ -3185,75 +3205,4 @@ Close Tabs</li>
 <p><input checked="" disabled="" type="checkbox"> Look up what my excludes are currently</p>
 </li>
 </ul>
-]]></content:encoded></item><item><title>5 Tips for using your mouse less on MacOS</title><link>https://brandonkboswell.com/blog/5-Tips-for-using-your-mouse-less-on-MacOS/</link><pubDate>Sun, 14 Nov 2021 22:33:00 +0000</pubDate><guid>https://brandonkboswell.com/blog/5-Tips-for-using-your-mouse-less-on-MacOS/</guid><description>#1. Use a Window Manager I use Amethyst to give specific Monitors and windows focus which was a common thing I would have to pick up my mouse for Hyper + ZXCV for moving Windows Around Hyper + ASDF to move focus #2.</description><content:encoded><![CDATA[<h2 id="1-use-a-window-manager">#1. Use a Window Manager</h2>
-<ul>
-<li>I use Amethyst to give specific Monitors and windows focus which was a common thing I would have to pick up my mouse for</li>
-<li><strong>Hyper + ZXCV</strong> for moving Windows Around</li>
-<li><strong>Hyper + ASDF</strong> to move focus</li>
-</ul>
-<hr>
-<h2 id="2-learn-text-cursor-movement">#2. Learn Text Cursor movement</h2>
-<ul>
-<li><strong>Command + Right or Left</strong> to jump to the end of the line</li>
-<li><strong>Alt + Right or Left</strong> to move a word at a time
-<ul>
-<li><strong>Add shift</strong> to select the word while you&rsquo;re at it</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="3-scroll-with-your-arrow-keys">#3. Scroll with your arrow keys</h2>
-<ul>
-<li>Most websites let you use up &amp; down arrow keys</li>
-<li>I use <strong>Hyper + HJKL</strong> as my arrow keys so that I don&rsquo;t have to leave the home row <em>(optional)</em>
-<ul>
-<li>You can also use the Vimium Chrome Extension to do this and much more.</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="4-learn-your-keyboard-shortcuts">#4. Learn your keyboard shortcuts</h2>
-<ul>
-<li>MacOS Keyboard Shortcuts</li>
-<li>App-Specific Keyboard Shortcuts</li>
-</ul>
-<hr>
-<h2 id="macos-keyboard-shortcuts">MacOS Keyboard Shortcuts</h2>
-<ul>
-<li>Change active application with <strong>Alt + Tab</strong></li>
-<li><strong>Ctrl + Cmd + F</strong> for Full Screen</li>
-<li>Changing Spaces with <strong>Ctrl + Left or Right</strong></li>
-<li>Make sure you know how to play/pause your music &amp; change volume with keyboard shortcuts</li>
-<li><strong>Function + Backspace</strong> functions as a forward delete key</li>
-<li><strong>Cmd + Shift + 3 or 4</strong> for Screenshots</li>
-<li>Close current window with <strong>Cmd + W</strong></li>
-<li>Close current app with <strong>Cmd + Q</strong></li>
-</ul>
-<hr>
-<h2 id="app-specific-shortcuts">App-Specific Shortcuts</h2>
-<ul>
-<li><strong>Slack</strong>
-<ul>
-<li><strong>Command+K</strong> to find conversations</li>
-</ul>
-</li>
-<li><strong>Chrome</strong>
-<ul>
-<li><strong>Cmd + L</strong> to highlight to URL bar</li>
-<li><strong>Ctrl + Tab</strong> to switch tabs</li>
-<li><strong>Cmd + R</strong> to refresh the current tab</li>
-<li><strong>Cmd + [ to go back and CMD + ]</strong> to go forward a page</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="5-figure-out-how-to-jump-to-your-commonly-used-apps">#5. Figure out how to jump to your commonly used apps</h2>
-<ul>
-<li>Use Karabiner Elements and add Launchkeys</li>
-<li>Use Alfred/Spotlight to help with launch random applications</li>
-</ul>
-<hr>
-<h2 id="exercise">Exercise</h2>
-<p><em>If you want to get serious about this write down or keep a mental note of every time you stop &amp; pick up your mouse today.</em></p>
-<p><em>Capture what you were trying to do.</em></p>
 ]]></content:encoded></item></channel></rss>
