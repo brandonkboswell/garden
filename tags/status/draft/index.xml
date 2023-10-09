@@ -125,6 +125,26 @@ From this course I learned that I need to use shift on my right hand more. I app
 Shift + A to insert at the end of the line
 :20 for line number jumping
 +p for system clipboard in VIM, but doesn&rsquo;t seem to work in Obsidian</p>
+<p>I&rsquo;m currently using 
+
+
+
+
+
+<a
+  href="/sources/LazyVim/"
+  rel="noopener" class="internal-link"
+  data-src="/sources/LazyVim/">LazyVim</a></p>
+<p>You can 
+
+
+
+
+
+<a
+  href="/git/"
+  rel="noopener" class="internal-link"
+  data-src="/git/">git</a> blame with Leader + GHB</p>
 <p>
 
 <a target=“_blank” href="https://vimsheet.com/" rel="noopener">https://vimsheet.com/</a></p>
