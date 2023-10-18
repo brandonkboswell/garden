@@ -1,16 +1,134 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>Grep Live Args</title><link>https://brandonkboswell.com/Grep-Live-Args/</link><pubDate>Sun, 08 Oct 2023 14:27:26 +0000</pubDate><guid>https://brandonkboswell.com/Grep-Live-Args/</guid><description/><content:encoded></content:encoded></item><item><title>Set the Hook</title><link>https://brandonkboswell.com/Set-the-Hook/</link><pubDate>Sun, 08 Oct 2023 13:44:40 +0000</pubDate><guid>https://brandonkboswell.com/Set-the-Hook/</guid><description>Hook</description><content:encoded>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>Storytelling is about creating and releasing tension</title><link>https://brandonkboswell.com/Storytelling-is-about-creating-and-releasing-tension/</link><pubDate>Sun, 15 Oct 2023 11:38:29 +0000</pubDate><guid>https://brandonkboswell.com/Storytelling-is-about-creating-and-releasing-tension/</guid><description>Storytelling Tension</description><content:encoded><![CDATA[<p><em>Storytelling</em>
+<em>Tension</em></p>
+]]></content:encoded></item><item><title>Killing a Process that is using a specific Port</title><link>https://brandonkboswell.com/Killing-a-Process-that-is-using-a-specific-Port/</link><pubDate>Sun, 15 Oct 2023 11:18:14 +0000</pubDate><guid>https://brandonkboswell.com/Killing-a-Process-that-is-using-a-specific-Port/</guid><description> 2023-10-13 Learned about the -t flag on lsof. It will just return the port #&amp;rsquo;s I&amp;rsquo;ve been using lsof for years, but as a two-step process. Now I can do it all in one go. I went ahead and added a snippet for this in Raycast sudo kill -kill $(sudo lsof -t -i :5432)</description><content:encoded><![CDATA[<ul>
+<li><em>2023-10-13</em>
+<ul>
+<li>Learned about the -t flag on <em>lsof.</em> It will just return the port #&rsquo;s</li>
+<li>I&rsquo;ve been using <em>lsof</em> for years, but as a two-step process. Now I can do it all in one go.</li>
+<li>I went ahead and added a snippet for this in 
+
+
+
+
+
+<a
+  href="/Raycast/"
+  rel="noopener" class="internal-link"
+  data-src="/Raycast/">Raycast</a>
+<code>sudo kill -kill $(sudo lsof -t -i :5432)</code></li>
+</ul>
+</li>
+</ul>
+]]></content:encoded></item><item><title>Your goal is to set expectations and deliver on your promise</title><link>https://brandonkboswell.com/Your-goal-is-to-set-expectations-and-deliver-on-your-promise/</link><pubDate>Sun, 15 Oct 2023 10:35:22 +0000</pubDate><guid>https://brandonkboswell.com/Your-goal-is-to-set-expectations-and-deliver-on-your-promise/</guid><description>YouTube Intro or life ;)</description><content:encoded>&lt;p>&lt;em>YouTube Intro&lt;/em>
+or life ;)&lt;/p></content:encoded></item><item><title>Move forward with decisions that are easily adjusted later</title><link>https://brandonkboswell.com/Move-forward-with-decisions-that-are-easily-adjusted-later/</link><pubDate>Sun, 15 Oct 2023 10:28:27 +0000</pubDate><guid>https://brandonkboswell.com/Move-forward-with-decisions-that-are-easily-adjusted-later/</guid><description>Significant time is lost over-discussing choices that can be easily adjusted later. If it can be changed painlessly later, choose what appears to be a decent option and revisit this in a retrospective where you&amp;rsquo;ll have more information.</description><content:encoded>&lt;p>Significant time is lost over-discussing choices that can be easily adjusted later. If it can be changed painlessly later, choose what appears to be a decent option and revisit this in a retrospective where you&amp;rsquo;ll have more information.&lt;/p></content:encoded></item><item><title>The Case For Boredom</title><link>https://brandonkboswell.com/blog/The-Case-For-Boredom/</link><pubDate>Fri, 13 Oct 2023 08:54:00 +0000</pubDate><guid>https://brandonkboswell.com/blog/The-Case-For-Boredom/</guid><description>Do you ever find that often solve a key problem, or have a novel idea when in the shower, just to find that you have no ability to jot those ideas down? I call those Shower Thoughts. Have you ever wondered why you get these epiphanies in the shower? Well, there are a number of scientific reasons why, but let&amp;rsquo;s focus on just one of them today, Boredom. When you&amp;rsquo;re in the shower, you don&amp;rsquo;t have your TV, computer, phone. (If I&amp;rsquo;m being honest, I sometimes I have my phone, but I don&amp;rsquo;t recommend that). Because you don&amp;rsquo;t have these things you&amp;rsquo;re forced to be one with your thoughts, and from a dopamine perspective they can be pretty boring in comparison to those devices, but Boredom breeds creativity.</description><content:encoded><![CDATA[<p>Do you ever find that often solve a key problem, or have a novel idea when in the shower, just to find that you have no ability to jot those ideas down? I call those 
+
+
+
+
+
+<a
+  href="/blog/The-Case-For-Boredom/"
+  rel="noopener" class="internal-link"
+  data-src="/blog/The-Case-For-Boredom/">Shower Thoughts</a>. Have you ever wondered why you get these epiphanies in the shower? Well, there are a number of scientific reasons why, but let&rsquo;s focus on just one of them today, <em><strong>Boredom</strong></em>. When you&rsquo;re in the shower, you don&rsquo;t have your TV, computer, phone. <em>(If I&rsquo;m being honest, I sometimes I have my phone, but I don&rsquo;t recommend that)</em>. Because you don&rsquo;t have these things you&rsquo;re forced to be one with your thoughts, and from a 
+
+
+
+
+
+<a
+  href="/Dopamine/"
+  rel="noopener" class="internal-link"
+  data-src="/Dopamine/">dopamine</a> perspective they can be pretty boring in comparison to those devices, but 
+
+
+
+
+
+<a
+  href="/Boredom-breeds-creativity/"
+  rel="noopener" class="internal-link"
+  data-src="/Boredom-breeds-creativity/">Boredom breeds creativity</a>. That boredom and being alone with your thoughts is what leads to these great ideas.</p>
+<p>My 2003 Dodge Dakota doesn&rsquo;t connect to my phone and has a pretty terrible sound system. Hell, it doesn&rsquo;t even have cabin air filters (Although I wish it did), but I often find that I get these Shower Thoughts here as well (because I&rsquo;m left alone with my thoughts). So, I will leave you with a simple call-to-action: 
+
+
+
+
+
+<a
+  href="/blog/The-Case-For-Boredom/"
+  rel="noopener" class="internal-link"
+  data-src="/blog/The-Case-For-Boredom/">Shower Thoughts</a> don&rsquo;t have to be reserved for just the shower, you can have them anywhere, you just need to have the courage to put down your phone, and not fight the <strong>boredom</strong>.</p>
+]]></content:encoded></item><item><title>aged tasks</title><link>https://brandonkboswell.com/aged-tasks/</link><pubDate>Thu, 12 Oct 2023 14:05:48 +0000</pubDate><guid>https://brandonkboswell.com/aged-tasks/</guid><description>I love this quote from Khe Hy: &amp;gt;One of the quiet stressors of modern task management is your aged tasks. The digital nature of our lives makes it easy to add something to the list – yet never act upon it. So here’s an easy antidote: • Go into your task list and sort by incomplete, oldest first • Look at the dates, yes there’s going to be some old stuff in there • Create a rule (i.e. “If it’s been there for more than 3 months, delete”)
+For me, there&amp;rsquo;s something that feels inherently bad about mass-deleting tasks (at least without looking at them), so I propose a slightly different approach at curing the symptom of task overwhelm.</description><content:encoded><![CDATA[<p>I love this quote from <em>Khe Hy</em>:
+&gt;One of the quiet stressors of modern task management is your <strong>
+
+
+
+
+
+<a
+  href="/aged-tasks/"
+  rel="noopener" class="internal-link"
+  data-src="/aged-tasks/">aged tasks</a>.</strong> The digital nature of our lives makes it easy to add something to the list – yet never act upon it. So here’s an easy antidote:
+• Go into your task list and sort by incomplete, <strong>oldest first</strong>
+• Look at the dates, yes there’s going to be some old stuff in there
+• Create a rule (i.e. “If it’s been there for more than 3 months, delete”)</p>
+<p>For me, there&rsquo;s something that feels inherently bad about mass-deleting tasks (at least without looking at them), so I propose a slightly different approach at curing the symptom of task overwhelm. Instead, we should move these tasks to some form of a <em>Someday Backlog</em> and then revisit that with an appropriate frequency. Perhaps once a quarter or twice a year. It will feel good to see how many of those tasks you actually took care or are no longer relevant.</p>
+<p>
+
+
+
+
+
+<a
+  href="/moc/Task-Managers/"
+  rel="noopener" class="internal-link"
+  data-src="/moc/Task-Managers/">Task Management</a></p>
+]]></content:encoded></item><item><title>Braggadocio and the Modern Web</title><link>https://brandonkboswell.com/blog/Braggadocio-and-the-Modern-Web/</link><pubDate>Tue, 10 Oct 2023 08:04:29 +0000</pubDate><guid>https://brandonkboswell.com/blog/Braggadocio-and-the-Modern-Web/</guid><description>This is not a particularly new idea, but I was feeling it this morning, so I decided to write about it. In the modern internet, social media and collective culture, arrogance is rewarded with more attention, and in this case more clicks. There is little space for &amp;ldquo;this is how I do things&amp;rdquo; in hopes of someone sharing alternative approaches that perhaps you didn&amp;rsquo;t know about or had not stuck for you. Instead, &amp;ldquo;The Ultimate Guide to X&amp;rdquo; is rewarded, even if it&amp;rsquo;s not the Ultimate Guide at all.
+I suppose bravado and arrogance has always been rewarded in sales, but I still wonder why that&amp;rsquo;s the case.</description><content:encoded><![CDATA[<p>This is not a particularly new idea, but I was feeling it this morning, so I decided to write about it. In the modern internet, 
+
+
+
+
+
+<a
+  href="/Social-Media/"
+  rel="noopener" class="internal-link"
+  data-src="/Social-Media/">social media</a> and collective culture, <em>arrogance</em> is rewarded with more attention, and in this case more clicks. There is little space for &ldquo;this is how I do things&rdquo; in hopes of someone sharing alternative approaches that perhaps you didn&rsquo;t know about or had not stuck for you. Instead, &ldquo;The Ultimate Guide to X&rdquo; is rewarded, even if it&rsquo;s not the Ultimate Guide at all.</p>
+<p>I suppose <em>bravado</em> and arrogance has always been rewarded in <em>sales</em>, but I still wonder why that&rsquo;s the case. I suppose bravado wins on the outset and then quality and consistency wins over time?</p>
+<h3 id="meta">Meta</h3>
+<p><em>Braggadocio</em>
+<em>Bravado</em>
+<em>Arrogance</em>
+<em>Confidence</em></p>
+]]></content:encoded></item><item><title>Grep Live Args</title><link>https://brandonkboswell.com/Grep-Live-Args/</link><pubDate>Sun, 08 Oct 2023 14:27:26 +0000</pubDate><guid>https://brandonkboswell.com/Grep-Live-Args/</guid><description>Increases in the usefulness of searching with Telescope in nvim.
+I find it handy for only searching a specific folder, or for files of a specific type.</description><content:encoded><![CDATA[<p>Increases in the usefulness of searching with <em>Telescope</em> in 
+
+
+
+
+
+<a
+  href="/Neovim/"
+  rel="noopener" class="internal-link"
+  data-src="/Neovim/">nvim</a>.</p>
+<p>I find it handy for only searching a specific folder, or for files of a specific type.</p>
+]]></content:encoded></item><item><title>Set the Hook</title><link>https://brandonkboswell.com/Set-the-Hook/</link><pubDate>Sun, 08 Oct 2023 13:44:40 +0000</pubDate><guid>https://brandonkboswell.com/Set-the-Hook/</guid><description>Hook</description><content:encoded>&lt;p>
 &lt;a
 href="/Hook/"
 rel="noopener" class="internal-link"
-data-src="/Hook/">Hook&lt;/a>&lt;/p></content:encoded></item><item><title>write stuff you would love to read</title><link>https://brandonkboswell.com/write-stuff-you-would-love-to-read/</link><pubDate>Sun, 08 Oct 2023 13:43:59 +0000</pubDate><guid>https://brandonkboswell.com/write-stuff-you-would-love-to-read/</guid><description>• triggers intrinsic motivation so it doesn&amp;rsquo;t feel like work • more passionate writing = engaged readers , cus passion is contagious • when you share your interests, you attract your tribe</description><content:encoded><![CDATA[<p>• triggers intrinsic motivation so it <strong>doesn&rsquo;t feel like work</strong>
-• more passionate writing = <strong>engaged readers</strong> , cus passion is contagious
-• when you share your interests, you <strong>attract your tribe</strong></p>
+data-src="/Hook/">Hook&lt;/a>&lt;/p></content:encoded></item><item><title>write stuff you would love to read</title><link>https://brandonkboswell.com/write-stuff-you-would-love-to-read/</link><pubDate>Sun, 08 Oct 2023 13:43:59 +0000</pubDate><guid>https://brandonkboswell.com/write-stuff-you-would-love-to-read/</guid><description>From Janis Ozolins: • triggers intrinsic motivation, so it doesn&amp;rsquo;t feel like work • more passionate writing = engaged readers, because passion is contagious • when you share your interests, you attract your tribe</description><content:encoded><![CDATA[<p>From <em>Janis Ozolins</em>:
+• triggers intrinsic motivation, so it <strong>doesn&rsquo;t feel like work</strong>
+• more passionate writing = <strong>engaged readers</strong>, because <em>passion is contagious</em>
+• when you share your interests, you <em><strong>attract your tribe</strong></em></p>
 ]]></content:encoded></item><item><title>There is a finite amount of energy available for making focused choices</title><link>https://brandonkboswell.com/There-is-a-finite-amount-of-energy-available-for-making-focused-choices/</link><pubDate>Sun, 08 Oct 2023 13:40:43 +0000</pubDate><guid>https://brandonkboswell.com/There-is-a-finite-amount-of-energy-available-for-making-focused-choices/</guid><description>Decision Fatigue</description><content:encoded>&lt;p>&lt;em>Decision Fatigue&lt;/em>&lt;/p></content:encoded></item><item><title>Single Source of Truth</title><link>https://brandonkboswell.com/Single-Source-of-Truth/</link><pubDate>Sun, 08 Oct 2023 13:33:40 +0000</pubDate><guid>https://brandonkboswell.com/Single-Source-of-Truth/</guid><description/><content:encoded></content:encoded></item><item><title>revisit your notes</title><link>https://brandonkboswell.com/revisit-your-notes/</link><pubDate>Sun, 08 Oct 2023 13:30:39 +0000</pubDate><guid>https://brandonkboswell.com/revisit-your-notes/</guid><description>Notetaking</description><content:encoded>&lt;p>&lt;em>Notetaking&lt;/em>&lt;/p></content:encoded></item><item><title>Hold 45 Minutes A Day to Write</title><link>https://brandonkboswell.com/Hold-45-Minutes-A-Day-to-Write/</link><pubDate>Sat, 07 Oct 2023 12:59:49 +0000</pubDate><guid>https://brandonkboswell.com/Hold-45-Minutes-A-Day-to-Write/</guid><description>You don&amp;rsquo;t have to write, but you can&amp;rsquo;t do anything else.
-A key challenge I have with this if I prefer to write on the computer, and it&amp;rsquo;s filled with too many other distractions.</description><content:encoded><![CDATA[<p>You don&rsquo;t have to write, but you can&rsquo;t do anything else.</p>
+A key challenge I have with this if I prefer to write on the computer, and it&amp;rsquo;s filled with too many other distractions. The reMarkable could theoretically solve this with the reMarkable 2 Type Folio, but I find typing on it distracting.
+Writing Writing as a habit</description><content:encoded><![CDATA[<p>You don&rsquo;t have to write, but you can&rsquo;t do anything else.</p>
 <p>A key challenge I have with this if I prefer to write on the computer, and it&rsquo;s filled with too many other distractions. The reMarkable could theoretically solve this with the <em>reMarkable 2 Type Folio</em>, but I find typing on it distracting.</p>
 <p><em>Writing</em>
 <em>Writing as a habit</em></p>
-]]></content:encoded></item><item><title>7 habits of highly successful YouTubers</title><link>https://brandonkboswell.com/sources/7-habits-of-highly-successful-YouTubers/</link><pubDate>Sat, 07 Oct 2023 12:59:08 +0000</pubDate><guid>https://brandonkboswell.com/sources/7-habits-of-highly-successful-YouTubers/</guid><description>Author: Colin and Samir URL: https://www.youtube.com/watch?v=VQ89d0ilocU Have an Athlete&amp;rsquo;s Mentality Hold 45 Minutes A Day to Write Ideally, any video you create would still be helpful in 10 years time.</description><content:encoded><![CDATA[<ul>
+]]></content:encoded></item><item><title>7 habits of highly successful YouTubers</title><link>https://brandonkboswell.com/sources/7-habits-of-highly-successful-YouTubers/</link><pubDate>Sat, 07 Oct 2023 12:59:08 +0000</pubDate><guid>https://brandonkboswell.com/sources/7-habits-of-highly-successful-YouTubers/</guid><description>Author: Colin and Samir URL: https://www.youtube.com/watch?v=VQ89d0ilocU Have an Athlete&amp;rsquo;s Mentality Hold 45 Minutes A Day to Write Ideally, any video you create would still be helpful in 10 years time. If not, should you be producing that video?
+YouTube</description><content:encoded><![CDATA[<ul>
 <li>Author: <em>Colin and Samir</em></li>
 <li>URL: 
 
@@ -40,7 +158,10 @@ Ideally, any video you create would still be helpful in 10 years time. If not, s
   data-src="/moc/YouTube/">YouTube</a></p>
 ]]></content:encoded></item><item><title>how to make a killer youtube intro (for the 2023 algorithm)</title><link>https://brandonkboswell.com/sources/how-to-make-a-killer-youtube-intro-for-the-2023-algorithm/</link><pubDate>Fri, 06 Oct 2023 22:46:28 +0000</pubDate><guid>https://brandonkboswell.com/sources/how-to-make-a-killer-youtube-intro-for-the-2023-algorithm/</guid><description>Author: Aprilynne Alter URL: https://www.youtube.com/watch?v=TOHQXdCAo5k&amp;t=4s YouTube Intro should be between 10 and 45 seconds
 Reiterate the Title in the first 5 seconds to minimize drop off
-Ideally the image from the intro matches that of the thumbnail (perhaps don&amp;rsquo;t start with my headshot?</description><content:encoded><![CDATA[<ul>
+Ideally the image from the intro matches that of the thumbnail (perhaps don&amp;rsquo;t start with my headshot?) The most successful videos exceed the title and thumbnail&amp;rsquo;s expectations
+Create Curiosity Gaps to keep people watching
+Provide Context so that everyone can participate even if they&amp;rsquo;re not an expert (I may have butchered this one)
+Leverage Input Bias by communicating how much effort and time you put into the video so that the viewer will value the video.</description><content:encoded><![CDATA[<ul>
 <li>Author: <em>Aprilynne Alter</em></li>
 <li>URL: 
 
@@ -71,24 +192,7 @@ Many successful YouTubers change their intro visuals more than once every 2 seco
   rel="noopener" class="internal-link"
   data-src="/moc/YouTube/">YouTube</a>
 <em>YouTube Formula</em></p>
-]]></content:encoded></item><item><title>Nuphy Air75 V2</title><link>https://brandonkboswell.com/Nuphy-Air75-V2/</link><pubDate>Sun, 01 Oct 2023 14:51:45 +0000</pubDate><guid>https://brandonkboswell.com/Nuphy-Air75-V2/</guid><description>Nuphy Tricks:
-Unplug it and switch it into Wireless mode to allow for easy access to a USB-C Port. I use for getting audio off the Zoom F2 Recorder. Chef&amp;rsquo;s Kiss Also really nice for charging the reMarkable 2, which I don&amp;rsquo;t need to do often, but it&amp;rsquo;s nice not having to pull out another cable to do so.</description><content:encoded><![CDATA[<p>Nuphy Tricks:</p>
-<ul>
-<li>Unplug it and switch it into Wireless mode to allow for easy access to a USB-C Port. I use for getting audio off the <em>Zoom F2 Recorder</em>. Chef&rsquo;s Kiss</li>
-<li>Also really nice for charging the 
-
-
-
-
-
-<a
-  href="/reMarkable-2/"
-  rel="noopener" class="internal-link"
-  data-src="/reMarkable-2/">reMarkable 2</a>, which I don&rsquo;t need to do often, but it&rsquo;s nice not having to pull out another cable to do so.</li>
-<li>I&rsquo;m really enjoying the Mac/Windows switch when gaming at night on the keyboard</li>
-<li>The stabilizers on this are a huge upgrade over those on the <em>Lofree Flow</em></li>
-</ul>
-]]></content:encoded></item><item><title>Notebooks vs Quick Sheets — When should you use each?</title><link>https://brandonkboswell.com/Notebooks-vs-Quick-Sheets-When-should-you-use-each/</link><pubDate>Sat, 30 Sep 2023 10:40:30 +0000</pubDate><guid>https://brandonkboswell.com/Notebooks-vs-Quick-Sheets-When-should-you-use-each/</guid><description/><content:encoded></content:encoded></item><item><title>Tmux Session Manager</title><link>https://brandonkboswell.com/Tmux-Session-Manager/</link><pubDate>Fri, 29 Sep 2023 23:46:41 +0000</pubDate><guid>https://brandonkboswell.com/Tmux-Session-Manager/</guid><description>By Josh Medeski
+]]></content:encoded></item><item><title>Tmux Session Manager</title><link>https://brandonkboswell.com/Tmux-Session-Manager/</link><pubDate>Fri, 29 Sep 2023 23:46:41 +0000</pubDate><guid>https://brandonkboswell.com/Tmux-Session-Manager/</guid><description>By Josh Medeski
 So good. If you&amp;rsquo;re a tmux user, then you should be using this.
 https://github.com/joshmedeski/t-smart-tmux-session-manager</description><content:encoded><![CDATA[<p>By <em>Josh Medeski</em></p>
 <p>So good. If you&rsquo;re a 
@@ -105,7 +209,9 @@ https://github.com/joshmedeski/t-smart-tmux-session-manager</description><conten
 
 <a target=“_blank” href="https://github.com/joshmedeski/t-smart-tmux-session-manager" rel="noopener">https://github.com/joshmedeski/t-smart-tmux-session-manager</a></p>
 ]]></content:encoded></item><item><title>VIM QuickFix Lists</title><link>https://brandonkboswell.com/VIM-QuickFix-Lists/</link><pubDate>Fri, 29 Sep 2023 21:09:30 +0000</pubDate><guid>https://brandonkboswell.com/VIM-QuickFix-Lists/</guid><description>:copen to open :ccl to clear :colder to grab the previous one :cnewer to grab the newer one :cdo run a command for each entry in the QuickFix
-ex: :cdo s/findstring/replacestring | update :cfdo runs once for each file in the quickfix list :vimgrep /yoursearch/ app/** To search a directory and put it in a Quick Fix List</description><content:encoded><![CDATA[<p>:copen to open
+ex: :cdo s/findstring/replacestring | update :cfdo runs once for each file in the quickfix list :vimgrep /yoursearch/ app/** To search a directory and put it in a Quick Fix List
+VIM Neovim
+Source: Andrew Courter https://www.youtube.com/watch?v=AuXZA-xCv04</description><content:encoded><![CDATA[<p>:copen to open
 :ccl to clear
 :colder to grab the previous one
 :cnewer to grab the newer one
@@ -216,69 +322,4 @@ find . -type f | fzf --preview 'less {}' You can also do this with ripgrep rg --
   rel="noopener" class="internal-link"
   data-src="/Happy-Accidents/">Happy Accidents</a></p>
 ]]></content:encoded></item><item><title>Proof of Concept</title><link>https://brandonkboswell.com/Proof-of-Concept/</link><pubDate>Sun, 24 Sep 2023 10:54:37 +0000</pubDate><guid>https://brandonkboswell.com/Proof-of-Concept/</guid><description/><content:encoded></content:encoded></item><item><title>Practical Success Metrics</title><link>https://brandonkboswell.com/Practical-Success-Metrics/</link><pubDate>Wed, 20 Sep 2023 19:56:51 +0000</pubDate><guid>https://brandonkboswell.com/Practical-Success-Metrics/</guid><description>It&amp;rsquo;s a bit like Functional Strength in exercise. Instead of focusing on being able to lift a ton of weight, focus on being able to do the crucial things in your life.</description><content:encoded><![CDATA[<p>It&rsquo;s a bit like <em>Functional Strength</em> in exercise. Instead of focusing on being able to lift a ton of weight, focus on being able to do the crucial things in your life.</p>
-]]></content:encoded></item><item><title>Water for Coffee</title><link>https://brandonkboswell.com/Water-for-Coffee/</link><pubDate>Sun, 17 Sep 2023 15:20:08 +0000</pubDate><guid>https://brandonkboswell.com/Water-for-Coffee/</guid><description/><content:encoded></content:encoded></item><item><title>The 100ms Rule</title><link>https://brandonkboswell.com/The-100ms-Rule/</link><pubDate>Fri, 15 Sep 2023 13:02:08 +0000</pubDate><guid>https://brandonkboswell.com/The-100ms-Rule/</guid><description>The creator of Gmail, Paul Buchheit, had a rule: every interaction should be faster than 100ms. Why? Because 100ms is the threshold where interactions feel instantaneous.</description><content:encoded><![CDATA[<p>The creator of <em>Gmail,</em> <em>Paul Buchheit</em>, had a rule: every interaction should be faster than 100ms. Why? Because 100ms is the threshold where interactions feel instantaneous.</p>
-]]></content:encoded></item><item><title>How to stand out on YouTube?</title><link>https://brandonkboswell.com/How-to-stand-out-on-YouTube/</link><pubDate>Thu, 14 Sep 2023 13:25:03 +0000</pubDate><guid>https://brandonkboswell.com/How-to-stand-out-on-YouTube/</guid><description>Meta YouTube</description><content:encoded><![CDATA[<p>
-
-<img src="/sources/Pasted%20image%2020230914131223.png" alt="Pasted image 20230914131223.png"  /></p>
-<h3 id="meta">Meta</h3>
-<p>
-
-
-
-
-
-<a
-  href="/moc/YouTube/"
-  rel="noopener" class="internal-link"
-  data-src="/moc/YouTube/">YouTube</a></p>
-]]></content:encoded></item><item><title>Content creation is a lonely career</title><link>https://brandonkboswell.com/Content-creation-is-a-lonely-career/</link><pubDate>Thu, 14 Sep 2023 13:24:48 +0000</pubDate><guid>https://brandonkboswell.com/Content-creation-is-a-lonely-career/</guid><description/><content:encoded></content:encoded></item><item><title>Build a creative support system</title><link>https://brandonkboswell.com/Build-a-creative-support-system/</link><pubDate>Thu, 14 Sep 2023 13:24:23 +0000</pubDate><guid>https://brandonkboswell.com/Build-a-creative-support-system/</guid><description>accountability partner Content creation is a lonely career</description><content:encoded><![CDATA[<p>
-
-
-
-
-
-<a
-  href="/accountability-partner/"
-  rel="noopener" class="internal-link"
-  data-src="/accountability-partner/">accountability partner</a>
-
-
-
-
-
-
-<a
-  href="/Content-creation-is-a-lonely-career/"
-  rel="noopener" class="internal-link"
-  data-src="/Content-creation-is-a-lonely-career/">Content creation is a lonely career</a></p>
-]]></content:encoded></item><item><title>Matt DAvella Master Youtube Course Review Is It Worth It?</title><link>https://brandonkboswell.com/sources/Matt-DAvella-Master-Youtube-Course-Review-Is-It-Worth-It/</link><pubDate>Thu, 14 Sep 2023 13:12:06 +0000</pubDate><guid>https://brandonkboswell.com/sources/Matt-DAvella-Master-Youtube-Course-Review-Is-It-Worth-It/</guid><description>Author: Matt URL: https://www.youtube.com/watch?v=OEjenV4aCnY&amp;list=WL&amp;index=35&amp;t=2s How to stand out on YouTube?
-Build a creative support system</description><content:encoded><![CDATA[<ul>
-<li>Author: <em>Matt</em></li>
-<li>URL: 
-
-<a target=“_blank” href="https://www.youtube.com/watch?v=OEjenV4aCnY&amp;list=WL&amp;index=35&amp;t=2s" rel="noopener">https://www.youtube.com/watch?v=OEjenV4aCnY&list=WL&index=35&t=2s</a></li>
-</ul>
-<p>
-
-
-
-
-
-<a
-  
-  rel="noopener" class="internal-link broken"
-  data-src="../How%20to%20stand%20out%20on%20YouTube%3F">How to stand out on YouTube?</a></p>
-<p>
-
-<img src="/Pasted%20image%2020230914131223.png" alt="Pasted image 20230914131223.png"  /></p>
-<p>
-
-
-
-
-
-<a
-  href="/Build-a-creative-support-system/"
-  rel="noopener" class="internal-link"
-  data-src="/Build-a-creative-support-system/">Build a creative support system</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded></item><item><title>Water for Coffee</title><link>https://brandonkboswell.com/Water-for-Coffee/</link><pubDate>Sun, 17 Sep 2023 15:20:08 +0000</pubDate><guid>https://brandonkboswell.com/Water-for-Coffee/</guid><description/><content:encoded></content:encoded></item></channel></rss>
