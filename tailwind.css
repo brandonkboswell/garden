@@ -1,8 +1,8 @@
 :root {
   --light: #faf8f8;
   --dark: #423832;
-  --secondary: #192845;
-  --tertiary: hsla(219, 47%, 18%, 0.9);
+  --secondary: #172554;
+  --tertiary: #172554;
   --primary: #f28482;
   --gray: #4e4e4e;
   --lightgray: #f0f0f0;
@@ -332,7 +332,14 @@ form.formkit-form {
 .formkit-form h4,
 .formkit-form h5 {
   font-weight: 800 !important;
-  line-height: 2rem;
+  font-family: "p22-mackinac-pro", serif;
+  font-style: normal;
+  --tw-text-opacity: 1 !important;
+  color: rgb(23 37 84 / var(--tw-text-opacity)) !important;
+  font-size: 2.25rem !important;
+  line-height: 2.5rem;
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
 }
 
 /*
@@ -942,6 +949,11 @@ h5 {
   position: sticky;
 }
 
+.my-5 {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
 .mb-14 {
   margin-bottom: 3.5rem;
 }
@@ -1124,10 +1136,6 @@ h5 {
   font-weight: 600;
 }
 
-.italic {
-  font-style: italic;
-}
-
 .leading-6 {
   line-height: 1.5rem;
 }
@@ -1137,14 +1145,14 @@ h5 {
   color: rgb(107 114 128 / var(--tw-text-opacity));
 }
 
-.text-gray-900 {
-  --tw-text-opacity: 1;
-  color: rgb(17 24 39 / var(--tw-text-opacity));
-}
-
 .text-gray-600 {
   --tw-text-opacity: 1;
   color: rgb(75 85 99 / var(--tw-text-opacity));
+}
+
+.text-gray-900 {
+  --tw-text-opacity: 1;
+  color: rgb(17 24 39 / var(--tw-text-opacity));
 }
 
 .antialiased {
