@@ -128,9 +128,6 @@
 <li><input disabled="" type="checkbox"> Wired for Story</li>
 </ul>
 <h2 id="currently-reading">Currently Reading</h2>
-<ul>
-<li><input disabled="" type="checkbox"> Superfans</li>
-</ul>
 <h2 id="pausedput-down">Paused/Put Down</h2>
 <ul>
 <li><input disabled="" type="checkbox"> 
@@ -190,6 +187,7 @@
 </ul>
 <h2 id="read">Read</h2>
 <ul>
+<li><input disabled="" type="checkbox"> Superfans</li>
 <li><input disabled="" type="checkbox"> 
 
 
