@@ -1,65 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>My YouTube Gear</title><link>https://brandonkboswell.com/My-YouTube-Gear/</link><pubDate>Mon, 11 Dec 2023 23:13:21 +0000</pubDate><guid>https://brandonkboswell.com/My-YouTube-Gear/</guid><description> Sony A6700 Sony ZV-E10 2x - Sigma 16mm f/1.4 DC DN Contemporary Lens Sigma 30mm F1.4 Contemporary DC DN Lens Razer Ripsaw X Cam Link 4K Rode Videomic NTG Zoom F2 Recorder Godox SL150W II Neewer 24in Beauty Dish 2x Aputure MC Neewer RGB61 Joby Gorillapod ILOKNZI 12&amp;quot; Aluminum Teleprompter FEELWORLD FW759 7&amp;quot; Field Monitor</description><content:encoded><![CDATA[<ul>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/sony-a6700" rel="noopener">Sony A6700</a></li>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/zv-e10" rel="noopener">Sony ZV-E10</a></li>
-<li>2x - 
-
-<a target=“_blank” href="https://link.brandonkboswell.com/sigma-16mm" rel="noopener">Sigma 16mm f/1.4 DC DN Contemporary Lens</a></li>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/sigma-30mm" rel="noopener">Sigma 30mm F1.4 Contemporary DC DN Lens</a></li>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/ripsaw-x-amazon" rel="noopener">Razer Ripsaw X</a></li>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/elgato-camlink-amazon" rel="noopener">Cam Link 4K</a></li>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/rode-videomic-ntg" rel="noopener">Rode Videomic NTG</a></li>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/zoom-f2-recorder" rel="noopener">Zoom F2 Recorder</a></li>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/godox-sl150w" rel="noopener">Godox SL150W II</a></li>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/neewer-24in-beauty-dish" rel="noopener">Neewer 24in Beauty Dish</a></li>
-<li>2x 
-
-<a target=“_blank” href="https://link.brandonkboswell.com/aputure-mc" rel="noopener">Aputure MC</a></li>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/neewer-rgb61" rel="noopener">Neewer RGB61</a></li>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/joby-gorillapod" rel="noopener">Joby Gorillapod</a></li>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/ilokzni-teleprompter" rel="noopener">ILOKNZI 12&quot; Aluminum Teleprompter</a></li>
-<li>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/feelworld-field-monitor" rel="noopener">FEELWORLD FW759 7&quot; Field Monitor</a></li>
-</ul>
-]]></content:encoded></item><item><title>The Creator Way Podcast</title><link>https://brandonkboswell.com/The-Creator-Way-Podcast/</link><pubDate>Sun, 10 Dec 2023 10:37:48 +0000</pubDate><guid>https://brandonkboswell.com/The-Creator-Way-Podcast/</guid><description>Run by the guys from Gling</description><content:encoded>&lt;p>Run by the guys from
-&lt;a
-href="/Gling/"
-rel="noopener" class="internal-link"
-data-src="/Gling/">Gling&lt;/a>&lt;/p></content:encoded></item><item><title>Tailwind CSS</title><link>https://brandonkboswell.com/Tailwind-CSS/</link><pubDate>Sun, 10 Dec 2023 10:20:53 +0000</pubDate><guid>https://brandonkboswell.com/Tailwind-CSS/</guid><description/><content:encoded></content:encoded></item><item><title>Suhail Doshi</title><link>https://brandonkboswell.com/Suhail-Doshi/</link><pubDate>Sun, 10 Dec 2023 10:17:24 +0000</pubDate><guid>https://brandonkboswell.com/Suhail-Doshi/</guid><description>Former CEO of Mixpanel</description><content:encoded>&lt;p>Former CEO of &lt;em>Mixpanel&lt;/em>&lt;/p></content:encoded></item><item><title>Just use Postgres</title><link>https://brandonkboswell.com/Just-use-Postgres/</link><pubDate>Sun, 10 Dec 2023 10:16:09 +0000</pubDate><guid>https://brandonkboswell.com/Just-use-Postgres/</guid><description>A thought from Suhail Doshi and Alex MacCaw when discussing Firebase and other modern Graph Databases
-Meta Postgres</description><content:encoded><![CDATA[<p>A thought from 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brandon Boswell</title><link>https://brandonkboswell.com/tags/status/new/</link><description>Recent content from Brandon Boswell's Digital Garden</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://brandonkboswell.com/tags/status/new/index.xml" rel="self" type="application/rss+xml"/><item><title>Out of sight, out of mind</title><link>https://brandonkboswell.com/Out-of-sight-out-of-mind/</link><pubDate>Sat, 13 Jan 2024 11:46:45 +0000</pubDate><guid>https://brandonkboswell.com/Out-of-sight-out-of-mind/</guid><description>This is an old adage that my dad used to say to me when I would stay with him on some weekends. He would have friends over, and they would be doing their own thing, and they used to tell me and my friends that you could stay up later if we stayed &amp;ldquo;out of sight out of mind.&amp;rdquo; I&amp;rsquo;m not sure how I feel about this as a parenting strategy, but it makes a lot of sense when dealing with what you should focus on and what you need to steer clear of from a distraction perspective.</description><content:encoded><![CDATA[<p>This is an old adage that my dad used to say to me when I would stay with him on some weekends. He would have friends over, and they would be doing their own thing, and they used to tell me and my friends that you could stay up later if we stayed &ldquo;out of sight out of mind.&rdquo; I&rsquo;m not sure how I feel about this as a parenting strategy, but it makes a lot of sense when dealing with what you should focus on and what you need to steer clear of from a distraction perspective.</p>
+]]></content:encoded></item><item><title>monetization</title><link>https://brandonkboswell.com/monetization/</link><pubDate>Sat, 13 Jan 2024 10:58:41 +0000</pubDate><guid>https://brandonkboswell.com/monetization/</guid><description/><content:encoded></content:encoded></item><item><title>Discovery is a motivation</title><link>https://brandonkboswell.com/Discovery-is-a-motivation/</link><pubDate>Sat, 13 Jan 2024 10:57:19 +0000</pubDate><guid>https://brandonkboswell.com/Discovery-is-a-motivation/</guid><description>Unearthed through Thomas Frank&amp;rsquo;s chat with Ali Abdaal
+What motivates Thomas Frank is Discovery and it just so happens that many of the things he&amp;rsquo;s interested in are also monetizable</description><content:encoded><![CDATA[<p>Unearthed through <em>Thomas Frank</em>&rsquo;s chat with <em>Ali Abdaal</em></p>
+<p>What motivates <em>Thomas Frank</em> is <em>Discovery</em> and it just so happens that many of the things he&rsquo;s interested in are also 
 
 
 
 
 
 <a
-  href="/Suhail-Doshi/"
+  href="/monetization/"
   rel="noopener" class="internal-link"
-  data-src="/Suhail-Doshi/">Suhail Doshi</a> and <em>Alex MacCaw</em> when discussing <em>Firebase</em> and other modern <em>Graph Databases</em></p>
+  data-src="/monetization/">monetizable</a></p>
+]]></content:encoded></item><item><title>Diffing in VSCode</title><link>https://brandonkboswell.com/Diffing-in-VSCode/</link><pubDate>Fri, 12 Jan 2024 22:47:29 +0000</pubDate><guid>https://brandonkboswell.com/Diffing-in-VSCode/</guid><description>1 code --diff /Users/brandonkboswell/Downloads/file_a.txt /Users/brandonkboswell/Downloads/file_b.txt Diffing VSCode</description><content:encoded><![CDATA[<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">code --diff /Users/brandonkboswell/Downloads/file_a.txt /Users/brandonkboswell/Downloads/file_b.txt
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><em>Diffing</em>
+
+
+
+
+
+
+<a
+  href="/VSCode/"
+  rel="noopener" class="internal-link"
+  data-src="/VSCode/">VSCode</a></p>
+]]></content:encoded></item><item><title>ZSA Voyager</title><link>https://brandonkboswell.com/ZSA-Voyager/</link><pubDate>Fri, 12 Jan 2024 09:36:37 +0000</pubDate><guid>https://brandonkboswell.com/ZSA-Voyager/</guid><description/><content:encoded></content:encoded></item><item><title>Someday Backlog</title><link>https://brandonkboswell.com/Someday-Backlog/</link><pubDate>Thu, 11 Jan 2024 09:12:06 +0000</pubDate><guid>https://brandonkboswell.com/Someday-Backlog/</guid><description>A place for your tasks that lack urgency. These are things that you could ignore for a few weeks or months and everything would be okay. It doesn&amp;rsquo;t mean that they&amp;rsquo;re not important (they are often strategic in nature), they&amp;rsquo;re just not for right now.
+Meta Task Management</description><content:encoded><![CDATA[<p>A place for your tasks that lack <em>urgency</em>. These are things that you could ignore for a few weeks or months and everything would be okay. It doesn&rsquo;t mean that they&rsquo;re not important (they are often strategic in nature), they&rsquo;re just not for right now.</p>
 <h3 id="meta">Meta</h3>
 <p>
 
@@ -68,196 +40,212 @@ Meta Postgres</description><content:encoded><![CDATA[<p>A thought from
 
 
 <a
-  href="/Postgres/"
+  href="/moc/Task-Managers/"
   rel="noopener" class="internal-link"
-  data-src="/Postgres/">Postgres</a></p>
-]]></content:encoded></item><item><title>Podcast</title><link>https://brandonkboswell.com/Podcast/</link><pubDate>Sat, 09 Dec 2023 21:02:45 +0000</pubDate><guid>https://brandonkboswell.com/Podcast/</guid><description/><content:encoded></content:encoded></item><item><title>Conic Gradients</title><link>https://brandonkboswell.com/Conic-Gradients/</link><pubDate>Sat, 09 Dec 2023 09:44:14 +0000</pubDate><guid>https://brandonkboswell.com/Conic-Gradients/</guid><description>Conic gradients are gaining popularity for their soothing and eye-catching nature. You can eyeball them, but here&amp;rsquo;s a site that has curated some good-looking ones: https://www.conic.style/</description><content:encoded><![CDATA[<p>Conic gradients are gaining popularity for their soothing and eye-catching nature. You can eyeball them, but here&rsquo;s a site that has curated some good-looking ones: 
-
-<a target=“_blank” href="https://www.conic.style/" rel="noopener">https://www.conic.style/</a></p>
-]]></content:encoded></item><item><title>Keyboard Symbol Layer Ideas</title><link>https://brandonkboswell.com/Keyboard-Symbol-Layer-Ideas/</link><pubDate>Fri, 08 Dec 2023 23:54:22 +0000</pubDate><guid>https://brandonkboswell.com/Keyboard-Symbol-Layer-Ideas/</guid><description>https://configure.zsa.io/voyager/layouts/eryzr/latest/1</description><content:encoded><![CDATA[<p>
-
-<img src="/BKB%202023-12-08%20at%2023.53.50.png" alt="BKB 2023-12-08 at 23.53.50.png"  />
-
-
-<img src="/BKB%202023-12-08%20at%2023.55.01.png" alt="BKB 2023-12-08 at 23.55.01.png"  />
-
-
-<a target=“_blank” href="https://configure.zsa.io/voyager/layouts/eryzr/latest/1" rel="noopener">https://configure.zsa.io/voyager/layouts/eryzr/latest/1</a></p>
-]]></content:encoded></item><item><title>Welcome Email</title><link>https://brandonkboswell.com/Welcome-Email/</link><pubDate>Sun, 03 Dec 2023 17:06:44 +0000</pubDate><guid>https://brandonkboswell.com/Welcome-Email/</guid><description>Email Marketing</description><content:encoded>&lt;p>&lt;em>Email Marketing&lt;/em>&lt;/p></content:encoded></item><item><title>Opportunities in life come through people</title><link>https://brandonkboswell.com/Opportunities-in-life-come-through-people/</link><pubDate>Sun, 03 Dec 2023 17:01:31 +0000</pubDate><guid>https://brandonkboswell.com/Opportunities-in-life-come-through-people/</guid><description>For us Introverts, it feels more safe to be alone working on our projects, but we need to avoid this comfort and seek connection with others.
-Humans are social beings</description><content:encoded><![CDATA[<p>For us <em>Introvert</em>s, it feels more safe to be alone working on our projects, but we need to avoid this comfort and seek connection with others.</p>
-<p>
-
-
-
-
-
-<a
-  href="/seedlings/Humans-are-social-beings/"
-  rel="noopener" class="internal-link"
-  data-src="/seedlings/Humans-are-social-beings/">Humans are social beings</a></p>
-]]></content:encoded></item><item><title>Steve Jobs</title><link>https://brandonkboswell.com/Steve-Jobs/</link><pubDate>Sun, 03 Dec 2023 17:00:53 +0000</pubDate><guid>https://brandonkboswell.com/Steve-Jobs/</guid><description>Former CEO of Apple</description><content:encoded><![CDATA[<p>Former <em>CEO</em> of <em>Apple</em></p>
-]]></content:encoded></item><item><title>Sony A6700</title><link>https://brandonkboswell.com/Sony-A6700/</link><pubDate>Sun, 03 Dec 2023 16:40:08 +0000</pubDate><guid>https://brandonkboswell.com/Sony-A6700/</guid><description>Great camera in theory, but in practice it overheats in warm conditions while doing long (45-minute) recording sessions. I love the image quality I can get with this in S LOG 3 with 4:4:2, but I was spoiled by not having to think about this with my Sony ZV-E10. I don&amp;rsquo;t think I can recommend it for people who need a camera for shooting real video or live-streaming.</description><content:encoded><![CDATA[<p>Great camera in theory, but in practice it overheats in warm conditions while doing long (45-minute) recording sessions. I love the image quality I can get with this in <em>S LOG 3</em> with 4:4:2, but I was spoiled by not having to think about this with my 
-
-
-
-
-
-<a
-  href="/Sony-ZV-E10/"
-  rel="noopener" class="internal-link"
-  data-src="/Sony-ZV-E10/">Sony ZV-E10</a>. I don&rsquo;t think I can recommend it for people who need a camera for shooting real video or live-streaming.</p>
-]]></content:encoded></item><item><title>Follow-up</title><link>https://brandonkboswell.com/Follow-up/</link><pubDate>Sun, 03 Dec 2023 16:25:18 +0000</pubDate><guid>https://brandonkboswell.com/Follow-up/</guid><description>A key aspect of any good sales strategy</description><content:encoded>&lt;p>A key aspect of any good &lt;em>sales&lt;/em> strategy&lt;/p></content:encoded></item><item><title>Lead Magnet</title><link>https://brandonkboswell.com/Lead-Magnet/</link><pubDate>Sun, 03 Dec 2023 16:10:47 +0000</pubDate><guid>https://brandonkboswell.com/Lead-Magnet/</guid><description>Examples of Lead Magnets • Quizzes • Planners • Templates • Checklists • Swipe Files • Cheat Sheets • Free Workshops • Video Mini-Courses</description><content:encoded>&lt;h2 id="examples-of-lead-magnets">Examples of Lead Magnets&lt;/h2>
-&lt;p>• Quizzes
-• Planners
-• Templates
-• Checklists
-• Swipe Files
-• Cheat Sheets
-• Free Workshops
-• Video Mini-Courses&lt;/p></content:encoded></item><item><title>Sublime Text</title><link>https://brandonkboswell.com/Sublime-Text/</link><pubDate>Wed, 29 Nov 2023 12:44:22 +0000</pubDate><guid>https://brandonkboswell.com/Sublime-Text/</guid><description>Keyboard shortcuts I forget Control + Command + G — Select all occurrences
-Meta Text Editors</description><content:encoded><![CDATA[<h2 id="keyboard-shortcuts-i-forget">Keyboard shortcuts I forget</h2>
-<p>Control + Command + G — Select all occurrences</p>
-<h3 id="meta">Meta</h3>
-<p><em>Text Editors</em></p>
-]]></content:encoded></item><item><title>The Ground Up Show</title><link>https://brandonkboswell.com/The-Ground-Up-Show/</link><pubDate>Wed, 29 Nov 2023 08:04:44 +0000</pubDate><guid>https://brandonkboswell.com/The-Ground-Up-Show/</guid><description>Podcast hosted by Matt D&amp;rsquo;Avella
-Link</description><content:encoded><![CDATA[<p>
-
-
-
-
-
-<a
-  href="/Podcast/"
-  rel="noopener" class="internal-link"
-  data-src="/Podcast/">Podcast</a> hosted by <em>Matt D&rsquo;Avella</em></p>
-<p>
-
-<a target=“_blank” href="https://link.brandonkboswell.com/ground-up-show-link" rel="noopener">Link</a></p>
-]]></content:encoded></item><item><title>Get your reps in</title><link>https://brandonkboswell.com/Get-your-reps-in/</link><pubDate>Wed, 29 Nov 2023 07:58:42 +0000</pubDate><guid>https://brandonkboswell.com/Get-your-reps-in/</guid><description>You have to do a bunch of shitty work before you will do good work. It&amp;rsquo;s about getting your reps in, and there really aren&amp;rsquo;t shortcuts. This idea was taken from an interview on The Ground Up Show. I thought it was especially interesting. We often don&amp;rsquo;t do things for fear of them being bad, but if we change our mindset to &amp;ldquo;at the beginning it will be bad, we just need to work through the bad period,&amp;rdquo; then it&amp;rsquo;s much easier to get started.
-Shitty work at the beginning is unavoidable</description><content:encoded><![CDATA[<p>You have to do a bunch of shitty work before you will do good work. It&rsquo;s about getting your reps in, and there really aren&rsquo;t shortcuts. This idea was taken from an interview on 
-
-
-
-
-
-<a
-  href="/The-Ground-Up-Show/"
-  rel="noopener" class="internal-link"
-  data-src="/The-Ground-Up-Show/">The Ground Up Show</a>. I thought it was especially interesting. We often don&rsquo;t do things for fear of them being bad, but if we change our mindset to &ldquo;at the beginning it will be bad, we just need to work through the bad period,&rdquo; then it&rsquo;s much easier to get started.</p>
-<p><em>Shitty work at the beginning is unavoidable</em></p>
-]]></content:encoded></item><item><title>How to Pair a Sony Bluetooth Remote</title><link>https://brandonkboswell.com/How-to-Pair-a-Sony-Bluetooth-Remote/</link><pubDate>Tue, 28 Nov 2023 13:35:19 +0000</pubDate><guid>https://brandonkboswell.com/How-to-Pair-a-Sony-Bluetooth-Remote/</guid><description>I always forget how to pair the Bluetooth remote to my Sony A6700 / Sony ZV-E10, so I wrote up the instructions in case I forget again (as I likely will):
-Go into the pairing screen on the camera itself Hold the Shutter (Still Photo) Button and the Zoom In Buttons on the remote for a few seconds and the camera will detect the remote. From there, make sure Bluetooth Remote Control is enabled in the Camera&amp;rsquo;s settings Sony ZV-E10</description><content:encoded><![CDATA[<p>I always forget how to pair the <em>Bluetooth</em> remote to my 
-
-
-
-
-
-<a
-  href="/Sony-A6700/"
-  rel="noopener" class="internal-link"
-  data-src="/Sony-A6700/">Sony A6700</a> / 
-
-
-
-
-
-<a
-  href="/Sony-ZV-E10/"
-  rel="noopener" class="internal-link"
-  data-src="/Sony-ZV-E10/">Sony ZV-E10</a>, so I wrote up the instructions in case I forget again (as I likely will):</p>
+  data-src="/moc/Task-Managers/">Task Management</a></p>
+]]></content:encoded></item><item><title>Smartphones</title><link>https://brandonkboswell.com/Smartphones/</link><pubDate>Tue, 09 Jan 2024 13:01:12 +0000</pubDate><guid>https://brandonkboswell.com/Smartphones/</guid><description>I currently use an iPhone 15 Pro. It&amp;rsquo;s good, but not perfect. Here are a few things I feel strongly about with regard to Smartphones.
+Phones should be useable with one hand Disable Phone Notifications Avoid your phone for the first hour of the day</description><content:encoded><![CDATA[<p>I currently use an <em>iPhone 15 Pro</em>. It&rsquo;s good, but not perfect. Here are a few things I feel strongly about with regard to Smartphones.</p>
 <ul>
-<li>Go into the pairing screen on the camera itself</li>
-<li>Hold the Shutter (Still Photo) Button and the Zoom In Buttons on the remote for a few seconds and the camera will detect the remote.</li>
-<li>From there, make sure Bluetooth Remote Control is enabled in the Camera&rsquo;s settings</li>
+<li><em>Phones should be useable with one hand</em></li>
+<li><em>Disable Phone Notifications</em></li>
+<li><em>Avoid your phone for the first hour of the day</em></li>
 </ul>
-<p>
-
-
-
-
-
-<a
-  href="/Sony-ZV-E10/"
-  rel="noopener" class="internal-link"
-  data-src="/Sony-ZV-E10/">Sony ZV-E10</a></p>
-]]></content:encoded></item><item><title>The power of following-up</title><link>https://brandonkboswell.com/The-power-of-following-up/</link><pubDate>Tue, 28 Nov 2023 08:41:16 +0000</pubDate><guid>https://brandonkboswell.com/The-power-of-following-up/</guid><description>By following up, you show that you&amp;rsquo;re serious and that you actually care. You&amp;rsquo;re not just bulk-emailing a bunch of people, fishing for interest. You care about the people and the relationship enough to keep it moving.
-Follow-up</description><content:encoded><![CDATA[<p>By following up, you show that you&rsquo;re serious and that you actually care. You&rsquo;re not just bulk-emailing a bunch of people, fishing for interest. You care about the people and the relationship enough to keep it moving.</p>
-<p>
-
-
-
-
-
-<a
-  href="/Follow-up/"
-  rel="noopener" class="internal-link"
-  data-src="/Follow-up/">Follow-up</a></p>
-]]></content:encoded></item><item><title>AI Image Generation</title><link>https://brandonkboswell.com/AI-Image-Generation/</link><pubDate>Sun, 26 Nov 2023 14:46:23 +0000</pubDate><guid>https://brandonkboswell.com/AI-Image-Generation/</guid><description>This week, I played around with Adobe Firefly and Midjourney. My initial impression is that Midjourney produces better images, but Adobe Firefly comes free with Creative Cloud.
-So far, I don&amp;rsquo;t think the images produced by Firefly are good enough to stand the eye test, but I think some of the images from Midjourney do.</description><content:encoded><![CDATA[<p>This week, I played around with <em>Adobe Firefly</em> and <em>Midjourney.</em> My initial impression is that <em>Midjourney</em> produces better images, but Adobe Firefly comes free with <em>Creative Cloud</em>.</p>
-<p>So far, I don&rsquo;t think the images produced by Firefly are good enough to stand the eye test, but I think some of the images from <em>Midjourney</em> do.</p>
-]]></content:encoded></item><item><title>30 Day Challenges</title><link>https://brandonkboswell.com/30-Day-Challenges/</link><pubDate>Wed, 22 Nov 2023 21:23:07 +0000</pubDate><guid>https://brandonkboswell.com/30-Day-Challenges/</guid><description>Matt D&amp;rsquo;Avella&amp;rsquo;s Formula for doing this: I read/translate this as:
-Why did I want to do this? What research did I do before jumping into this? What was my initial plan for success? What was I worried about prior to starting? What obstacles did I encounter? Was there someone I could reach out to when things got hard? (Optional) What did I learn that changed my approach and got me through said challenges? From there things got significantly easier What was the result? What did I learn? How am I changed, and would I recommend that others try this?</description><content:encoded><![CDATA[<p><em>Matt D&rsquo;Avella</em>&rsquo;s Formula for doing this:
-
-
-<img src="/BKB%202023-11-22%20at%2021.22.47.png" alt="BKB 2023-11-22 at 21.22.47.png"  /></p>
-<p>I read/translate this as:</p>
+]]></content:encoded></item><item><title>Networking</title><link>https://brandonkboswell.com/Networking/</link><pubDate>Tue, 09 Jan 2024 07:51:12 +0000</pubDate><guid>https://brandonkboswell.com/Networking/</guid><description>Maintain a mix of Quality and Quantity. Nurture your existing connections that you would like to maintain and grow.
+Review Your Goals:
+What were your networking goals for the past year? Were they specific, measurable, and achievable? Assess Your Network:
+Who are the key individuals in your network that have positively impacted your life or career? Did you establish new connections that align with your goals? Evaluate Networking Strategies:
+What strategies did you use to expand and nurture your network? Did you attend events, join online communities, or use social media effectively? Quality vs. Quantity:
+Did you focus on building deep connections with a few key individuals, or did you prioritize casting a wider net?</description><content:encoded><![CDATA[<p>Maintain a mix of <em>Quality</em> and <em>Quantity</em>.
+Nurture your existing connections that you would like to maintain and grow.</p>
 <ol>
-<li>Why did I want to do this?</li>
-<li>What research did I do before jumping into this?</li>
-<li>What was my initial plan for success?
+<li>
+<p><strong>Review Your Goals:</strong></p>
 <ul>
-<li>What was I worried about prior to starting?</li>
+<li>What were your networking goals for the past year?</li>
+<li>Were they specific, measurable, and achievable?</li>
 </ul>
 </li>
-<li>What obstacles did I encounter?</li>
-<li>Was there someone I could reach out to when things got hard? (Optional)</li>
-<li>What did I learn that changed my approach and got me through said challenges?</li>
-<li>From there things got significantly easier</li>
-<li>What was the result?</li>
-<li>What did I learn?</li>
-<li>How am I changed, and would I recommend that others try this?</li>
-</ol>
-]]></content:encoded></item><item><title>A habit does not have to be impressive for it to be useful</title><link>https://brandonkboswell.com/A-habit-does-not-have-to-be-impressive-for-it-to-be-useful/</link><pubDate>Tue, 21 Nov 2023 12:20:21 +0000</pubDate><guid>https://brandonkboswell.com/A-habit-does-not-have-to-be-impressive-for-it-to-be-useful/</guid><description>An idea pulled from James Clear&amp;rsquo;s The Surprising Benefits of Journaling One Sentence Every Day
-I would argue that it&amp;rsquo;s easier to get started and get committed to unimpressive habits. Once the habit is formed, you can decide if it&amp;rsquo;s worth intensifying or not.
-Meta Habits</description><content:encoded><![CDATA[<p>An idea pulled from <em>James Clear</em>&rsquo;s 
-
-
-
-
-
-<a
-  href="/sources/The-Surprising-Benefits-of-Journaling-One-Sentence-Every-Day/"
-  rel="noopener" class="internal-link"
-  data-src="/sources/The-Surprising-Benefits-of-Journaling-One-Sentence-Every-Day/">The Surprising Benefits of Journaling One Sentence Every Day</a></p>
-<p>I would argue that it&rsquo;s easier to get started and get committed to unimpressive habits. Once the habit is formed, you can decide if it&rsquo;s worth intensifying or not.</p>
-<h3 id="meta">Meta</h3>
-<p><em>Habits</em></p>
-]]></content:encoded></item><item><title>Fonts</title><link>https://brandonkboswell.com/Fonts/</link><pubDate>Sun, 19 Nov 2023 12:21:36 +0000</pubDate><guid>https://brandonkboswell.com/Fonts/</guid><description>Fonts I&amp;rsquo;m into right now Montserrat P22 Mackinac</description><content:encoded><![CDATA[<h2 id="fonts-im-into-right-now">Fonts I&rsquo;m into right now</h2>
-<ul>
 <li>
-
-
-
-
-
-<a
-  href="/Montserrat/"
-  rel="noopener" class="internal-link"
-  data-src="/Montserrat/">Montserrat</a></li>
-<li><em>P22 Mackinac</em></li>
+<p><strong>Assess Your Network:</strong></p>
+<ul>
+<li>Who are the key individuals in your network that have positively impacted your life or career?</li>
+<li>Did you establish new connections that align with your goals?</li>
 </ul>
-]]></content:encoded></item><item><title>Have the courage to ask</title><link>https://brandonkboswell.com/Have-the-courage-to-ask/</link><pubDate>Sun, 19 Nov 2023 11:44:17 +0000</pubDate><guid>https://brandonkboswell.com/Have-the-courage-to-ask/</guid><description>Be a Door-Knocker from Window-Openers vs Door-Knockers</description><content:encoded><![CDATA[<p>Be a <em>Door-Knocker</em> from 
+</li>
+<li>
+<p><strong>Evaluate Networking Strategies:</strong></p>
+<ul>
+<li>What strategies did you use to expand and nurture your network?</li>
+<li>Did you attend events, join online communities, or use social media effectively?</li>
+</ul>
+</li>
+<li>
+<p><strong>Quality vs. Quantity:</strong></p>
+<ul>
+<li>Did you focus on building deep connections with a few key individuals, or did you prioritize casting a wider net?</li>
+<li>Were you able to strike a balance between quality and quantity in your network?</li>
+</ul>
+</li>
+<li>
+<p><strong>Follow-up and Relationship Maintenance:</strong></p>
+<ul>
+<li>How consistent were you in following up with your network connections?</li>
+<li>Did you actively engage with them beyond initial meetings or interactions?</li>
+</ul>
+</li>
+<li>
+<p><strong>Learning and Growth:</strong></p>
+<ul>
+<li>Reflect on the insights and knowledge gained through your network.</li>
+<li>How did your network contribute to your personal and professional growth?</li>
+</ul>
+</li>
+<li>
+<p><strong>Identify Challenges:</strong></p>
+<ul>
+<li>Were there any challenges or obstacles in your networking efforts?</li>
+<li>How can you overcome these challenges in the future?</li>
+</ul>
+</li>
+<li>
+<p><strong>Feedback and Improvement:</strong></p>
+<ul>
+<li>Seek feedback from your network on your interactions.</li>
+<li>In what areas do you think you could improve your networking skills?</li>
+</ul>
+</li>
+<li>
+<p><strong>Set New Networking Goals:</strong></p>
+<ul>
+<li>Based on your reflections, what are your networking goals for the upcoming year?</li>
+<li>How can you enhance your networking strategies for better results?</li>
+</ul>
+</li>
+<li>
+<p><strong>Integration with Core Values:</strong></p>
+<ul>
+<li>How does your networking align with your core values and long-term objectives?</li>
+<li>Are there adjustments needed to ensure your network supports your overall life priorities?</li>
+</ul>
+</li>
+</ol>
+<p>Remember, the goal is not just to have a large network but to have a network that adds value to your life and aligns with your aspirations. Feel free to share your thoughts on any of these points, and we can explore further or discuss specific areas in more detail.</p>
+]]></content:encoded></item><item><title>optimist</title><link>https://brandonkboswell.com/optimist/</link><pubDate>Mon, 08 Jan 2024 09:30:33 +0000</pubDate><guid>https://brandonkboswell.com/optimist/</guid><description/><content:encoded></content:encoded></item><item><title>pessimist</title><link>https://brandonkboswell.com/pessimist/</link><pubDate>Mon, 08 Jan 2024 09:29:56 +0000</pubDate><guid>https://brandonkboswell.com/pessimist/</guid><description/><content:encoded></content:encoded></item><item><title>Weekly Reflection</title><link>https://brandonkboswell.com/Weekly-Reflection/</link><pubDate>Sat, 06 Jan 2024 14:24:48 +0000</pubDate><guid>https://brandonkboswell.com/Weekly-Reflection/</guid><description>Doing a weekly reset, reflection, and setting a key goal for the week is like establishing an implementation intention for the important aspects of your life. They create an intention to dedicate yourself to specific actions. By doing so, you increase the likelihood of accomplishing meaningful work, rather than constantly reacting to whatever comes your way. It’s much easier to respond to immediate demands, instead of prioritizing what truly matters (and propels you forward). When you’re constantly reacting, you relinquish control over your future, which can be quite unsettling.</description><content:encoded>&lt;p>Doing a weekly reset, reflection, and setting a key goal for the week is like establishing an implementation intention for the important aspects of your life. They create an intention to dedicate yourself to specific actions. By doing so, you increase the likelihood of accomplishing meaningful work, rather than constantly reacting to whatever comes your way. &lt;em>It’s much easier to respond to immediate demands, instead of prioritizing what truly matters&lt;/em> (and propels you forward). When you’re constantly reacting, you relinquish control over your future, which can be quite unsettling.&lt;/p></content:encoded></item><item><title>Apple Keynote</title><link>https://brandonkboswell.com/Apple-Keynote/</link><pubDate>Fri, 05 Jan 2024 09:08:31 +0000</pubDate><guid>https://brandonkboswell.com/Apple-Keynote/</guid><description/><content:encoded></content:encoded></item><item><title>Request</title><link>https://brandonkboswell.com/Request/</link><pubDate>Thu, 04 Jan 2024 21:24:24 +0000</pubDate><guid>https://brandonkboswell.com/Request/</guid><description/><content:encoded></content:encoded></item><item><title>Image Diffing</title><link>https://brandonkboswell.com/Image-Diffing/</link><pubDate>Thu, 04 Jan 2024 09:27:17 +0000</pubDate><guid>https://brandonkboswell.com/Image-Diffing/</guid><description>Learned how to do an image diff with ImageMagick. https://stackoverflow.com/questions/5132749/diff-an-image-using-imagemagick
+Get the differences in Red compare image1 image2 -compose src diff.png
+Flicker Compare convert -delay 50 ~/Downloads/1.png ~/Downloads/updated.png -loop 0 ~/Downloads/flicker.gif</description><content:encoded><![CDATA[<p>Learned how to do an image diff with <em>ImageMagick</em>. 
+
+<a target=“_blank” href="https://stackoverflow.com/questions/5132749/diff-an-image-using-imagemagick" rel="noopener">https://stackoverflow.com/questions/5132749/diff-an-image-using-imagemagick</a></p>
+<h3 id="get-the-differences-in-red">Get the differences in Red</h3>
+<p><code>compare image1 image2 -compose src diff.png</code></p>
+<h3 id="flicker-compare">Flicker Compare</h3>
+<p><code>convert -delay 50 ~/Downloads/1.png ~/Downloads/updated.png -loop 0 ~/Downloads/flicker.gif</code></p>
+]]></content:encoded></item><item><title>A second turntable</title><link>https://brandonkboswell.com/A-second-turntable/</link><pubDate>Tue, 26 Dec 2023 11:10:34 +0000</pubDate><guid>https://brandonkboswell.com/A-second-turntable/</guid><description>A few years back, I picked up an Audio Technica AT-LP60X as an extremely low-cost introduction into Turntables. It&amp;rsquo;s not good, but I wasn&amp;rsquo;t expecting it to be. We&amp;rsquo;ve picked up a handful of records and are looking to have a more enjoyable experience with it. So I&amp;rsquo;m going down the research rabbit-hole of what to replace it with.
+Original Picks Pro-ject Debut Carbon Evo Current Running Fluance RT-85 Rega P3 Technics SL1200 Purchased I was able to find a used Pro-ject Debut Carbon (non-evo) with some upgrades for $350. So far I&amp;rsquo;m really enjoying it, so I have no complaints recommending that turntable, especially at this price-point.</description><content:encoded><![CDATA[<p>A few years back, I picked up an <em>Audio Technica AT-LP60X</em> as an extremely low-cost introduction into <em>Turntables</em>. It&rsquo;s not good, but I wasn&rsquo;t expecting it to be. We&rsquo;ve picked up a handful of records and are looking to have a more enjoyable experience with it. So I&rsquo;m going down the research rabbit-hole of what to replace it with.</p>
+<h2 id="original-picks">Original Picks</h2>
+<ul>
+<li><del><em>Pro-ject Debut Carbon Evo</em></del></li>
+</ul>
+<h2 id="current-running">Current Running</h2>
+<ul>
+<li><em>Fluance RT-85</em></li>
+<li><em>Rega P3</em></li>
+<li><del><em>Technics SL1200</em></del></li>
+</ul>
+<h2 id="purchased">Purchased</h2>
+<p>I was able to find a used <em>Pro-ject Debut Carbon</em> (non-evo) with some upgrades for $350. So far I&rsquo;m really enjoying it, so I have no complaints recommending that turntable, especially at this price-point.</p>
+]]></content:encoded></item><item><title>Can you market an idea effectively at 1280 x 720px?</title><link>https://brandonkboswell.com/Can-you-market-an-idea-effectively-at-1280-x-720px/</link><pubDate>Sun, 24 Dec 2023 12:14:49 +0000</pubDate><guid>https://brandonkboswell.com/Can-you-market-an-idea-effectively-at-1280-x-720px/</guid><description>Amazing delivery of an idea from Code to the Moon / Ken Kohlmann
+YouTube Thumbnails</description><content:encoded><![CDATA[<p>Amazing delivery of an idea from <em>Code to the Moon</em> / <em>Ken Kohlmann</em></p>
+<p><em>YouTube Thumbnails</em></p>
+]]></content:encoded></item><item><title>Video length matters</title><link>https://brandonkboswell.com/Video-length-matters/</link><pubDate>Sun, 24 Dec 2023 12:14:01 +0000</pubDate><guid>https://brandonkboswell.com/Video-length-matters/</guid><description>YouTube</description><content:encoded>&lt;p>
+&lt;a
+href="/moc/YouTube/"
+rel="noopener" class="internal-link"
+data-src="/moc/YouTube/">YouTube&lt;/a>&lt;/p></content:encoded></item><item><title>Balancing entertainment and information density</title><link>https://brandonkboswell.com/Balancing-entertainment-and-information-density/</link><pubDate>Sun, 24 Dec 2023 12:13:30 +0000</pubDate><guid>https://brandonkboswell.com/Balancing-entertainment-and-information-density/</guid><description>YouTube</description><content:encoded>&lt;p>
+&lt;a
+href="/moc/YouTube/"
+rel="noopener" class="internal-link"
+data-src="/moc/YouTube/">YouTube&lt;/a>&lt;/p></content:encoded></item><item><title>Less good can often be more relatable and authentic to others</title><link>https://brandonkboswell.com/Less-good-can-often-be-more-relatable-and-authentic-to-others/</link><pubDate>Sun, 24 Dec 2023 12:09:18 +0000</pubDate><guid>https://brandonkboswell.com/Less-good-can-often-be-more-relatable-and-authentic-to-others/</guid><description>Perfectionism</description><content:encoded>&lt;p>
+&lt;a
+href="/Perfectionism/"
+rel="noopener" class="internal-link"
+data-src="/Perfectionism/">Perfectionism&lt;/a>&lt;/p></content:encoded></item><item><title>Embeddings</title><link>https://brandonkboswell.com/Embeddings/</link><pubDate>Sun, 24 Dec 2023 12:07:50 +0000</pubDate><guid>https://brandonkboswell.com/Embeddings/</guid><description> Embeddings are, at their core, numerical representations of information — such as words, sentences, or images — mapped into a continuous vector space. In other words, they translate data into a language that machines can understand and process efficiently.
+Meta AI Machine Learning Semantic Analysis</description><content:encoded><![CDATA[<p>
 
 
 
 
 
 <a
-  href="/sources/Window-Openers-vs-Door-Knockers/"
+  href="/Embeddings/"
   rel="noopener" class="internal-link"
-  data-src="/sources/Window-Openers-vs-Door-Knockers/">Window-Openers vs Door-Knockers</a></p>
-]]></content:encoded></item><item><title>Montserrat</title><link>https://brandonkboswell.com/Montserrat/</link><pubDate>Tue, 14 Nov 2023 23:59:33 +0000</pubDate><guid>https://brandonkboswell.com/Montserrat/</guid><description>Fonts</description><content:encoded>&lt;p>
-&lt;a
-href="/Fonts/"
-rel="noopener" class="internal-link"
-data-src="/Fonts/">Fonts&lt;/a>&lt;/p></content:encoded></item></channel></rss>
+  data-src="/Embeddings/">Embeddings</a> are, at their core, numerical representations of information — such as words, sentences, or images — mapped into a continuous vector space. In other words, they translate data into a language that machines can understand and process efficiently.</p>
+<h3 id="meta">Meta</h3>
+<ul>
+<li><em>AI</em></li>
+<li><em>Machine Learning</em></li>
+<li><em>Semantic Analysis</em></li>
+</ul>
+]]></content:encoded></item><item><title>Great apps built on top of AI should help their users add framing to their prompts</title><link>https://brandonkboswell.com/Great-apps-built-on-top-of-AI-should-help-their-users-add-framing-to-their-prompts/</link><pubDate>Sun, 24 Dec 2023 11:51:57 +0000</pubDate><guid>https://brandonkboswell.com/Great-apps-built-on-top-of-AI-should-help-their-users-add-framing-to-their-prompts/</guid><description>With AI, almost anything is possible, and most users don&amp;rsquo;t know the best way to frame their prompt. Designers and engineers have spent significant time with AI and are in a better position to recommend prompts to get users better results.</description><content:encoded>&lt;p>With AI, almost anything is possible, and most users don&amp;rsquo;t know the best way to frame their prompt. Designers and engineers have spent significant time with AI and are in a better position to recommend prompts to get users better results.&lt;/p></content:encoded></item><item><title>Vinyl</title><link>https://brandonkboswell.com/Vinyl/</link><pubDate>Sun, 24 Dec 2023 11:25:41 +0000</pubDate><guid>https://brandonkboswell.com/Vinyl/</guid><description>Tim Mullins mentioned a few things to look for in records:
+Look for things pre-1980 where everything was analog Live Jazz from this era is especially good There are specific labels to look for that typically produce good stuff: Older Blue Note He mentioned some others that I unfortunately can&amp;rsquo;t remember at the moment.</description><content:encoded><![CDATA[<p><em>Tim Mullins</em> mentioned a few things to look for in records:</p>
+<ul>
+<li>Look for things pre-1980 where everything was analog</li>
+<li>Live Jazz from this era is especially good</li>
+<li>There are specific labels to look for that typically produce good stuff:
+<ul>
+<li>Older <em>Blue Note</em></li>
+<li>He mentioned some others that I unfortunately can&rsquo;t remember at the moment.</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded></item><item><title>AI Prompts</title><link>https://brandonkboswell.com/AI-Prompts/</link><pubDate>Thu, 21 Dec 2023 09:11:25 +0000</pubDate><guid>https://brandonkboswell.com/AI-Prompts/</guid><description>Per Nielsen Norman Group, there are four components to a prompt: • Request • [Reference] to either previous bot answers or to external sources • Format • Framing However, I prefer Josh&amp;rsquo;s nomenclature for this: Examples Email Writing As a copywriter, please fix any grammar, spelling, syntax and punctuation errors in the {message} using british English dictionary only. Do this change the wording at all. You must keep the wording the same. If you encounter any ambiguity, please use your best judgment to determine the intended meaning. Return the corrected version of the {message} in british english, as shown in the example below.</description><content:encoded><![CDATA[<p>Per <em>Nielsen Norman Group</em>, there are four components to a prompt:
+• 
+
+
+
+
+
+<a
+  href="/Request/"
+  rel="noopener" class="internal-link"
+  data-src="/Request/">Request</a>
+• 
+
+
+
+
+
+<a
+  
+  rel="noopener" class="internal-link broken"
+  data-src="s">[Reference]</a> to either previous bot answers or to external sources
+• <em>Format</em>
+• <em>Framing</em>
+
+<img src="https://media.nngroup.com/media/editor/2023/11/20/ai-prompts-final_structure.png" alt=""  /></p>
+<p>However,  I prefer <em>Josh</em>&rsquo;s nomenclature for this:
+
+
+<img src="/Pasted%20image%2020240105085345.png" alt="Pasted image 20240105085345.png"  /></p>
+<h1 id="examples">Examples</h1>
+<h2 id="email-writing"><em>Email</em> Writing</h2>
+<ul>
+<li>As a copywriter, please fix any grammar, spelling, syntax and punctuation errors in the {message} using british English dictionary only. Do this change the wording at all. You must keep the wording the same. If you encounter any ambiguity, please use your best judgment to determine the intended meaning. Return the corrected version of the {message} in british english, as shown in the example below. Do not include prefix nor explanation, just fixed text. ###{message}.</li>
+</ul>
+<h2 id="transcription"><em>Transcription</em></h2>
+<ul>
+<li>Please refine the transcription of my voice recording for clarity, legibility, and grammatical accuracy. Ensure that all content remains unaltered in meaning or substance. You may correct spelling, rectify sentence structure, and adjust word order where necessary to improve readability. It is essential to retain my original language style without adding or omitting any information. The goal is to enhance the transcript, making it clearer and easier to understand without changing the intended message or losing any details. Thank you.</li>
+</ul>
+<h3 id="reflectionreflectionmd">
+
+
+
+
+
+<a
+  href="/Reflection/"
+  rel="noopener" class="internal-link"
+  data-src="/Reflection/">Reflection</a></h3>
+<p>You are an Al within a journaling app. Your job is to help the user reflect on their thoughts in a thoughtful and kind manner. The user can never directly address you or directly respond to you. Try not to repeat what the user said, instead try to seed new ideas, encourage or debate. Keep your responses concise, but meaningful.</p>
+<h2 id="annual-planning-ht-josh"><em>Annual Planning</em> (h/t <em>Josh</em>)</h2>
+<p>You are a productivity coach, you will help me align my life with what&rsquo;s important to me while being a successful human. I am doing my annual review and you will give me advice and ask me questions that will help me reflect on the past year and prepare for the year ahead. I will ask you about a certain area of my life and I want you to present me with questions and points on reflection. Wait until I tell you what area of my life I want to focus on.</p>
+]]></content:encoded></item><item><title>Supernote A6 X2 Nomad</title><link>https://brandonkboswell.com/Supernote-A6-X2-Nomad/</link><pubDate>Wed, 20 Dec 2023 15:15:18 +0000</pubDate><guid>https://brandonkboswell.com/Supernote-A6-X2-Nomad/</guid><description>From Ratta</description><content:encoded>&lt;p>From &lt;em>Ratta&lt;/em>&lt;/p></content:encoded></item><item><title>The Forest</title><link>https://brandonkboswell.com/The-Forest/</link><pubDate>Tue, 19 Dec 2023 09:15:46 +0000</pubDate><guid>https://brandonkboswell.com/The-Forest/</guid><description>Album by David Byrne</description><content:encoded>&lt;p>Album by &lt;em>David Byrne&lt;/em>&lt;/p></content:encoded></item></channel></rss>
