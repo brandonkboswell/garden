@@ -1902,6 +1902,46 @@ h5 {
   position: sticky;
 }
 
+.right-0 {
+  right: 0px;
+}
+
+.top-0 {
+  top: 0px;
+}
+
+.right-2 {
+  right: 0.5rem;
+}
+
+.right-2\.5 {
+  right: 0.625rem;
+}
+
+.top-2 {
+  top: 0.5rem;
+}
+
+.top-2\.5 {
+  top: 0.625rem;
+}
+
+.right-5 {
+  right: 1.25rem;
+}
+
+.top-5 {
+  top: 1.25rem;
+}
+
+.top-3 {
+  top: 0.75rem;
+}
+
+.float-right {
+  float: right;
+}
+
 .mx-8 {
   margin-left: 2rem;
   margin-right: 2rem;
@@ -1930,10 +1970,6 @@ h5 {
 
 .mb-3 {
   margin-bottom: 0.75rem;
-}
-
-.mb-4 {
-  margin-bottom: 1rem;
 }
 
 .mb-6 {
@@ -2019,6 +2055,10 @@ h5 {
   flex-shrink: 1;
 }
 
+.flex-grow {
+  flex-grow: 1;
+}
+
 .grow {
   flex-grow: 1;
 }
@@ -2055,6 +2095,10 @@ h5 {
 
 .text-balance {
   text-wrap: balance;
+}
+
+.text-pretty {
+  text-wrap: pretty;
 }
 
 .rounded {
@@ -2123,6 +2167,10 @@ h5 {
   text-align: center;
 }
 
+.text-right {
+  text-align: right;
+}
+
 .align-text-bottom {
   vertical-align: text-bottom;
 }
@@ -2142,6 +2190,11 @@ h5 {
   line-height: 1rem;
 }
 
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -2152,6 +2205,18 @@ h5 {
 
 .leading-6 {
   line-height: 1.5rem;
+}
+
+.leading-tight {
+  line-height: 1.25;
+}
+
+.\!leading-tight {
+  line-height: 1.25 !important;
+}
+
+.\!leading-snug {
+  line-height: 1.375 !important;
 }
 
 .text-gray-500 {
