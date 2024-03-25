@@ -1905,9 +1905,27 @@ Started playing Tennis on Wednesday nights with Marshie and Charlie and then goi
 </ul>
 </li>
 <li>
-<p><em>Quartz</em></p>
+<p>
+
+
+
+
+
+<a
+  href="/Quartz/"
+  rel="noopener" class="internal-link"
+  data-src="/Quartz/">Quartz</a></p>
 <ul>
-<li>Got the Blog running using <em>Quartz</em></li>
+<li>Got the Blog running using 
+
+
+
+
+
+<a
+  href="/Quartz/"
+  rel="noopener" class="internal-link"
+  data-src="/Quartz/">Quartz</a></li>
 </ul>
 </li>
 <li>
@@ -2672,7 +2690,16 @@ Write an Outline Write a script and/or Intro Is there a video I can mention or r
 </li>
 </ul>
 ]]></content:encoded></item><item><title>Should you use PARA in Obsidian</title><link>https://brandonkboswell.com/blog/Should-you-use-PARA-in-Obsidian/</link><pubDate>Wed, 17 Aug 2022 08:29:35 +0000</pubDate><guid>https://brandonkboswell.com/blog/Should-you-use-PARA-in-Obsidian/</guid><description>I recently read Tiago Forte&amp;rsquo;s Building a Second Brain and I think that book has a good explanation of the PARA method and the CODE Method, but should you be using PARA in your Obsidian vault?
-I think the PARA system is good and has merit, but no I don&amp;rsquo;t think it is a great fit for Obsidian or your modern graph PKM systems because it is not flat enough. A file can only be in one folder and I think that makes sense in a traditional file system, but one of the benefits of Obsidian is that the structure of your files emerges through the references and use of that note via your graph database.</description><content:encoded><![CDATA[<p>I recently read <em>Tiago Forte</em>&rsquo;s 
+I think the PARA system is good and has merit, but no I don&amp;rsquo;t think it is a great fit for Obsidian or your modern graph PKM systems because it is not flat enough. A file can only be in one folder and I think that makes sense in a traditional file system, but one of the benefits of Obsidian is that the structure of your files emerges through the references and use of that note via your graph database.</description><content:encoded><![CDATA[<p>I recently read 
+
+
+
+
+
+<a
+  href="/authors/Tiago-Forte/"
+  rel="noopener" class="internal-link"
+  data-src="/authors/Tiago-Forte/">Tiago Forte</a>&rsquo;s 
 
 
 
@@ -3612,7 +3639,16 @@ which I call
 
 <a target=“_blank” href="https://github.com/jackyzha0/hugo-obsidian" rel="noopener">obsidian-hugo</a></strong>
 <ul>
-<li><em>Quartz</em> has an easy setup that allows you to commit all of your content to <em>Github</em> and it will compile everything via <em>Github Actions</em>. This is fantastic and super helpful. The issue is I have private content that I don&rsquo;t want on Github.</li>
+<li>
+
+
+
+
+
+<a
+  href="/Quartz/"
+  rel="noopener" class="internal-link"
+  data-src="/Quartz/">Quartz</a> has an easy setup that allows you to commit all of your content to <em>Github</em> and it will compile everything via <em>Github Actions</em>. This is fantastic and super helpful. The issue is I have private content that I don&rsquo;t want on Github.</li>
 <li>So instead I use the <em>obsidian-hugo</em> library that Quartz&rsquo;s Github Action uses just I use it on my local machine and precompile the filtered content before uploading to Github. This enables me to host my Digital Garden on Github (for free) without risking private content accidentally leaking out onto the internet.</li>
 </ul>
 </li>
